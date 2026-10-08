@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "question": "শুদ্ধ বানান নির্ণয় করুন:",
+    "options": [
+      "শুশ্রূশা",
+      "শুশ্রূষা",
+      "শুশ্রুষা",
+      "শুশ্রুশা"
+    ],
+    "answer": "B",
+    "explanation": "কয়েকটি অশুদ্ধ শব্দের শুদ্ধ বানান—\nঅশুদ্ধ: দামী, শুদ্ধ: দামি\nঅশুদ্ধ: শিরচ্ছেদ, শুদ্ধ: শিরশ্ছেদ\nঅশুদ্ধ: বীনাপাণি, শুদ্ধ: বীণাপাণি\nঅশুদ্ধ: স্নেহাশীষ, শুদ্ধ: স্নেহাশিস\nঅশুদ্ধ: ঐক্যতা, শুদ্ধ: ঐক্য\nঅশুদ্ধ: শুশ্রূশা/শুশ্রুষা, শুদ্ধ: শুশ্রূষা"
+  },
+  {
+    "id": 2,
+    "question": "শুদ্ধ বানান নির্ণয় করুন:",
+    "options": [
+      "ভস্মীভূত",
+      "ভস্মীভুত",
+      "ভষ্মীভুত",
+      "ভষ্মীভূত"
+    ],
+    "answer": "A",
+    "explanation": "কয়েকটি অশুদ্ধ শব্দের শুদ্ধ বানান—\nভুল: যোগান, শুদ্ধ: জোগান\nভুল: নির্নিমেষ, শুদ্ধ: নির্নিমেষ\nভুল: আয়ত্ব, শুদ্ধ: আয়ত্ত\nভুল: গননা, শুদ্ধ: গণনা\nভুল: অনিষ্ট, শুদ্ধ: অনিষ্ট\nভুল: ভস্মীভুত, শুদ্ধ: ভস্মীভূত"
+  },
+  {
+    "id": 3,
+    "question": "শুদ্ধ বানান নির্ণয় করুন:",
+    "options": [
+      "দৃষ্কৃতকারি",
+      "দুষ্কৃতিকারি",
+      "দুষ্কৃতিকারী",
+      "দৃষ্কৃতকারী"
+    ],
+    "answer": "D",
+    "explanation": "কয়েকটি অশুদ্ধ শব্দের শুদ্ধ বানান—\nভুল: পূর্বাহ্ন, শুদ্ধ: পূর্বাহ্ণ\nভুল: দুর্বিসহ, শুদ্ধ: দুর্বিষহ\nভুল: দ্বন্দ, শুদ্ধ: দ্বন্দ্ব\nভুল: আবাশন, শুদ্ধ: আবাসন\nভুল: দর্পন, শুদ্ধ: দর্পণ\nভুল: দৃষ্কৃতকারি, শুদ্ধ: দৃষ্কৃতকারী / দুষ্কৃতকারী"
+  },
+  {
+    "id": 4,
+    "question": "শুদ্ধ বানান নির্ণয় করুন:",
+    "options": [
+      "অস্তমান",
+      "অস্তমাণ",
+      "অস্তায়মান",
+      "অস্তায়মাণ"
+    ],
+    "answer": "C",
+    "explanation": "কয়েকটি অশুদ্ধ শব্দের শুদ্ধ বানান—\nঅশুদ্ধ: উৎপাৎ, শুদ্ধ: উৎপাত\nঅশুদ্ধ: পরিস্কার, শুদ্ধ: পরিষ্কার\nঅশুদ্ধ: আভ্যন্তরিণ, শুদ্ধ: অভ্যন্তরীণ\nঅশুদ্ধ: পুরষ্কার, শুদ্ধ: পুরস্কার\nঅশুদ্ধ: সমীচিন, শুদ্ধ: সমীচীন\nঅশুদ্ধ: ঋনগ্রস্থ, শুদ্ধ: ঋণগ্রস্ত\nসঠিক বানান: অস্তায়মান।"
+  },
+  {
+    "id": 5,
+    "question": "শব্দের অর্থ নির্ণয় করুন : 'অহর্নিশ'",
+    "options": [
+      "দিনরাত্রি",
+      "তেঁতো",
+      "সূর্য",
+      "কালো"
+    ],
+    "answer": "A",
+    "explanation": "কিছু গুরুত্বপূর্ণ শব্দার্থ নিম্নরূপ—\nঅহর্নিশ : দিনরাত্রি\nউষ্ণী : পূর্ণিমা\nআনকোরা : নতুন\nসামন্তিনী : নারী\nবালাপানা : প্রাসাদ\nগরুড় : পাখি\nবিপণি : দোকান\nক্ষণপ্রভা : বিদ্যুৎ\nদারক : পুত্র"
+  },
+  {
+    "id": 6,
+    "question": "শব্দের অর্থ নির্ণয় করুন : 'চৌহদ্দি'",
+    "options": [
+      "চালাক",
+      "সীমানা",
+      "শকট",
+      "চৌকো"
+    ],
+    "answer": "B",
+    "explanation": "কিছু গুরুত্বপূর্ণ শব্দার্থ নিম্নরূপ—\nচৌহদ্দি : সীমানা\nকাটারা : কাঠগড়া\nঅরুন্তুদ : মর্মান্তিক\nকৃকূট : মোরগ\nঅনীক : সৈনিক\nবসন্তদূত : কোকিল"
+  },
+  {
+    "id": 7,
+    "question": "শব্দের অর্থ নির্ণয় করুন : 'অর্ঘ'",
+    "options": [
+      "পূজার উপকরণ",
+      "মূল্য",
+      "হাতি",
+      "ঘোড়া"
+    ],
+    "answer": "B",
+    "explanation": "কিছু গুরুত্বপূর্ণ শব্দার্থ নিম্নরূপ—\nঅর্ঘ্য : পূজার উপকরণ\nঅর্ঘ : মূল্য (যেমন: মহার্ঘভাতা)\nধীমান : বুদ্ধিমান\nপীত : হলুদ\nঠোঁট : চঞ্চু\nবেসাতি : কেনাবেচা"
+  },
+  {
+    "id": 8,
+    "question": "শব্দের অর্থ নির্ণয় করুন : 'চয়ন'",
+    "options": [
+      "কঠিন",
+      "স্বপ্ন",
+      "সুন্দর",
+      "সম্ভার"
+    ],
+    "answer": "D",
+    "explanation": "কয়েকটি গুরুত্বপূর্ণ শব্দার্থ হলো—\nচয়ন : সম্ভার / সংগ্রহ\nকৃকলাস : গিরগিটি\nসাক্ষর : অক্ষর সংবলিত\nআদ্যোপান্ত : আগাগোড়া\nপ্রাকার : প্রাচীর\nদেউল : দেবালয়"
+  },
+  {
+    "id": 9,
+    "question": "শব্দের অর্থ নির্ণয় করুন : 'আভরণ'",
+    "options": [
+      "অলংকার",
+      "গাছের বাকল",
+      "আচ্ছাদন",
+      "জিনিসপত্র"
+    ],
+    "answer": "A",
+    "explanation": "কিছু গুরুত্বপূর্ণ শব্দার্থ নিম্নরূপ—\nআভরণ : অলংকার\nউষ্ণীষ : পাগড়ি\nঅপাঙ্গ : দৃষ্টিকোণ\nঅনিন্দ্য : নন্দিত / নিখুঁত\nনলি : ছোটো নল\nতাম্বুল : পান\nউল্লেখ্য: 'আবরণ' অর্থ আচ্ছাদন, আর 'আভরণ' অর্থ অলংকার।"
+  },
+  {
+    "id": 10,
+    "question": "'একাদশে বৃহস্পতি'-এর অর্থ কী?",
+    "options": [
+      "সৌভাগ্যের বিষয়",
+      "সুন্দর বিষয়",
+      "মন্দ কপাল",
+      "বিরাট আয়োজন"
+    ],
+    "answer": "A",
+    "explanation": "কিছু গুরুত্বপূর্ণ বাগধারা নিম্নরূপ—\nএকাদশে বৃহস্পতি : সৌভাগ্যের বিষয়\nগা করা : উদ্যোগ নেওয়া\nকথার তুবড়ি : অনর্গল কথা\nঘটিরাম : অপদার্থ\nখড় দজ্জাল : প্রচণ্ড অত্যাচারী\nখণ্ড কপালে : দুর্ভাগ্য\nঘা খাওয়া : কষ্ট পাওয়া\nগৌরীদান : বাল্যবিবাহ"
+  },
+  {
+    "id": 11,
+    "question": "Find the meaning of the word: Exonerate",
+    "options": [
+      "Believe",
+      "Credence",
+      "Ardent",
+      "Acquit"
+    ],
+    "answer": "D",
+    "explanation": "মূল শব্দ: Exonerate (অর্থ: মুক্তি দেয়া বা দোষমুক্ত করা)। Synonyms: Acquit, absolve.\nBelieve: বিশ্বাস করা (Trust, Credence)\nArdent: আগ্রহী / উৎসুক (Eager, fervent)"
+  },
+  {
+    "id": 12,
+    "question": "Find the meaning of the word: Perturb",
+    "options": [
+      "Porous",
+      "Anticipate",
+      "Deviant",
+      "Worry"
+    ],
+    "answer": "D",
+    "explanation": "মূল শব্দ: Perturb (অর্থ: জ্বালাতন করা, বিচলিত বা উদ্বিগ্ন করা)। Synonyms: Worry, disturb.\nPorous: রন্ধ্রযুক্ত (Alveolar)\nAnticipate: অনুমান করা (Foresee)\nDeviant: বিচ্যুত (Aberrant)"
+  },
+  {
+    "id": 13,
+    "question": "Find the meaning of the word: Estrange",
+    "options": [
+      "Alienate",
+      "Endanger",
+      "Complex",
+      "Puzzling"
+    ],
+    "answer": "A",
+    "explanation": "মূল শব্দ: Estrange (অর্থ: বিচ্ছিন্ন করা, পর করা)। Synonyms: Alienate.\nEndanger: বিপদগ্রস্ত করা (Jeopardize)\nComplex: জটিল (Intricate)\nPuzzling: হতবুদ্ধিকর (Embarrassing / Confusing)"
+  },
+  {
+    "id": 14,
+    "question": "Find the meaning of the word: Squander",
+    "options": [
+      "Remorse",
+      "Blitz",
+      "Roam",
+      "Waste"
+    ],
+    "answer": "D",
+    "explanation": "মূল শব্দ: Squander (অর্থ: অপচয় করা বা নষ্ট করা)। Synonyms: Waste, dissipate.\nRemorse: অনুশোচনা (Mortification)\nBlitz: বিমানআক্রমণ / তীব্র আক্রমণ (Raid)\nRoam: ভ্রমণ করা / ঘুরে বেড়ানো (Travel, ramble)"
+  },
+  {
+    "id": 15,
+    "question": "Find the meaning of the word: Accolade",
+    "options": [
+      "Fruit",
+      "Flower",
+      "Honor",
+      "Garland"
+    ],
+    "answer": "C",
+    "explanation": "মূল শব্দ: Accolade (অর্থ: প্রশংসা, সম্মাননা)। Synonyms: Honor, praise, tribute.\nGarland: মালা (String, necklace)"
+  },
+  {
+    "id": 16,
+    "question": "Fill in the blank: You can only do it _____ my dead body.",
+    "options": [
+      "on",
+      "over",
+      "upon",
+      "under"
+    ],
+    "answer": "B",
+    "explanation": "কয়েকটি গুরুত্বপূর্ণ preposition এর ব্যবহার নিম্নরূপ—\nOn, over: ওপরের বস্তুটি নিচের বস্তুর সাথে লেগে থাকলে on বসে এবং মাঝখানে ফাঁকা বা দূরত্ব থাকলে over বসে। তবে 'Over my dead body' একটি প্রচলিত ইডিয়ম যার অর্থ 'আমার জীবদ্দশায় কখনো নয়'।\nBy, with: ব্যক্তি দ্বারা হলে by এবং কোনো বস্তু/যন্ত্র দ্বারা হলে with বসে (e.g., The tiger was killed by the hunter with a gun)।\nBetween, among: দুইয়ের মধ্যে between এবং অনেকের মধ্যে among বসে।"
+  },
+  {
+    "id": 17,
+    "question": "Fill in the blank: I did not do it intentionally; it was totally _____.",
+    "options": [
+      "Inadvertent",
+      "Indeliberate",
+      "Incendiary",
+      "Inevitable"
+    ],
+    "answer": "D",
+    "explanation": "Not intentionally অর্থ ইচ্ছাকৃত নয়। Inevitable অর্থ অনিবার্য। কোনো বিষয় অনিবার্য হলে সেটা ইচ্ছাকৃতভাবে (Intentionally) করার দরকার পড়ে না। তাই সঠিক উত্তর অপশন D। (Inadvertent – অসতর্ক/অমনোযোগী, Incendiary – উস্কানিমূলক, Indeliberate – অবিবেচিত/অনিচ্ছাকৃত)।"
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank: The present _____ green forest of the area is a far cry from the dirty, foul smelling landfill that it was a decade ago.",
+    "options": [
+      "complete",
+      "beautiful",
+      "quiet",
+      "lush"
+    ],
+    "answer": "D",
+    "explanation": "Lush শব্দের অর্থ প্রচুর গজিয়ে ওঠা ঘাস ও লতাপাতায় সমৃদ্ধ, শ্যামল। সবুজ প্রকৃতিকে 'Green lush forest' হিসেবে অভিহিত করা হয়। সুতরাং অর্থ অনুসারে অপশন D সবচেয়ে উপযুক্ত।"
+  },
+  {
+    "id": 19,
+    "question": "Fill in the blank: Please do not intrude _____ my privacy.",
+    "options": [
+      "on",
+      "in",
+      "into",
+      "upon"
+    ],
+    "answer": "C",
+    "explanation": "Intrude into অর্থ অনধিকার প্রবেশ করা বা অনাকাঙ্ক্ষিত হস্তক্ষেপ করা। বাক্যটির অর্থ: দয়া করে আমার ব্যক্তিগত ব্যাপারে হস্তক্ষেপ করবেন না।\nআরো কিছু appropriate preposition:\nPenalty for : জরিমানা\nRelieve of : উপশম করা\nObliged to : বাধিত\nSmile at : হাসা\nSolution to : সমাধান\nProficiency in : দক্ষতা"
+  },
+  {
+    "id": 20,
+    "question": "Fill in the blank: Today student should be reconciled _____ the way things are changing.",
+    "options": [
+      "for",
+      "at",
+      "with",
+      "to"
+    ],
+    "answer": "C",
+    "explanation": "Reconciled with অর্থ কোনো কিছুর সাথে খাপ খাওয়ানো বা সামঞ্জস্যবিধান করা।\nআরো কিছু গুরুত্বপূর্ণ Appropriate preposition:\nInsist on : জেদ করা\nInterfere with : হস্তক্ষেপ করা\nJump into : লাফ দেয়া\nJunior to : নিম্নপদস্থ/ছোট\nLoyal to : অনুরক্ত\nMindful of : মনোযোগী\nMourn for : শোক করা"
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank: Man who has committed such an _____ crime must get the most severe punishment.",
+    "options": [
+      "abominable",
+      "unworthy",
+      "injurious",
+      "utmost"
+    ],
+    "answer": "A",
+    "explanation": "Abominable crime অর্থ জঘন্য বা ঘৃণ্য অপরাধ। Unworthy – অযোগ্য, Injurious – ক্ষতিকর, Utmost – চরম/সর্বাধিক। অর্থ অনুসারে অপশন A খাপ খায় (যে লোক এমন জঘন্য অপরাধ করতে পারে, তার কঠোর শাস্তি পাওয়া উচিত)।"
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank: Nelson Mandela will go _____ in history as one of the great men that ever lived.",
+    "options": [
+      "down",
+      "through",
+      "by",
+      "on"
+    ],
+    "answer": "A",
+    "explanation": "ইতিহাসে স্মরণীয় হয়ে থাকা অর্থে 'Go down in history' phrase টি ব্যবহৃত হয়। বাক্যটির অর্থ: নেলসন ম্যান্ডেলা সর্বকালের অন্যতম শ্রেষ্ঠ মানুষ হিসেবে ইতিহাসে স্মরণীয় হয়ে থাকবেন।"
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank: Before the _____ of the Europeans in India, India was a free country.",
+    "options": [
+      "entry",
+      "emigration",
+      "advent",
+      "immigration"
+    ],
+    "answer": "C",
+    "explanation": "Advent অর্থ কোনো গুরুত্বপূর্ণ ব্যক্তি বা যুগের আবির্ভাব বা আগমন। Entry - প্রবেশ, Emigration - দেশত্যাগ/প্রবাস, Immigration - অন্য দেশ থেকে অভিবাসন। সুতরাং অর্থ অনুসারে 'advent' সবচেয়ে যথাযোগ্য।"
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: The king _____ the throne and became a hermit.",
+    "options": [
+      "abolished",
+      "abdicated",
+      "abated",
+      "adorned"
+    ],
+    "answer": "B",
+    "explanation": "Abdicated অর্থ রাজসিংহাসন বা পদমর্যাদা স্বেচ্ছায় ত্যাগ করা। Abolish – বাতিল করা, Abate – প্রশমিত করা, Adorn – সজ্জিত করা, Hermit – সন্ন্যাসী/নির্জনবাসী। সিংহাসন ত্যাগ করে রাজা সন্ন্যাসী হলেন।"
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank: Anwar was debared _____ appearing in the exam.",
+    "options": [
+      "of",
+      "against",
+      "with",
+      "from"
+    ],
+    "answer": "D",
+    "explanation": "Debar from অর্থ কোনো অধিকার বা কাজ থেকে বিরত রাখা বা বঞ্চিত করা। আনোয়ারকে পরীক্ষা দেওয়া থেকে বঞ্চিত করা হয়েছিল।"
+  },
+  {
+    "id": 26,
+    "question": "In a store, pens are sold for 25% less than the tag price. If a pen costs Tk. 48, what will be the tag price of the pen to make a 25% profit on its cost? (একটি দোকানে তালিকা মূল্যের চেয়ে ২৫% কম দামে কলম বিক্রয় করা হয়। কলমটির ক্রয়মূল্য ৪৮ টাকা হলে ক্রয়মূল্যের উপর ২৫% লাভ করতে হলে তালিকামূল্য কত হবে?)",
+    "options": [
+      "64",
+      "72",
+      "80",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "২৫% মুনাফায়:\n১০০ টাকা ক্রয়মূল্য হলে বিক্রয়মূল্য = ১২৫ টাকা\n∴ ৪৮ টাকা ক্রয়মূল্যে বিক্রয়মূল্য = (৪৮ × ১২৫) / ১০০ = ৬০ টাকা।\n\nআবার, ২৫% ছাড়ে:\nবিক্রয়মূল্য ৭৫ টাকা হলে তালিকামূল্য = ১০০ টাকা\n∴ বিক্রয়মূল্য ৬০ টাকা হলে তালিকামূল্য = (১০০ × ৬০) / ৭৫ = ৮০ টাকা।\n\nShortcut:\nতালিকামূল্য = ৪৮ × (১২৫ / ১০০) × (১০০ / ৭৫) = ৮০ টাকা।"
+  },
+  {
+    "id": 27,
+    "question": "Of the following which is the closest to (6.01 × 501) ÷ (25.05 × 19.97)?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "15"
+    ],
+    "answer": "A",
+    "explanation": "নিকটতম আনুমানিক মান বের করার জন্য সংখ্যাগুলোকে পূর্ণসংখ্যায় রূপান্তর করি:\n≈ (৬ × ৫০০) / (২৫ × ২০) = ৩০০০ / ৫০০ = ৬।"
+  },
+  {
+    "id": 28,
+    "question": "A train traveled p kms in 40 minutes and completed the remaining 200 kms of the trip in Q minutes. What was its average speed, in km per hour for the entire trip? (একটি ট্রেন ৪০ মিনিটে P km পথ অতিক্রম করলো। ট্রেনটি ভ্রমণের বাকি ২০০ km পথ অতিক্রম করলো Q মিনিটে। পুরো ভ্রমণে গতিবেগ কত ছিল?)",
+    "options": [
+      "60(p + 200) / (40 + q)",
+      "240 / (p + q)",
+      "4 / (p + q)",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "মোট অতিক্রান্ত দূরত্ব = (p + 200) km\nমোট সময় = (40 + Q) মিনিট = (40 + Q)/60 ঘণ্টা\n\nঅতএব, গড় গতিবেগ = মোট দূরত্ব / মোট সময়\n= (p + 200) / [(40 + Q)/60] = 60(p + 200) / (40 + Q) km/h।"
+  },
+  {
+    "id": 29,
+    "question": "In an essay competition, a winner gets a prize of TK. 100 and a participant who does not win gets a prize of TK. 25. The total prize money distributed is TK. 3,000. Find the number of winners, if the total participants is 63?",
+    "options": [
+      "15",
+      "17",
+      "19",
+      "21"
+    ],
+    "answer": "C",
+    "explanation": "ধরি, বিজয়ী সংখ্যা = x জন\nবিজিতের সংখ্যা = (৬৩ - x) জন\n\nপ্রশ্নমতে,\n১০০x + (৬৩ - x) × ২৫ = ৩,০০০\n⇒ ১০০x + ১৫৭৫ - ২৫x = ৩,০০০\n⇒ ৭৫x = ৩,০০০ - ১৫৭৫\n⇒ ৭৫x = ১৪২৫\n∴ x = ১৪২৫ / ৭৫ = ১৯ জন।"
+  },
+  {
+    "id": 30,
+    "question": "At 8 am two trains started travelling towards each other from stations 300 km apart. They passed each other at 12 noon. The same day, if the average speed of the faster train was 9 km more than that of the slower train, then what is the speed of the faster train in km/hr? (300 km দূরত্বের দুটি ভিন্ন স্টেশন থেকে দুটি ট্রেন একে অপরের দিকে সকাল 8 টায় ছাড়লো। দুপুর 12 টায় তারা একে অপরকে অতিক্রম করলো। দ্রুতগামী ট্রেনের গতিবেগ ধীরগতির ট্রেনের গতিবেগের চেয়ে 9kmph বেশি হলে দ্রুতগামী ট্রেনের গতিবেগ কত?)",
+    "options": [
+      "40",
+      "42",
+      "45",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "ধরি, দ্রুতগামী ট্রেনের গতিবেগ = x km/h\n∴ ধীরগতির ট্রেনের গতিবেগ = (x - 9) km/h\nসকাল ৮টা থেকে দুপুর ১২টা পর্যন্ত সময় = ১২ - ৮ = ৪ ঘণ্টা।\n\n৪ ঘণ্টায় উভয়ে মোট অতিক্রম করে ৩০০ কি.মি.:\nপ্রশ্নমতে,\n৪x + ৪(x - ৯) = ৩০০\n⇒ ৪x + ৪x - ৩৬ = ৩০০\n⇒ ৮x = ৩৩৬\n∴ x = ৩৩৬ / ৮ = ৪২ km/h।"
+  },
+  {
+    "id": 31,
+    "question": "There are 8 marbles in a box – 6 red and 2 black. If you randomly pick 2 marbles simultaneously what is the probability that you will get one red and one black marble? (একটি বাক্সে ৬টি লাল ও ২টি কালো মার্বেল আছে। দৈবভাবে দুটি মার্বেল উত্তোলন করলে ১টি কালো ও ১টি লাল হবার সম্ভাব্যতা কত?)",
+    "options": [
+      "3/7",
+      "3/24",
+      "3/8",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "মোট মার্বেল = ৬ + ২ = ৮টি।\n৮টি থেকে ২টি মার্বেল বাছাইয়ের মোট উপায় = ⁸C₂ = (৮ × ৭) / (২ × ১) = ২৮।\n৬টি লাল থেকে ১টি এবং ২টি কালো থেকে ১টি বাছাইয়ের অনুকূল উপায় = ⁶C₁ × ²C₁ = ৬ × ২ = ১২।\n\n∴ নির্ণেয় সম্ভাব্যতা = ১২ / ২৮ = ৩ / ৭।"
+  },
+  {
+    "id": 32,
+    "question": "Jashim and Imran start walking from A to B at 5 and 3 km per hour respectively. Jashim reaches B and starts back for A. How far from B will he meet Imran if the distance between A and B is 32 km? (জসিম ও ইমরান A হতে B তে যথাক্রমে 5kmph এবং 3kmph বেগে হাঁটতে শুরু করলো। জসিম B তে পৌঁছে আবার A এর উদ্দেশ্যে হাঁটা শুরু করলো। A এবং B এর মধ্যবর্তী দূরত্ব 32km হলে জসিম B হতে কত দূরে ইমরানের সাথে সাক্ষাৎ হবে?)",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "12"
+    ],
+    "answer": "B",
+    "explanation": "A হতে B তে যেতে জসিমের সময় লাগে = ৩২ / ৫ = ৬.৪ ঘণ্টা।\nএই ৬.৪ ঘণ্টায় ইমরান যায় = ৬.৪ × ৩ = ১৯.২ কিমি।\nবাকি থাকে = ৩২ - ১৯.২ = ১২.৮ কিমি।\nএখন জসিম B থেকে A এর দিকে এবং ইমরান A থেকে B এর দিকে আসছে (আপেক্ষিক বেগ = ৫ + ৩ = ৮ কিমি/ঘণ্টা)।\nসাক্ষাৎ হতে সময় লাগবে = ১২.৮ / ৮ = ১.৬ ঘণ্টা।\nসুতরাং B হতে দূরত্ব = ১.৬ × ৫ = ৮ কিমি।"
+  },
+  {
+    "id": 33,
+    "question": "Babu bought two varieties of pulse, costing Tk. 50 and Tk. 60 per kg. each, and mixed them in some ratio. He then sold the mixture at Tk. 70 per kg. making a profit of 20 percent. What was the ratio of the mixture? (বাবু দুই ধরনের ডাল কিনলো। একটি ৫০ টাকা দরে এবং অন্যটি ৬০ টাকা দরে। এই দুই ধরনের ডাল মিশিয়ে ৭০ টাকা দরে বিক্রয় করে গড়ে ২০% লাভ করলে প্রথম ও দ্বিতীয় ধরনের ডালের মিশ্রণের অনুপাত কত?)",
+    "options": [
+      "1:10",
+      "1:5",
+      "2:7",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "ধরি, ১ম জাতের পরিমাণ = x kg এবং ২য় জাতের = y kg।\nমোট ক্রয়মূল্য = 50x + 60y টাকা।\nমিশ্রণের বিক্রয়মূল্য = 70(x + y) টাকা।\n২০% লাভে:\nলাভ = 70(x + y) - (50x + 60y) = 20x + 10y\nপ্রশ্নমতে, 20x + 10y = (50x + 60y) × (20/100)\n⇒ 20x + 10y = 10x + 12y\n⇒ 10x = 2y\n⇒ x/y = 2/10 = 1/5\n∴ x : y = 1 : 5।"
+  },
+  {
+    "id": 34,
+    "question": "3/8 of all applicants for a job are male. 3/4 of all applicants are rejected in the first round including 2/3 of all male applicants. What fraction of applicants remaining after the first round are male? (একটি চাকরিতে ৩/৮ অংশ পুরুষ আবেদনকারী। প্রথম রাউন্ডে ৩/৪ অংশ আবেদনকারী বাতিল বলে গণ্য হলো যেখানে ২/৩ অংশ পুরুষ আবেদনকারী ছিল। প্রথম রাউন্ড শেষে কতজন পুরুষ আবেদনকারী ছিল?)",
+    "options": [
+      "1/2",
+      "1/4",
+      "2/9",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "ধরি, মোট আবেদনকারী = ২৪x জন।\nপুরুষ = ২৪x এর ৩/৮ = ৯x জন।\nমহিলা = ২৪x - ৯x = ১৫x জন।\nবাতিলকৃত মোট প্রার্থী = ২৪x এর ৩/৪ = ১৮x জন।\nবাতিলকৃত পুরুষ = ৯x এর ২/৩ = ৬x জন।\nঅবশিষ্ট পুরুষ = ৯x - ৬x = ৩x জন।\nপ্রথম রাউন্ড শেষে মোট অবশিষ্ট প্রার্থী = ২৪x - ১৮x = ৬x জন।\n∴ অবশিষ্টদের মধ্যে পুরুষের ভগ্নাংশ = ৩x / ৬x = ১/২ অংশ।"
+  },
+  {
+    "id": 35,
+    "question": "x, y are positive integers. When x is divided by y, the remainder is 5. If x/y = 5.20, what is the value of x? (x এবং y ধনাত্মক পূর্ণ সংখ্যা। x কে y দ্বারা ভাগ করলে ৫ ভাগশেষ থাকবে। x/y = 5.20 হলে, x = ?)",
+    "options": [
+      "130",
+      "155",
+      "330",
+      "425"
+    ],
+    "answer": "A",
+    "explanation": "x/y = 5.20 = 5 + 0.20\nযেহেতু ভাগশেষ 5, তাই ভগ্নাংশ অংশ 0.20 = 5/y\n⇒ y = 5 / 0.20 = 25\n∴ x = 25 × 5.20 = 130।"
+  },
+  {
+    "id": 36,
+    "question": "In a talk show, there are 7 chairs in a row opposite of the host. Discussants A, B, C, D, X, Y, Z participate. Conditions: A in chair 1, 2, or 3; C sits immediately before B; D not in chair 1 or 7; X in chair 1 or 7; Y in one of the last three chairs (5, 6, 7). Which of the following is an acceptable order for the sitting arrangement?",
+    "options": [
+      "A, Z, C, D, Y, B and X",
+      "C, B, A, D, Z, Y and X",
+      "D, Z, A, C, B, X and Y",
+      "X, A, Y, C, D, B and Z"
+    ],
+    "answer": "B",
+    "explanation": "শর্তসমূহ:\n১. A ১, ২ বা ৩ নম্বর চেয়ারে থাকবে।\n২. C অবিলম্বে B-এর ঠিক পূর্বে বসবে (CB পাশাপাশি)।\n৩. D ১ম বা ৭ম চেয়ারে বসতে পারবে না।\n৪. X ১ম অথবা ৭ম চেয়ারে বসবে।\n৫. Y শেষ তিনটির একটিতে (৫, ৬ বা ৭) বসবে।\nবিকল্প (B): C (১), B (২), A (৩), D (৪), Z (৫), Y (৬), X (৭) - সবগুলো শর্ত পূরণ করে।"
+  },
+  {
+    "id": 37,
+    "question": "If Z, D and A occupy three consecutive chairs in the same order, then C must occupy -",
+    "options": [
+      "2nd",
+      "3rd",
+      "4th",
+      "5th"
+    ],
+    "answer": "C",
+    "explanation": "Z, D এবং A ক্রম অনুযায়ী বসলে তারা ১ম, ২য় ও ৩য় চেয়ার দখল করবে (যেহেতু A ১ম, ২য় বা ৩য় চেয়ারের একটিতে থাকতে হবে)।\nসুতরাং চেয়ার ১: Z, চেয়ার ২: D, চেয়ার ৩: A।\nযেহেতু C ও B পাশাপাশি (CB) বসতে হবে এবং X ৭ম চেয়ারে ও Y শেষ তিনটির একটিতে বসবে:\nচেয়ার ৪: C, চেয়ার ৫: B, চেয়ার ৬: Y, চেয়ার ৭: X।\nঅতএব C বসবে ৪র্থ (4th) চেয়ারে।"
+  },
+  {
+    "id": 38,
+    "question": "If C occupies the 1st chair, who could occupy the fourth chair?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "Y"
+    ],
+    "answer": "C",
+    "explanation": "C যদি ১ম চেয়ারে বসে, তবে B অবশ্যই ২য় চেয়ারে বসবে (যেহেতু C-এর ঠিক পরে B)।\nA-কে ৩য় চেয়ারে বসতে হবে (কারণ A-এর জন্য বরাদ্দ ১, ২ বা ৩)।\nX-কে ৭ম চেয়ারে এবং Y-কে শেষ তিনটি চেয়ারের একটিতে বসতে হবে।\nফলে ক্রম দাঁড়ায়: C (১), B (২), A (৩), D (৪), Z (৫), Y (৬), X (৭)।\nঅতএব ৪র্থ স্থানে বসবে D।"
+  },
+  {
+    "id": 39,
+    "question": "If Y occupies the Sixth chair, C could occupy any chair except -",
+    "options": [
+      "1st",
+      "2nd",
+      "4th",
+      "5th"
+    ],
+    "answer": "D",
+    "explanation": "যেহেতু C-এর অবিলম্বে পরে B বসবে (CB একসাথে), তাই C যদি ৫ম চেয়ারে বসে, তাহলে B-কে ৬ষ্ঠ চেয়ারে বসতে হবে। কিন্তু ৬ষ্ঠ চেয়ারে ইতোমধ্যে Y বসে আছে। তাই C কোনোভাবেই ৫ম (5th) চেয়ারে বসতে পারবে না।"
+  },
+  {
+    "id": 40,
+    "question": "If X occupies the last chair and A occupies the 2nd chair, who must occupy chair no 1?",
+    "options": [
+      "Y",
+      "Z",
+      "B",
+      "D"
+    ],
+    "answer": "B",
+    "explanation": "শর্তমতে, D ১ম চেয়ারে বসতে পারবে না। Y শেষ তিনটির একটিতে বসবে, তাই ১ম চেয়ারে বসতে পারবে না। C-এর পরে B আসতে হয়, কিন্তু ২য় চেয়ারে A থাকায় ১ম চেয়ারে C বসলে B বসতে পারে না। আবার C ছাড়া B একা বসতে পারে না। সুতরাং ১ম চেয়ারে কেবল Z বসতে পারে।"
+  },
+  {
+    "id": 41,
+    "question": "Which key combination is used to permanently delete a file or folder?",
+    "options": [
+      "Alt + delete",
+      "CTRL + delete",
+      "Shift + delete",
+      "End + delete"
+    ],
+    "answer": "C",
+    "explanation": "সাধারণভাবে Delete চাপলে ফাইলটি Recycle Bin-এ জমা হয়। কিন্তু Shift + Delete কমান্ড দিলে ফাইলটি Recycle Bin-এ জমা না হয়ে স্থায়ীভাবে (permanently) মুছে যায়।"
+  },
+  {
+    "id": 42,
+    "question": "Gatwick Airport is located in _____.",
+    "options": [
+      "UK",
+      "USA",
+      "Canada",
+      "Italy"
+    ],
+    "answer": "A",
+    "explanation": "লন্ডন গেটউইক বিমানবন্দর (Gatwick Airport) যুক্তরাজ্যে (UK) অবস্থিত।\nঅন্যান্য প্রধান বিমানবন্দর:\nহিথ্রো বিমানবন্দর : যুক্তরাজ্য\nফ্রাঙ্কফুর্ট / মিউনিখ : জার্মানি\nআমস্টারডাম শিফোল : নেদারল্যান্ডস\nনারিতা : জাপান\nসুবর্ণভূমি : থাইল্যান্ড\nপরাজাস : স্পেন\nডাবলিন : আয়ারল্যান্ড\nজুরিখ : সুইজারল্যান্ড"
+  },
+  {
+    "id": 43,
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Montreal",
+      "Toronto",
+      "Ottawa",
+      "Edmonton"
+    ],
+    "answer": "C",
+    "explanation": "কানাডার রাজধানী অটোয়া (Ottawa)।\nকয়েকটি দেশের রাজধানী:\nআইসল্যান্ড : রিকজাভিক\nফিনল্যান্ড : হেলসিংকি\nআয়ারল্যান্ড : ডাবলিন\nসুইডেন : স্টকহোম\nপর্তুগাল : লিসবন\nসার্বিয়া : বেলগ্রেড"
+  },
+  {
+    "id": 44,
+    "question": "In the digital world, IoT stands for -",
+    "options": [
+      "Internet of Transmission",
+      "Internet of Things",
+      "Internet of Transformation",
+      "Internet of Technologies"
+    ],
+    "answer": "B",
+    "explanation": "IoT এর পূর্ণরূপ হলো Internet of Things। এর মাধ্যমে শারীরিক ডিভাইসগুলোকে ইন্টারনেটের মাধ্যমে সংযুক্ত ও নিয়ন্ত্রণ করা হয়।\nঅন্যান্য সংক্ষেপ:\nGUI : Graphical User Interface\nBIOS : Basic Input Output System\nVIRUS : Vital Information Resources Under Seize\nASCII : American Standard Code for Information Interchange\nBCD : Binary Coded Decimal\nWi-Fi : Wireless Fidelity\nVSAT : Very Small Aperture Terminal"
+  },
+  {
+    "id": 45,
+    "question": "Keane Bridge is located in _____.",
+    "options": [
+      "Bogura",
+      "Mymensingh",
+      "Khulna",
+      "Sylhet"
+    ],
+    "answer": "D",
+    "explanation": "ক্বীন ব্রিজ (Keane Bridge) সিলেট শহরে সুরমা নদীর উপর নির্মিত ঐতিহাসিক লৌহ সেতু। ১৯৩৬ সালে তৎকালীন আসামের গভর্নর মাইকেল ক্বীনের নামে এর নামকরণ হয়। একে সিলেটের প্রবেশদ্বার বলা হয়।"
+  },
+  {
+    "id": 46,
+    "question": "Historical Panam city is located in -",
+    "options": [
+      "Dinajpur",
+      "Rangpur",
+      "Cumilla",
+      "Narayanganj"
+    ],
+    "answer": "D",
+    "explanation": "পানাম নগর নারায়ণগঞ্জ জেলার সোনারগাঁ উপজেলায় অবস্থিত একটি ঐতিহ্যবাহী প্রাচীন শহর। এটি বাংলার বার ভূঁইয়াদের রাজধানী সোনারগাঁর অন্যতম প্রাচীন স্থাপত্য নিদর্শন।"
+  },
+  {
+    "id": 47,
+    "question": "In Excel, the COUNT () function _____.",
+    "options": [
+      "counts cells having alphabets",
+      "counts empty cells",
+      "counts cells having number",
+      "counts non-empty cells"
+    ],
+    "answer": "C",
+    "explanation": "MS Excel-এ COUNT() ফাংশন নির্বাচিত রেঞ্জের মধ্যে শুধুমাত্র সংখ্যাযুক্ত (numbers) সেলগুলোর সংখ্যা গণনা করে। টেক্সট বা খালি সেল গণনা করে না। (অ-খালি সেল গণনার জন্য COUNTA ব্যবহৃত হয়)।"
+  },
+  {
+    "id": 48,
+    "question": "The military operation carried out by the Pakistan Army in the erstwhile East Pakistan in March 1971 was named operation -",
+    "options": [
+      "Searchlight",
+      "Jackpot",
+      "Blitz",
+      "Jinnah"
+    ],
+    "answer": "A",
+    "explanation": "১৯৭১ সালের ২৫শে মার্চ রাতে পাকিস্তানি হানাদার বাহিনী নিরস্ত্র বাঙালিদের ওপর যে বর্বর গণহত্যা পরিচালনা করে তার সাংকেতিক নাম ছিল 'অপারেশন সার্চলাইট' (Operation Searchlight)। অন্যদিকে নৌ-কমান্ডোদের বীরত্বপূর্ণ অভিযানের নাম ছিল 'অপারেশন জ্যাকপট'।"
+  },
+  {
+    "id": 49,
+    "question": "Rabindra University is located at -",
+    "options": [
+      "Mymensingh",
+      "Shahzadpur",
+      "Netrokona",
+      "Modhupur"
+    ],
+    "answer": "B",
+    "explanation": "রবীন্দ্র বিশ্ববিদ্যালয় বাংলাদেশের সিরাজগঞ্জ জেলার শাহজাদপুর উপজেলায় অবস্থিত একটি সরকারি পাবলিক বিশ্ববিদ্যালয়। এটি কবিগুরু রবীন্দ্রনাথ ঠাকুরের স্মৃতিবিজড়িত শাহজাদপুরে প্রতিষ্ঠিত।"
+  },
+  {
+    "id": 50,
+    "question": "The strait that runs between Asia and Europe is known as:",
+    "options": [
+      "Hormuz",
+      "Bosphorus",
+      "Bering",
+      "Malacca"
+    ],
+    "answer": "B",
+    "explanation": "বসফরাস প্রণালী (Bosphorus Strait) এশিয়া ও ইউরোপকে পৃথক করেছে এবং কৃষ্ণ সাগরকে মর্মর সাগরের সাথে সংযুক্ত করেছে।\nঅন্যান্য প্রণালী:\nজিব্রাল্টার : ইউরোপ ও আফ্রিকা পৃথক করেছে।\nবেরিং প্রণালী : এশিয়া ও উত্তর আমেরিকাকে পৃথক করেছে।\nহরমুজ : ওমান ও ইরান / পারস্য উপসাগর ও ওমান উপসাগর।"
+  },
+  {
+    "id": 51,
+    "question": "Bhasanchar is in the district of -",
+    "options": [
+      "Rangamati",
+      "Cox's Bazar",
+      "Noakhali",
+      "Laxmipur"
+    ],
+    "answer": "C",
+    "explanation": "ভাসানচর নোয়াখালী জেলার হাতিয়া উপজেলার মেঘনা নদীর মোহনায় জেগে ওঠা একটি দ্বীপ। এখানে রোহিঙ্গাদের পুনর্বাসনের ব্যবস্থা করা হয়েছে।"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following key combination is used to create a new document in MS Word?",
+    "options": [
+      "Ctrl + W",
+      "Shift + N",
+      "Ctrl + N",
+      "Alt + N"
+    ],
+    "answer": "C",
+    "explanation": "MS Word-এ নতুন খালি ডকুমেন্ট তৈরির শর্টকাট হলো Ctrl + N।\nCtrl + W : ডকুমেন্ট বন্ধ করা\nCtrl + O : ফাইল ওপেন করা\nCtrl + S : ফাইল সেভ করা"
+  },
+  {
+    "id": 53,
+    "question": "The SDG goals are intended to be achieved by the year -",
+    "options": [
+      "2025",
+      "2030",
+      "2033",
+      "2041"
+    ],
+    "answer": "B",
+    "explanation": "জাতিসংঘের টেকসই উন্নয়ন লক্ষ্যমাত্রা (SDG) এর মেয়াদকাল ২০১৬ থেকে ২০৩০ সাল পর্যন্ত। এতে ১৭টি গোল, ১৬৯টি সুনির্দিষ্ট লক্ষ্য এবং ২৩২টি সূচক রয়েছে।"
+  },
+  {
+    "id": 54,
+    "question": "India-Bangladesh Friendship Pipeline (IBFPL) will transport diesel from India to BPC depot in -",
+    "options": [
+      "Tamabil",
+      "Akhaura",
+      "Benapole",
+      "Parbatipur"
+    ],
+    "answer": "D",
+    "explanation": "বাংলাদেশ-ভারত মৈত্রী পাইপলাইন (১৩১.৫৭ কিমি) ভারতের শিলিগুড়ি থেকে বাংলাদেশের দিনাজপুর জেলার পার্বতীপুর ডিপোতে ডিজেল সরবরাহের জন্য নির্মিত হয়েছে।"
+  },
+  {
+    "id": 55,
+    "question": "Which country's population has dropped for the first time since 1961?",
+    "options": [
+      "Japan",
+      "China",
+      "England",
+      "France"
+    ],
+    "answer": "B",
+    "explanation": "১৯৬১ সালের পর ছয় দশকের মধ্যে প্রথমবারের মতো চীনের জনসংখ্যা হ্রাস পায় ২০২২-২০২৩ সালে। বর্তমানে ভারত বিশ্বের শীর্ষ জনবহুল দেশ হিসেবে চীনকে অতিক্রম করেছে।"
+  },
+  {
+    "id": 56,
+    "question": "Who won the Golden Boot award in 2022 World Cup?",
+    "options": [
+      "Kylian Mbappe",
+      "Emiliano Martinez",
+      "Luka Modric",
+      "Lionel Messi"
+    ],
+    "answer": "A",
+    "explanation": "২০২২ কাতার বিশ্বকাপে সর্বোচ্চ ৮টি গোল করে গোল্ডেন বুট লাভ করেন ফ্রান্সের কিলিয়ান এমবাপ্পে (Kylian Mbappe)। সেরা খেলোয়াড়ের গোল্ডেন বল পান লিওনেল মেসি এবং সেরা গোলরক্ষকের গোল্ডেন গ্লাভ পান এমিলিয়ানো মার্টিনেজ।"
+  },
+  {
+    "id": 57,
+    "question": "BioNTech, the company that invented COVID vaccine along with Pfizer, is a _____ company.",
+    "options": [
+      "German",
+      "Swedish",
+      "French",
+      "Spanish"
+    ],
+    "answer": "A",
+    "explanation": "BioNTech জার্মানিভিত্তিক (German) একটি বায়োটেকনোলজি কোম্পানি। ২০০৮ সালে তুর্কি বংশোদ্ভূত জার্মান বিজ্ঞানী উগুর শাহিন ও ওজলেম তুরেসি এটি প্রতিষ্ঠা করেন।"
+  },
+  {
+    "id": 58,
+    "question": "Who was the player of tournament in ICC T20 World Cup 2022?",
+    "options": [
+      "Ben Stokes",
+      "Sam Curran",
+      "Babar Azam",
+      "Shaheed Afridi"
+    ],
+    "answer": "B",
+    "explanation": "২০২২ সালের টি-টোয়েন্টি বিশ্বকাপে ইংল্যান্ডের স্যাম কারেন (Sam Curran) প্লেয়ার অব দ্য টুর্নামেন্ট এবং ফাইনালের ম্যাচসেরা নির্বাচিত হন।"
+  },
+  {
+    "id": 59,
+    "question": "How many teams will participate in FIFA World CUP 2026?",
+    "options": [
+      "32",
+      "40",
+      "48",
+      "56"
+    ],
+    "answer": "C",
+    "explanation": "২০২৬ সালের ফিফা বিশ্বকাপ যুক্তরাষ্ট্র, কানাডা ও মেক্সিকোতে অনুষ্ঠিত হবে এবং এতে প্রথমবারের মতো ৪৮টি দল অংশগ্রহণ করবে।"
+  },
+  {
+    "id": 60,
+    "question": "Who is the new Prime Minister of New Zealand?",
+    "options": [
+      "Jacinda Ardern",
+      "Chris Hipkins",
+      "Carmel Sepuloni",
+      "Christopher Luxon"
+    ],
+    "answer": "B",
+    "explanation": "পরীক্ষার সময় (জানুয়ারি ২০২৩) জ্যাসিন্ডা আরডার্নের পদত্যাগের পর ক্রিস হিপকিন্স (Chris Hipkins) নিউজিল্যান্ডের প্রধানমন্ত্রী হন। (পরবর্তী নির্বাচনে ক্রিস্টোফার লুক্সন বর্তমান প্রধানমন্ত্রী নির্বাচিত হন)।"
+  }
+]

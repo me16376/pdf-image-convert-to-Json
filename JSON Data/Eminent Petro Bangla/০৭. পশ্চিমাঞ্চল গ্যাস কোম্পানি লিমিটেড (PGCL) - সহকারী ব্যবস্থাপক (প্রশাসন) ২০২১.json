@@ -1,0 +1,1062 @@
+[
+  {
+    "id": 1,
+    "question": "সন্ধি বিচ্ছেদ করুন: ‘প্রাতরাশ’",
+    "options": [
+      "প্রতি + রাশ",
+      "প্রাতঃ + রাশ",
+      "প্রাত + আশ",
+      "প্রাতঃ + আশ",
+      "কোনোটিই নয়"
+    ],
+    "answer": "D",
+    "explanation": "অ-কারের পরস্থিত রূ-জাত বিসর্গের পর উপযুক্ত ধ্বনিসমূহের কোনোটি থাকলে বিসর্গ স্থানে ‘র’ হয়। যেমন:-\n• অন্তঃ + গত = অন্তর্গত\n• পুনঃ + আয় = পুনরায়\n• পুনঃ + জন্ম = পুনর্জন্ম\n• প্রাতঃ + উত্থান = প্রাতরুত্থান\n• পুনঃ + অর্প = পুনরর্পণ\n• অন্তঃ + ধান = অন্তর্ধান\n• অন্তঃ + দ্বীপ = অন্তরীপ\n• পুনঃ + উক্ত = পুনরুক্ত\n• পুনঃ + বার = পুনর্বার\n• অন্তঃ + ভুক্ত = অন্তর্ভুক্ত\n• প্রাতঃ + আশ = প্রাতরাশ\n• অহঃ + অহ = অহরহ।"
+  },
+  {
+    "id": 2,
+    "question": "‘কথাসাহিত্য’ বলতে কোনটিকে বোঝায়?",
+    "options": [
+      "কথোপকথন নির্ভর সাহিত্য",
+      "নাটক",
+      "আবৃত্তি",
+      "ছোটগল্প ও উপন্যাস",
+      "কোনোটিই নয়"
+    ],
+    "answer": "D",
+    "explanation": "সামাজিক সমস্যা, রাজনৈতিক সমালোচনা বা মানুষের অবস্থার বর্ণনায় যদি সাহিত্যিক মূল্য থাকে তবেই তা কথাসাহিত্য। কথাসাহিত্যে সংলাপ ব্যবহার করা হয় এবং উপযুক্ত পটভূমিকার প্লটের চেয়ে থিমের ওপর বেশি জোর দেয়া হয়। মনগড়া জনপ্রিয় কাহিনি দিয়ে কথাসাহিত্য রচিত হয় না। ছোটগল্প ও উপন্যাস কথাসাহিত্যের দুটি মাধ্যম।"
+  },
+  {
+    "id": 3,
+    "question": "চোখের প্রতিশব্দ নয় কোনটি?",
+    "options": [
+      "বারি",
+      "চক্ষু",
+      "নয়ন",
+      "লোচন",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "চক্ষু, নয়ন, লোচন শব্দগুলো চোখের প্রতিশব্দ। বারি শব্দের সমার্থক শব্দসমূহ হলো- পানি, পানীয়, সলিল, পয়ঃ, অম্বু, নীর, উদক, জীবন, অপ, তোয়, অর্ণঃ, প্রাথল, বারুণ, অন্ত।"
+  },
+  {
+    "id": 4,
+    "question": "গুরুচণ্ডালী দোষ বলতে বোঝায়- ও - ভাষার মিশ্রণ?",
+    "options": [
+      "সাধু ও চলিত",
+      "সাধু ও দেশী",
+      "দেশী ও বিদেশী",
+      "বাংলা ও ইংরেজি",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "বাংলা ভাষার দুটি রূপ আছে। একটি সাধু এবং অপরটি চলিত। উভয়রীতির মধ্যে উল্লেখযোগ্য পার্থক্য বিদ্যমান। তাই একই রচনায় সাধু ও চলিত ভাষার ত্রুটিপূর্ণ মিশ্রণ অসংগত ও অবৈধ। ভাষারীতির এ অসংগত প্রয়োগকে গুরুচণ্ডালী দোষ বলে। যেমন- গরুর শকট, শবপোড়া, মড়াদাহ। এ শব্দগুলোর শুদ্ধরূপ গরুর গাড়ি, শবদাহ, মড়াপোড়া।"
+  },
+  {
+    "id": 5,
+    "question": "জহির রায়হানের ‘আরেক ফাল্গুন’ কোন ধরনের রচনা?",
+    "options": [
+      "উপন্যাস",
+      "নাটক",
+      "কবিতা",
+      "গল্প",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "‘আরেক ফাল্গুন’ জহির রায়হান রচিত ভাষা আন্দোলনভিত্তিক উপন্যাস। উপন্যাসটির প্রধান চরিত্র মুনিম। লেখকের আরো কিছু উপন্যাস- হাজার বছর ধরে, বরফ গলা নদী, শেষ বিকেলের মেয়ে, তৃষ্ণা।"
+  },
+  {
+    "id": 6,
+    "question": "‘নির্বন্ধ’ শব্দটির অর্থ কি?",
+    "options": [
+      "বিধান",
+      "নিরেট",
+      "নিশ্চিত",
+      "আগ্রহ",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "‘নির্বন্ধ’ শব্দটির অর্থ- বিধান, নিয়ম, বিধি, নির্দেশ ইত্যাদি। কয়েকটি গুরুত্বপূর্ণ শব্দার্থ হলো-\n• স্বাক্ষর : দস্তখত\n• সাক্ষর : অক্ষর সংবলিত\n• প্রাকার : প্রাচীর\n• ঊর্ণনাভ : মাকড়সা\n• অপাঙ্গ : দৃষ্টিকোণ\n• নলি : ছোটো নল\n• কূর্দ্দলাস : গিরগিটি\n• আদ্যোপান্ত : আগাগোড়া\n• দেউল : দেবালয়\n• উষ্ণীষ : পাগড়ি\n• অনিন্দ্য : নন্দিত\n• তাম্বুল : পান"
+  },
+  {
+    "id": 7,
+    "question": "‘অর্বাচীন’ শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "প্রাচীন",
+      "প্রাচীন",
+      "নবীন",
+      "চেনা",
+      "কোনোটিই নয়"
+    ],
+    "answer": "B",
+    "explanation": "কিছু গুরুত্বপূর্ণ বিপরীত শব্দ নিম্নরূপ-\n• অর্বাচীন : প্রাচীন\n• ক্ষণিক : অধিক\n• তেজস্বী : মন্দা\n• অমরাবতী : নরক\n• ক্ষীণ : পুষ্ট\n• দাতা : গ্রহীতা\n• ইদানীং : তদানানীং\n• জ্বলন্ত : নিভন্ত\n• নির্দয় : সদয়\n• অর্থী : প্রত্যর্থী\n• প্রফুল্ল : বিষণ্ণ\n• সংশয় : প্রত্যয়"
+  },
+  {
+    "id": 8,
+    "question": "বাক্য সংকোচন করুন: ‘মৃত্তিকা দিয়ে তৈরি’।",
+    "options": [
+      "মৃন্ময়",
+      "মেটেল",
+      "চিন্ময়",
+      "মন্বয়",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "কিছু গুরুত্বপূর্ণ বাক্য সংকোচন নিম্নরূপ-\n• বহু বিষয় জানেন যিনি- বহুদর্শী\n• যা সহজেই ভেঙে যায়- ভঙ্গুর/ঠুনকো\n• খেয়া পার করে যে- পাটনি\n• যার দুই হাত সমান চলে- সব্যসাচী\n• হরেক রকম কথা বলে যে- হরবোলা\n• হাতির বাসস্থান- পিলখানা, গজগৃহ\n• অর্থ নাই যার- নিরর্থ\n• গ্রীবা সুন্দর যার - সুগ্রীব\n• মৃত্তিকা দিয়ে তৈরি- মৃন্ময়"
+  },
+  {
+    "id": 9,
+    "question": "‘পাতিহাঁস’ শব্দটিতে ‘পাতি’-উপসর্গটি কি অর্থ বোঝায়?",
+    "options": [
+      "বড়",
+      "ছোট",
+      "মন্দ",
+      "ভিন্ন",
+      "কোনোটিই নয়"
+    ],
+    "answer": "B",
+    "explanation": "‘পাতিহাঁস’ শব্দের ‘পাতি’ উপসর্গটি ‘ছোট’ অর্থে ব্যবহৃত হয়েছে। ছোট অর্থে ‘পাতি’ উপসর্গটির আরো কিছু শব্দ- পাতিশিয়াল, পাতিলেবু। ‘রাম’ উপসর্গ যোগে ‘বড়’ অর্থে গঠিত শব্দ- রামছাগল, রামদা, রামবোকা।"
+  },
+  {
+    "id": 10,
+    "question": "খাঁটি বাংলায় কোন সন্ধি নেই?",
+    "options": [
+      "স্বরসন্ধি",
+      "ব্যঞ্জনসন্ধি",
+      "বিসর্গসন্ধি",
+      "A ও B উভয়",
+      "কোনোটিই নয়"
+    ],
+    "answer": "C",
+    "explanation": "সন্নিহিত দুটি ধ্বনির মিলনের নাম সন্ধি। সন্ধি মূলত সংস্কৃতগত। সংস্কৃত সন্ধি তিন প্রকার। যথা: স্বরসন্ধি, ব্যঞ্জনসন্ধি ও বিসর্গসন্ধি। তবে বাংলা সন্ধি শুধু স্বরসন্ধি ও ব্যঞ্জনসন্ধিকেই গ্রহণ করেছে। খাঁটি বাংলা ভাষায় বিসর্গের (ঃ) উচ্চারণ নেই বলে বাংলায় বিসর্গসন্ধি হয় না। সংস্কৃত শব্দেই কেবল বিসর্গসন্ধি হয়ে থাকে।"
+  },
+  {
+    "id": 11,
+    "question": "‘পানি’-এর সমার্থক শব্দ কোনটি?",
+    "options": [
+      "উদক",
+      "অরুণ",
+      "পত্তন",
+      "অরোরা",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "পানি শব্দের সমার্থক শব্দসমূহ হলো- বারি, পানীয়, সলিল, পয়ঃ, অম্বু, নীর, উদক, জীবন, অপ, তোয়, প্রাথল, বারুণ। অরুণ অর্থ- সূর্য এবং অরোরা অর্থ- ঊষাকাল, মেরুজ্যোতি।"
+  },
+  {
+    "id": 12,
+    "question": "‘নিষ্ঠুর’-এর সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "নিঃ + ঠুর",
+      "নি + ঠুর",
+      "নিস + ঠুর",
+      "নিশ + ঠুর",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "বিসর্গের পর অঘোষ অল্পপ্রাণ কিংবা মহাপ্রাণ তালব্য ব্যঞ্জন থাকলে বিসর্গের স্থলে তালব্য শিষ ধ্বনি হয়, অঘোষ অল্পপ্রাণ কিংবা অঘোষ মহাপ্রাণ মূর্ধন্য ব্যঞ্জন থাকলে বিসর্গ স্থলে মূর্ধন্য শিষ ধ্বনি হয়, অঘোষ অল্পপ্রাণ কিংবা অঘোষ মহাপ্রাণ দন্ত্য ব্যঞ্জনের স্থলে দন্ত্য শিষ ধ্বনি হয়।\n• ঃ + চ / ছ = শ + চ / ছ : নিঃ+চয় = নিশ্চয়, শিরঃ + ছেদ = শিরশ্ছেদ।\n• ঃ + ট / ঠ = ষ + ট / ঠ : ধনুঃ + টঙ্কার = ধনুষ্টঙ্কার, নিঃ + ঠুর = নিষ্ঠুর।\n• ঃ + ত / থ = স + ত / থ : দুঃ + তর = দুস্তর, দুঃ + থ = দুঃস্থ।"
+  },
+  {
+    "id": 13,
+    "question": "‘ডাব’ কোন ধরনের শব্দ?",
+    "options": [
+      "আরবি শব্দ",
+      "ফরাসি শব্দ",
+      "দেশি শব্দ",
+      "স্পেনীয় শব্দ",
+      "কোনোটিই নয়"
+    ],
+    "answer": "C",
+    "explanation": "‘ডাব’ দেশি শব্দ। আরো কিছু গুরুত্বপূর্ণ দেশি শব্দ- কুলা, গঞ্জ, চোঙ্গা, টোপর, ডাগর, ঢেঁকি।\nআরবি শব্দ- কিয়ামত, গোসল, কিতাব, কলম, খারিজ, নগদ, বাকি, উকিল।\nফরাসি শব্দ- ওলন্দাজ, দিনেমার, রেস্তোরাঁ, কার্তুজ, কুপন, বুর্জোয়া, রেনেসাঁস।"
+  },
+  {
+    "id": 14,
+    "question": "এক কথায় প্রকাশ করুন: ‘যে গাছে ফল ধরে কিন্তু ফুল ধরে না’।",
+    "options": [
+      "বন্ধ্যা",
+      "আগাছা",
+      "ঊষার",
+      "বনস্পতি",
+      "কোনোটিই নয়"
+    ],
+    "answer": "D",
+    "explanation": "কিছু গুরুত্বপূর্ণ এক কথায় প্রকাশ নিম্নরূপ-\n• যে গাছে ফল ধরে, কিন্তু ফুল ধরে না : বনস্পতি\n• ফল পাকলে যে গাছ মরে যায় : ওষধি\n• যে গাছ থেকে ঔষধ তৈরি হয় : ঔষধি\n• যে গাছ কোনো কাজে লাগে না : আগাছা\n• যে গাছ অন্য গাছকে আশ্রয় করে বাঁচে : পরগাছা\n• যাহাতে সহজে গমন করা যায় না: দুর্গম\n• যাহা সহজে লঙ্ঘন করা যায় না : দুর্লঙ্ঘ্য"
+  },
+  {
+    "id": 15,
+    "question": "‘মার্তণ্ড’ শব্দটির সমার্থক শব্দ কোনটি?",
+    "options": [
+      "চন্দ্র",
+      "সূর্য",
+      "অগ্নি",
+      "পাথার",
+      "কোনোটিই নয়"
+    ],
+    "answer": "B",
+    "explanation": "সূর্য শব্দের সমার্থক শব্দসমূহ হলো- দিবাকর, প্রভাকর, ভাস্কর, রবি, তপন, সবিতা, দিনেশ, দিনমণি, দিননাথ, কিরণমালী, অংশুমালী, ভানু, আদিত্য, মার্তণ্ড, অরুণ, অর্ক, মিহির, অর্যমা, পূষা, বিভাবসু, সুর, মিত্র, দিনপতি, ময়ূখমালী, বিভাকর, বালার্ক, দিবাবসু, দিনকর, হরিদশ্ব, পৃষণ, ঊষাপতি, চিত্রভানু।\nআগুন শব্দের সমার্থক শব্দসমূহ হলো- অগ্নি, অনল, বহ্নি, তেজোগ্নি, হুতাশন, পাবক, বৈশ্বানর, আতশ, কৃশানু, আগ, বায়ুসখা, সর্বশুচি, সর্বভুক, হেমাগ্নি, রীতিহুতো, দহন।\nচাঁদ শব্দের সমার্থক শব্দসমূহ হলো- চন্দ্র, সোম, শশধর, সুধাংশু, শশাঙ্ক, চন্দ্রিমা, শশী, সুধাকর, ইন্দু, বিধু, সিতাংশু, হিমাংশু, মৃগাঙ্ক, নিশাকর, নিশানাথ, রজনীকান্ত, তারাপতি, তারানাথ, নিশাপতি, জ্যোৎস্নানাথ, রাকেশ, সুধানিধি, হিমকর, কলাধর, কুমুদনাথ, নিশাকান্ত, চন্দ্রিমা।\nসমুদ্র শব্দের সমার্থক শব্দসমূহ হলো- সাগর, সিন্ধু, বারিধি, জলধি, অর্ণব, পারাবার, রত্নাকর, জলনিধি, নীলাম্বু, অম্বুধি, পয়োধি, পাথার, বারীশ, উদধি, পয়োনিধি, জলধর, অম্বুনিধি, তোয়ধি, তোয়নিধি, বারিনিধি, বারীন্দ্র, প্রচেতঃ, সরিৎপতি, দরিয়া।"
+  },
+  {
+    "id": 16,
+    "question": "‘ঝাঁকের কৈ’ বাগধারাটির অর্থ কি?",
+    "options": [
+      "দল বেধে চলা",
+      "একই স্বভাবের লোক",
+      "দামী জিনিস",
+      "হীনতা",
+      "কোনোটিই নয়"
+    ],
+    "answer": "B",
+    "explanation": "কিছু গুরুত্বপূর্ণ বাগধারা নিম্নরূপ-\n• চোখের মণি - অত্যন্ত প্রিয় বস্তু\n• চোখের নেশা - রূপের মোহ\n• ছকড়া নকড়া - সস্তা দর\n• ঝাঁকের কৈ - একই স্বভাবের লোক\n• উজানের কৈ : সহজ লভ্য\n• চর্বিত চর্বণ - পুনরাবৃত্তি\n• ডাকাবুকো - দুরন্ত\n• কৈ মাছের প্রাণ - যা সহজে মরে না"
+  },
+  {
+    "id": 17,
+    "question": "‘ব্যক্ত’ শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "ত্যক্ত",
+      "গূঢ়",
+      "গ্রাহ্য",
+      "অকথ্য",
+      "কোনোটিই নয়"
+    ],
+    "answer": "B",
+    "explanation": "কিছু গুরুত্বপূর্ণ বিপরীত শব্দ নিম্নরূপ-\n• ব্যক্ত : গূঢ়\n• অনাবিল : আবিল\n• ওস্তাদ : শাগরেদ\n• অধিত্যকা : উপত্যকা\n• অনুরক্ত : বিরক্ত\n• ঐতিহাসিক : অনৈতিহাসিক\n• এঁড়ে : বকনা\n• আশ্লেষ : বিশ্লেষ\n• ঐক্য : বিভেদ/অনেক্য\n• উন্মীলন : নিমীলন"
+  },
+  {
+    "id": 18,
+    "question": "‘যার কোনো মূল্য নেই’ তাকে বাগধারা দিয়ে প্রকাশ করলে কোনটি হয়?",
+    "options": [
+      "ডাকাবুকো",
+      "তামার বিষ",
+      "তুলসি বনের বাঘ",
+      "ঢাকের বায়া",
+      "কোনোটিই নয়"
+    ],
+    "answer": "D",
+    "explanation": "কিছু গুরুত্বপূর্ণ বাগধারা নিম্নরূপ-\n• শিরে সংক্রান্তি - আসন্ন বিপদ\n• তোষার পাত - অন্ধ অনুকরণ\n• মাছের মা - নির্মম\n• ডাঁড়ে ভবানী - নিঃস্ব অবস্থা\n• যার কোনো মূল্য নেই - ঢাকের বায়া\n• ভুঁইফোড় - নতুন আগমন"
+  },
+  {
+    "id": 19,
+    "question": "‘পুতুলনাচের ইতিকথা’ গ্রন্থটি কার রচনা?",
+    "options": [
+      "সত্যেন সেন",
+      "আবুল ফজল",
+      "মানিক বন্দ্যোপাধ্যায়",
+      "সৈয়দ আলী আহসান",
+      "কোনোটিই নয়"
+    ],
+    "answer": "C",
+    "explanation": "মানিক বন্দ্যোপাধ্যায় ১৯০৮ সালের ১৯ মে ভারতের বিহারে (বর্তমান ঝাড়খণ্ড রাজ্যের দুমকা শহরে) জন্মগ্রহণ করেন। তার পৈতৃক নিবাস বিক্রমপুরে। পিতা প্রদত্ত নাম প্রবোধকুমার এবং ডাকনাম মানিক। তিনি মৃগী রোগী ছিলেন। তিনি ১৯৫৬ সালের ৩ ডিসেম্বর কলকাতায় মৃত্যুবরণ করেন। তার সাহিত্যকর্ম নিম্নরূপ:\nউপন্যাস: জননী, দিবারাত্রির কাব্য, পুতুলনাচের ইতিকথা, পদ্মা নদীর মাঝি, শহরতলী, অহিংসা, চিহ্ন।\nগল্পগ্রন্থ: প্রাগৈতিহাসিক, সরীসৃপ, ছোট বকুলপুরের যাত্রী, আজ কাল পরশুর গল্প, ফেরিওয়ালা, হলুদ পোড়া বৌ, ভেজাল, সমুদ্রের স্বাদ।"
+  },
+  {
+    "id": 20,
+    "question": "‘নন্দিনী’-এর প্রতিশব্দ কোনটি?",
+    "options": [
+      "নারী",
+      "সুন্দরী",
+      "তনয়া",
+      "ননদিনী",
+      "কোনোটিই নয়"
+    ],
+    "answer": "C",
+    "explanation": "‘নন্দিনী’-এর প্রতিশব্দ তনয়া। নন্দিনী-এর আরো কিছু প্রতিশব্দ- মেয়ে, কন্যা, দুহিতা, তনুজা, ঝি। নারী-এর প্রতিশব্দ- রমণী, রামা, মহিলা, ললনা, কামিনী, জেনানা। ‘নন্দিনী’ একটি স্ত্রীবাচক শব্দ, যার পুরুষবাচক শব্দ হলো নন্দন।"
+  },
+  {
+    "id": 21,
+    "question": "All questions must be original, that is, formulated ______ for the examination.",
+    "options": [
+      "really",
+      "exclusively",
+      "equally",
+      "commonly",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "প্রদত্ত বাক্যটির অর্থ হলো 'সকল প্রশ্ন মৌলিক হতে হবে যা প্রণীত হবে শুধু / একমাত্র পরীক্ষার জন্য'। অপশন B-তে exclusively (একমাত্র, শুধু) বসালে বাক্যটি অর্থপূর্ণ হয়।"
+  },
+  {
+    "id": 22,
+    "question": "______ all his attempt to pass the driving test, Zakir failed.",
+    "options": [
+      "After",
+      "Because",
+      "Despite",
+      "Neglecting",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Despite/in spite of + noun phrase. Despite/in spite of এর পর (subject+verb) হয় না, noun phrase হয়। Despite এর সাথে of হয় না এবং in spite এর সাথে of হয়। Despite ও Inspite of দুটোর অর্থই সত্ত্বেও এবং দুটোই বাক্যে বিপরীত ধারণা দিতে ব্যবহৃত হয়। প্রদত্ত বাক্যটিতে বলা হচ্ছে ড্রাইভিং টেস্টে পাস করার সকল প্রচেষ্টা সত্ত্বেও, জাকির অকৃতকার্য হলো। যেহেতু বৈপরীত্য বোঝাচ্ছে তাই despite বসানো অধিক যুক্তিযুক্ত।"
+  },
+  {
+    "id": 23,
+    "question": "There were ______ people in the mosque than I expected.",
+    "options": [
+      "less",
+      "lesser",
+      "fewer",
+      "few get",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Few এবং little দুটোর meaning ই same কিন্তু Few বসে plural countable noun এর সাথে এবং little বসে noncountable noun এর সাথে। People হলো plural countable noun। তাই সঠিক উত্তর অপশন (C)।"
+  },
+  {
+    "id": 24,
+    "question": "He is ______ weak to go to office.",
+    "options": [
+      "all",
+      "too",
+      "quiet",
+      "quite",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "Sub + be verb + too + adj + to + v1। এই নিয়মটি ব্যবহার করে অপশন (B) সঠিক উত্তর। উল্লেখ্য 'too + adj + to'-এর ব্যবহার করে বাক্যটি negative অর্থ দেয়। যেমন- He is too weak to go to office অর্থাৎ সে এতই দুর্বল যে অফিসে যেতে পারে না।"
+  },
+  {
+    "id": 25,
+    "question": "You have to raise your voice a little when talking to him. He’s a little ______.",
+    "options": [
+      "cat out of the bag",
+      "cry wolf",
+      "penny pincher",
+      "hard of hearing",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "'Hard of hearing' অর্থ কানে খাটো বা কানে কম শোনে। তাই D সঠিক উত্তর। প্রদত্ত বাক্যটির অর্থ হলো ‘তুমি যখন তার সাথে কথা বল তখন তোমার কণ্ঠস্বর একটু উঁচু করিও। কারণ সে একটু কানে খাটো/কানে কম শোনে’। আরো কিছু গুরুত্বপূর্ণ phrase and idiom নিম্নরূপ-\n• Get one's ideas across: Make one's idea understood\n• By fits and starts: Irregularly\n• To end in smoke: To come to nothing"
+  },
+  {
+    "id": 26,
+    "question": "Bed of rose",
+    "options": [
+      "bed made of roses",
+      "comfortable situation",
+      "small bed",
+      "rose garden",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "'Bed of rose' একটি phrase word যার অর্থ হলো পুষ্পশয্যা অর্থাৎ comfortable situation। সঠিক উত্তর অপশন (B)। যেমন Life is not a bed of roses। অর্থাৎ জীবন কোনো পুষ্পশয্যা নয়। আরো কিছু গুরুত্বপূর্ণ phrase and idiom নিম্নরূপ-\n• To read between the lines: To grasp the hidden meaning\n• To along along with: To adjust\n• To keep one's head: To keep calm"
+  },
+  {
+    "id": 27,
+    "question": "Summit",
+    "options": [
+      "opponent",
+      "postpone",
+      "obvious",
+      "top",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "মূল শব্দ ও অর্থ:\n• Summit (চূড়া) - Synonyms: Top, peak\n• Opponent (প্রতিপক্ষ) - Synonyms: Adversary, enemy\n• Postpone (স্থগিত) - Synonyms: Cease, adjourn\n• Obvious (স্পষ্ট) - Synonyms: Manifest, evident"
+  },
+  {
+    "id": 28,
+    "question": "Pertinent",
+    "options": [
+      "relevant",
+      "bulky",
+      "weak",
+      "magnitude",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "মূল শব্দ ও অর্থ:\n• Pertinent (প্রাসঙ্গিক) - Synonyms: Relevant, topical\n• Bulky (বিশাল) - Synonyms: Cumbersome\n• Weak (দুর্বল) - Synonyms: Sick, forceless\n• Magnitude (বিশালতা) - Synonyms: Magnificence"
+  },
+  {
+    "id": 29,
+    "question": "Kith and kin",
+    "options": [
+      "relatives",
+      "rivers and cannels",
+      "rivalry",
+      "enrollment",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "মূলত kith and kin অর্থ friends and relatives অর্থাৎ বন্ধু ও আত্মীয়স্বজন। প্রশ্নে শুধু relatives দেয়া আছে। যেহেতু কাছাকাছি আর কোনো অপশন নেই তাহলে A সঠিক উত্তর। অন্যদিকে, rivers and cannels অর্থ নদী ও খাল, rivalry অর্থ দ্বন্দ্ব এবং enrollment অর্থ নিয়োগ, তালিকাভুক্তিকরণ। আরো কিছু গুরুত্বপূর্ণ phrase and idiom নিম্নরূপ-\n• Bottom line: The essential point\n• A round dozen: A full dozen\n• Soft soap: Flatter for self-motives\n• Dog days: Hot weather\n• Hold water: Bear examination\n• Blue blood: Aristocratic birth"
+  },
+  {
+    "id": 30,
+    "question": "White Elephant",
+    "options": [
+      "Foolish",
+      "Simple",
+      "Expensive burdensome possession",
+      "flatterer",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "White Elephant একটি idiom, যার অর্থ অপ্রয়োজনীয় অতিমাত্রায় খরচ অর্থাৎ Expensive burdensome possession। অন্যদিকে, foolish বোকা, simple অর্থ সাধারণ এবং flatterer অর্থ চাটুকার, মোসাহেব ইত্যাদি।"
+  },
+  {
+    "id": 31,
+    "question": "If 5(3a - 7) = 20, then what is the value of (3a - 8)?",
+    "options": [
+      "11/3",
+      "14",
+      "0",
+      "3",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "দেয়া আছে, 5(3a - 7) = 20\n⇒ 3a - 7 = 4\n⇒ 3a - 7 - 1 = 4 - 1\n∴ 3a - 8 = 3"
+  },
+  {
+    "id": 32,
+    "question": "Jui is now twice as old as Azim is, but 6 years ago, she was 5 times as old as Azim was. How old is Jui now?",
+    "options": [
+      "10 years",
+      "16 years",
+      "20 years",
+      "24 years",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "মনে করি, আজিমের বয়স x এবং জুঁইয়ের বয়স 2x বছর।\nপ্রশ্নমতে, 2x - 6 = 5(x - 6)\n⇒ 2x - 6 = 5x - 30\n⇒ 5x - 2x = 30 - 6\n⇒ 3x = 24\n∴ x = 8\nসুতরাং জুঁইয়ের বয়স = 2x = 2 × 8 = 16 বছর।"
+  },
+  {
+    "id": 33,
+    "question": "In a class, the ratio of the number of boys to girls is 6:3. What percent of the members of the club are girls?",
+    "options": [
+      "33.3%",
+      "50%",
+      "60%",
+      "62.5%",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "শ্রেণিতে ছেলে ও মেয়ে অনুপাত = 6 : 3 = 2 : 1\n∴ ক্লাবে মেয়ে সদস্যের শতকরা হার = 1/3 × 100 = 33.3%"
+  },
+  {
+    "id": 34,
+    "question": "If 7x + 3y = 17 and 3x + 7y = 19, what is the average of x and y?",
+    "options": [
+      "1.55",
+      "2.05",
+      "1.8",
+      "3.6",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "7x + 3y = 17 ............(i)\n3x + 7y = 19 ............(ii)\nযোগ করে পাই, 10x + 10y = 36\n⇒ x + y = 3.6\n∴ গড় = (x + y)/2 = 3.6/2 = 1.8"
+  },
+  {
+    "id": 35,
+    "question": "What value of x satisfies the equation x - 1 = 1 - x.",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "-2",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "দেওয়া আছে, x - 1 = 1 - x\n⇒ x + x = 1 + 1\n⇒ 2x = 2\n⇒ x = 1"
+  },
+  {
+    "id": 36,
+    "question": "The average of A and B is 30, and the average of B and C is 20. What is the value of (A - C)/2?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "দেওয়া আছে, (A + B)/2 = 30\n∴ A + B = 60 ............(i)\n(B + C)/2 = 20\n∴ B + C = 40 ............(ii)\n(i) থেকে (ii) বিয়োগ করে পাই,\nA - C = 20\n∴ (A - C)/2 = 20/2 = 10"
+  },
+  {
+    "id": 37,
+    "question": "A book sold at a discounted price. If it had a regular price of tk. 300 and was sold for tk. 276, how much discount was applied?",
+    "options": [
+      "7%",
+      "8%",
+      "9%",
+      "10%",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "দেয়া আছে, প্রকৃত মূল্য = 300 টাকা এবং বিক্রয়মূল্য = 276 টাকা\nসুতরাং নির্ণেয় শতকরা ছাড় = {(300 - 276) / 300} × 100 = (24 / 300) × 100 = 8%"
+  },
+  {
+    "id": 38,
+    "question": "When 9 is added to one fourth of a number, the result is 19. What is the number?",
+    "options": [
+      "10",
+      "15",
+      "40",
+      "25",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "ধরি, সংখ্যাটি x\nপ্রশ্নমতে, x/4 + 9 = 19\n⇒ x/4 = 19 - 9\n⇒ x/4 = 10\n∴ x = 40"
+  },
+  {
+    "id": 39,
+    "question": "If the diameter of a circle is decreased by 100%, by what percentage is the area of the circle decreased?",
+    "options": [
+      "500%",
+      "400%",
+      "300%",
+      "200%",
+      "None"
+    ],
+    "answer": "E",
+    "explanation": "আমরা জানি, বৃত্তের ব্যাস যদি x% হ্রাস হয় তবে\n∴ ক্ষেত্রফল শতকরা হ্রাস = -x - x + (x × x)/100\nবৃত্তের ক্ষেত্রফল হ্রাস = -100 - 100 + (100 × 100)/100 = -200 + 100 = -100\nসুতরাং ক্ষেত্রফল 100% কমে। উত্তর হবে none।"
+  },
+  {
+    "id": 40,
+    "question": "If a = 4b, what percentage of 2a is 2b?",
+    "options": [
+      "10%",
+      "12%",
+      "20%",
+      "25%",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "দেয়া আছে, a = 4b\nধরি, p এর শতকরা 2a হলো 2b।\nপ্রশ্নমতে, (P / 100) এর 2a = 2b\n⇒ P = (2b / 2a) × 100\n∴ P = {2b / (2 × 4b)} × 100 = 25%"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following terms can be relate with the fourth industrial revolution?",
+    "options": [
+      "Artificial intelligence",
+      "Internet of things",
+      "Robotics",
+      "A, B and C",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "আঠার শতকের শেষদিকে এসে শিল্পোৎপাদন ক্ষেত্রে ইংল্যান্ডে যে বৈপ্লবিক পরিবর্তন সূচিত হয় সাধারণভাবে তা শিল্প বিপ্লব নামে পরিচিত। ১৮৩৭ সালে শিল্প বিপ্লব কথাটি প্রথম ব্যবহার করেন ফরাসি সমাজতান্ত্রিক লেখক জেরোমি ব্লাঙ্কি।\n• ১ম শিল্প বিপ্লব (১৭৮৪): বাষ্পীয় ইঞ্জিন আবিষ্কার\n• ২য় শিল্প বিপ্লব (১৮৭০): বিদ্যুতের আবিষ্কার\n• ৩য় শিল্প বিপ্লব (১৯৬৯): ইন্টারনেটের আবিষ্কার\n• ৪র্থ শিল্প বিপ্লব (বর্তমান): ডিজিটাল বিপ্লব\nচতুর্থ শিল্প বিপ্লব হলো আধুনিক স্মার্ট প্রযুক্তি ব্যবহার করে প্রচলিত উৎপাদন এবং শিল্প ব্যবহার স্বয়ংক্রিয়করণের একটি চলমান প্রক্রিয়া। কৃত্রিম বুদ্ধিমত্তা, আইওটি বা ইন্টারনেট অব থিংস, রোবোটিক্স প্রভৃতি চতুর্থ শিল্প বিপ্লবের অন্যতম উপকরণ।"
+  },
+  {
+    "id": 42,
+    "question": "To which sport is the name ‘Michael Phelps’ related?",
+    "options": [
+      "Rugby",
+      "Swimming",
+      "Baseball",
+      "Basketball",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "মাইকেল ফেলপস বিখ্যাত আমেরিকান সাঁতারু। অলিম্পিকের ইতিহাসে সর্বোচ্চ ২৮টি পদক লাভ করেন তিনি। ‘দি বাল্টিমোর বুলেট’ ও ‘ফ্লাইং ফিশ’ খ্যাত এ সাঁতারু ২০১৬ সালে অবসরে যান।"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following cities is not a capital of a country?",
+    "options": [
+      "Washington DC",
+      "New York",
+      "Paris",
+      "London",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "নিউইয়র্ক যুক্তরাষ্ট্রের একটি অঙ্গরাজ্য। বৈশ্বিক পর্যায়ে বহুলাংশে এ শহরটি আলোচিত হলেও যুক্তরাষ্ট্রের রাজধানী কিন্তু ওয়াশিংটন ডিসি। যুক্তরাজ্য ও ফ্রান্সের রাজধানী যথাক্রমে লন্ডন ও প্যারিস।"
+  },
+  {
+    "id": 44,
+    "question": "From which year has the International Mother Language Day been observed?",
+    "options": [
+      "1998",
+      "1999",
+      "2000",
+      "2001",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "১৯৯৯ সালের ১৭ নভেম্বর ইউনেস্কো কর্তৃক বাংলা ভাষাকে আন্তর্জাতিক মাতৃভাষা দিবসের স্বীকৃতি দেয়া হয় এবং ২০১০ সালে জাতিসংঘের সাধারণ পরিষদ ‘এখন থেকে প্রতিবছর একুশে ফেব্রুয়ারি আন্তর্জাতিক মাতৃভাষা দিবস হিসেবে পালিত হবে’ প্রস্তাবটি সর্বসম্মতিক্রমে গৃহীত হয়। ২০০০ সালের ২১ ফেব্রুয়ারি বিশ্বের ১৮৮টি দেশে সর্বপ্রথম আন্তর্জাতিক মাতৃভাষা দিবস পালিত হয়। আন্তর্জাতিক মাতৃভাষা ইনস্টিটিউট বাংলাদেশের ঢাকায় অবস্থিত।"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is the highest authority for approving the economic policies and development plans in Bangladesh?",
+    "options": [
+      "Planning Commission",
+      "Ministry of Finance",
+      "Minstry of Law",
+      "ECNEC",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "বাংলাদেশে প্রকল্প অনুমোদনের ক্ষেত্রে সর্বোচ্চ সিদ্ধান্ত গ্রহণকারী পরিষদ হলো - জাতীয় অর্থনৈতিক কাউন্সিলের নির্বাহী কমিটি (ECNEC: Executive Committee of the National Economic Council)। প্রধানমন্ত্রী একনেকের সভাপতি এবং অর্থমন্ত্রী বিকল্প সভাপতি। এটি প্রতিষ্ঠিত হয় ১৯৮২ সালে।"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following counties does not have a written constitution?",
+    "options": [
+      "India",
+      "Bangladesh",
+      "England",
+      "The USA",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "ইংল্যান্ডের কোনো লিখিত সংবিধান নেই। ঐতিহ্যবাহী প্রথা-পদ্ধতি, সংস্কৃতি ও ম্যাগনাকার্টা এবং লিখিত কিছু আর্টিকেলের সমন্বয় হলো দেশটির সংবিধান।"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following organizations is concerned with environmental issues?",
+    "options": [
+      "OIC",
+      "MIGA",
+      "IPCC",
+      "WMO",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "জাতিসংঘের জলবায়ু পরিবর্তন বিষয়ক আন্তঃরাষ্ট্রীয় প্রতিষ্ঠান হলো IPCC যার পূর্ণরূপ Intergovernmental Panel on Climate Change। WMO ও UNEP এর প্রচেষ্টায় IPCC ১৯৮৮ সালে গঠিত হয়। ১৯৫ সদস্যবিশিষ্ট সংস্থাটির সদর দপ্তর সুইজারল্যান্ডের জেনেভায় অবস্থিত।"
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following is the ancient name of Barisal?",
+    "options": [
+      "Venice of Bangal",
+      "Islampur",
+      "Chandra Deep",
+      "Fatehabad",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "বাংলাদেশের কয়েকটি প্রাচীন জনপদের নাম এবং তাদের বর্তমান অবস্থান নিম্নরূপ:\n• পুণ্ড্র: বগুড়া (মহাস্থানগড়), রাজশাহী, রংপুর, দিনাজপুর\n• বরেন্দ্র: বগুড়া, দিনাজপুর ও রাজশাহী জেলার অনেক অঞ্চল এবং পাবনা\n• বঙ্গ: বৃহত্তর ঢাকা, ফরিদপুর, বাগেরগঞ্জ ও পটুয়াখালী\n• সমতট: বৃহত্তর কুমিল্লা ও নোয়াখালী\n• চন্দ্রদ্বীপ: বরিশাল, পিরোজপুর, মাদারীপুর, গোপালগঞ্জ, খুলনা\n• গৌড়: মালদহ, মুর্শিদাবাদ, বীরভূম, বর্ধমান ও চাঁপাইনবাবগঞ্জ\n• রাঢ়: বর্ধমান জেলা\n• হরিকেল: সিলেট ও চট্টগ্রাম\n• তাম্রলিপ্ত: মেদিনীপুর"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is the longest marine drive in the world?",
+    "options": [
+      "Cox's Bazar-Teknaf",
+      "Mumbai",
+      "Nova-Scotia",
+      "Kochi",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "কক্সবাজার থেকে টেকনাফ পর্যন্ত ৮০ কিমি দীর্ঘ বঙ্গোপসাগরের কূল ঘেষে নির্মিত রাস্তাটির নাম ‘কক্সবাজার-টেকনাফ মেরিন ড্রাইভ’। এটি বিশ্বের দীর্ঘতম মেরিন ড্রাইভ। এটি উদ্বোধন করা হয় ২০১৭ সালে।"
+  },
+  {
+    "id": 50,
+    "question": "How many seats are reserved for women in the Parliament of Bangladesh?",
+    "options": [
+      "30",
+      "45",
+      "50",
+      "10",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "বাংলাদেশে সংসদে নির্বাচিত সংসদ সদস্যদের আসন সংখ্যা ৩০০টি। বাংলাদেশ সংবিধানের পঞ্চদশ সংশোধনীর মাধ্যমে ২০১১ সালে জাতীয় সংসদে সংরক্ষিত নারী আসন সংখ্যা ৪৫ থেকে বৃদ্ধি করে ৫০টি করা হয় এবং সংবিধানের সপ্তদশ সংশোধনীর মাধ্যমে সংরক্ষিত নারী আসনের সময়সীমা ২৫ বছর বৃদ্ধি করা হয়।"
+  },
+  {
+    "id": 51,
+    "question": "Which is the first sea shore gas field in Bangladesh?",
+    "options": [
+      "Bakhrabad",
+      "Sangu",
+      "Semutang",
+      "Srikail",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "১৯৫৫ সালে বার্মা অয়েল কোম্পানি সিলেটের হরিপুরে বাংলাদেশের প্রথম গ্যাসক্ষেত্র আবিষ্কার করে। ১৯৫৭ সালে এই গ্যাসক্ষেত্র থেকে প্রথম গ্যাস উত্তোলন শুরু হয়। বর্তমানে বাংলাদেশে ২৯টি গ্যাসক্ষেত্র আছে। বাংলাদেশের কয়েকটি গুরুত্বপূর্ণ গ্যাসক্ষেত্রের নাম ও অবস্থান নিম্নরূপ:\n• বিয়ানীবাজার: সিলেট\n• ফেঞ্চুগঞ্জ: সিলেট\n• কৈলাশটিলা: সিলেট\n• বিবিয়ানা: হবিগঞ্জ\n• ছাতক: সুনামগঞ্জ\n• তিতাস: ব্রাহ্মণবাড়িয়া\n• সালদা নদী: ব্রাহ্মণবাড়িয়া\n• কুতুবদিয়া: কক্সবাজার\n• কামতা: গাজীপুর\n• রূপগঞ্জ: নারায়ণগঞ্জ\n• বাখরাবাদ: কুমিল্লা\n• বেগমগঞ্জ: নোয়াখালী\n• শাহবাজপুর: ভোলা\n• সেমুতাং: খাগড়াছড়ি\n• সাঙ্গু: বঙ্গোপসাগর\nবর্তমানে বাংলাদেশের ২৯টি গ্যাসক্ষেত্রের মধ্যে সাঙ্গু (প্রথম) এবং কুতুবদিয়া গ্যাসক্ষেত্র সাগরের মাঝে অবস্থিত। কেয়ার্ন এনার্জি ১৯৯৬ সালে সাঙ্গু গ্যাস ক্ষেত্রটি আবিষ্কার করে।"
+  },
+  {
+    "id": 52,
+    "question": "Which organization publishes Banglapedia?",
+    "options": [
+      "Bangla Academy",
+      "Asiatic Society of Bangladesh",
+      "University of Dhaka",
+      "BG Press",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "১৯৭৮ সালে বিশ্বসাহিত্য কেন্দ্র প্রতিষ্ঠিত হয় এবং এর উদ্যোক্তা আবদুল্লাহ আবু সায়ীদ। এটি বাংলাদেশের একটি সামাজিক সংগঠন যার মূল লক্ষ্য কিশোর এবং যুব সমাজকে ‘আলোকিত মানুষ’ হিসেবে গড়ে তোলা এবং এর মূল কার্যালয় ঢাকার বাংলা মটর এলাকায় অবস্থিত। উল্লেখ্য, ২০০৩ সালে বাংলাদেশ এশিয়াটিক সোসাইটি কর্তৃক ‘বাংলাপিডিয়া’ নামক ‘এনসাইক্লোপিডিয়া’ প্রকাশিত হয় এবং এর সম্পাদক সিরাজুল ইসলাম। বর্তমানে এটি ১৪ খণ্ডে প্রকাশিত হচ্ছে।"
+  },
+  {
+    "id": 53,
+    "question": "The Montreal Protocol is a multilateral environmental agreement aimed at restoring ______.",
+    "options": [
+      "Ozone layer",
+      "Wetlands",
+      "Glaciers",
+      "Soil productivity",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "কানাডার মন্ট্রিয়েলে ১৯৮৭ সালের ১৬ সেপ্টেম্বর বায়ুমণ্ডলের ওজন স্তরকে রক্ষার জন্য যে চুক্তি স্বাক্ষরিত হয় তাই মন্ট্রিল প্রোটোকল। এ প্রোটোকল বা চুক্তি ১ জানুয়ারি ১৯৮৯ কার্যকর হয়।\nকার্টাগেনা প্রোটোকল হলো ২৯ জানুয়ারি, ২০০০ কানাডার মন্ট্রিয়েলে গৃহীত জাতিসংঘের জৈব নিরাপত্তা বিষয়ক একটি চুক্তি। এটি কার্যকর হয় ১১ সেপ্টেম্বর, ২০০৩।\nকিয়োটো প্রোটোকল পরিবেশ বিষয়ক একটি আন্তর্জাতিক চুক্তি। বৈশ্বিক উষ্ণতা এবং জলবায়ু পরিবর্তন রোধে UNFCCC এর উদ্যোগে জাপানের কিয়োটোতে ১৯৯৭ সালের ১১ ডিসেম্বর এটি গৃহীত হয় এবং ২০০৫ সালের ১৬ ফেব্রুয়ারি তা কার্যকর হয়।"
+  },
+  {
+    "id": 54,
+    "question": "Which is the third highest gallantry award in Bangladesh?",
+    "options": [
+      "Bir Protik",
+      "Bir Bikram",
+      "Bir Sreshtha",
+      "Bir Uttam",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "১৯৭৩ সালের ১৫ ডিসেম্বর মুক্তিযুদ্ধে কৃতিত্বপূর্ণ অবদান রাখার জন্য ৬৭৬ জনকে ৪ ধরনের খেতাব প্রদান করা হয়। মর্যাদা অনুসারে সেগুলো হলো- বীরশ্রেষ্ঠ ৭ জন, বীর উত্তম ৬৮ জন, বীর বিক্রম ১৭৫ জন এবং বীর প্রতীক ৪২৬ জন। ৬ জুন, ২০২১ বঙ্গবন্ধু হত্যা মামলায় দণ্ডিত চার জনের খেতাব বাতিল করা হয়। তাই বর্তমান খেতাব প্রাপ্ত মুক্তিযোদ্ধার সংখ্যা হলো- বীরশ্রেষ্ঠ- ৭ জন, বীরউত্তম - ৬৭ জন, বীরবিক্রম - ১৭৪ জন, বীরপ্রতীক- ৪২৪ জন।"
+  },
+  {
+    "id": 55,
+    "question": "The Head Quarter of UNESCO is located at ______.",
+    "options": [
+      "New York",
+      "Paris",
+      "Geneva",
+      "Rome",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "United Nations Educational Scientific and Cultural Organization এর সংক্ষিপ্ত রূপ হচ্ছে UNESCO। ১৬ নভেম্বর ১৯৪৫-এ প্রতিষ্ঠিত UNESCO-এর সদর দপ্তর ফ্রান্সের প্যারিসে অবস্থিত।"
+  },
+  {
+    "id": 56,
+    "question": "Which one is the largest tribe in Bangladesh?",
+    "options": [
+      "The Chakma",
+      "The Monipuri",
+      "The Marma",
+      "The Garo",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "বাংলাদেশে বসবাস করা ৫০টি ক্ষুদ্র নৃ-গোষ্ঠীর মধ্যে সর্ববৃহৎ ক্ষুদ্র নৃ-গোষ্ঠী হলো চাকমা। আর দ্বিতীয় বৃহত্তম হলো সাঁওতাল। চাকমা সমাজের প্রধানকে বলা হয় চাকমা রাজা।"
+  },
+  {
+    "id": 57,
+    "question": "The name of the central bank of India is ______",
+    "options": [
+      "Reserve Bank of India.",
+      "Central Bank of India.",
+      "State Bank of India",
+      "Bank of India",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "কয়েকটি গুরুত্বপূর্ণ দেশের কেন্দ্রীয় ব্যাংকের নাম নিম্নরূপ-\n• যুক্তরাজ্য: ব্যাংক অব ইংল্যান্ড\n• ফ্রান্স: ব্যাংক অব ফ্রান্স\n• জাপান: ব্যাংক অব জাপান\n• সুইজারল্যান্ড: দি সুইস ন্যাশনাল ব্যাংক\n• তুরস্ক: মারকাজ ব্যাংকাসি/ সেন্ট্রাল ব্যাংক অব রিপাবলিক অব টার্কি\n• ভারত: রিজার্ভ ব্যাংক অব ইন্ডিয়া\n• পাকিস্তান: স্টেট ব্যাংক অব পাকিস্তান\n• অস্ট্রেলিয়া: রিজার্ভ ব্যাংক অব অস্ট্রেলিয়া\n• বাংলাদেশ: বাংলাদেশ ব্যাংক"
+  },
+  {
+    "id": 58,
+    "question": "Recently, in last series, Bangladesh cricket team has completed their first T20 international series win against ______.",
+    "options": [
+      "India",
+      "New Zealand",
+      "South Africa",
+      "England",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "আপডেট তথ্য:\nপরবর্তী টি ২০ বিশ্বকাপ:\n• ৯ম (২০২৪): ওয়েস্ট ইন্ডিজ ও যুক্তরাষ্ট্র\n• ১০ম (২০২৬): ভারত\n• ১১তম (২০২৮): অস্ট্রেলিয়া ও নিউজিল্যান্ড\n• ১২তম (২০৩০): ইংল্যান্ড, স্কটল্যান্ড ও আয়ারল্যান্ড"
+  },
+  {
+    "id": 59,
+    "question": "How many types of COVID-19 vaccines are being approved to use in Bangladesh?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "8",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "বাংলাদেশ ঔষধ প্রশাসন অধিদপ্তর এখন পর্যন্ত করোনা ভাইরাসের সাতটি টিকার অনুমোদন দিয়েছে। টিকাগুলো হলো Comirnaty, Janssen, Vaxzevria Covishield, Moderna, BBIBP-CorV, Corona Vac এবং Sputnik-V।"
+  },
+  {
+    "id": 60,
+    "question": "Recently, which of the following category 4 hurricanes hit USA?",
+    "options": [
+      "Maria",
+      "Irma",
+      "Ida",
+      "Dorian",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "২৯ আগস্ট ২০২১ যুক্তরাষ্ট্রের দক্ষিণ উপকূলে আঘাত হানে হারিকেন আইডা। আটলান্টিক মহাসাগরে সৃষ্ট এ হারিকেন ছিল ৪ ক্যাটাগরির।"
+  },
+  {
+    "id": 61,
+    "question": "What is name of the feature of MS Office that saves the document automatically after certain interval?",
+    "options": [
+      "Save",
+      "Save as",
+      "Backup",
+      "Auto Save",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Auto save, MS Word এর এমন একটি বৈশিষ্ট্য, যার মাধ্যমে নির্দিষ্ট সময়ের ব্যবধানে স্বয়ংক্রিয়ভাবে Document সংরক্ষণ হয়।"
+  },
+  {
+    "id": 62,
+    "question": "In MS Word, Footers are printed on ______ by default.",
+    "options": [
+      "First page",
+      "Last page",
+      "Odd pages",
+      "All pages",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "স্বভাবত MS Word-এ Header এবং Footer সকল পৃষ্ঠাতেই প্রদর্শিত হয়।"
+  },
+  {
+    "id": 63,
+    "question": "In MS Word, the options Portrait and Landscape come under______.",
+    "options": [
+      "Paper size",
+      "Paper orientation",
+      "page rotation",
+      "Page layout",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "MS Word-এর layout অপশনের paper orientation-এর মাধ্যমে ডকুমেন্টকে portrait বা landscape মোডে নেওয়া যায়।"
+  },
+  {
+    "id": 64,
+    "question": "Which one of the following is called the basic unit of a worksheet into which data are entered in Excel?",
+    "options": [
+      "Tab",
+      "Cell",
+      "Box",
+      "Range",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "এক্সেল ওয়ার্কশীটে মৌলিক একক হলো আয়তাকার ছোট ছোট ঘর যা cell নামে পরিচিত। এক্সেলের একটি ওয়ার্কশীটে মোট সেলের সংখ্যা ১,৬৭,৭৭,২১৬টি। কলাম ও সারির সংযোগস্থলে অবস্থিত ঘরটিকে ঐ ঘরের অবস্থান হিসেবে উল্লেখ করা হয়। কোনো ঘর বা সেল নির্দিষ্ট করে বুঝাতে $ চিহ্ন ব্যবহৃত হয়। ওয়ার্কশীটের পাশাপাশি আয়তাকার কতকগুলো সেলকে একসাথে একটি রেঞ্জ বলা হয়। হিসাব-নিকাশ, বাজেট প্রণয়ন ও ব্যবস্থাপনাসহ বিভিন্ন কাজে বর্তমানে এক্সেলের ব্যবহার দিন দিন বৃদ্ধি পাচ্ছে।"
+  },
+  {
+    "id": 65,
+    "question": "In MS Excel, if you need to compare values over categories what type of chart would you use?",
+    "options": [
+      "Line chart",
+      "Dot chart",
+      "Pie chart",
+      "Column chart",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "এমএস এক্সেলে value তুলনা করার জন্য column chart ব্যবহার করা হয়।\nশতকরায় হিসাব দেখানোর জন্য pie chart ব্যবহার করা হয়।\nসময়ের সাথে উপাত্তের পরিবর্তন দেখানোর জন্য line chart ব্যবহৃত হয়।"
+  },
+  {
+    "id": 66,
+    "question": "A formula in Excel always begins with an ______ sign.",
+    "options": [
+      "Equal",
+      "Colon",
+      "Comma",
+      "Semi-colon",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "MS Excel-এ কোনো ফর্মূলা (=) চিহ্ন দিয়ে শুরু করা হয়। যেমন: =sum(A1:A5)।"
+  },
+  {
+    "id": 67,
+    "question": "You want track the progress of the stock market on a daily basis. Which type of chart should you use?",
+    "options": [
+      "Pie chart",
+      "Row chart",
+      "Line chart",
+      "Dot chart",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "সময়ের সাথে উপাত্তের পরিবর্তন দেখানোর জন্য line chart ব্যবহার করা হয়। শতকরা হিসাব প্রকাশের জন্য pie chart ব্যবহার করা হয়।"
+  },
+  {
+    "id": 68,
+    "question": "Web pages are written using______.",
+    "options": [
+      "FTP",
+      "HTP",
+      "HTML",
+      "URL",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "HTML-এর পূর্ণরূপ Hypertext Markup Language, যা ওয়েবসাইট তৈরিতে ব্যবহৃত হয়। FTP বা File Transfer Protocol, এবং HTTP বা Hypertext Transfer Protocol হলো প্রোটোকল। অপরদিকে URL হলো Uniform Resource Locator।"
+  },
+  {
+    "id": 69,
+    "question": "In MS Word, which of the following shortcut keys are used for aligning text to center?",
+    "options": [
+      "Ctrl + E",
+      "Ctrl + C",
+      "Ctrl + M",
+      "Ctrl + J",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "কীবোর্ড কমান্ড ও কাজ:\n• Ctrl+E : Central Alignment\n• Ctrl+L : Left Alignment\n• Ctrl+R : Right Alignment\n• Ctrl+J : Justify Alignment\n• Ctrl+N : Open a new window\n• Ctrl+H : Replace\n• Ctrl+F : Find"
+  },
+  {
+    "id": 70,
+    "question": "In MS Power Point, which function Key in the keyboard is used as a shortcut for starting slideshow?",
+    "options": [
+      "F2",
+      "F3",
+      "F4",
+      "F5",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "মাইক্রোসফট পাওয়ার পয়েন্টে তৈরিকৃত স্লাইড মনিটরের পুরো পর্দা জুড়ে প্রদর্শনের জন্য Slide show ক্লিক করতে হয়। অথবা কী-বোর্ড থেকে F5 চাপলে স্লাইডটি প্রদর্শিত হবে। Ctrl+M চাপলে নতুন স্লাইড তৈরি হয়।"
+  },
+  {
+    "id": 71,
+    "question": "A function inside another function is know as –",
+    "options": [
+      "Round function",
+      "Sandwich function",
+      "Switch function",
+      "Nested function",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "কম্পিউটার প্রোগ্রামিং-এ নেস্টেড ফাংশন বলতে এমন একটি ফাংশনকে বোঝায়, যে ফাংশন অন্য একটি ফাংশনের মধ্যে সংজ্ঞায়িত করা হয়।"
+  },
+  {
+    "id": 72,
+    "question": "In MS Excel, which of the following is an absolute cell reference?",
+    "options": [
+      "!B!1",
+      "$B$1",
+      "#b#1",
+      "D. B!1",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "এক্সেল ওয়ার্কশীটে মৌলিক একক হলো আয়তাকার ছোট ছোট ঘর যা cell নামে পরিচিত। এক্সেলের একটি ওয়ার্কশীটে মোট সেলের সংখ্যা ১,৬৭,৭৭,২১৬টি। কলাম ও সারির সংযোগস্থলে অবস্থিত ঘরটিকে ঐ ঘরের অবস্থান হিসেবে উল্লেখ করা হয়। যেমন- B কলামের এবং 1 নং সারির সংযোগস্থলে অবস্থিত ঘরটি হচ্ছে $B$1।"
+  },
+  {
+    "id": 73,
+    "question": "Long text can be broken down in many lines within a cell. This can be done using ______.",
+    "options": [
+      "Conditional formatting",
+      "Wrap text",
+      "Merge",
+      "Justify",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "MS Excel-এ টেক্সট wrap করা যায়। যার মাধ্যমে একটি সেলে একাধিক লাইন লেখা যায়। Automatically এবং manually দুই ভাবেই text wrap করা যায়।"
+  },
+  {
+    "id": 74,
+    "question": "What is role of COUNTA function in excel?",
+    "options": [
+      "Counts cells having alphabets",
+      "Counts cells meeting certain condition",
+      "Counts empty cells",
+      "Counts non-empty cells",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "এক্সেলে counta function-এর কাজ হলো কোনো একটি সেলে কিছু লেখা আছে নাকি ফাঁকা আছে সেটা চেক করে গণনা করা। অপরদিকে, শর্তসাপেক্ষে গণনা করার জন্য if ফাংশন ব্যবহার করা হয়।"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following function is used to find the highest number in a series?",
+    "options": [
+      "HIGH (A1 : A10)",
+      "MIN (A1:A10)",
+      "MAX(A1 : A10)",
+      "SUM (A1:A10)",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "এক্সেলে একটি সিরিজে সর্বোচ্চ সংখ্যাটি খুঁজে বের করার জন্য MAX, সর্বনিম্নটির জন্য MIN, যোগফল নির্ণয়ের জন্য SUM ফাংশন ব্যবহার করা হয়।"
+  },
+  {
+    "id": 76,
+    "question": "Which of following syntax is correct in using the SUM function in Excel?",
+    "options": [
+      "= SUM(A20 : C20)",
+      "=SUM(A20, C20)",
+      "= SUM(A20 + C20)",
+      ":SUM(A20:C20)",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "এক্সেলে কোনো ফর্মুলা লিখতে হলে প্রথমে equal (=) চিহ্ন দিতে হয়। অতঃপর SUM লিখে প্রথম বন্ধনীর মধ্যে সীমা নির্ধারণ করে দিতে হয় এবং প্রথম ও শেষ সীমার মাঝে : (কোলন) দিতে হয়।"
+  },
+  {
+    "id": 77,
+    "question": "In MS Word, which one of the following options is used to create different formatting for different sections?",
+    "options": [
+      "Section break",
+      "Section formatting",
+      "Page break",
+      "Page section"
+    ],
+    "answer": "A",
+    "explanation": "MS Word একটি লেখালেখি করার অ্যাপ্লিকেশন সফটওয়্যার। MS Word-এর ভিন্ন ভিন্ন সেকশনে ভিন্ন ফরম্যাটিং এর জন্য section break ব্যবহার করা হয়।"
+  },
+  {
+    "id": 78,
+    "question": "Which function in Excel checks whether a condition in true or not?",
+    "options": [
+      "SUM",
+      "COUNT",
+      "IF",
+      "AVERAGE",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "IF ফাংশন এর সাহায্যে শর্তারোপ করে শর্তের ভিত্তিতে ফলাফল প্রদর্শন করা যায়। শর্ত যদি সত্য হয় তাহলে সূত্রটি x ঘরের তথ্যাবলি প্রকাশ করে এবং শর্তটি যদি মিথ্যা হয় তাহলে y ঘরের তথ্যাবলি প্রকাশ করে।"
+  },
+  {
+    "id": 79,
+    "question": "In Excel, Row are labelled as ______.",
+    "options": [
+      "A, B, C, etc",
+      "1, 2, 3 etc",
+      "A1, A2, etc",
+      "SAS1, SAS2, etc",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "MS Excel-এ 1, 2, 3.......দ্বারা Row এবং A, B, C.....দ্বারা column চিহ্নিত করা হয়।"
+  },
+  {
+    "id": 80,
+    "question": "Which one is not a Function in MS Excel?",
+    "options": [
+      "SUM",
+      "AVG",
+      "MAX",
+      "MIN",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "MS Excel-এ SUM দ্বারা যোগফল; MAX দ্বারা সর্বোচ্চ ভ্যালু; MIN দ্বারা সর্বনিম্ন ভ্যালু নির্ণয় করা হয়। গড় ফল নির্ণয়ের জন্য AVERAGE ফাংশন ব্যবহার করা হয়; AVG নয়।"
+  },
+  {
+    "id": 81,
+    "question": "Part-II : Descriptive Questions (20 Marks)\n01. In Bangladesh, nowadays 80% of people have access to the power facility, whereas it was only 20% of people in 2000. Though natural gas is the main raw material for power generation, the use of renewable energy like hydropower, solar and wind power is being increased. Recently, Bangladesh has introduced new 'Energy Policy' through which it is proceeding towards renewable sources of power. [5 Marks]",
+    "options": [],
+    "answer": "",
+    "explanation": "Descriptive prompt as printed in exam."
+  },
+  {
+    "id": 82,
+    "question": "Part-II : Descriptive Questions\n02. Write an Essay of Covid-19 Impact on Economy of Bangladesh. [10 Marks]",
+    "options": [],
+    "answer": "",
+    "explanation": "Essay writing prompt as printed in exam."
+  },
+  {
+    "id": 83,
+    "question": "Part-II : Descriptive Questions\n03. Rahim gave half of his stamps to Karim, Karim gave half of his stamps to Fatima, Fatema gave 1/4 of stamps given to the Tonmoy and kept the remaining 12. How many stamps did Rahim start with? [5 Marks]",
+    "options": [],
+    "answer": "64",
+    "explanation": "Solution: Let Rahim start with x stamps.\nRahim gave Karim = x/2\nKarim gave Fatima = x/4\nFatima gave Tonmoy = x/16\nAccording to the questions,\nx - x/2 - x/4 - x/16 = 12\n⇒ (16x - 8x - 4x - x)/16 = 12\n⇒ (16x - 13x)/16 = 12\n⇒ 3x/16 = 12\n⇒ x = (12 × 16) / 3\n∴ x = 64\n∴ Rahim start with 64 stamps.\nAns: 64."
+  }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "question": "01. 'নৃপতি' শব্দের অর্থ কী?",
+        "options": [
+            "রাজা",
+            "স্বামী",
+            "নাপিত",
+            "মাতব্বর"
+        ],
+        "answer": "রাজা",
+        "explanation": "ব্যাখ্যা (উত্তর: A): 'নৃপতি' শব্দের সমার্থক শব্দসমূহ হলো -রাজা, রাজ্যপাল, নরপাল, দণ্ডপাল, দণ্ডপালক, নরেশ, নৃপ, নৃপতি, নরপতি, ভূপাল, মহীপাল, দণ্ডধর, নরেন্দ্র, ক্ষিতিপ, প্রজাধিপ, ক্ষিতিপাল, ক্ষিতিপতি, শাসক, নৃপ, সম্রাট, মহীনাথ, মহীন্দ্র, মহীপ, মহীপতি, মহীশ, ক্ষিতিনাথ, ক্ষিতীশ।"
+    },
+    {
+        "id": 2,
+        "question": "02. কোন বানানটি শুদ্ধ?",
+        "options": [
+            "নিবৃত্ত",
+            "নিরাস",
+            "নিবিড়",
+            "সবগুলোই"
+        ],
+        "answer": "সবগুলোই",
+        "explanation": "ব্যাখ্যা (উত্তর: D): উপরিউক্ত শব্দগুলোর মধ্যে সবগুলোই (A, B, C) শুদ্ধ। 'নিবৃত্ত' শব্দের অর্থ : বিরত। 'নিরাস' শব্দের অর্থ : প্রত্যাখ্যান। 'নিবিড়' শব্দের অর্থ : ঘন।"
+    },
+    {
+        "id": 3,
+        "question": "03. এক কথায় প্রকাশ করুন: 'যে নারীর হিংসা নেই'",
+        "options": [
+            "অহিংস",
+            "অবলা",
+            "প্রিয়ংবদা",
+            "অনসূয়া"
+        ],
+        "answer": "অনসূয়া",
+        "explanation": "ব্যাখ্যা (উত্তর: D): নারী সম্পর্কিত কিছু গুরুত্বপূর্ণ বাক্য সংক্ষেপণ নিম্নরূপ-\n\n| বাক্য | সংক্ষেপণ |\n| :--- | :--- |\n| যে নারী অন্য কারও প্রতি আসক্ত হয় না | অনন্যা |\n| প্রিয় বাক্য বলে যে | প্রিয়ভাষী |\n| যে নারীর পতি নেই, পুত্রও নেই | অবীরা |\n| নারী সুন্দরী | রামা |\n| যে নারীর স্বামী বিদেশ থাকে | প্রোষিতভর্তৃকা |\n| যে নারী নিজের বর নিজে বরণ করে নেয় | স্বয়ংবরা |\n| যে নারীর স্বামী ও পুত্র জীবিত | বীরা |\n| যে নারীর হাসি সুন্দর | সুস্মিতা |\n| যে নারীর হাসি কুটিলতা বর্জিত | শুচিস্মিতা |\n| যে নারী প্রিয় কথা বলে | প্রিয়ংবদা |\n| যে নারীর সন্তান বাঁচে না | মৃতবৎসা |\n| যে নারী সাগরে বিচরণ করে | সাগরিকা |"
+    },
+    {
+        "id": 4,
+        "question": "04. 'চয়ন' শব্দের অর্থ কী?",
+        "options": [
+            "কঠিন",
+            "স্বপ্ন",
+            "সুন্দর",
+            "সম্ভার"
+        ],
+        "answer": "সম্ভার",
+        "explanation": "ব্যাখ্যা (উত্তর: D): কিছু গুরুত্বপূর্ণ শব্দার্থ হলো\n\n| শব্দ | অর্থ | শব্দ | অর্থ | শব্দ | অর্থ |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| কুক্কুট | মোরগ | ক্রোশ | তিন কিলোমিটার | দৌবারিক | দারোয়ান |\n| চয়ন | সম্ভার | বাতুল | উন্মাদ | মৃগয়া | হরিণ শিকার |"
+    },
+    {
+        "id": 5,
+        "question": "05. শুদ্ধ বানান কোনটি?",
+        "options": [
+            "মাধ্যাকর্ষণ",
+            "মধ্যাকর্ষণ",
+            "মাধ্যাকর্ষন",
+            "মধ্যাকর্ষন"
+        ],
+        "answer": "মাধ্যাকর্ষণ",
+        "explanation": "ব্যাখ্যা (উত্তর: A): কিছু গুরুত্বপূর্ণ শব্দের বানান নিম্নরূপ-\n\n| শব্দ | শব্দ | শব্দ | শব্দ |\n| :--- | :--- | :--- | :--- |\n| প্রাণপণ | আহ্নিক | নিষ্পাপ | মাধ্যাকর্ষণ |\n| বন্দ্যোপাধ্যায় | মধ্যাহ্ন | বীণাপাণি | ক্ষুৎপিপাসা |"
+    },
+    {
+        "id": 6,
+        "question": "06. কোন বানানটি শুদ্ধ?",
+        "options": [
+            "শ্মাশাণ",
+            "শ্মশান",
+            "শ্মাশান",
+            "শশ্মান"
+        ],
+        "answer": "শ্মশান",
+        "explanation": "ব্যাখ্যা (উত্তর: B): কয়েকটি গুরুত্বপূর্ণ বানান নিম্নরূপ-\n\n| শব্দ | শব্দ | শব্দ | শব্দ |\n| :--- | :--- | :--- | :--- |\n| শাশ্বত | আহ্নিক | জ্যৈষ্ঠ | স্বতঃস্ফূর্ত |\n| পার্শ্ব | ধ্বংস | বৈশিষ্ট্য | শ্মশান |"
+    },
+    {
+        "id": 7,
+        "question": "07. কোন বানানটি শুদ্ধ?",
+        "options": [
+            "গোধূলী",
+            "গোধুলি",
+            "গোধূলি",
+            "গোধুলী"
+        ],
+        "answer": "গোধূলি",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\n\n| শব্দ | শব্দ | শব্দ | শব্দ |\n| :--- | :--- | :--- | :--- |\n| অনিষ্ট | তিতিক্ষা | ফুটনাভ | সাক্ষরতা |\n| মনোযোগ | যক্ষ্মা | মরীচিকা | গোধূলি |"
+    },
+    {
+        "id": 8,
+        "question": "08. 'প্রসূন' শব্দের অর্থ কী?",
+        "options": [
+            "বন",
+            "বৃক্ষ",
+            "পুষ্প",
+            "ফল"
+        ],
+        "answer": "পুষ্প & ফল",
+        "explanation": "ব্যাখ্যা (উত্তর: C & D): 'প্রসূন' শব্দের অর্থ-ফুল, মুকুল, ফল (তথ্যসূত্র বাংলা একাডেমি আধুনিক বাংলা অভিধান)। সে অনুযায়ী 'প্রসূন' শব্দ দিয়ে পুষ্প ও ফলকে বোঝায়।"
+    },
+    {
+        "id": 9,
+        "question": "09. 'শকট' শব্দের অর্থ কী?",
+        "options": [
+            "গাড়ি",
+            "মাছ",
+            "মধুর",
+            "গরু"
+        ],
+        "answer": "গাড়ি",
+        "explanation": "ব্যাখ্যা (উত্তর: A): কয়েকটি গুরুত্বপূর্ণ শব্দার্থ হলো-\n\n| শব্দ | অর্থ |\n| :--- | :--- |\n| স্বাক্ষর | দস্তখত |\n| শকট | গাড়ি |\n| সাক্ষর | অক্ষর সংবলিত |\n| আদ্যোপান্ত | আগাগোড়া |\n| প্রাকার | প্রাচীর |\n| দেউল | দেবালয় |\n| ঊর্ণনাভ | মাকড়সা |\n| উষ্ণীষ | পাগড়ি |\n| অপাঙ | দৃষ্টিকোণ |\n| অনিন্দ্য | নন্দিত |\n| নলি | ছোটো নল |\n| তাম্বুল | পান |"
+    },
+    {
+        "id": 10,
+        "question": "10. নিরর্থক অপব্যয় প্রকাশ করে কোনটি?",
+        "options": [
+            "মশা মারতে কামান দাগা",
+            "ভস্মে ঘি ঢালা",
+            "অধিক সন্ন্যাসীতে গাজন নষ্ট",
+            "গরু মেরে জুতা দান"
+        ],
+        "answer": "ভস্মে ঘি ঢালা",
+        "explanation": "ব্যাখ্যা (উত্তর: B): কয়েকটি গুরুত্বপূর্ণ বাগধারা নিম্নরূপ-\n\n| বাগধারা | অর্থ | বাগধারা | অর্থ | বাগধারা | অর্থ |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| ভস্মে ঘি ঢালা | নিরর্থক অপব্যয় | নবমী দশা | মূর্ছা | ডাকে ওঠা | বিক্রি হওয়া |\n| কোল্যাঁব্যাচ | বাকসর্বস্ব | ভেড়াকান্ত | শ্রেষ্ঠ বোকা | ডাকাবুকো | নির্ভীক |"
+    },
+    {
+        "id": 11,
+        "question": "11. My uncle considered — his business when it was running really low.",
+        "options": [
+            "sell",
+            "selling",
+            "to sell",
+            "to be selling"
+        ],
+        "answer": "selling",
+        "explanation": "ব্যাখ্যা (উত্তর: B): কিছু Gerund word অর্থাৎ যে সব Word এর পরে (verb+ing) হয়। Gerund words গুলো নিম্নরূপ:\n\n| Gerund Words | | | |\n| :--- | :--- | :--- | :--- |\n| Admit | Delay | Keep | Avoid |\n| Appreciate | Deny | Mention | Complete |\n| Consider | Finish | Mind | Stop |\n| Discuss | Miss | Enjoy | Postpone |\n\n-> প্রশ্নে উল্লেখিত বাক্যে Consider থাকায় এর পরের verb sell এর সাথে ing যুক্ত হয়ে selling হয়েছে।"
+    },
+    {
+        "id": 12,
+        "question": "12. I would have lent you my laptop if you — me.",
+        "options": [
+            "Could ask",
+            "would have asked",
+            "Could of asked",
+            "had asked"
+        ],
+        "answer": "had asked",
+        "explanation": "ব্যাখ্যা (উত্তর: D):\n\n| বিষয় | বিবরণ |\n| :--- | :--- |\n| মূলকথা | If clause টি যদি past perfect হয় তাহলে পরবর্তী clause টি past perfect conditional হবে। তবে if এর পরিবর্তে had দিয়েও বাক্যটি শুরু করা যেতে পারে। |\n| গঠন | If+S+past perfect (had+V3), S+(would/could/might)+have+verb in past participle+obj. |\n| উদাহরণ | I would have lent you my laptop if you had asked me. |"
+    },
+    {
+        "id": 13,
+        "question": "13. The low calorie version of the Coca Cola was developed at the — of weight conscious individuals.",
+        "options": [
+            "awareness",
+            "opinion",
+            "caprice",
+            "behest"
+        ],
+        "answer": "caprice",
+        "explanation": "ব্যাখ্যা (উত্তর: C): Awareness সচেতনতা, Opinion- ধারণা/মত, Caprice খেয়াল/আবদার, Behest কারো নির্দেশ। উপর্যুক্ত বাক্যটির অর্থ -ওজন সচেতন ব্যক্তিদের আবদারের প্রেক্ষিতে, কোকাকোলার কম ক্যালোরি সংস্করণটির উন্নয়ন করা হয়েছিল।"
+    },
+    {
+        "id": 14,
+        "question": "14. Although Asif is not a/an —, he cannot keep a regular job and relocates quite often.",
+        "options": [
+            "vagrant",
+            "stupid",
+            "imbecile",
+            "arrogant"
+        ],
+        "answer": "vagrant",
+        "explanation": "ব্যাখ্যা (উত্তর: A): Vagrant-যাযাবর, Stupid-নির্বোধ, imbecile- জড়বুদ্ধি, arrogant-উদ্ধত। উপর্যুক্ত Sentence টির শূন্যস্থানে অর্থ অনুযায়ী (A) vagrant হবে। কারণ although দ্বারা যুক্ত দুটি বাক্য পরস্পর বিপরীতার্থক ধারণা প্রদান করে।"
+    },
+    {
+        "id": 15,
+        "question": "15. If you don't know what the word means, look it — a dictionary.",
+        "options": [
+            "up; from",
+            "in; from",
+            "up; in",
+            "for;in"
+        ],
+        "answer": "up; in",
+        "explanation": "ব্যাখ্যা (উত্তর: C): Dictionary-তে word খোঁজা অর্থে look up এবং কোনো কিছুর মধ্যে বুঝাতে Preposition in বসে। সুতরাং সঠিক উত্তর (C) up; in।"
+    },
+    {
+        "id": 16,
+        "question": "16. The speaker failed to — the crowd.",
+        "options": [
+            "collaborate",
+            "stimulate",
+            "speculate",
+            "articulate"
+        ],
+        "answer": "stimulate",
+        "explanation": "ব্যাখ্যা (উত্তর: B): বক্তা জনতাকে উদ্দীপ্ত (stimulate) করতে ব্যর্থ হয়েছিল।"
+    },
+    {
+        "id": 17,
+        "question": "17. The were — guests than I expected.",
+        "options": [
+            "less",
+            "lesser",
+            "fewer",
+            "few"
+        ],
+        "answer": "fewer",
+        "explanation": "ব্যাখ্যা (উত্তর: C): Few এবং little দুটোর meaning ই same কিন্তু Few বসে plural countable noun এর সাথে এবং little বসে noncountable noun এর সাথে। এখানে guests থাকায় fewer হবে।"
+    },
+    {
+        "id": 18,
+        "question": "18. Even though she appeared —, my teacher was a very kind woman.",
+        "options": [
+            "livid",
+            "lucid",
+            "austere",
+            "allure"
+        ],
+        "answer": "austere",
+        "explanation": "ব্যাখ্যা (উত্তর: C): livid-নীল ধূসর, lucid-স্পষ্ট, austere-কঠোর, allure- প্রলুব্ধ করা। আমার শিক্ষিকাকে উগ্র/কঠোর মনে হলেও তিনি কোমল প্রকৃতির মহিলা ছিলেন।"
+    },
+    {
+        "id": 19,
+        "question": "19. The missile launch is sure to — the relationship between the two countries.",
+        "options": [
+            "end",
+            "rupture",
+            "rift",
+            "subjugate"
+        ],
+        "answer": "rupture",
+        "explanation": "ব্যাখ্যা (উত্তর: B): End-শেষ করা, rupture-সম্পর্ক ছেদ করা, rift-ফাটল ধরা, subjugate-দমন করা। দুটি দেশের মধ্যে সম্পর্ক বিচ্ছিন্ন করা অর্থে বাক্যের শূন্যস্থানে rupture শব্দটি যথাযথ।"
+    },
+    {
+        "id": 20,
+        "question": "20. He — so hard that there is no way he can fail.",
+        "options": [
+            "pleaded",
+            "toiled",
+            "swayed",
+            "persuaded"
+        ],
+        "answer": "toiled",
+        "explanation": "ব্যাখ্যা (উত্তর: B): Plead-ওকালতি করা, toil-কঠোর পরিশ্রম করা, sway-দোলানো, persuade-প্ররোচিত করা। সঠিক উত্তর (B) toiled।"
+    },
+    {
+        "id": 21,
+        "question": "Questions 21-25: Choose the word that is closest in meaning with the word underlined.\n21. Burgeon",
+        "options": [
+            "Concise",
+            "Flourish",
+            "Unanimous",
+            "Beautiful"
+        ],
+        "answer": "Flourish",
+        "explanation": "ব্যাখ্যা (উত্তর: B): Burgeon-অর্থ বিকশিত হওয়া, Concise- সংক্ষিপ্ত, Flourish-বেড়ে ওঠা, Unanimous-একমত, Beautiful- সুন্দর। সুতরাং Burgeon এবং Flourish হলো Synonymous words."
+    },
+    {
+        "id": 22,
+        "question": "22. Semblance",
+        "options": [
+            "Impression",
+            "Dismantle",
+            "Concise",
+            "Disparate"
+        ],
+        "answer": "Impression",
+        "explanation": "ব্যাখ্যা (উত্তর: A): Semblance অর্থ সাদৃশ্য/আভাস, Impression-ছাপ/আভাস, Dismantle-টুকরো টুকরো করা, Concise-সংক্ষিপ্ত, Disparate- অসম।"
+    },
+    {
+        "id": 23,
+        "question": "23. Inundate",
+        "options": [
+            "Inconsistent",
+            "Unpleasant",
+            "Submerge",
+            "Obtrusive"
+        ],
+        "answer": "Submerge",
+        "explanation": "ব্যাখ্যা (উত্তর: C): Inundate-অর্থ প্লাবিত করা/ডুবানো, Inconsistent- সামঞ্জস্যহীন, Unpleasant-অপ্রীতিকর, Submerge- ডোবানো, Obtrusive-অনধিকার চর্চা প্রবণ। সুতরাং সঠিক উত্তর (C)।"
+    },
+    {
+        "id": 24,
+        "question": "24. Inexplicable",
+        "options": [
+            "Massive",
+            "Conducting",
+            "Excess",
+            "Preplexing"
+        ],
+        "answer": "Preplexing",
+        "explanation": "ব্যাখ্যা (উত্তর: D): Inexplicable-অর্থ ব্যাখ্যাতীত, জটিল, Massive- বিশাল, Conducting-সহায়ক, Excess-অতিরিক্ত, Preplexing- হতবুদ্ধি/ জটিল। অতএব সঠিক উত্তর (D)।"
+    },
+    {
+        "id": 25,
+        "question": "25. Humility",
+        "options": [
+            "Bravery",
+            "Modesty",
+            "Insult",
+            "Severe"
+        ],
+        "answer": "Modesty",
+        "explanation": "ব্যাখ্যা (উত্তর: B): Humility-বিনয়, Modesty অর্থও বিনয়, Bravery-সাহস, Insult-অপমান, Severe-কঠোর, প্রবল। অতএব, সঠিক উত্তর (B) Modesty।"
+    },
+    {
+        "id": 26,
+        "question": "26. Which fraction has the smallest value?",
+        "options": [
+            "8/(3^4×7^3)",
+            "27/(3^5×7^3)",
+            "12/(3^3×7^3)",
+            "2/(3^3×7^2)"
+        ],
+        "answer": "8/(3^4×7^3)",
+        "explanation": "উত্তর: A"
+    },
+    {
+        "id": 27,
+        "question": "27. Mina has 3 Taka more than Babu has, but 5 Taka less than Shelly has. If Mina has x taka, how much money Shelly and Babu have althogether?",
+        "options": [
+            "2x-8",
+            "2x-5",
+            "2x-2",
+            "2x+2"
+        ],
+        "answer": "2x+2",
+        "explanation": "ব্যাখ্যা (উত্তর: D): মিনার আছে x টাকা। তাহলে বাবুর আছে (x-3) টাকা এবং শেলির আছে (x+5) টাকা।\n∴ বাবু ও শেলির একত্রে আছে (x-3 + x+5) টাকা\n= 2x+2 টাকা"
+    }
+]

@@ -1,0 +1,637 @@
+[
+  {
+    "id": 1,
+    "question": "PART I : MCQ   Marks: 30\nবাংলা\nচর্যাপদের ভাষাকে 'আলো-আঁধারি' বলে অভিহিত করেছেন কে?",
+    "options": [
+      "মুহম্মদ শহীদুল্লাহ",
+      "সুনীতিকুমার চট্টোপাধ্যায়",
+      "হরপ্রসাদ শাস্ত্রী",
+      "সুকুমার সেন"
+    ],
+    "answer": "হরপ্রসাদ শাস্ত্রী",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): চর্যাপদ বাংলা ভাষা ও সাহিত্যের প্রাচীনতম নিদর্শন। এটি বাংলা ভাষার প্রথম কাব্য বা কবিতা সংকলন। ১৯০৭ সালে হরপ্রসাদ শাস্ত্রী নেপালের রাজ দরবারের গ্রন্থায়ার হতে 'চর্যাচর্যবিনিশ্চয়' নামক পুঁথিটি আবিষ্কার করেন। ১৯১৬ সালে হরপ্রসাদ শাস্ত্রীর সম্পাদনায় 'বঙ্গীয় সাহিত্য পরিষৎ' হতে 'হাজার বছরের পুরাণ বাঙ্গালা ভাষায় বৌদ্ধগান ও দোহা' নামে এটি প্রকাশিত হয়। চর্যাপদ' সহজিয়া বৌদ্ধ ধর্মাবলম্বীদের সাহিত্য। মুনিদত্ত চর্যাপদের পদগুলো টীকার মাধ্যমে ব্যাখ্যা করেছেন। ড. মুহম্মদ শহীদুল্লাহর মতে এতে পদ সংখ্যা ৫০টি (সুকুমার সেনের মতে ৫১টি)। ড. হরপ্রসাদ শাস্ত্রী চর্যাপদের ভাষা সম্পর্কে বলেন- আলো আঁধারি ভাষা, কতক আলো, কতক অন্ধকার, খানিক বুঝা যায়, খানিক বুঝায় যায় না।"
+  },
+  {
+    "id": 2,
+    "question": "প্রাচীন কথ্য ভারতীয় আর্য ভাষার পরবর্তী স্তরের ভাষা কোনটি?",
+    "options": [
+      "বৈদিক",
+      "সংস্কৃত",
+      "মৈথিলী",
+      "প্রাচীন প্রাচ্য"
+    ],
+    "answer": "প্রাচীন প্রাচ্য",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): পৃথিবীর অন্যতম একটি ভাষাবংশ ইন্দো-ইউরোপীয়। এ ভাষাবংশ কেন্তুম ও শতম নামে দুটি শাখায় বিভক্ত। শতম শাখার একটি স্তর 'প্রাচীন কথ্য ভারতীয় আর্য'। এর পরবর্তী স্তর 'প্রাচীন প্রাচ্য'। বাংলা ভাষাও ইন্দো-ইউরোপীয় ভাষাবংশের শতক শাখা থেকে এসেছে।"
+  },
+  {
+    "id": 3,
+    "question": "বিজ্ঞান শব্দে 'জ্ঞ' যুক্তবর্ণে কোন কোন বর্ণ রয়েছে?",
+    "options": [
+      "জ, ঘ",
+      "ঞ, জ",
+      "জ, ঞ",
+      "গ, ঙ"
+    ],
+    "answer": "জ, ঞ",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): কিছু গুরুত্বপূর্ণ যুক্তবর্ণ নিম্নরূপ-\nক্ষ (ক্ + ষ) | স্ক (স্ + ক) | হ্ণ (হ্ + ণ)\nহ্ম (হ্ + ম) | ণ্ড (ণ্ + ড) | ঞ্জ (ঞ্ + জ)\nক্রু (ক্ + র) | ক্ষ্ম (ক্ষ্ + ম) | ষ্ট (ষ্ + ট)\nফ (ক্ + য) | জ্ঞ (জ্ + ঞ) | থ (ত্ + থ)"
+  },
+  {
+    "id": 4,
+    "question": "জিভের উচ্চতা অনুযায়ী উচ্চ-মধ্য স্বরধ্বনি কোনগুলো?",
+    "options": [
+      "অ, আ",
+      "ই, উ",
+      "এ, ও",
+      "অ্যা, অ"
+    ],
+    "answer": "এ, ও",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): উচ্চারণের সময়ে জিভের উচ্চতা অনুযায়ী, জিভের সম্মুখ-পশ্চাৎ অনুযায়ী এবং ঠোঁটের উন্মুক্তি অনুযায়ী স্বরধ্বনিকে ভাগ করা হয়। নিচের ছকে তা দেখানো হলো-\nজিভের উচ্চতা | সম্মুখ | মধ্য | পশ্চাৎ | ঠোঁটের উন্মুক্তি\nউচ্চ | ই | - | উ | সংবৃত\nউচ্চ-মধ্য | এ | - | ও | অর্ধ-সংবৃত\nনিম্ন-মধ্য | অ্যা | - | অ | অর্ধ-বিবৃত\nনিম্ন | - | আ | - | বিবৃত"
+  },
+  {
+    "id": 5,
+    "question": "দ্বিস্বর ধ্বনি যুক্ত শব্দ-",
+    "options": [
+      "তৈল",
+      "রক্ষক",
+      "স্বর্গ",
+      "আবরণে"
+    ],
+    "answer": "তৈল",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): পূর্ণ স্বরধ্বনি ও অর্ধস্বরধ্বনি একত্রে উচ্চারিত হলে দ্বিস্বরধ্বনি হয়। কয়েকটি দ্বিস্বর ধ্বনি যুক্ত শব্দ- তৈল, রুই, খৈ, মৌ, বউ, কেউ।"
+  },
+  {
+    "id": 6,
+    "question": "কোন বানানটি ঠিক নয়?",
+    "options": [
+      "পরিষেবা",
+      "মরণ",
+      "দরুন",
+      "রুগ্ন"
+    ],
+    "answer": "রুগ্ন",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): 'রুগ্ন' বানানের সঠিক রূপ রুগ্ণ। কিছু গুরুত্বপূর্ণ শব্দের বানান নিম্নরূপ-\nব্রাহ্মণ, আহ্নিক, নিস্পাপ, বন্দ্যোপাধ্যায়, মধ্যাহ্ন, বীণাপাণি, মধ্যাহ্ন, ব্রাহ্মণ, মুমূর্ষু, ক্ষুৎপিপাসা, রাক্ষস, পরিপক্ব, মনোযোগ, যক্ষ্মা, মরীচিকা, মনান্তর, আত্মসাৎ, সমীচীন, লজ্জাকর, পথিবৃৎ, মনঃকষ্ট"
+  },
+  {
+    "id": 7,
+    "question": "'সম্মার্জনা' শব্দের অর্থ কী?",
+    "options": [
+      "সংবর্ধনা",
+      "ক্ষমা করা",
+      "পরিষ্কার করা",
+      "দ্বিধাদ্বন্দ্ব"
+    ],
+    "answer": "পরিষ্কার করা",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): কাজী নজরুল ইসলাম রচিত 'আমার পথ' প্রবন্ধে 'সম্মার্জনা' শব্দটি ব্যবহার করা হয়েছে। যার অর্থ ঘষে-মেজে পরিষ্কার করা। কতিপয় বিশিষ্ট শব্দার্থ নিম্নরূপ:\n→ হরিৎ: সবুজ | → ঊর্ণাজাল: মাকড়সার তৈরি জাল\n→ পীত: হলুদ | → অমরাবতী: স্বর্গ\n→ লোহিত: লাল | → উপাধান: বালিশ"
+  },
+  {
+    "id": 8,
+    "question": "রবীন্দ্রনাথ ঠাকুরের সার্ধশত জন্মবার্ষিকী কত সালে?",
+    "options": [
+      "১৯১১",
+      "১৯৬১",
+      "২০১১",
+      "২০১৬"
+    ],
+    "answer": "২০১১",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): বিশ্বকবি রবীন্দ্রনাথ ঠাকুর ১৮৬১ সালের ৭ মে জন্মগ্রহণ করেন। ২০১১ সালে তার ১৫০তম বা সার্ধশত জন্মবার্ষিকী পালিত হয়। তার উল্লেখযোগ্য কয়েকটি কাব্য- সোনার তরী, চিত্রা, বলাকা, মানসী, জন্মদিনে, পুনশ্চ, গীতাঞ্জলি।"
+  },
+  {
+    "id": 9,
+    "question": "প্রতিশব্দ নয়-",
+    "options": [
+      "বলাহক",
+      "জীমূত",
+      "বারিস",
+      "জলধি"
+    ],
+    "answer": "জলধি",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D):\nমেঘ-এর প্রতিশব্দ- বলাহক, জীমূত, বারিদ, জলদ, অম্বুদ, তোয়দ, নীরদ, পয়োধর।\nজলধি-এর প্রতিশব্দ- সাগর, সমুদ্র, অর্ণব, পারাবার, বারিধি, পাথার, রত্নাকর, অম্বুধি।"
+  },
+  {
+    "id": 10,
+    "question": "'অন্যান্য' শব্দের প্রমিত বাংলা উচ্চারণ কোনটি?",
+    "options": [
+      "অন্যান্ন",
+      "ওনান্য",
+      "অননান্যো",
+      "ওন্নান্নো"
+    ],
+    "answer": "ওন্নান্নো",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): কিছু গুরুত্বপূর্ণ শব্দের প্রমিত উচ্চারণ নিম্নরূপ-\nশত - শতো | শ্রদ্ধা - স্রোদ্দা\nশসা - শশা | ভাগ্য - ভাগগো\nশ্রমিক - স্রোমিক | ষোলো - শোলো\nঅন্যান্য - ওন্নান্নো | অধ্যাপক - ওদ্‌ধাপোক্"
+  },
+  {
+    "id": 11,
+    "question": "'গৌরচন্দ্রিকা' বাগধারার অর্থ-",
+    "options": [
+      "গলা ধাক্কা",
+      "অস্তিত্বহীন",
+      "ভূমিকা",
+      "পূর্ণিমা"
+    ],
+    "answer": "ভূমিকা",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): 'গৌরচন্দ্রিকা' বাগধারার অর্থ ভূমিকা। আরও কয়েকটি গুরুত্বপূর্ণ বাগধারা: ধামাধরা- তোষামোদকারী, পত্রপাঠ- তৎক্ষণাৎ, ভূঁইফোড়- নতুন আগমন, উলুখাগড়া- সাধারণ প্রজা।"
+  },
+  {
+    "id": 12,
+    "question": "English\nFill in the blank (Questions 12–17):\nWhen the Principal entered the class, a student ______ on the blackboard.",
+    "options": [
+      "wrote",
+      "was writing",
+      "writes",
+      "is writing"
+    ],
+    "answer": "was writing",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): When-যুক্ত বাক্যের একটি clause past indefinite tense হলে অন্য Clause-টিও সাধারণত past indefinite tense হয়। তবে একটি কাজ হওয়া বা ঘটার সময় অন্য আরেকটি কাজ চলমান থাকা বুঝালে ২য় clause-টি past continuous tense হয়। সুতরাং অপশন (B) was writing সঠিক উত্তর।"
+  },
+  {
+    "id": 13,
+    "question": "She still remembers the day when she first ______ to Ramna park.",
+    "options": [
+      "went",
+      "was going",
+      "gone",
+      "going"
+    ],
+    "answer": "went",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): When-যুক্ত sentence-এ অতীতের কোনো ঘটনার স্মৃতিচারণ বুঝালে past indefinite tense হয় যদিও অন্য clause টি অন্য কোনো tense-এ থাকে। সুতরাং অপশন (A) went সঠিক উত্তর।"
+  },
+  {
+    "id": 14,
+    "question": "I have just hired a typewriter and I ______ type now-a-days.",
+    "options": [
+      "am learning",
+      "have learnt",
+      "learnt",
+      "will learn"
+    ],
+    "answer": "am learning",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): Now-a-days দ্বারা at the present time বোঝায়। তাই now-a-days-যুক্ত clause-টি present continuous tense-এ করাটাই যুক্তিযুক্ত। সুতরাং অপশন (A) am learning সঠিক উত্তর।"
+  },
+  {
+    "id": 15,
+    "question": "Columbus ______ America.",
+    "options": [
+      "discovers",
+      "discovered",
+      "has had discovered",
+      "had discovered"
+    ],
+    "answer": "discovered",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): অতীতে কোনো কাজ সংঘটিত হওয়া বোঝালে সাধারণত past indefinite tense করা হয়। সুতরাং অপশন (B) discovered সঠিক উত্তর।"
+  },
+  {
+    "id": 16,
+    "question": "We ______ a friendly cricket match in the evening.",
+    "options": [
+      "were playing",
+      "have played",
+      "played",
+      "are playing"
+    ],
+    "answer": "played",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): অতীত ঘটনার বর্ণনায় Past indefinite tense বসে। বাক্যে in the evening ব্যবহৃত হয়েছে যা অতীত ঘটনা নির্দেশ করে। সুতরাং সঠিক উত্তর হবে অপশন C। বাক্যটির অর্থ- আমরা সন্ধ্যায় একটি প্রীতি / বন্ধুত্বপূর্ণ ক্রিকেট ম্যাচ খেলেছিলাম।"
+  },
+  {
+    "id": 17,
+    "question": "How many glasses of milk ______ yesterday?",
+    "options": [
+      "you have drank",
+      "were you drinking",
+      "did you drink",
+      "do you drink"
+    ],
+    "answer": "did you drink",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): Yesterday, ago, long ago, last night, the day before ইত্যাদি শব্দগুচ্ছ Past indefinite tense নির্দেশ করে। সুতরাং প্রশ্নবোধক বাক্যটির শূন্যস্থানে (C) did you drink বসবে।"
+  },
+  {
+    "id": 18,
+    "question": "Carpenter : Saw::",
+    "options": [
+      "Runner : Sneakers",
+      "Seamstress : Scissors",
+      "Lawer : brief",
+      "Painter : Brush"
+    ],
+    "answer": "Seamstress : Scissors",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): Carpenter (কাঠমিস্ত্রী) Saw (করাত) দিয়ে কাঠ কাটে আর Seamstress (মহিলা দর্জি) Scissors (কাঁচি) দিয়ে কাপড় কাটে।"
+  },
+  {
+    "id": 19,
+    "question": "Judge : Courthouse::",
+    "options": [
+      "Carpenter : bench",
+      "Soldier : garrison",
+      "Physician : infirmary",
+      "Gun : hand"
+    ],
+    "answer": "Physician : infirmary",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): Judge (বিচারক) কাজ করে Courthouse (বিচারালয়)-এ। ঠিক একইভাবে physician (ডাক্তার) -এর কর্মস্থল infirmary (হাসপাতাল)।"
+  },
+  {
+    "id": 20,
+    "question": "My friend and me study together during holidays.",
+    "options": [
+      "I",
+      "I myself",
+      "myself",
+      "No improvement"
+    ],
+    "answer": "I",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): প্রদত্ত বাক্যে study-এর পূর্বে পর্যন্ত subject, সুতরাং and- এর পরে me (object form)-এর পরিবর্তে I (subjective form) বসবে।"
+  },
+  {
+    "id": 21,
+    "question": "I had never realized that if an innocent act like this could land a man into trouble.",
+    "options": [
+      "that even an innocent act",
+      "what an innocent act",
+      "what an innocent act",
+      "No improvement"
+    ],
+    "answer": "that even an innocent act",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): Underlined অংশে if বসবে না। কারণ if-এর পূর্বে that বসার কারণে একটি clause হবে। আবার if যুক্ত করলে আরও একটি clause হবার কথা কিন্তু sentence-টিতে তা নেই। কাজেই অর্থের সাথে সংগতি রেখে underlined অংশের পরিবর্তে অপশন (A) that even an innocent act বসানো যুক্তিযুক্ত।"
+  },
+  {
+    "id": 22,
+    "question": "Predictions twenty years ago that the phonograph record was about to become obsolete have proven to be true.",
+    "options": [
+      "Predictions twenty years ago that",
+      "Predictions twenty years ago,",
+      "twenty years ago, predictions that",
+      "Predictions, twenty years ago"
+    ],
+    "answer": "Predictions twenty years ago that",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): Conjunction হিসেবে that বসলে that-যুক্ত clause-এর আগে বা পরে কমা বসে না।"
+  },
+  {
+    "id": 23,
+    "question": "Math\nThe greatest number that exactly divides 105, 1001 and 2436 is -",
+    "options": [
+      "3",
+      "7",
+      "11",
+      "21"
+    ],
+    "answer": "7",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): এখানে, 105 = 3 × 5 × 7\n1001 = 7 × 11 × 13\n2436 = 2 × 2 × 3 × 7 × 29\nসুতরাং 105, 1001, 2436 এর গ.সা.গু = 7।"
+  },
+  {
+    "id": 24,
+    "question": "(1000)⁷ ÷ (10)¹⁸ = ?",
+    "options": [
+      "10",
+      "100",
+      "10000",
+      "1000"
+    ],
+    "answer": "1000",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): (1000)⁷ ÷ 10¹⁸\n= (10³)⁷ ÷ 10¹⁸\n= 10²¹ ÷ 10¹⁸\n= 10²¹⁻¹⁸\n= 10³\n= 1000"
+  },
+  {
+    "id": 25,
+    "question": "If ax = b, by = c, and cz = a, then the value of xyz is -",
+    "options": [
+      "1",
+      "0",
+      "abc",
+      "1/abc"
+    ],
+    "answer": "1",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): দেওয়া আছে, ax = b; by = c and cz = a\n∵ cz = a\n⇒ byz = a  [∵ by = c]\n⇒ axyz = a  [∵ ax = b]\n∴ xyz = 1"
+  },
+  {
+    "id": 26,
+    "question": "If the average of the four numbers M, 2M + 3, 3M - 5 and 5M + 1 is 63, what is the value of M?",
+    "options": [
+      "23",
+      "22",
+      "11",
+      "32"
+    ],
+    "answer": "23",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): এখানে,\n(M + 2M + 3 + 3M - 5 + 5M + 1)/4 = 63\n⇒ 11M - 1 = 252\n⇒ 11M = 253\n∴ M = 23"
+  },
+  {
+    "id": 27,
+    "question": "In a sequence of consecutive integers, how much greater is the sum of the last four integers than the sum of the first four integers?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": "16",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): আমরা জানি, পূর্ণ সংখ্যার অনুক্রম হলো:\n1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12........................\nপ্রথম চারটি পূর্ণসংখ্যার যোগফল = 1 + 2 + 3 + 4 = 10 এবং প্রথম চারটির পরবর্তী শেষ চারটি পূর্ণসংখ্যার যোগফল = 5 + 6 + 7 + 8 = 26\n∴ নির্ণেয় যোগফল বড় = 26 - 10 = 16"
+  },
+  {
+    "id": 28,
+    "question": "10 cats caught 10 rats in 10 seconds. How many cats are required to catch 100 rats in 100 seconds ?",
+    "options": [
+      "10",
+      "20",
+      "50",
+      "100"
+    ],
+    "answer": "10",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A):\n10টি বিড়াল 10 সেকেন্ডে ধরে = 10 টি ইঁদুর\n1 \" \" 10 \" \" = 1 \" \"\n1 \" \" 100 \" \" = 10 \" \"\n100 \" \" 100 \" \" = 10 \" \""
+  },
+  {
+    "id": 29,
+    "question": "Two fifth of one fourth of three-seventh of a number is 15. What is the half of the number?",
+    "options": [
+      "57",
+      "175",
+      "157",
+      "350"
+    ],
+    "answer": "157",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): মনে করি, সংখ্যাটি x\nপ্রশ্নমতে, 2/5 এর 1/4 এর 3/7 x = 15\n⇒ 3/70 x = 15\n∴ x = 350\nসুতরাং সংখ্যাটির অর্ধেক = 350/2 = 175"
+  },
+  {
+    "id": 30,
+    "question": "The average of 6 numbers is 25. If 3 more numbers, with an average of 22 are added to these numbers, what will be the average of the combined 9 numbers?",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "28"
+    ],
+    "answer": "24",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): দেয়া আছে, 6টি সংখ্যার গড় = 25\n∴ 6 টি সংখ্যার যোগফল = (25 × 6) = 150\n3 টি সংখ্যার গড় = 22\n∴ 3টি সংখ্যার যোগফল = (22 × 3) = 66\n9টি সংখ্যার যোগফল = 150 + 66 = 216\nসুতরাং 9টি সংখ্যার গড় = 216/9 = 24"
+  },
+  {
+    "id": 31,
+    "question": "A, B, C enter into partnership. A invests 3 times as much as B invests and B invests two third of what C invests. At the end of the year, profit earned is TK. 6600. What is the share of B?",
+    "options": [
+      "1100",
+      "1150",
+      "1175",
+      "1200"
+    ],
+    "answer": "1200",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): A = 3B\n⇒ A : B = 3 : 1\nআবার, B = 2/3 C\n⇒ B : C = 2 : 3\nA : B = 3 : 1 = 6 : 2\nB : C = 2 : 3 = 2 : 3\n∴ A : B : C = 6 : 2 : 3\nসুতরাং B এর অংশ = 2/(6 + 2 + 3) × 6600 টাকা\n= 2/11 × 6600 টাকা\n= 1200 টাকা"
+  },
+  {
+    "id": 32,
+    "question": "Rony and Jony are working on an assignment. Rony takes 6 hours to type 32 page on a computer, while Jony takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 page.",
+    "options": [
+      "7 hr 30 min",
+      "8 hr",
+      "8 hr 15 min",
+      "8 hr 25 min"
+    ],
+    "answer": "8 hr 15 min",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C):\nরনি 1 ঘণ্টায় করে 32/6 পৃষ্ঠা = 16/3 পৃষ্ঠা\nজনি 1 ঘণ্টায় করে = 40/5 পৃষ্ঠা = 8 পৃষ্ঠা\nরনি এবং জনি একত্রে 1 ঘণ্টায় করে = (16/3 + 8) পৃষ্ঠা = 40/3 পৃষ্ঠা\n40/3 পৃষ্ঠা করে = 1 ঘণ্টা\n1 \" \" = 1 / (40/3) \"\n110 \" \" = (110 × 3)/40 \"\n= 33/4 ঘণ্টা = 8 ঘণ্টা 15 মিনিট।"
+  },
+  {
+    "id": 33,
+    "question": "An employer pays 3 workers X, Y and Z a total of TK. 36600 a week. X is paid 125% of the amount Y is paid and 80% of the amount Z is paid. How much does X make a week?",
+    "options": [
+      "9000",
+      "10800",
+      "11700",
+      "12000"
+    ],
+    "answer": "12000",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): এখানে, X = 125% এর Y\n⇒ X/Y = 125/100\n∴ X : Y = 5 : 4\nআবার, X = 80% এর Z\n⇒ X/Z = 80/100\n∴ X : Z = 4 : 5\nX : Y = 5 : 4 = 20 : 16\nX : Z = 4 : 5 = 20 : 25\n∴ X : Y : Z = 20 : 16 : 25\nX-এর পরিমাণ = 36600 × 20/(20 + 16 + 25) টাকা\n= 36600 × 20/61 টাকা\n= 12000 টাকা"
+  },
+  {
+    "id": 34,
+    "question": "General Knowledge\nReindeer is a lake located in -",
+    "options": [
+      "Brazil",
+      "Canada",
+      "Peru",
+      "US"
+    ],
+    "answer": "Canada",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B):\nগ্রেট লেকস হলো- সুপিরিয়র, হুরন, মিশিগান, অন্টারিও ও ইরি। যুক্তরাষ্ট্র ও কানাডায় অবস্থিত এই ৫টি লেকসকে একত্রে গ্রেট লেকস বলে। সুপিরিয়র বিশ্বের বৃহত্তম পানির হ্রদ।\nরেন্ডিয়ার লেকটি কানাডায় অবস্থিত।"
+  },
+  {
+    "id": 35,
+    "question": "Earthquakes are caused by -",
+    "options": [
+      "Tectonics plate movement",
+      "Denudation",
+      "Earth revolution",
+      "Earth's rotation"
+    ],
+    "answer": "Tectonics plate movement",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): ভূমিকম্প ভূ-পৃষ্ঠে সংঘটিত আকস্মিক ও অস্থায়ী কম্পন। ভূ-অভ্যন্তরস্থ শিলারাশিতে সঞ্চিত শক্তির আকস্মিক অবমুক্তির কারণে সৃষ্ট এই স্পন্দনের মাত্রা মৃদু থেকে প্রচণ্ড ঘূর্ণনের মধ্যে হতে পারে। ভূমিকম্প পূর্ব সতর্কতা ছাড়াই সংঘটিত হয়। ভূমিকম্পের প্রধান কারণগুলো হলো- গিরি শিলা চ্যুতি বা ফাটল, ভূ-পাত, তাপ বিকিরণ, আগ্নেয়গিরির অগ্ন্যুৎপাত, ভূ-গর্ভস্থ চাপের হ্রাস, হিমবাহের প্রভাব এবং ভূ-পৃষ্ঠের চাপ বৃদ্ধি।"
+  },
+  {
+    "id": 36,
+    "question": "ISBN is related to -",
+    "options": [
+      "Books and publications",
+      "TV Channel",
+      "Greenhouse",
+      "UN force"
+    ],
+    "answer": "Books and publications",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): আন্তর্জাতিক মান পুস্তক সংখ্যা (International Standard Book Number: ISBN) সংক্ষেপে আইএসবিএন সকল বইয়ের বারকোড চিহ্নিতকরণের জন্য একটি অনন্য সংখ্যায়ন পদ্ধতি যা বাণিজ্যিকভাবে ব্যবহৃত হয়ে থাকে।"
+  },
+  {
+    "id": 37,
+    "question": "Greenland belongs to -",
+    "options": [
+      "Norway",
+      "The Netherlands",
+      "Scotland",
+      "Denmark"
+    ],
+    "answer": "Denmark",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): গ্রিনল্যান্ড উত্তর আটলান্টিক ও আর্কটিক মহাসাগরের মধ্যে অবস্থিত পৃথিবীর সর্ববৃহৎ দ্বীপ। এটি সারা বছর তুষারপাত থাকে। গ্রিনল্যান্ড ডেনমার্কের একটি স্ব-নিয়ন্ত্রিত অংশ যা উত্তর আমেরিকা মহাদেশের অন্তর্গত। তবে ডেনমার্কের মূল ভূখণ্ড ইউরোপ মহাদেশে অবস্থিত।"
+  },
+  {
+    "id": 38,
+    "question": "Which country has the highest energy consumption per capital in the world?",
+    "options": [
+      "USA",
+      "Iceland",
+      "Saudi Arabia",
+      "UK"
+    ],
+    "answer": "Iceland",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): মাথাপিছু জ্বালানি ব্যবহারের দিক থেকে বিশ্বের শীর্ষ দেশ হলো আইসল্যান্ড। এর পরেই রয়েছে যথাক্রমে ত্রিনিদাদ অ্যান্ড টোবাগো, কাতার ও কুয়েতের অবস্থান।"
+  },
+  {
+    "id": 39,
+    "question": "Who is the author of the book 'Principia Mathematica'?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo",
+      "Copernicus"
+    ],
+    "answer": "Isaac Newton",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): সালে বিজ্ঞানী আইজ্যাক নিউটন তাঁর অমর গ্রন্থ 'ফিলোসফিয়া ন্যাচারালিস প্রিন্সিপিয়া ম্যাথমেটিকা'তে বস্তুর ভর, গতি ও বলের মধ্যে সম্পর্ক স্থাপন করে তিনটি সূত্র প্রকাশ করেন। এ তিনটি সূত্র নিউটনের 'গতি বিষয়ক সূত্র' নামে পরিচিত। সূত্র তিনটি নিম্নরূপ-\nপ্রথম সূত্র: বাহ্যিক কোনো বল প্রয়োগ না করলে স্থির বস্তু চিরকাল স্থিরই থাকবে এবং গতিশীল বস্তু সুষম দ্রুতিতে সরল পথে চলতে থাকে।\nদ্বিতীয় সূত্র: বস্তুর ভরবেগের পরিবর্তনের হার এর উপর প্রযুক্ত বলের সমানুপাতিক এবং বল যেদিকে ক্রিয়া করে বস্তুর ভরবেগের পরিবর্তনও সেদিকে হয়।\nতৃতীয় সূত্র: প্রত্যেক ক্রিয়ারই একটি সমান ও বিপরীত প্রতিক্রিয়া আছে।"
+  },
+  {
+    "id": 40,
+    "question": "Which two countries are involved in Sunshine Policy?",
+    "options": [
+      "China, Russia",
+      "North Korea, South Korea",
+      "Japan, Thailand",
+      "France, Poland"
+    ],
+    "answer": "North Korea, South Korea",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): মূলত উত্তর কোরিয়ার সাথে দক্ষিণ কোরিয়ার উত্তেজনার প্রশমনের জন্য যে উদ্যোগ নেওয়া হয় তাই সানশাইন পলিসি নামে পরিচিত। এই পলিসির মূল উদ্দেশ্য ছিল সংঘাতের পথ পরিহার করে সহযোগিতার নীতি অবলম্বন করা এবং দুই কোরিয়াকে একত্র হওয়ার পথ সুগম করা। ১৯৯৮ সালে দক্ষিণ কোরিয়ার প্রেসিডেন্ট কিম দাই জুং এ নীতি ঘোষণা করেন। কিন্তু শেষ পর্যন্ত উদ্যোগটি সফল হয়নি। উল্লেখ্য, উত্তর ও দক্ষিণ কোরিয়া বিভক্ত হয় ১৯৪৫ সালে এবং কোরীয় যুদ্ধ হয় ১৯৫০ থেকে ১৯৫৩ সাল পর্যন্ত এবং দুই কোরিয়ার মধ্যে বিভক্তকারী লাইন ৩৮তম অক্ষরেখা। পানমুনজাম গ্রাম দুই কোরিয়ার মধ্যবর্তী স্থানে অবস্থিত।"
+  },
+  {
+    "id": 41,
+    "question": "When cutting and pasting cutting section is temporarily stored in -",
+    "options": [
+      "Dashboard",
+      "Hard drive",
+      "Clipboard",
+      "Diskette"
+    ],
+    "answer": "Clipboard",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): ক্লিপবোর্ড হলো র‍্যাম এর একটি বিশেষ ফাইল বা মেমোরি। কম্পিউটারের কোনো ডেটা বা ফাইল কাট বা কপি করে অন্য কোন স্থানে পেস্ট করার পূর্বে সেই ডেটা বা ফাইল যে মেমোরিতে অস্থায়ীভাবে জমা হয় তাকে ক্লিপবোর্ড বলে।"
+  },
+  {
+    "id": 42,
+    "question": "The blinking point which shows your position in the text is called -",
+    "options": [
+      "Blinker",
+      "Causer",
+      "Cursor",
+      "Pointer"
+    ],
+    "answer": "Cursor",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): ১৯৮৪ সালে মেকিনটোশ কম্পিউটারে সর্বপ্রথম মাউস ব্যবহৃত হয়। মাউস সমতলে নাড়ালে মনিটরের পর্দায় একটি তীর বা হাতের মতো চিহ্ন নড়াচড়া করে। একে কার্সর বলে।"
+  },
+  {
+    "id": 43,
+    "question": "Where was the first tannery village of Bangladesh established?",
+    "options": [
+      "Gazipur",
+      "Savar",
+      "Narayanganj",
+      "Keraniganj"
+    ],
+    "answer": "Narayanganj",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): ট্যানারি শিল্প বলতে চামড়া পাকা করা বা প্রক্রিয়াজাত করা হয়, এমন কোনো শিল্প প্রতিষ্ঠানকে বোঝায়। এ অঞ্চলে ১৯৪০ সালে নারায়ণগঞ্জে প্রথম ট্যানারি স্থাপন করেন রপনপ্রসাদ সাহা। পরবর্তীকালে ট্যানারিটি ঢাকার হাজারীবাগে স্থানান্তর করা হয়। ২০১৭ সালে ট্যানারি শিল্প জনবহুল হাজারীবাগ এলাকা থেকে সাভারে নিজস্ব শিল্পনগরীতে স্থানান্তর করা হয়।"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is the world's biggest company in terms market capitalization?",
+    "options": [
+      "Apple",
+      "Facebook",
+      "Microsoft",
+      "Walmart"
+    ],
+    "answer": "Apple",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): বাজার মূলধনের ভিত্তিতে পৃথিবীর বৃহৎ প্রতিষ্ঠান হলো অ্যাপল। দ্বিতীয় অবস্থানে মাইক্রোসফট।"
+  },
+  {
+    "id": 45,
+    "question": "As an alternative to Facebook, Bangladesh is going to launch its own social media platform named -",
+    "options": [
+      "Jogajog",
+      "Alapon",
+      "Pipilika",
+      "BD Community"
+    ],
+    "answer": "Jogajog",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A):\nবাংলাদেশের তৈরি প্রথম ল্যাপটপ- দোয়েল (২০১১ সাল)।\nবাংলাদেশের তৈরি প্রথম সার্চ ইঞ্জিন- পিপীলিকা (২০১৩ সাল)।\nফেসবুকের ন্যায় বাংলাদেশের তৈরিকৃত সোস্যাল মিডিয়ার নাম - যোগাযোগ\nবাংলাদেশের তৈরি হোয়াটসঅ্যাপের বিকল্প - আলাপন\nবাংলাদেশের তৈরি জুমের বিকল্প- বৈঠক\nবাংলাদেশের প্রথম সাইবার সিটি- সিলেট।\nবাংলাদেশের তৈরি প্রথম ন্যানো স্যাটেলাইটের নাম- ব্র্যাক অন্বেষা"
+  },
+  {
+    "id": 46,
+    "question": "Bangladesh has recently been elected to which post in the 76th session of the UN General Assembly?",
+    "options": [
+      "President",
+      "Vice-President",
+      "Treasurer",
+      "Keynote Speaker"
+    ],
+    "answer": "Vice-President",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B):\nআপডেট তথ্য :\nজাতিসংঘের ৭৮তম সাধারণ অধিবেশন\nশুরু: সেপ্টেম্বর, ২০২৩\nস্থান: নিউইয়র্ক, যুক্তরাষ্ট্র\nসভাপতি: ডেনিস ফ্রান্সিস\nসভাপতি দেশ: ত্রিনিদাদ এন্ড টোবাগো"
+  },
+  {
+    "id": 47,
+    "question": "Which was the host country of Copa-America 2021?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Italy",
+      "Columbia"
+    ],
+    "answer": "Brazil",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A):\nকোপা আমেরিকা ২০২১\nসময়কাল: ১৩ জুন-১০ জুলাই ২০২১\nহোস্ট কান্ট্রি: ব্রাজিল\nম্যাস্কট: পিবে\nফাইনাল: আর্জেন্টিনা (১) : ব্রাজিল (০)\nসেরা খেলোয়াড়: লিওনেল মেসি, আর্জেন্টিনা\nপরবর্তী কোপা আমেরিকা অনুষ্ঠিত হবে ২০২৪ সালে, হোস্ট কান্ট্রি- যুক্তরাষ্ট্র এবং ১৬টি দল অংশগ্রহণ করবে।"
+  },
+  {
+    "id": 48,
+    "question": "'My Life' is the autobiography of -",
+    "options": [
+      "Mahatma Gandhi",
+      "Bill Clinton",
+      "George Washington",
+      "Donald Trump"
+    ],
+    "answer": "Bill Clinton",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): আমেরিকার ৪২তম প্রেসিডেন্ট বিল ক্লিনটন আত্মজীবনীমূলক গ্রন্থ হলো 'My Life' যা ২০০৪ সালে প্রকাশিত হয়।"
+  },
+  {
+    "id": 49,
+    "question": "Which Country is the highest exporter of natural gas from the Middle-East?",
+    "options": [
+      "Qatar",
+      "Saudi Arabia",
+      "Iran",
+      "Iraq"
+    ],
+    "answer": "Qatar",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): মধ্যপ্রাচ্যের দেশগুলোর মধ্যে সবচেয়ে বেশি প্রাকৃতিক গ্যাস রপ্তানি করে থাকে পারস্য উপসাগরের ছোট দ্বীপীয় দেশ কাতার। দেশটি বিশ্বের মোট গ্যাস রপ্তানির ১৬.২% সম্পন্ন করে থাকে, এরপর প্রাচ্যের যে দেশ রয়েছে সে দেশ ২.৮% রপ্তানি করে থাকে, দেশটি সংযুক্ত আরব আমিরাত।"
+  },
+  {
+    "id": 50,
+    "question": "What was the name of the first temporary capital of Bangladesh?",
+    "options": [
+      "Meherpur",
+      "Mujib Nagar",
+      "Sylhet",
+      "Dhaka"
+    ],
+    "answer": "Mujib Nagar",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): বাংলাদেশের প্রথম অস্থায়ী রাজধানী করা হয় মুজিবনগর। ১৭ এপ্রিল মুজিবনগর দিবস পালিত হয়।"
+  },
+  {
+    "id": 51,
+    "question": "PART II : Written   Marks: 30\nSome people believe that computers are more a hindrance than a help in today's world. Others feel that they are such indispensable tools that they would not be able to live or work without them. To what extent do you agree or disagree with these statements? You should write at least 100 words. Use your ideas, knowledge, and experience and support your arguments with examples and with relevant evidence. [5]",
+    "options": [],
+    "answer": "",
+    "explanation": "In this technology-savvy world, we use Computers in various ways, either at work or at school. These computers have different advantages and disadvantages for us. Now I am going to compare the benefits and the drawbacks and in which ways are computers a hindrance then I will discuss my perspective. There is a vast plethora of ways in which computers are a hindrance. In terms of health, not only it can negatively affect our vision, but it may also have a harmful impact on our backbone. That is to say, if children stay on a computer for long, the glare produced by the device will definitely affect their eyesight. This is the main reason why some people hold the belief that those machines are more a hindrance than a help. In spite of the drastic negatives mentioned, one cannot turn a blind eye to the incontestable positives. Even though it has a harmful effect on our health, it is the easiest way to collect data. We all know our brain cannot remember various information, and thus we need a computer. A lot of tools and functions of this device prevent us from missing important knowledge or tasks and also offer us the opportunity to broaden our horizons. For example, If we are doing a thesis, the Internet which can be accessed by your laptop, enables us to acquire various helpful samples and reports in order to consult. It is not hard to understand that people find it indispensable to work or live without this useful device. In conclusion, although there are several opinions that computers negatively affect our lives, I personally acquiesce that its merits outweigh its negatives. Notwithstanding, it is advised not to stay on the computer for numerous hours per day in order not to suffer from health problems and to ignite your communication skills."
+  },
+  {
+    "id": 52,
+    "question": "গাড়ি চালানোর সময় আপনার একটি ছোট দুর্ঘটনা ঘটেছে। কখন, কোথায়, কিভাবে ঘটেছে এবং দুর্ঘটনার পর আপনি কি করেছেন সে সম্পর্কে গাড়ির বীমা কোম্পানিকে একটি চিঠি লিখুন। [5]",
+    "options": [],
+    "answer": "",
+    "explanation": "তারিখ : ১০.১২.২০২৩\nব্যবস্থাপনা পরিচালক\nসাধারণ বীমা কর্পোরেশন\n৩৩, দিলকুশা বা/এ, ঢাকা - ১০০০\n\nবিষয় : গাড়ি দুর্ঘটনাজনিত বিবরণ।\n\nজনাব,\nবিনীত নিবেদন এই যে, গত ৯ ডিসেম্বর, ২০২৩ ঢাকা থেকে সিলেট যাওয়ার পথে বিকাল তিন ঘটিকায় হবিগঞ্জের মাধবপুরে আমার গাড়িটি সড়ক দুর্ঘটনার কবলে পড়ে। বিপরীত দিক থেকে আসা একটি মাইক্রোবাস নিয়ন্ত্রণ হারিয়ে আমার গাড়িটিকে সজোরে এসে ধাক্কা দেয়। এতে আমার তেমন কোনো আঘাত না লাগলেও আমার গাড়িটির বেশ ক্ষতি হয়েছে। দুর্ঘটনার পর আমার ড্রাইভারের সহায়তায় গাড়িটি মাধবপুর উপজেলায় অবস্থিত করিম ওয়ার্কশপে নিয়ে যাই। এখনো গাড়িটি সেখানে রয়েছে। আমার গাড়ি নং ঢাকা মেট্রো ঘ- ৪৩-০১৩০।\n\nঅতএব, আপনার নিকট আকুল আবেদন এই যে, উল্লিখিত তথ্যের ভিত্তিতে মোটর বীমা অনুযায়ী প্রয়োজনীয় পদক্ষেপ গ্রহণ করলে আমি কর্তৃপক্ষের নিকট চিরকৃতজ্ঞ থাকব।\n\nবিনীত নিবেদক\nরিফাত হোসেন\nআজিমপুর, ঢাকা"
+  },
+  {
+    "id": 53,
+    "question": "A password is made up of two letters followed by two single-digit numbers. If a person is assigned a password at random. What is the probability, rounded to the nearest hundredth, that the password uses only even digits for the numbers? [5]",
+    "options": [],
+    "answer": "0.25",
+    "explanation": "Solution: We know that, Total number of letters = 26\nTotal number of digit = 10\n∴ Total number of even digit = 5\nFor a password is made up of two letters followed by two single digit numbers,\n∴ Favourable outcomes = 26 × 5 × 5\n∴ Total outcomes = 26 × 10 × 10\nHence, required probability\n= (26 × 5 × 5) / (26 × 10 × 10)\nAns: 0.25"
+  },
+  {
+    "id": 54,
+    "question": "A person running an 800 meter race average 130 meters per minute for the first 3/4 of the race. The average speed for the remainder of the race is 145 meters per minute. What is the person's average speed for the entire 800 meters rounded to the nearest whole number? [5]",
+    "options": [],
+    "answer": "133.33 m/min",
+    "explanation": "Solution: Given that, Person running an 800m race.\nHere, First race = (3/4 of 800) m = 600m\n∴ Next race = (800 - 600)m = 200m\nWe know that, Time = Distance / Speed\nFirst race time = 600/130 min.\n= 4.615 min\n= 4.62 min.\nNext race time = 200/145 min.\n= 1.379 min\n= 1.38 min.\n∴ Total race time = (4.62 + 1.38) min. = 6 min.\nHence, average speed of the person's =\n800/6 m/min. = 133.33 m/min\nAns: 133.33 m/min"
+  },
+  {
+    "id": 55,
+    "question": "Instruction : Answer the following questions: [5×2 = 10]\na. How many countries use the Euro currency?\nb. The Cold stream Guards is the oldest continuously serving regiment in the Army, belong to which country?\nc. CIA, the intelligence agency of USA, was founded in which year?\nd. Who was the first Viceroy of India?\ne. Riksdage is the name of parliament of which country?",
+    "options": [],
+    "answer": "",
+    "explanation": "a. How many countries use the Euro currency?\nAns: The Euro currency is used by 20 EU countries and 6 non EU countries.\n\nb. The Cold stream Guards is the oldest continuously serving regiment in the Army, belong to which country?\nAns: The Cold stream Guards, the oldest continuously serving regiment in the Army belongs to UK.\n\nc. CIA, the intelligence agency of USA, was founded in which year?\nAns: CIA, the intelligence agency of USA, was founded in 1947.\n\nd. Who was the first Viceroy of India?\nAns: The first viceroy of India was Lord Canning.\n\ne. Riksdage is the name of parliament of which country?\nAns: Riksdage is the name of parliament of Sweden."
+  }
+]

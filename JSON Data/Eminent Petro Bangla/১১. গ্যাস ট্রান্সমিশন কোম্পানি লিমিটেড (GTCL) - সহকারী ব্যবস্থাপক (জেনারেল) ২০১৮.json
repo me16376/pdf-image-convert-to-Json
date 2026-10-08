@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "'শতদল' শব্দের অর্থ:",
+    "options": [
+      "বিরাট",
+      "পদ্ম",
+      "নদী",
+      "জল"
+    ],
+    "answer": "পদ্ম",
+    "explanation": "শতদল শব্দের প্রতিশব্দ- পদ্ম, কমল, উৎপল, পঙ্কজ, কুমুদ, রাজীব, সরোজ, নলিন।\nনদী শব্দের সমার্থক শব্দ- তটিনী, প্রবাহিণী, তরঙ্গিনী, শৈবলিনী, স্রোতস্বিনী, সরিৎ, কল্লোলিনী।\nজল শব্দের সমার্থক শব্দ- উদক, সলিল, বারি, অম্বু, নীর, পানি।\nবিরাট অর্থ বিশাল, প্রকাণ্ড, সর্বব্যাপী।"
+  },
+  {
+    "id": 2,
+    "question": "'নাগরিক কবি' কার উপাধি?",
+    "options": [
+      "সুনীল গঙ্গোপাধ্যায়",
+      "শামসুর রাহমান",
+      "বেগম রোকেয়া",
+      "গোলাম মোস্তফা"
+    ],
+    "answer": "শামসুর রাহমান",
+    "explanation": "শামসুর রাহমানের উপাধি নাগরিক কবি। এছাড়াও তিনি 'মৈনাক' ও 'মজলুম আদিব' ছদ্মনামে লিখতেন। সুনীল গঙ্গোপাধ্যায় পরিচিত 'নীল উপাধ্যায়', 'নীল লোহিত' ও 'সনাতন পাঠক' হিসেবে। 'মুসলিম নারী জাগরণের অগ্রদূত' হিসেবে পরিচিত রোকেয়া সাখাওয়াত হোসেন। 'কাব্যসুধাকর' উপাধিতে ভূষিত গোলাম মোস্তফা।"
+  },
+  {
+    "id": 3,
+    "question": "নিচের কোনটি সৈয়দ শামসুল হকের রচনা?",
+    "options": [
+      "নিষিদ্ধ লোবান",
+      "বিধ্বস্ত নীলিমা",
+      "খোয়াবনামা",
+      "আরেক ফাল্গুন"
+    ],
+    "answer": "নিষিদ্ধ লোবান",
+    "explanation": "সৈয়দ শামসুল হকের সাহিত্যকর্মসমূহ নিম্নরূপ-\n\n| শাখা | রচনা |\n| :--- | :--- |\n| কাব্য | পরানের গহীন ভিতর, কাননে কাননে তোমারই সন্ধানে |\n| উপন্যাস | নিষিদ্ধ লোবান, নীলদংশন, সীমানা ছাড়িয়ে, খেলারাম খেলে যা |\n| গল্প | আনন্দের মৃত্যু |\n| নাটক | পায়ের আওয়াজ পাওয়া যায়, গণনায়ক, ঈর্ষা |\n\n'খোয়াবনামা' ও 'আরেক ফাল্গুন' উপন্যাসের রচয়িতা যথাক্রমে- আখতারুজ্জামান ইলিয়াস ও জহির রায়হান। অন্যদিকে 'বিধ্বস্ত নীলিমা' কাব্য গ্রন্থটির রচয়িতা কবি শামসুর রাহমান।"
+  },
+  {
+    "id": 4,
+    "question": "'আটকপালে' বাগধারাটির অর্থ কী?",
+    "options": [
+      "অলক্ষীর দশা",
+      "অগ্নিপরীক্ষা",
+      "অদৃষ্টের পরিহাস",
+      "হতভাগ্য"
+    ],
+    "answer": "হতভাগ্য",
+    "explanation": "কয়েকটি গুরুত্বপূর্ণ বাগধারা নিম্নরূপ-\n\n| বাগধারা | অর্থ | বাগধারা | অর্থ |\n| :--- | :--- | :--- | :--- |\n| উজানের কৈ | সহজলভ্য | বিড়াল তপস্বী | ভণ্ড সাধু |\n| আটকপালে | হতভাগ্য | জগদ্দল পাথর | গুরুভার |\n| কানি খাওয়া | পক্ষপাতিত্ব | চক্ষুদান করা | চুরি করা |\n| আমড়াগাছি করা | তোষামোদ করা | লেফাফা দুরস্ত | বাইরে পরিপাটি |"
+  },
+  {
+    "id": 5,
+    "question": "'শম্পা' শব্দটির অর্থ কী?",
+    "options": [
+      "মেঘ",
+      "বৃষ্টি",
+      "বিদ্যুৎ",
+      "ঢেউ"
+    ],
+    "answer": "বিদ্যুৎ",
+    "explanation": "শম্পা অর্থ বিদ্যুৎ, তড়িৎ, চপলা, সৌদামিনী, দামিনী, বিজলি।\nমেঘ-এর সমার্থক শব্দ-জলদ, বারিদ, জলধর, নীরদ, পযোদ, নীলধর।\nঢেউ অর্থ ঊর্মি, বীচি, তরঙ্গ, কল্লোল, হিল্লোল, লহর।"
+  },
+  {
+    "id": 6,
+    "question": "এক কথায় প্রকাশ করুন: 'কর দান করে যে'।",
+    "options": [
+      "করদ",
+      "প্রজ্ঞা",
+      "অধীন",
+      "আশ্রিত"
+    ],
+    "answer": "করদ",
+    "explanation": "কিছু গুরুত্বপূর্ণ বাক্য সংকোচন নিম্নরূপ-\n\n| বাক্য | সংকোচন |\n| :--- | :--- |\n| বহু বিষয় জানেন যিনি | বহুদর্শী |\n| যা সহজেই ভেঙ্গে যায় | ভঙ্গুর/ঠুনকো |\n| খেয়া পার করে যে | পাটনি |\n| যার দুই হাত সমানে চলে | সব্যসাচী |\n| হরেক রকম কথা বলে যে | হরবোলা |\n| হস্তির বাসস্থান | পিলখানা, গজগৃহ |\n| অর্থ নাই যার | নিরর্থক |\n| গ্রীবা সুন্দর যার | সুগ্রীব |\n| কর দান করে যে | করদ |"
+  },
+  {
+    "id": 7,
+    "question": "এক কথায় প্রকাশ করুন: 'যে ভূমিতে ফসল জন্মায় না'-",
+    "options": [
+      "পতিত",
+      "অনুর্বর",
+      "ঊষর",
+      "বন্ধ্যা"
+    ],
+    "answer": "ঊষর",
+    "explanation": "যে ভূমিতে ফসল জন্মায় না তাকে এক কথায় ঊষর বলে। পতিত বলতে বুঝায় অনাবাদি ভূমি। অনুর্বর অর্থ শস্য উৎপাদনে অনুপযুক্ত। সন্তান ধারণে অক্ষম নারীকে বন্ধ্যা বলে। আরো কয়েকটি গুরুত্বপূর্ণ এককথায় প্রকাশ: শত্রুকে দমন করে যে - অরিন্দম, যা নিন্দার যোগ্য নয়- অনিন্দ্য, যা বলা হবে- বক্তব্য, পাওয়ার ইচ্ছা- ঈপ্সা, ক্ষমার যোগ্য- ক্ষমার্হ, অক্ষীর সমীপে- সমক্ষ, যা ক্রয় করার যোগ্য- ক্রেয়, রন্ধনের যোগ্য- পাচ্য।"
+  },
+  {
+    "id": 8,
+    "question": "কোনটি সঠিক বানান নয়?",
+    "options": [
+      "ব্যর্থ",
+      "ব্যবহার",
+      "ব্যকরণ",
+      "সব শুদ্ধ"
+    ],
+    "answer": "ব্যকরণ",
+    "explanation": "কিছু গুরুত্বপূর্ণ শব্দের বানান নিম্নরূপ-\n\n| বানান ১ | বানান ২ | বানান ৩ |\n| :--- | :--- | :--- |\n| প্রাণপণ | আহ্নিক | ব্যাকরণ |\n| বন্দ্যোপাধ্যায় | মধ্যাহ্ন | বীণাপাণি |\n| মরুদ্দান | ব্রাহ্মণ | মুমূর্ষু |\n| ক্ষুৎপিপাসা | রাক্ষস | পরিপত্র |\n| মনোযোগ | যক্ষ্মা | মরীচিকা |\n| মনান্তর | আত্মসাৎ | সমীচীন |\n| লজ্জাকর | পঙ্কিল | মনঃকষ্ট |"
+  },
+  {
+    "id": 9,
+    "question": "'শকুনি মামা' অর্থ কী?",
+    "options": [
+      "কুৎসিত মামা",
+      "সৎ মামা",
+      "পাতানো মামা",
+      "কুচক্রী লোক"
+    ],
+    "answer": "কুচক্রী লোক",
+    "explanation": "কতিপয় গুরুত্বপূর্ণ বাগধারা:\n→ শিব রাত্রির সলতে– একমাত্র বংশধর\n→ কেঁচো গণ্ডূস – পুনরায় আরম্ভ\n→ গড্ডলিকা প্রবাহ– অন্ধ অনুকরণ\n→ কান পাতলা– সহজেই বিশ্বাসপ্রবণ\n→ শকুনি মামা– কুচক্রী মামা"
+  },
+  {
+    "id": 10,
+    "question": "শওকত ওসমানের লেখা উপন্যাস কোনটি?",
+    "options": [
+      "নেকড়ে অরণ্য",
+      "জন্ম যদি হয় বঙ্গে",
+      "ক্রীতদাসের হাসি",
+      "অপরাজিত"
+    ],
+    "answer": "ক্রীতদাসের হাসি",
+    "explanation": "শওকত ওসমানের প্রকৃত নাম হলো- শেখ আজিজুর রহমান। শওকত ওসমানের সাহিত্যকর্মসমূহ নিম্নরূপ-\n\n| শাখা | সাহিত্যকর্ম |\n| :--- | :--- |\n| উপন্যাস | ক্রীতদাসের হাসি, জননী, বনি আদম, রাজা উপাখ্যান, চৌরসন্ধি |\n| মুক্তিযুদ্ধভিত্তিক উপন্যাস | জাহান্নাম হইতে বিদায়, দুই সৈনিক, নেকড়ে অরণ্য, জলাংগী |\n| নাটক | আমলার মামলা, তস্কর ও লস্কর, কাঁকরমণি, বাগদাদের কবি |\n| প্রবন্ধ | সংস্কৃতির চড়াই উৎরাই |"
+  },
+  {
+    "id": 11,
+    "question": "Q 11 - 17: Select the appropriate meaning of the word.\n\nReprimand",
+    "options": [
+      "Warn",
+      "Encourage",
+      "Remind",
+      "Abolish"
+    ],
+    "answer": "Warn",
+    "explanation": "Reprimand (কঠোর তিরস্কার করা; সতর্ক করে দেয়া)-এর সমার্থক শব্দ হলো warn যার অর্থ (কাউকে সম্ভাব্য বিপদ বা অপ্রীতিকর পরিণাম সম্পর্কে) সতর্ক করে দেয়া। অন্যদিকে, encourage অর্থ উৎসাহিত করা; সাহস দেওয়া, remind অর্থ স্মরণ/মনে করিয়ে দেওয়া আর abolish অর্থ লোপ করা; উচ্ছেদ করা।"
+  },
+  {
+    "id": 12,
+    "question": "Appealing",
+    "options": [
+      "Clear",
+      "Interesting",
+      "Pleasing",
+      "Irrational"
+    ],
+    "answer": "Pleasing",
+    "explanation": "Appealing অর্থ অনুভূতিতে নাড়া দেয় এমন, মর্মস্পর্শী যার সমার্থক শব্দ হলো pleasing (সুখদায়ক, প্রীতিকর)। তাছাড়া option-এর clear অর্থ পরিষ্কার, interesting অর্থ মজার আর irrational অর্থ অযৌক্তিক।"
+  },
+  {
+    "id": 13,
+    "question": "Filthy",
+    "options": [
+      "Super",
+      "Massive",
+      "Dirty",
+      "Fake"
+    ],
+    "answer": "Dirty",
+    "explanation": "Filthy অর্থ বিরক্তিকরভাবে নোংরা; অতি নোংরা যার সমার্থক শব্দ হলো dirty (অপরিষ্কার; ময়লা; ধুলিময়)।"
+  },
+  {
+    "id": 14,
+    "question": "Uproar",
+    "options": [
+      "Abnormal",
+      "Emotion",
+      "Illogical",
+      "Turmoil"
+    ],
+    "answer": "Turmoil",
+    "explanation": "Uproar অর্থ হৈ-হুল্লোড়। এর সমার্থক শব্দ turmoil যার অর্থ গোলযোগ; হাঙ্গামা; গণ্ডগোল। তাছাড়া abnormal অর্থ অস্বাভাবিক; emotion অর্থ আবেগ; অনুভূতি আর illogical অর্থ অযৌক্তিক।"
+  },
+  {
+    "id": 15,
+    "question": "Upheaval",
+    "options": [
+      "Difficult",
+      "Disorder",
+      "Disaster",
+      "Deprive"
+    ],
+    "answer": "Disorder",
+    "explanation": "Upheaval অর্থ আকস্মিক বিরাট পরিবর্তন; চরম বিশৃঙ্খল পরিস্থিতি যার সমার্থক শব্দ হলো disorder (বিশৃঙ্খলা; গোলমাল)। তাছাড়া difficult অর্থ কঠিন, disaster অর্থ আকস্মিক দুর্ঘটনা, বিপর্যয় আর deprive অর্থ বঞ্চিত করা।"
+  },
+  {
+    "id": 16,
+    "question": "Recourse",
+    "options": [
+      "Choice",
+      "Action",
+      "Rebut",
+      "Study"
+    ],
+    "answer": "Choice",
+    "explanation": "Recourse অর্থ আশ্রয় বা অবলম্বন যার সমার্থক শব্দ choice (অবলম্বন, মনোনয়ন)। অন্যদিকে action অর্থ ক্রিয়া; কর্ম, rebut অর্থ মিথ্যা বলে প্রমাণ করা; খণ্ডন করা আর study অর্থ अध्ययन করা।"
+  },
+  {
+    "id": 17,
+    "question": "Sordid",
+    "options": [
+      "Pale",
+      "Disgusting",
+      "Unhappy",
+      "Long"
+    ],
+    "answer": "Disgusting",
+    "explanation": "Sordid অর্থ শোচনীয়; জীর্ণ; নোংরা যার সঠিক সমার্থক শব্দ হলো disgusting। অন্যদিকে Pale অর্থ মলিন, unhappy অর্থ অসুখী আর long অর্থ দীর্ঘ।"
+  },
+  {
+    "id": 18,
+    "question": "Q 18-25: Fill in the gap.\n\nSecrecy was a _______ factor in the success of winning the deal.",
+    "options": [
+      "decisive",
+      "coherent",
+      "conspicuous",
+      "delicate"
+    ],
+    "answer": "decisive",
+    "explanation": "Decisive অর্থ নির্ণায়ক, নিষ্পত্তিকারক, চূড়ান্ত। সুতরাং শূন্যস্থানে decisive শব্দটি বসবে আর decisive যোগে বাক্যটির বাংলা: চুক্তিতে সফলতার ক্ষেত্রে গোপনীয়তা ছিল চূড়ান্ত বিষয়। তাছাড়া coherent অর্থ সঙ্গতিপূর্ণ; conspicuous অর্থ দৃষ্টি-আকর্ষক আর delicate অর্থ সুকুমার, কোমল।"
+  },
+  {
+    "id": 19,
+    "question": "It was a/an _______ advice but the scientists did not pay attention to it.",
+    "options": [
+      "interesting",
+      "rudimenttary",
+      "sound",
+      "radical"
+    ],
+    "answer": "sound",
+    "explanation": "Sound advice অর্থ যুক্তি নির্ভর বা যুক্তিসম্মত উপদেশ। তাই বাক্যে sound শব্দটি বসবে আর sound বসিয়ে বাক্যটির বাংলা: এটা যুক্তিসম্মত উপদেশ ছিল কিন্তু বিজ্ঞানীরা এতে কর্ণপাত করল না। অন্যদিকে interesting অর্থ মজার, rudimentary অর্থ প্রাথমিক; আর radical অর্থ মৌলিক; মূলগত।"
+  },
+  {
+    "id": 20,
+    "question": "There wasn't enough _______ to prove his involvement with the crime.",
+    "options": [
+      "clue",
+      "data",
+      "evidence",
+      "information"
+    ],
+    "answer": "evidence",
+    "explanation": "অপরাধে কারো সম্পৃক্ততা আছে কিনা তা প্রমাণের জন্য evidence (সাক্ষ্যপ্রমাণ) প্রয়োজন। সুতরাং শূন্যস্থানে evidence বসে।"
+  },
+  {
+    "id": 21,
+    "question": "Never _______ heard of such a thing.",
+    "options": [
+      "I have",
+      "did I",
+      "I did",
+      "have I"
+    ],
+    "answer": "have I",
+    "explanation": "Never, hardly, seldom ইত্যাদি adverbial word গুলো বাক্যের শুরুতে বসলে বাক্যের structure হবে adverbials + auxiliary sub + verb। আর বাক্যে hear অর্থাৎ verb-এর p.p থাকাতে সঠিক expression টি হবে have। তাহলে বাক্যটি present perfect tense structure follow করবে।"
+  },
+  {
+    "id": 22,
+    "question": "It is no good _______ angry at once.",
+    "options": [
+      "getting",
+      "to get",
+      "for getting",
+      "to be"
+    ],
+    "answer": "getting",
+    "explanation": "No good doing something অর্থ কোনো কিছু করার অর্থ না থাকা অর্থাৎ শূন্যস্থানে getting হবে আর বাক্যটির অর্থ হবে তাৎক্ষণিক রেগে যাওয়ার কোনো অর্থই হয় না।"
+  },
+  {
+    "id": 23,
+    "question": "We opted _______ a reconciliation _______ the dispute.",
+    "options": [
+      "with, for",
+      "for, to",
+      "on, with",
+      "on, for"
+    ],
+    "answer": "for, to",
+    "explanation": "Opt for something অর্থ বেছে নেওয়া, মনস্থির করা। Reconciliation to something অর্থ কোনো কিছুর সামঞ্জস্যবিধান বা কোনো সমস্যার মিটমাট। সুতরাং শূন্যস্থানে for, to বসবে।"
+  },
+  {
+    "id": 24,
+    "question": "Every man differs _______ opinion from each other.",
+    "options": [
+      "on",
+      "with",
+      "in",
+      "to"
+    ],
+    "answer": "on",
+    "explanation": "Differ on something অর্থ ভিন্নমত পোষণ করা। শূন্যস্থানে on বসিয়ে বাক্যটির বাংলা: প্রত্যেকে মতাদর্শে একে অপর থেকে ভিন্নমত প্রকাশ করল।"
+  },
+  {
+    "id": 25,
+    "question": "Ratul _______ before I came.",
+    "options": [
+      "left",
+      "will leave",
+      "would leave",
+      "had left"
+    ],
+    "answer": "had left",
+    "explanation": "অতীতের দুটি ক্রমিক ঘটনার মধ্যে যেটি আগে ঘটে সেটি Past perfect আর অন্যটি Past indefinite হয়। সাধারণত Before এর পূর্বে এবং After এর পর Past perfect tense হয়, অন্য অংশ হয় Past indefinite.\n→ Past perfect + Before + Past indefinite\n→ Past indefinite + After + Past perfect\nসুতরাং উক্ত শর্ত অনুসারে আমি আসার (I came) আগেই রাতুল চলে গিয়েছিল (Had left)। তাই সঠিক উত্তর হলো অপশন B."
+  },
+  {
+    "id": 26,
+    "question": "A 60 litre mixture of sugar and water contains sugar and water in the ratio 2:3. How many litres of the mixture should be replaced by sugar so that the ratio of sugar and water becomes 1:1?",
+    "options": [
+      "6",
+      "10",
+      "15",
+      "None"
+    ],
+    "answer": "10",
+    "explanation": "মিশ্রণে চিনির পরিমাণ = (60 × 2/5) লিটার = 24 লিটার\n\" পানির \" = (60 × 3/5) \" = 36 লিটার\nধরি, y লিটার মিশ্রণের পরিবর্তে চিনি ব্যবহার করা হলো।\nসুতরাং y লিটার মিশ্রণে চিনির পরিমাণ = 2y/5\n∴ y \" \" পানির \" = 3y/5\n∴ (24 - 2y/5 + y) : (36 - 3y/5) = 1 : 1\n⇒ (120 - 2y + 5y)/5 : (180 - 3y)/5 = 1 : 1\n⇒ (120 + 3y) / (180 - 3y) = 1 : 1\n⇒ 120 + 3y = 180 - 3y\n⇒ 6y = 60\n∴ y = 10"
+  },
+  {
+    "id": 27,
+    "question": "Arif bought 17 pens of three colors- black, green and red. They cost Tk. 5, Tk. 10 and Tk. 25 each respectively. The total amount that Arif paid was Tk. 205. If Arif bought twice as many green pens as red pens, how many black pens did he buy?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "None"
+    ],
+    "answer": "5",
+    "explanation": "ধরি, লাল কলমের সংখ্যা = x টি\n∴ সবুজ \" \" = 2x \"\nকালো \" \" = (17 - x - 2x) টি = (17 - 3x) টি\nপ্রশ্নমতে, 5(17 - 3x) + (10 × 2x) + (25 × x) = 205\n⇒ 17 - 3x + 4x + 5x = 205 / 5\n⇒ 6x = 41 - 17\n⇒ x = 24 / 6\n∴ x = 4\n∴ কালো কলমের সংখ্যা = (17 - 3 × 4) = 5টি"
+  },
+  {
+    "id": 28,
+    "question": "Alam starts working on a job and works on it for 12 days and completes 40% of the work. Then Babu joins Alam and together they complete the rest of the work in 12 days. How long (in days) will it take Babu to complete the job if he works alone?",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "None"
+    ],
+    "answer": "60",
+    "explanation": "আলম 40% সম্পন্ন করে 12 দিনে\n∴ \" 1% \" \" 12/40 \"\n∴ \" 100% \" \" (12 × 100)/40 দিনে = 30 দিনে\n∴ বাবু ও আলম 60% সম্পন্ন করে 12 দিনে\n∴ \" \" 1% \" \" 12/60 \"\n∴ \" \" 100% \" \" (12 × 100)/60 \" = 20 দিনে\n∴ বাবু 1 দিনে করে = (1/20 - 1/30) অংশ\n= (3 - 2)/60 = 1/60 অংশ\n∴ 1/60 অংশ করে 1 দিনে\n∴ 1 \" \" 60 \"\nবাবুর 60 দিন সময় লাগবে।"
+  },
+  {
+    "id": 29,
+    "question": "IF 7 > x > 2 and 3 < x < 8, which of the following best describes x?",
+    "options": [
+      "2 < x < 8",
+      "7 < x < 8",
+      "7 < x < 3",
+      "all of these"
+    ],
+    "answer": "2 < x < 8",
+    "explanation": "7 > x > 2\n⇒ 2 < x < 7\nএবং 3 < x < 8\nসুতরাং আমরা অসমতা দুটিকে একত্রে লিখলে পাই, 2 < x < 8"
+  },
+  {
+    "id": 30,
+    "question": "When x is divided by 7, the remainder is 6. Which of the following must be an even number?",
+    "options": [
+      "x + 6",
+      "x² + x",
+      "x - 4",
+      "None"
+    ],
+    "answer": "x² + x",
+    "explanation": "7 দ্বারা ভাগ করলে 6 ভাগশেষ থাকে তাই সংখ্যাটি হতে পারে 6, 13, 20, 27, 34 ইত্যাদি। সুতরাং সংখ্যাটি জোড় ও বিজোড় উভয়ই হতে পারে। কিন্তু x এর মান জোড় বা বিজোড় যাই হোক না x² + x অবশ্যই জোড়সংখ্যা হবে।"
+  },
+  {
+    "id": 31,
+    "question": "If -3 ≤ x ≤ 5 and -5 ≤ y ≤ 3, what is the smallest value of (2x - y)?",
+    "options": [
+      "-16",
+      "-9",
+      "-1",
+      "None"
+    ],
+    "answer": "-9",
+    "explanation": "নির্ণয়ের ক্ষেত্রে x-এর সর্বনিম্ন মান ও y-এর সর্বোচ্চ মান নিতে হবে। এখানে x এর সর্বনিম্ন মান -3 এবং y এর সর্বোচ্চ মান 3।\n∴ 2x - y এর সর্বনিম্ন মান = 2(-3) - 3 = -6 - 3 = -9"
+  },
+  {
+    "id": 32,
+    "question": "A businessman has 1000 Kg of rice, part of which he sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. How much Kg of rice did he sell at 18% profit?",
+    "options": [
+      "600",
+      "620",
+      "640",
+      "None"
+    ],
+    "answer": "600",
+    "explanation": "ধরি,\n18% লাভে বিক্রি করেন x kg\n∴ 8% \" \" (1000 - x) kg\nপ্রশ্নমতে,\n(x × 118/100) + (1000 - x) 108/100 = 1000 × 114/100\n⇒ 118x + 108000 - 108x = 114000\n⇒ 10x = 6000\n∴ x = 600"
+  },
+  {
+    "id": 33,
+    "question": "The sum of three consecutive odd integers is 40 more than the first of the numbers. What is the middle number?",
+    "options": [
+      "19",
+      "21",
+      "23",
+      "None"
+    ],
+    "answer": "19",
+    "explanation": "ধরি, সংখ্যাগুলো হলো: x - 2, x, x + 2\n∴ x - 2 + x + x + 2 = x - 2 + 40\n⇒ 3x = x + 38\n⇒ 2x = 38\n∴ x = 19\nসুতরাং মধ্য সংখ্যাটি হলো 19।"
+  },
+  {
+    "id": 34,
+    "question": "If Rahim walks at 14 km/hr instead of 10 km/hr for a certain time, he would have walked 20 km more. If Rahim walks at a speed of 10 km/hr, the distance travelled by him within that time is -",
+    "options": [
+      "50 km",
+      "55 km",
+      "60 km",
+      "None"
+    ],
+    "answer": "50 km",
+    "explanation": "ধরি, সময় = t\nপ্রশ্নমতে,\n14 × t - 10 × t = 20 [∵ সরণ = বেগ × সময়]\n⇒ 4t = 20 ∴ t = 5 ঘণ্টা\nএখন, 1 ঘণ্টায় যায় 10 কিমি\n∴ 5 \" \" (5 × 10) = 50 কিমি"
+  },
+  {
+    "id": 35,
+    "question": "Pens that used to cost Tk. 150 for a package of 3 now cost Tk. 300 for a packae of 5. What is the percent increase in the price of these pens?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "None"
+    ],
+    "answer": "20%",
+    "explanation": "পূর্বে প্রতিটি কলমের মূল্য ছিল = 150 / 3 = 50 টাকা\n\nবর্তমানে \" \" মূল্য = 300 / 5 = 60 টাকা\n\n∴ মূল্য বৃদ্ধি পেল = (60 - 50) টাকা = 10 টাকা\n50 টাকায় বৃদ্ধি পায় 10 টাকা\n∴ 1 \" \" \" 10 / 50 \"\n∴ 100 \" \" \" (10 × 100) / 50 টাকা = 20 টাকা"
+  },
+  {
+    "id": 36,
+    "question": "A year ago the price of a toothbrush and the price of a comb were both Tk. 50. The price of the toothbrush was increased by 20% while the price of the com was decreased by 10%. What is the difference in Taka between the current price of the toothbrush and the comb?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "15",
+    "explanation": "টুথব্রাশের বর্তমান মূল্য = (50 + 50 × 20/100) = 60 টাকা\n\nচিরুনির \" \" = 50 - 50 × 10/100 = 45 টাকা\n\n∴ টুথব্রাশ ও চিরুনির বর্তমান মূল্যের পার্থক্য = (60 - 45) = 15 টাকা"
+  },
+  {
+    "id": 37,
+    "question": "When the positive integer n is divided by 5, the remainder is 2. Which of the following must be true?",
+    "options": [
+      "n is odd",
+      "n is even",
+      "n - 1 is divisible by 3",
+      "None"
+    ],
+    "answer": "None",
+    "explanation": "যেহেতু সংখ্যাটিকে 5 দ্বারা ভাগ করলে 2 ভাগশেষ থাকে তাই সংখ্যাগুলো হতে পারে 2, 7, 12, 17 ইত্যাদি যা উপরে উল্লিখিত কোনো option এর সাথে মিলে না তাই সঠিক উত্তর হবে None।"
+  },
+  {
+    "id": 38,
+    "question": "If x/z is 1 more than y/z, then y = ?",
+    "options": [
+      "x - z",
+      "zx - 1",
+      "x - 1",
+      "(x - 1)/z"
+    ],
+    "answer": "x - z",
+    "explanation": "x/z = y/z + 1\n⇒ x/z - 1 = y/z\n⇒ (x - z)/z = y/z\n∴ y = x - z"
+  },
+  {
+    "id": 39,
+    "question": "Apu took 3/5 of the marbles kept in a box. His younger took another 3/5 of remaining marbles. Then his sister took another 3/5 of the remaining marbles. What fractions of the marbles are left in the box?",
+    "options": [
+      "8/125",
+      "11/125",
+      "13/125",
+      "None"
+    ],
+    "answer": "8/125",
+    "explanation": "ধরি, মোট মার্বেল সংখ্যা = x টি।\n∴ অপুর \" \" = 3x/5 \"\n∴ অবশিষ্ট মার্বেল = (x - 3x/5) টি = 2x/5 টি\nএখন,\nতার ছোট ভাইয়ের মার্বেল সংখ্যা = 2x/5 × 3/5 = 6x/25\n∴ অবশিষ্ট মার্বেল সংখ্যা = 2x/5 - 6x/25 = (10x - 6x)/25 = 4x/25\nঅর্থাৎ, বোনের মার্বেল সংখ্যা = 4x/25 × 3/5 = 12x/125\n∴ অবশিষ্ট \" \" \" = 4x/25 - 12x/125 = 8x/125\n= 8/125 × মোট মার্বেল সংখ্যা\nসুতরাং সঠিক উত্তর হবে 8/125।"
+  },
+  {
+    "id": 40,
+    "question": "The average daily wages of female workers in a factory is Tk. 30 and that of male workers is Tk. 42. If the average wages of all the workers is Tk. 37, what is the ratio of male to female workers?",
+    "options": [
+      "3:2",
+      "4:3",
+      "7:5",
+      "None"
+    ],
+    "answer": "7:5",
+    "explanation": "ধরি, পুরুষ কর্মচারীর সংখ্যা = x জন\nএবং মহিলা \" \" = y \"\n∴ 42x + 30y = 37(x + y)\n⇒ 42x + 30y = 37x + 37y\n⇒ 5x = 7y\n⇒ x/y = 7/5\n∴ x : y = 7 : 5"
+  },
+  {
+    "id": 41,
+    "question": "Which country did not participate in the recent bombing in Syria?",
+    "options": [
+      "France",
+      "UK",
+      "Germany",
+      "All participated"
+    ],
+    "answer": "Germany",
+    "explanation": "২০১৮ সালের ১৪ এপ্রিল সিরিয়ার সরকার নিয়ন্ত্রিত বিভিন্ন স্থাপনায় ব্যাপক ক্ষেপণাস্ত্র হামলা চালায় যুক্তরাষ্ট্র, যুক্তরাজ্য ও ফ্রান্স।"
+  },
+  {
+    "id": 42,
+    "question": "ERP stands for",
+    "options": [
+      "Enterprise Resource Planning",
+      "Efficient Resource Planning",
+      "Enterprise Resource Planner",
+      "Enterprise Recruitment Planning"
+    ],
+    "answer": "Enterprise Resource Planning",
+    "explanation": "ERP-এর পূর্ণরূপ Enterprise Resource Planning। এটি মৌলিক ব্যবসা প্রক্রিয়ার সমন্বিত ব্যবস্থাপনা।"
+  },
+  {
+    "id": 43,
+    "question": "Parki beach is situated in _______.",
+    "options": [
+      "Chittagong",
+      "Khulna",
+      "Cox's Bazar",
+      "Potuakhali"
+    ],
+    "answer": "Chittagong",
+    "explanation": "বাংলাদেশের চট্টগ্রাম শহর থেকে ২০ কি.মি দক্ষিণে আনোয়ারায় উপজেলায় অবস্থিত ১৩ কি.মি দীর্ঘ পারকি সমুদ্র সৈকত। বাংলাদেশের কয়েকটি সমুদ্র সৈকতের অবস্থান ও আয়তন নিম্নরূপ-\n\n| সমুদ্র সৈকত | অবস্থান | দৈর্ঘ্য |\n| :--- | :--- | :--- |\n| কক্সবাজার | কক্সবাজার | ১২০ কি.মি. |\n| কুয়াকাটা | পটুয়াখালী | ১৮ কি.মি. |\n| পতেঙ্গা | চট্টগ্রাম | - |\n| পারকি | চট্টগ্রাম | ১৩ কি.মি |\n| ইনানী | কক্সবাজার | - |"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following historical place contains the tomb of 'Pari Bibi'?",
+    "options": [
+      "Star Mosque",
+      "Sixty Dome Mosque",
+      "Lalbagh Fort",
+      "Ahsan Manzil"
+    ],
+    "answer": "Lalbagh Fort",
+    "explanation": "বুড়িগঙ্গা নদীর তীরে অবস্থিত লালবাগ কেল্লা মুঘল আমলের ঐতিহাসিক নিদর্শন। এই কেল্লার পূর্ব নাম আওরঙ্গবাদ দুর্গ। শাহজাদা মুহম্মদ আযম শাহ এর নির্মাণ কাজ শুরু করেন এবং শায়েস্তা খাঁর আমলে এর নির্মাণ কাজ অব্যাহত থাকে। এই লালবাগ কেল্লায় পরিবিবি (প্রকৃত নাম: ইরান দুখত) সমাধি অবস্থিত। উল্লেখ্য, লালকেল্লা ভারতের দিল্লিতে অবস্থিত।"
+  },
+  {
+    "id": 45,
+    "question": "Gatwick Airport is located in _______.",
+    "options": [
+      "London",
+      "New York",
+      "Dubai",
+      "Perth"
+    ],
+    "answer": "London",
+    "explanation": "নিম্নে কয়েকটি গুরুত্বপূর্ণ দেশের বিমান বন্দরের নাম তুলে ধরা হলো:\n\n| বিমানবন্দর | দেশ |\n| :--- | :--- |\n| হিথ্রো বিমানবন্দর | ব্রিটেন |\n| লন্ডন গেটউইক বিমানবন্দর | ব্রিটেন |\n| ফ্রাঙ্কফুর্ট / মিউনিখ বিমানবন্দর | জার্মানি |\n| আমস্টারডাম বিমানবন্দর | নেদারল্যান্ডস |\n| নারিতা আন্তর্জাতিক বিমানবন্দর | জাপান |\n| সুবর্ণভূমি | থাইল্যান্ড |\n| বারাজাস বিমানবন্দর | স্পেন |\n| ডাবলিন বিমানবন্দর | আয়ারল্যান্ড |\n| জুরিখ বিমানবন্দর | সুইজারল্যান্ড |"
+  },
+  {
+    "id": 46,
+    "question": "The organization 'Boko Haram' is based in:",
+    "options": [
+      "Nigeria",
+      "Iraq",
+      "South Sudan",
+      "Lebanon"
+    ],
+    "answer": "Nigeria",
+    "explanation": "বিভিন্ন দেশের গেরিলা সংগঠনগুলো নিম্নরূপ-\n\n| দেশ | গেরিলা সংগঠন |\n| :--- | :--- |\n| ফিলিস্তিন | হামাস, ফাতাহ, ফোর্থ-১৭ |\n| লেবানন | হিজবুল্লাহ |\n| পেরু | শাইনিং পথ |\n| আসাম | উলফা |\n| নিকারাগুয়া (মধ্য আমেরিকা) | কন্ট্রা |\n| ফিলিপাইন | আবু সায়েফ |\n| জাপান | রেড আর্মি |\n| কলম্বিয়া | ফার্ক, এম-১৯ |\n| শ্রীলঙ্কা | LTTE |\n| ইরাক, সিরিয়া | ISIS |"
+  },
+  {
+    "id": 47,
+    "question": "Which is the second largest oil exporting country in the world?",
+    "options": [
+      "China",
+      "Russia",
+      "Iran",
+      "Saudi Arabia"
+    ],
+    "answer": "Russia",
+    "explanation": "২০২৩ সালে বিশ্বের প্রধান কয়েকটি দেশের পেট্রোলিয়াম রপ্তানির পরিমাণ - সৌদি আরব ($138B), রাশিয়া ($113B), কানাডা ($81.2B), ইরাক ($72B), এবং যুক্তরাষ্ট্র ($67.6B)।\n২০২৩ সালে বিশ্বের প্রধান কয়েকটি দেশের পেট্রোলিয়াম আমদানির পরিমাণ - চীন ($208B), যুক্তরাষ্ট্র ($120B), ভারত ($93.5B), দক্ষিণ কোরিয়া ($60.6B) এবং জাপান ($54.9B)।\nSource : https://oec.world/en/profile/hs/crude-petroleum\nবিশ্বে তেল রপ্তানিতে প্রথম অবস্থানে আছে সৌদি আরব এবং দ্বিতীয় অবস্থানে আছে রাশিয়া।"
+  },
+  {
+    "id": 48,
+    "question": "Who is the present Vice President of US?",
+    "options": [
+      "Joe Biden",
+      "Dick Cheney",
+      "Mike Pence",
+      "Al Gore"
+    ],
+    "answer": "কমলা হ্যারিস",
+    "explanation": "বর্তমানে যুক্তরাষ্ট্রের নির্বাহী বিভাগ:\n\n| পদবী | ব্যক্তি |\n| :--- | :--- |\n| রাষ্ট্রপতি | জো বাইডেন (৪৬তম) |\n| উপ-রাষ্ট্রপতি | কমলা হ্যারিস (৪৯তম) |\n| প্রতিরক্ষামন্ত্রী | লয়েড জেমস অস্টিন |\n| পররাষ্ট্রমন্ত্রী | অ্যান্টনি ব্লিংকেন |\n| স্বরাষ্ট্রমন্ত্রী | দেব হালান্দ |\n| অর্থমন্ত্রী | জ্যানেট লুইস ইয়েলেন |"
+  },
+  {
+    "id": 49,
+    "question": "Which Mughal emperor is laid in rest in Yangoon?",
+    "options": [
+      "Bahadur Shah",
+      "Sher Shah",
+      "Jafar Shah",
+      "Elias Shah"
+    ],
+    "answer": "Bahadur Shah",
+    "explanation": "মোঘল সম্রাট বাহাদুর শাহ মুঘল সাম্রাজ্যের শেষ সম্রাট। সিপাহি বিপ্লবের শেষে ১৮৫৮ খ্রিস্টাব্দে ব্রিটিশ শাসকেরা তাকে ক্ষমতাচ্যুত করে ও রেঙ্গুনে (বর্তমান ইয়াঙ্গুন) নির্বাসনে পাঠায়। সেখানেই তিনি ১৮৬২ সালের ৭ নভেম্বর মারা যান।"
+  },
+  {
+    "id": 50,
+    "question": "In which country can you see 'Adam's Peak'?",
+    "options": [
+      "Nepal",
+      "India",
+      "Bhutan",
+      "Sri Lanka"
+    ],
+    "answer": "Sri Lanka",
+    "explanation": "আদম চূড়া বা শ্রী পদ বা পবিত্র পদচিহ্ন, শ্রীলঙ্কার দক্ষিণ পশ্চিম অংশের শ্রী পাড়া প্রদেশে অবস্থিত একটা পর্বত চূড়া যা খ্রিস্টান, হিন্দু, বৌদ্ধ ও মুসলিম এই চার ধর্মের অনুসারীদের কাছে অতি পবিত্র স্থান।"
+  }
+]

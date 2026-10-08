@@ -1,0 +1,418 @@
+[
+    {
+        "id": 1,
+        "question": "1. সংসারে আসিয়া এই পরম সুখে বঞ্চিত রহিলাম। রেখাঙ্কিত অংশটির কারক নির্ণয় করুন:",
+        "options": [
+            "অপাদান কারক",
+            "করণ কারক",
+            "অধিকরণ কারক",
+            "কর্ম কারক"
+        ],
+        "answer": "অপাদান কারক",
+        "explanation": "ব্যাখ্যা (উত্তর: A): যা থেকে কিছু বিচ্যুত, গৃহীত, জাত, বিরত, বঞ্চিত, আরম্ভ, দূরীভূত ও রক্ষিত হয় এবং যা দেখে কেউ ভীত হয়, তাকেই অপাদান কারক বলে। যেমন- সংসারে আসিয়া এই পরম সুখে বঞ্চিত রহিলাম। এই বাক্যে 'সুখে' অপাদান কারকে সপ্তমী বিভক্তি।"
+    },
+    {
+        "id": 2,
+        "question": "2. যুক্তব্যঞ্জনটি বিশ্লেষণ করুন: 'হ্ম'",
+        "options": [
+            "ক্ + ষ + ম",
+            "ঞ্ + জ",
+            "হ্ + ম",
+            "ম্ + ম"
+        ],
+        "answer": "হ্ + ম",
+        "explanation": "ব্যাখ্যা (উত্তর: C): কিছু গুরুত্বপূর্ণ যুক্তবর্ণ নিম্নরূপ-\n\n| যুক্তবর্ণ | বিশ্লেষণ | যুক্তবর্ণ | বিশ্লেষণ | যুক্তবর্ণ | বিশ্লেষণ |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| ক্ত | ক্ + ত | স্ক | ক্ + স | ঞ্ছ | ঞ্ + ছ |\n| ক্ষ্ম | ক্ + ম | গু | গ্ + উ | ঞ্জ | ঞ্ + জ |\n| ক্র | ক্ + র | ঙ্ক | ঙ্ + ক | ট্ট | ট্ + ট |\n| ক্ষ | ক্ + ষ | জ্ঞ | জ্ + ঞ | থ্ব | ত্ + থ |\n| ণ্ড | ণ্ + ড | ড্রূ | ড্ + র্ + ঊ | হ্ম | হ্ + ম |\n| দ্ধ | দ্ + ধ | রূ | র্ + ঊ | হ্ন | হ্ + ন |\n| ন্ধ | ন্ + ধ | শু | শ্ + উ | হ্ণ | হ্ + ণ |\n| ব্ধ | ব্ + ধ | ষ্ণ | ষ্ + ণ | গ্ধ | গ্ + ধ |\n| ক্ষ্ম | ক্ + ষ + ম | ষ্ফ | ষ্ + ফ | ত্র | ত্ + র |\n| ড্র | ড্ + র | হু | হ্ + উ | ঙ্গ | ঙ্ + গ |"
+    },
+    {
+        "id": 3,
+        "question": "3. Nothing must be allowed to _____ our search for the truth.",
+        "options": [
+            "Interfered upon",
+            "interfered into",
+            "interfered with",
+            "interfered from"
+        ],
+        "answer": "interfered with",
+        "explanation": "ব্যাখ্যা (উত্তর: C): Interfere (হস্তক্ষেপ করা)-এর সাথে appropriate preposition হিসেবে with বসে। Interfered with যোগে বাক্যটির অর্থ হবে 'আমাদের সত্য অনুসন্ধানে কোনো কিছুকে হস্তক্ষেপ করতে অবশ্যই অনুমোদন করা হবে না।'"
+    },
+    {
+        "id": 4,
+        "question": "4. Antonym of ABRIDGE is–",
+        "options": [
+            "Subdue",
+            "Augment",
+            "Encourage",
+            "Tacit"
+        ],
+        "answer": "Augment",
+        "explanation": "ব্যাখ্যা (উত্তর: B): Abridge (সংক্ষিপ্ত করা)-এর বিপরীত শব্দ হলো augment (বৃদ্ধি করা)। অন্যদিকে subdue অর্থ দমন করা, encourage অর্থ উৎসাহিত করা এবং tacit অর্থ মৌন, নির্বাক ইত্যাদি।"
+    },
+    {
+        "id": 5,
+        "question": "5. |3x – 4| > 20. Which of the following choices is not possible value for x?",
+        "options": [
+            "–5.3",
+            "8.2",
+            "–5.4",
+            "8.1"
+        ],
+        "answer": "–5.3",
+        "explanation": "ব্যাখ্যা (উত্তর: A): দেয়া আছে, |3x – 4| > 20\n(+) নিয়ে 3x – 4 > 20\n⇒ 3x – 4 + 4 > 20 + 4 [উভয় পক্ষে 4 যোগ করে]\n⇒ 3x > 24\n∴ x > 8 [উভয় পক্ষে 3 দ্বারা ভাগ করে]\nআবার, (–) নিয়ে, –(3x – 4) > 20\n⇒ 3x – 4 < –20 [উভয় পক্ষে (–1) দ্বারা গুণ করে]\n⇒ 3x – 4 + 4 < – 20 + 4 [উভয় পক্ষে 4 যোগ করে]\n⇒ 3x < – 16\n⇒ x < – 16/3 [উভয় পক্ষে 3 দ্বারা ভাগ করে]\n∴ x < –5.33\nসুতরাং x এর মান 8 এর চেয়ে বড় কিন্তু –5.3 এর চেয়ে ছোট। অপশন অনুযায়ী x এর মান হতে পারে –5.4, 8.1, 8.2। –5.3, x এর মান হতে পারে না।"
+    },
+    {
+        "id": 6,
+        "question": "6. A trader marked the selling price of an article at 10% above the cost price. At the time of selling, he allows certain discount and suffers a loss of 1%. He allowed a discount of –",
+        "options": [
+            "10%",
+            "10.5%",
+            "11%",
+            "12.5%"
+        ],
+        "answer": "10%",
+        "explanation": "ব্যাখ্যা (উত্তর: A): মনে করি, ক্রয়মূল্য 100x\nমার্কড মূল্য = 100x × 110/100 = 110x টাকা\n1% ক্ষতিতে বিক্রয়মূল্য = 100x × 99/100 = 99x টাকা\n∴ ডিসকাউন্টের পরিমাণ = (110x – 99x) / 110x × 100 টাকা\n= 10% টাকা"
+    },
+    {
+        "id": 7,
+        "question": "7. Japan captured Manchuria in:",
+        "options": [
+            "1931",
+            "1929",
+            "1930",
+            "1939"
+        ],
+        "answer": "1931",
+        "explanation": "ব্যাখ্যা (উত্তর: A) : উত্তর-পূর্ব এশিয়ায় অবস্থিত একটি বৃহৎ ঐতিহাসিক অঞ্চলের নাম মাঞ্চুরিয়া। ১৮ সেপ্টেম্বর ১৯৩১ জাপান মাঞ্চুরিয়া আক্রমণ করে এবং এটি দখলের পর ১৯৩২ সালে মাঞ্চুকুয়ো নামক একটি রাষ্ট্র প্রতিষ্ঠা করে।"
+    },
+    {
+        "id": 8,
+        "question": "8. Which world leader has been honored with the SDG Progress award?",
+        "options": [
+            "Yoshihide Sug",
+            "Scott Morrison",
+            "Jacinda Ardern",
+            "Sheikh Hasina"
+        ],
+        "answer": "Sheikh Hasina",
+        "explanation": "ব্যাখ্যা (উত্তর: D): টেকসই উন্নয়ন লক্ষ্যমাত্রা (SDG) অর্জনে ২০১৫-২০২০ সাল পর্যন্ত বিভিন্ন সূচকে এগিয়ে থাকায় এসডিজি প্রোগ্রেস অ্যাওয়ার্ড লাভ করেন প্রধানমন্ত্রী শেখ হাসিনা। জাতিসংঘের Sustainable Development Solutions Network (SDSN), Global Masters of Development Practice এবং যুক্তরাষ্ট্রের কলাম্বিয়া বিশ্ববিদ্যালয়ের আর্থ ইনস্টিটিউট যৌথভাবে এ পুরস্কার প্রদান করে।"
+    },
+    {
+        "id": 9,
+        "question": "9. In MS Word, CTRL + E will result in:",
+        "options": [
+            "Table",
+            "Centre alignment",
+            "Exit from MS Word",
+            "Underline"
+        ],
+        "answer": "Centre alignment",
+        "explanation": "ব্যাখ্যা (উত্তর: B):\n\n| কীবোর্ড কমান্ড | কাজ |\n| :--- | :--- |\n| Ctrl+E | Central Alignment |\n| Ctrl+L | Left Alignment |\n| Ctrl+R | Right Alignment |\n| Ctrl+J | Justify Alignment |\n| Ctrl+N | Open a new window |\n| Ctrl+H | Replace |\n| Ctrl+F | Find |"
+    },
+    {
+        "id": 10,
+        "question": "10. Period costs include which of the following?",
+        "options": [
+            "Selling expense",
+            "Raw material",
+            "Manufacturing overhead",
+            "Direct labor"
+        ],
+        "answer": "Selling expense",
+        "explanation": "ব্যাখ্যা (উত্তর: A):\n\n| Period costs | Product costs |\n| :--- | :--- |\n| Period cost include:<br>➢ administrative costs<br>➢ selling and marketing costs<br>➢ finance costs or borrowing costs<br>➢ abnormal losses etc. | Product cost include:<br>➢ direct material costs<br>➢ direct labour costs<br>➢ manufacturing overheads |"
+    },
+    {
+        "id": 11,
+        "question": "11. Cashflow statement is prepared according to –",
+        "options": [
+            "IAS-7",
+            "IAS-9",
+            "IAS-10",
+            "IAS-11"
+        ],
+        "answer": "IAS-7",
+        "explanation": "ব্যাখ্যা (উত্তর: A):\n\n| IAS | Name |\n| :--- | :--- |\n| IAS 7 | Statement of Cash Flows |\n| IAS 9 | Accounting for Research and Development Activities |\n| IAS 10 | Events After the Reporting Period |\n| IAS 11 | Construction Contracts |\n\n১৯৯২ সালে আন্তর্জাতিক হিসাব মান কমিটি IAS-7 এর মাধ্যমে প্রতিষ্ঠানের আর্থিক অবস্থার পরিবর্তন নির্দেশনার জন্য নগদ প্রবাহ বিবরণীকে আর্থিক বিবরণীসমূহের অন্তর্ভুক্ত করা হয়েছে।"
+    },
+    {
+        "id": 12,
+        "question": "12. Devaluation of currency is likely to increase –",
+        "options": [
+            "Import",
+            "Duty",
+            "Tariff",
+            "Export"
+        ],
+        "answer": "Export",
+        "explanation": "ব্যাখ্যা (উত্তর: D): সরকার স্বেচ্ছায় যখন বৈদেশিক মুদ্রা অথবা স্বর্ণের তুলনায় দেশীয় মুদ্রার মূল্য কমিয়ে দেয় তখন মুদ্রার অবমূল্যায়ন (Devaluation) ঘটে। মুদ্রার অবমূল্যায়ন করা হলে এক একক দেশীয় মুদ্রার বিনিময়ে পূর্বাপেক্ষা কম পরিমাণ স্বর্ণ বা বিদেশি মুদ্রা পাওয়া যায়। যেমন ধরা যাক, আমেরিকার ১ ডলারের সাথে বাংলাদেশের টাকার বিনিময় হার হলো ১ ডলার = ৮০.০০ টাকা। বাংলাদেশ সরকার যদি ডলারের তুলনায় মুদ্রার মূল্য হ্রাস করে ১ ডলার = ৮৫.০০ টাকা ধার্য করে, তবে এক্ষেত্রে বাংলাদেশের মুদ্রার অবমূল্যায়ন করা হয়েছে। আমদানি কমানো এবং রপ্তানি বাড়ানোর উদ্দেশ্যে মুদ্রার অবমূল্যায়ন করা হয়।"
+    },
+    {
+        "id": 13,
+        "question": "13. Which one is a perfect alternative to overseas travel card?",
+        "options": [
+            "Travelers cheque",
+            "Cash",
+            "SWIFT",
+            "EFT"
+        ],
+        "answer": "Travelers cheque",
+        "explanation": "ব্যাখ্যা (উত্তর: A): ভ্রমণকালে বিদেশে অর্থ সংগ্রহের জন্য ব্যাংক ভ্রমণকারীদের যে বিশেষ ধরনের চেক ইস্যু করে তাকে ভ্রমণকারীর চেক বলে। ভ্রমণকারী ব্যাংকে টাকা জমা দিয়ে এরূপ চেক সংগ্রহ করে এবং ভ্রমণকালে ব্যাংকের শাখা বা প্রতিনিধি ব্যাংকের নিকট তা ভাঙিয়ে অর্থ সংগ্রহ করে। সুইফট হলো আন্তঃদেশীয় আন্তঃব্যাংকিং দেনা-পাওনা নিষ্পত্তির লক্ষ্যে গঠিত একটা সংস্থা। এর উদ্দেশ্য হলো সদস্য ব্যাংকগুলো যেকোন ইলেকট্রনিক যোগাযোগ নেটওয়ার্কের মাধ্যমে আন্তর্জাতিক লেনদেন সহজে, দ্রুত ও নির্ভুলভাবে সম্পাদন করতে পারে।"
+    },
+    {
+        "id": 14,
+        "question": "14. 'Idea Generation' stage in new product development process does not include –",
+        "options": [
+            "internal idea sources",
+            "extenal idea sources",
+            "crowdsourcing",
+            "on-boarding"
+        ],
+        "answer": "on-boarding",
+        "explanation": "ব্যাখ্যা (উত্তর: D): 'অনবোর্ডিং' হলো নতুন নিয়োগকৃত কর্মীদের প্রতিষ্ঠান অভিমুখীকরণের প্রক্রিয়া। নতুন পণ্য উদ্ভাবনের জন্য কোম্পানিকে কতগুলো পদক্ষেপের মাধ্যমে অগ্রসর হতে হয়। প্রায়শই কোম্পানিগুলো মৌলিক, অভ্যন্তরীণ এবং বাহ্যিক শক্তি, দুর্বলতা, সুযোগ এবং হুমকি নিযুক্ত করে এবং শত শত বা এমনকি হাজার হাজার সম্ভাব্য পণ্যের ধারণা তৈরির জন্য বাজারের প্রবণতা পরীক্ষা করে।"
+    },
+    {
+        "id": 15,
+        "question": "15. Apple customers who keep buying same brand in every purchase is an example of –",
+        "options": [
+            "user status",
+            "usage rate",
+            "loyalty status",
+            "benefits sought"
+        ],
+        "answer": "loyalty status",
+        "explanation": "ব্যাখ্যা (উত্তর: C): যেসব গ্রাহক ব্র্যান্ডের আনুগত্য প্রদর্শন করে তারা একটি পণ্য বা সেবার প্রতি নিবেদিত হয় যা প্রতিযোগীদের প্ররোচিত করার প্রচেষ্টা সত্ত্বেও তাদের পুনরাবৃত্তি ক্রয়ের দ্বারা প্রমাণিত হয়। প্রতিষ্ঠিত পণ্যের জন্য ব্র্যান্ড আনুগত্য তৈরি এবং বজায় রাখার জন্য কর্পোরেশনগুলো গ্রাহক পরিষেবা এবং বিপণনে উল্লেখযোগ্য পরিমাণ অর্থ বিনিয়োগ করে।"
+    },
+    {
+        "id": 16,
+        "question": "16. VF Corporation offering more than thirtyy premium brands is an example of –",
+        "options": [
+            "mass marketing",
+            "segmented marketing",
+            "riche marketing",
+            "micromarketing"
+        ],
+        "answer": "segmented marketing",
+        "explanation": "ব্যাখ্যা (উত্তর: B): বাজার বিভক্তিকরণ হলো ক্রেতাদের প্রয়োজন, বৈশিষ্ট্য বা আচরণের ভিত্তিতে সমগ্র বাজারকে সমজাতীয় ক্রেতাদলে বিভক্ত করা। অপৃথকীকৃত (গণ) বাজারজাতকরণ (Undifferentiated (mass) marketing) এর ক্ষেত্রে বাজারজাতকারী একই ধরনের পণ্য দিয়ে সকল ক্রেতাদের সেবা দেয়ার চেষ্টা করে। পৃথকীকৃত বাজারজাতকরণের (Differentiated (segmented) marketing) ক্ষেত্রে কোম্পানি মনে করে একই পণ্য দিয়ে সকলকে সন্তুষ্ট করা যাবে না। তাই কোম্পানি বিভিন্ন দৃষ্টিকোণ থেকে বাজারকে অনেকগুলো বিভাগে বিভক্ত করে এবং প্রত্যেক বিভাগে ভিন্ন ভিন্ন পণ্য বিক্রয় করে। কেন্দ্রীভূত (কোটার) বাজারজাতকরণের (Concentrated (Niche) marketing) ক্ষেত্রে কোন বাজার বিভাগের একটি নির্দিষ্ট অংশে কিংবা কয়েকটি অংশে একই ধরনের বাজারজাতকরণ কর্মকাণ্ড পরিচালনা করে। ব্যাষ্টিক বাজারজাতকরণের (Micromarketing) ক্ষেত্রে কোন নির্দিষ্ট ব্যক্তি বা অবস্থানকে কেন্দ্র করে যখন বাজারজাতকরণ কর্মসূচি গ্রহণ করা হয় তখন তাকে ব্যাষ্টিক বাজারজাতকরণ বলে।"
+    },
+    {
+        "id": 17,
+        "question": "17. Which theory assumes that people are naturally lazy and will avoid work and responsibilities if possible?",
+        "options": [
+            "Theory X",
+            "Theory Y",
+            "Theory Z",
+            "Theory M"
+        ],
+        "answer": "Theory X",
+        "explanation": "ব্যাখ্যা (উত্তর: A): ডগলাস ম্যাকগ্রেগর X তত্ত্ব ও Y তত্ত্বের জনক। তত্ত্ব X-এর ক্ষেত্রে কর্মীরা উত্তরাধিকারসূত্রে কাজ অপছন্দ করে, সুযোগ থাকলে কাজে ফাঁকি দেয়। অপরদিকে Y তত্ত্বে কর্মীরা কাজ পছন্দ করে এবং খেলা আর পাঁচটি কাজের মতো প্রতিষ্ঠানের কাজকে স্বাচ্ছন্দ্যভাবে গ্রহণ করে।"
+    },
+    {
+        "id": 18,
+        "question": "18. Dramatic reduction of manpower called:",
+        "options": [
+            "Termination",
+            "Retrenchment",
+            "Downsizing",
+            "Rightsizing"
+        ],
+        "answer": "Retrenchment",
+        "explanation": "ব্যাখ্যা (উত্তর: B): ছাঁটাই মানে শ্রমিকের বা কর্মচারীর কোম্পানির পারফরম্যান্সের মানের সাথে সামঞ্জস্যহীন অক্ষমতার কারণে একজন কর্মচারীকে বরখাস্ত করা। রিট্রেঞ্চ-এর ক্ষেত্রে অস্বাভাবিক হারে কর্মী ছাঁটাই করা হয় প্রতিষ্ঠানের স্বার্থে।"
+    },
+    {
+        "id": 19,
+        "question": "19. Securities with lower default risk and having highest credit quality assigned rating of –",
+        "options": [
+            "double B",
+            "triple B",
+            "triple A",
+            "double A"
+        ],
+        "answer": "triple A",
+        "explanation": "ব্যাখ্যা (উত্তর: C): AAA is the highest possible rating that may be assigned to an issuer's bonds by any of the major credit rating agencies. AAA-rated bonds have a high degree of creditworthiness because their issuers are easily able to meet financial commitments and have the lowest risk of default."
+    },
+    {
+        "id": 20,
+        "question": "20. Video transmission over the internet that looks like delayed live casting is called:",
+        "options": [
+            "video shift",
+            "virtual video",
+            "real-time video",
+            "direct broadcast"
+        ],
+        "answer": "real-time video",
+        "explanation": "ব্যাখ্যা (উত্তর: C): রিয়েল টাইম ভিডিও বলতে এমন ভিডিওকে বোঝায় যে গ্রহণের দিকে কোনো দেরি নেই অথবা সর্বাধিক অদৃশ্য বিলম্ব থাকে। ভিডিও ট্রান্সমিশনের ক্ষেত্রে লাইভ টেলিকাস্ট রিয়েল টাইম ভিডিও'র অন্তর্ভুক্ত।"
+    },
+    {
+        "id": 21,
+        "question": "21. Placement of financial issue in which investment banks find large buyers is classified as –",
+        "options": [
+            "reserve placement",
+            "federal placement",
+            "private placement",
+            "government placement"
+        ],
+        "answer": "private placement",
+        "explanation": "ব্যাখ্যা (উত্তর: C): প্রাইভেট প্লেসমেন্ট হলো খোলা বাজারের পরিবর্তে পূর্ব- নির্বাচিত বিনিয়োগকারীদের এবং প্রতিষ্ঠানের কাছে স্টক শেয়ার বা বন্ড বিক্রির করা। সম্প্রসারণের জন্য মূলধন সংগ্রহ করতে চাওয়া কোম্পানির জন্য এটি একটি প্রাথমিক পাবলিক অফারের বিকল্প।"
+    },
+    {
+        "id": 22,
+        "question": "22. Difference between face value of bond and call price of bond is considered as –",
+        "options": [
+            "call premium",
+            "call provision",
+            "discount premium",
+            "discount provision"
+        ],
+        "answer": "call premium",
+        "explanation": "ব্যাখ্যা (উত্তর: A): বন্ডের লিখিত মূল্য এবং বন্ডের তলব মূল্যের মধ্যে পার্থক্য কল প্রিমিয়াম হিসাবে বিবেচিত হয়। কল প্রিমিয়াম হলো একটি তলবযোগ্য ঋণ নিরাপত্তার সমান মূল্যের উপর ডলারের পরিমাণ যা ইস্যুকারীর দ্বারা সিকিউরিটি তাড়াতাড়ি খালাস হয়ে গেলে হোল্ডারদের দেয়া হয়।"
+    },
+    {
+        "id": 23,
+        "question": "23. IFRS9 is relate to –",
+        "options": [
+            "Inventory",
+            "Consolidation",
+            "Leasing",
+            "Financial Instrument"
+        ],
+        "answer": "Financial Instrument",
+        "explanation": "ব্যাখ্যা (উত্তর: D): IFRS9 is related to financial instrument."
+    },
+    {
+        "id": 24,
+        "question": "24. What is the net amount of cash paid to the supplier if: Credit purchases $12,000 out of which $2,000 were rejected an subsequently returned to the supplier. Supplier allowed a discount of 1% on settlement of amount –",
+        "options": [
+            "$10,000",
+            "$12,000",
+            "$9,900",
+            "$11,800"
+        ],
+        "answer": "$9,900",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\n\n| বিবরণ | ডলার |\n| :--- | :--- |\n| ধারে ক্রয় | ১২০০০ |\n| বাদ: ক্রয় ফেরত | ২,০০০ |\n| অবশিষ্ট দেনা | ১০,০০০ |\n| বাদ : বাট্টা (১%) | ১০০ |\n| পরিশোধযোগ্য নিট অর্থ | ৯,৯০০ |"
+    },
+    {
+        "id": 25,
+        "question": "25. As of December 31, 2020, Apple Company has assets of TK. 3,500 and equity of Tk. 2,000. What are the liabilities for Apple Company as of December 31, 2020?",
+        "options": [
+            "Tk. 1,500",
+            "Tk. 1,000",
+            "Tk. 2,500",
+            "Tk. 2,000"
+        ],
+        "answer": "Tk. 1,500",
+        "explanation": "ব্যাখ্যা (উত্তর: A): সম্পদ = দায় + মালিকানাস্বত্ব\n⇒ ৩,৫০০ = দায় + ২,০০০\n⇒ দায় = ১,৫০০\n∴ ৩১ ডিসেম্বর ২০২০ অ্যাপল কোম্পানির দায় ১,৫০০ টাকা।"
+    },
+    {
+        "id": 26,
+        "question": "26. A credit sale of Tk. 7,500 is made on June 13, terms 2/10, net/30. A return of TK. 500 is granted on June 16. The amount recived as payment i n full on June 23 is:",
+        "options": [
+            "Tk. 7,000",
+            "Tk. 6,860",
+            "Tk. 6,850",
+            "Tk. 6,500"
+        ],
+        "answer": "Tk. 6,860",
+        "explanation": "ব্যাখ্যা (উত্তর: B): ১০ দিনের মধ্যে পাওনা নিষ্পত্তি হলে ২ শতাংশ বাট্টা এবং সর্বোচ্চ ৩০ দিনের মধ্যে পাওনা পরিশোধ করতে হবে।\n১৩ জুন বাকিতে বিক্রয়: ৭,৫০০ টাকা\n১৬ জুন বিক্রয় ফেরত: ৫০০ টাকা\n= ৭০০০ টাকা\nবাট্টার পরিমাণ = ৭০০০ × ২% = ১৪০ টাকা\nমোট পরিশোধ করতে হবে = (৭০০০-১৪০) টাকা = ৬৮৬০ টাকা"
+    },
+    {
+        "id": 27,
+        "question": "27. What type of stock market is Dhaka Stock Exchange?",
+        "options": [
+            "Brokerage market",
+            "Dealers Market",
+            "Direct Exchange Market",
+            "Virtual Market"
+        ],
+        "answer": "Direct Exchange Market",
+        "explanation": "ব্যাখ্যা (উত্তর: C): যে সুসংহত বাজারে বা স্থানে এর তালিকাভুক্ত সরকারি ও বেসরকারি কোম্পানির শেয়ার সিকিউরিটিজ নিয়মিতভাবে ও নির্ধারিত বিধি অনুযায়ী ক্রয়-বিক্রয় করা হয়ে থাকে তাকেই স্টক এক্সচেঞ্জ বলে। পাবলিক লিমিটেড কোম্পানির উন্নয়নের সাথে দেশের শেয়ার বাজার বা স্টক এক্সচেঞ্জ ওতপ্রোতভাবে জড়িত। কারণ এখানে তালিকাভুক্ত কোম্পানিসমূহের শেয়ার ও ঋণপত্র সহজে বিক্রয় হয়।"
+    },
+    {
+        "id": 28,
+        "question": "28. Which of the following is not a negotiable instrument?",
+        "options": [
+            "Cheque",
+            "Bill of exchange",
+            "Certificate of Registration",
+            "Promissory note"
+        ],
+        "answer": "Certificate of Registration",
+        "explanation": "ব্যাখ্যা (উত্তর: C): কিছু শর্তসাপেক্ষে যে দলিল এক পক্ষ থেকে অন্য পক্ষের নিকট হস্তান্তর করা যায়, তাকে হস্তান্তরযোগ্য দলিল বলে। হস্তান্তরযোগ্য দলিল আইন ১৮৮১ সালের। ১৮৮১ সালের হস্তান্তরযোগ্য দলিল আইনে তিনটি হস্তান্তরযোগ্য দলিলের কথা বলা হয়েছে। যথা: অঙ্গীকারপত্র, বিনিময় বিল ও চেক।\n\n| বিভাগ | দলিলসমূহ |\n| :--- | :--- |\n| হস্তান্তরযোগ্য দলিলসমূহ | অঙ্গীকারপত্র, বিনিময় বিল, ব্যাংকের আজ্ঞাপত্র, চেক, শেয়ার ওয়ারেন্ট, হুন্ডি, পে-অর্ডার |\n| হস্তান্তরঅযোগ্য দলিলসমূহ | ডাকঘর সঞ্চয়পত্র, মানি অর্ডার, প্রত্যয়পত্র, শেয়ার সার্টিফিকেট, লিপিবদ্ধ খাত, I.O.U (I Owe You), পোস্টাল অর্ডার, FDR, ব্যাংক নোট |"
+    },
+    {
+        "id": 29,
+        "question": "29. The Dupont Analysis uses the following ratios except:",
+        "options": [
+            "Current ratio",
+            "Profit margin",
+            "Total asset turnover",
+            "Financial leverage"
+        ],
+        "answer": "Current ratio",
+        "explanation": "ব্যাখ্যা (উত্তর: A): In the 1920s, the management at duPont Corporation developed a model called DuPont Analysis for a detailed assessment of the company's profitability.\n\n| Dupont Analysis | Total asset turnover | Profit margin | Financial leverage |\n| :--- | :--- | :--- | :--- |"
+    },
+    {
+        "id": 30,
+        "question": "30. A series of constant cash flows that occur at the end of each period for some fixed number of periods is:",
+        "options": [
+            "ordinary annuity",
+            "annuity due",
+            "cashflows",
+            "perpetuity"
+        ],
+        "answer": "ordinary annuity",
+        "explanation": "ব্যাখ্যা (উত্তর: A):\nযে বার্ষিক বৃত্তির টাকা প্রতিটি সময় কালের শেষে প্রদান বা গ্রহণ করা হয় তাকে - সাধারণ বার্ষিক বৃত্তি (Ordinary Annuity) বলে।\nযে বার্ষিক বৃত্তির টাকা প্রতিটি সময় কালের শুরুতে প্রদান বা গ্রহণ করা হয় তাকে- অগ্রিম বার্ষিকবৃত্তি (Annuity Due) বলে।\nযে বার্ষিক বৃত্তির অর্থ নির্দিষ্ট সময় অন্তর গ্রহণ না করে বিলম্বিতভাবে গ্রহণ করা হয় তাকে- বিলম্বিত বার্ষিকবৃত্তি (Deferred Annuity) বলে।\nযে বার্ষিকবৃত্তি অনন্তকাল ধরে চলতে থাকে সে বার্ষিকবৃত্তিকে- চিরস্থায়ী বার্ষিকবৃত্তি (Perpetuity) বলে।"
+    },
+    {
+        "id": 31,
+        "question": "PART-II: Writing Ability Test\n31. Translate the following paragraph into Bangla:\nNot many people thought the Covid-19 pandemic was going to hit us as badly as it did. Most of us thought it would go away sooner rather than later and that lockdown was an opportunity to do chores at home or simply get some rest. But, in reality, the pandemic has changed the world forever. It shed light on multiple aspects of our day-to-day workplace that could-and will-change and boost online sales to all time highs.",
+        "options": [],
+        "answer": "",
+        "explanation": "Translation : কোভিড-১৯ মহামারি আমাদের যতটা মারাত্মকভাবে আঘাত হেনেছে, অনেক মানুষ কল্পনাও করেনি যে এই মহামারি আমাদের এতটা ক্ষতি করতে যাচ্ছে। আমাদের মধ্যে অনেকেই চিন্তা করেছিলাম যে, এটি শীঘ্রই এই চলে যাবে বরং দেরীতে নয়; এবং এই লকডাউন ছিল বাড়ির ছোটখাট কাজগুলো করার একটা সুযোগ অথবা সাময়িকভাবে কিছুদিন বিশ্রামের। কিন্তু বাস্তবে, মহামারি পুরো পৃথিবীকে চিরদিনের জন্য পরিবর্তন করে দিয়েছে। এটি দৈনন্দিন কাজের ক্ষেত্রে বহুমুখী আলো প্রক্ষেপণ করেছে যা সবসময়ের জন্য অনলাইন সেল-কে পরিবর্তন এবং উন্নয়ন সাধন করেছে এবং করবে।"
+    },
+    {
+        "id": 32,
+        "question": "PART-II: Writing Ability Test\n32. Translate the following paragraph into English:\nযুক্তরাষ্ট্রে বাংলাদেশের ভোগ্যপণ্য রপ্তানি শুরু হয়েছে অনেকদিন হলো। জুস, ম্যাংগো বার ও বিস্কুট রপ্তানির মাধ্যমে সেখানে রপ্তানি কার্যক্রম শুরু হয়। এরপর থেকে ক্রমেই যুক্তরাষ্ট্রে বাংলাদেশি পণ্যের চাহিদা বাড়তে থাকে। এখন উপমহাদেশীয়দের পাশাপাশি যুক্তরাষ্ট্রে বসবাসকারী আমেরিকান, ইউরোপিয়ানসহ বিভিন্ন দেশের মানুষের কাছে এসব পণ্য জনপ্রিয় হতে উঠেছে।",
+        "options": [],
+        "answer": "",
+        "explanation": "Translation : It has been started to export consumer goods of Bangladesh to United States for a long time. Export activities there have been started by exporting canned juice, mango bar and biscuits. After that the demands of Bangladeshi products were on the rise gradually. Now, these products are getting popular to the different countries' people including Europeans and Mexicans living in the USA except the sub-continent people."
+    },
+    {
+        "id": 33,
+        "question": "PART-II: Writing Ability Test\n33. In a store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+        "options": [],
+        "answer": "70.238%",
+        "explanation": "Solution: Let cost price = Tk. 100x\nAt 320% profit, selling price = Tk. 100x × 420/100 = TK. 420x\nAt 25% Cost increses the cost price = Tk. 100x × 125/100 = Tk 125x\n∴ Selling price remain constant.\n∴ Profit = Tk. (420x – 125x) = Tk. 295x\nNow, Percentage of the selling price is the profit = (295x / 420x) × 100 = 70.236%\nAns: 70.238%"
+    },
+    {
+        "id": 34,
+        "question": "PART-II: Writing Ability Test\n34. The angels of a tringle are in the ratio of 2 : 3 : 4. What is the value of the largest angle (in degrees) in the triangle?",
+        "options": [],
+        "answer": "80°",
+        "explanation": "Solution: Given that, the angles of a triangle are 2 : 3 : 4\nLet triangle's angles are 2x, 3x and 4x.\nWe know that, triangle's three angles sum = 180°\nAccording to questions, 2x + 3x + 4x = 180°\n⇒ 9x = 180°\n∴ x = 20°\nNow, angles of this triangle = (2 × 20°) : (3 × 20°) : (4 × 20°) = 40° : 60° : 80°\n∴ Largest angle in the triangle is 80°\nAns: 80°."
+    },
+    {
+        "id": 35,
+        "question": "PART-II: Writing Ability Test\n35. Answer the following questions.\na. Compare the following risk preferences with suitable example: (i) risk averse, (ii) risk neutral, and (iii) risk seeking. Which is most common among financial managers?",
+        "options": [],
+        "answer": "",
+        "explanation": "Answer :\n\nRisk averse\nA risk averse investor avoids risks. S/he stays away from high-risk investments and prefers investments which provide a sure shot return. Such investors like to invest in government bonds, debentures and index funds.\nExample : An investor who puts their money into a bank account with a low but guaranteed interest rate, rather than buy stocks, which can fluctuate in price but potentially earn much higher returns.\n\nRisk neutral\nRisk neutral refers to a mindset where an individual is indifferent to risk when making an investment decision. This mindset is not derived from calculation or rational deduction, but rather from an emotional preference. A person with a risk-neutral approach simply doesn't focus on the risk, regardless of whether or not that is an ill-advised thing to do. This mindset is often situational and can be dependent on price or other external factors.\nExample : A risk-neutral investor will be indifferent between receiving $100 for sure, or playing a lottery that gives her a 50 percent chance of winning $200 and a 50 percent chance of getting nothing. Both alternatives have the same expected value; the lottery, however, is riskier.\n\nRisk seeking\nRisk-seeking is one's acceptance of greater risk, in finance often related to price volatility and uncertainty in investments or trading, in exchange for the potential for higher returns. Risk seekers are more interested in capital gains from speculative assets than capital preservation from lower-risk assets.\nExample : If you offer either $100 guaranteed or a 50% chance of either $200 or $0, a risk-seeking individual will prefer the $200 or nothing option, even though both options have the same **expected value."
+    },
+    {
+        "id": 36,
+        "question": "PART-II: Writing Ability Test\n35. b. Am Co Group bought 16 percent of the voting shares in Leg Co on 1 January 20x9 for $160000, and on the same date started trading with Leg Co such that 80 percent of Leg Co's sales were made to Arm Co. In the year ended 31 December 20x9, Leg Co made $98,000 profits, 80 percent of these relating to sales to AM Co. None of the goods purchased from Leg. Co remained in the inventory of Am Co at the year end. How is the investment in Leg Co shown in Am Co's group statement of financial position on 31 December 20x9?",
+        "options": [],
+        "answer": "",
+        "explanation": "In Am Co's group statement of financial position on 31 December 20x9, the investment in Leg Co is shown at cost ($160,000) or under IFRS 9 as a financial asset at fair value through other comprehensive income (FVOCI) or profit or loss (FVTPL), since holding 16% voting shares without significant influence does not qualify as an associate (IAS 28) or subsidiary (IFRS 10)."
+    },
+    {
+        "id": 37,
+        "question": "PART-II: Writing Ability Test\n35. c. Explain penetration and skimming pricing strategy with suitable examples.",
+        "options": [],
+        "answer": "",
+        "explanation": "Answer :\n\nPenetration Pricing strategy\nPenetration pricing is a marketing strategy used by businesses to attract customers to a new product or service by offering a lower price during its initial offering. The lower price helps a new product or service penetrate the market and attract customers away from competitors. Market penetration pricing relies on the strategy of using low prices initially to make a wide number of customers aware of a new product.\nExample : Kroger and Costco use a penetration pricing strategy. They are selling organic foods at lower prices. Effectively, they are leveraging penetration pricing to increase their wallet share.\n\nSkimming pricing strategy\nPrice skimming is a pricing strategy where the price of goods or services is set high at the time of launch and then lowered as consumers become more familiar with it. This method targets early adopters and does not target the mass market.\nExample : Many well-known products can be considered examples of price skimming. Electronic products – take the Apple iPhone, for example – often utilize a price skimming strategy during the initial launch period. Then, after competitors launch rival products, i.e., the Samsung Galaxy, the price of the product drops so that the product retains a competitive advantage."
+    },
+    {
+        "id": 38,
+        "question": "PART-II: Writing Ability Test\n35. d. Explain CRR and SLR requirement of commercial banks.",
+        "options": [],
+        "answer": "",
+        "explanation": "Answer :\n\nCRR\nDefinition: Cash Reserve Ratio (CRR) is a specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or as deposits with the central bank. CRR is set according to the guidelines of the central bank of a country.\nDescription: The amount specified as the CRR is held in cash and cash equivalents, is stored in bank vaults or parked with the Bangladesh Bank. The aim here is to ensure that banks do not run out of cash to meet the payment demands of their depositors. CRR is a crucial monetary policy tool and is used for controlling money supply in an economy. CRR specifications give greater control to the central bank over money supply. Commercial banks have to hold only some specified part of the total deposits as reserves.\nIn Bangladesh, present CRR rate is 4% for both traditional banking and Islamic banking and 1.5% for deposit taker financial institution."
+    }
+]

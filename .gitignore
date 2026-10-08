@@ -6,3 +6,7 @@ $RECYCLE.BIN/
 .DS_Store
 *.tmp
 *.temp
+
+# Large PDFs
+PDF/1+ Petro Bangla/
+PDF/Eminent Petro Bangla/

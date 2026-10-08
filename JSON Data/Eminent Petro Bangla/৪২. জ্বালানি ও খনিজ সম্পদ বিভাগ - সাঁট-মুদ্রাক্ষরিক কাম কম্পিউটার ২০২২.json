@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "question": "বাংলা: ০১. a. 'বনফুল' কার ছদ্মনাম?",
+    "options": [],
+    "answer": "বলাইচাঁদ মুখোপাধ্যায়।",
+    "explanation": "উত্তর: বলাইচাঁদ মুখোপাধ্যায়।"
+  },
+  {
+    "id": 2,
+    "question": "বাংলা: ০১. b. 'রিক্সা' কোন দেশি শব্দ?",
+    "options": [],
+    "answer": "জাপানি ভাষার শব্দ।",
+    "explanation": "উত্তর: জাপানি ভাষার শব্দ।"
+  },
+  {
+    "id": 3,
+    "question": "বাংলা: ০১. c. 'চর্যাপদ' কী?",
+    "options": [],
+    "answer": "বাংলা সাহিত্যের প্রাচীন যুগের নিদর্শন চর্যাপদ। বৌদ্ধ সহজিয়া সাধকদের সাধন সঙ্গীত চর্যাপদ হরপ্রসাদ শাস্ত্রী নেপালের রাজদরবার থেকে আবিষ্কার করেন ১৯০৭ সালে।",
+    "explanation": "উত্তর: বাংলা সাহিত্যের প্রাচীন যুগের নিদর্শন চর্যাপদ। বৌদ্ধ সহজিয়া সাধকদের সাধন সঙ্গীত চর্যাপদ হরপ্রসাদ শাস্ত্রী নেপালের রাজদরবার থেকে আবিষ্কার করেন ১৯০৭ সালে।"
+  },
+  {
+    "id": 4,
+    "question": "বাংলা: ০১. d. জীবনানন্দ দাশের জন্মস্থান কোথায়?",
+    "options": [],
+    "answer": "বরিশাল শহরে (১৮৯৯ সালের ১৭ ফেব্রুয়ারি বরিশাল শহরে জন্মগ্রহণ করেন)।",
+    "explanation": "উত্তর: ১৮৯৯ সালে ১৭ ফেব্রুয়ারি বরিশাল শহরে জন্মগ্রহণ করেন।"
+  },
+  {
+    "id": 5,
+    "question": "বাংলা: ০২. a. অর্থসহ বাক্য গঠন করুন: ঘোড়া রোগ",
+    "options": [],
+    "answer": "ঘোড়া রোগ (সাধ্যের অতিরিক্ত সাধ): পাঁচ হাজার টাকা মাসিক বেতন পেয়ে দৈনিক পোলাও খেতে চাও, একেই বলে গরীবের ঘোড়া রোগ।",
+    "explanation": "উত্তর: ঘোড়া রোগ (সাধ্যের অতিরিক্ত সাধ): পাঁচ হাজার টাকা মাসিক বেতন পেয়ে দৈনিক পোলাও খেতে চাও, একেই বলে গরীবের ঘোড়া রোগ।"
+  },
+  {
+    "id": 6,
+    "question": "বাংলা: ০২. b. সন্ধি বিচ্ছেদ করুন: ভবন, প্রত্যহ।",
+    "options": [],
+    "answer": "ভবন = ভো + অন।\nপ্রত্যহ = প্রতি + অহ।",
+    "explanation": "উত্তর:\nভবন = ভো + অন।\nপ্রত্যহ = প্রতি + অহ।"
+  },
+  {
+    "id": 7,
+    "question": "বাংলা: ০২. c. এক কথায় প্রকাশ করুন: হনন করার ইচ্ছা, জানবার ইচ্ছা।",
+    "options": [],
+    "answer": "হনন করার ইচ্ছা = জিঘাংসা।\nজানবার ইচ্ছা = জিজ্ঞাসা।",
+    "explanation": "উত্তর:\nহনন করার ইচ্ছা = জিঘাংসা\nজানবার ইচ্ছা = জিজ্ঞাসা।"
+  },
+  {
+    "id": 8,
+    "question": "০৩. বাংলায় অনুবাদ করুন:\nThe Great Liberation War is the ultimate destination of our existence. In our life the term is not only confined to a word. Liberation war is the name of a flaming agony in the heart of each and every Bengali. Liberation war is the another name of Bengali's glory and pride sensation and firmness, inspiration and revolt. Liberation war is the foundation of our nationalism, survival and shelter of proceeding.",
+    "options": [],
+    "answer": "মহান স্বাধীনতা যুদ্ধ আমাদের জীবনের অস্তিত্বের আসল ঠিকানা। আমাদের জীবনে তা শুধু একটি শব্দের মধ্যেই সীমাবদ্ধ নেই। প্রতিটি বাঙালির অন্তরের জ্বলন্ত সন্তাপের নামই স্বাধীনতা যুদ্ধ। স্বাধীনতা যুদ্ধের আরেক নাম হলো বাঙালির গর্ব, অহংকার, আবেগ, একগুঁয়েমি, অনুপ্রেরণা আর বিদ্রোহ। স্বাধীনতা যুদ্ধ হলো আমাদের জাতীয়তাবাদ, সংগ্রাম আর পথচলার ভিত্তি।",
+    "explanation": "উত্তর: মহান স্বাধীনতা যুদ্ধ আমাদের জীবনের অস্তিত্বের আসল ঠিকানা। আমাদের জীবনে তা শুধু একটি শব্দের মধ্যেই সীমাবদ্ধ নেই। প্রতিটি বাঙালির অন্তরের জ্বলন্ত সন্তাপের নামই স্বাধীনতা যুদ্ধ। স্বাধীনতা যুদ্ধের আরেক নাম হলো বাঙালির গর্ব, অহংকার, আবেগ, একগুঁয়েমি, অনুপ্রেরণা আর বিদ্রোহ। স্বাধীনতা যুদ্ধ হলো আমাদের জাতীয়তাবাদ, সংগ্রাম আর পথচলার ভিত্তি।"
+  },
+  {
+    "id": 9,
+    "question": "০৪. 'বাংলাদেশ সুবর্ণ জয়ন্তী' সম্পর্কে লিখুন।",
+    "options": [],
+    "answer": "বাংলাদেশের সুবর্ণ জয়ন্তী (অনুচ্ছেদ লিখন)",
+    "explanation": "বাংলাদেশের সুবর্ণজয়ন্তী:\n১৯৭১ সালের ২৬ মার্চ জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানের স্বাধীনতার ঘোষণার মধ্য দিয়ে বাংলাদেশ নামক স্বাধীন রাষ্ট্রের অভ্যুদয় ঘটে। দীর্ঘ নয় মাসের রক্তক্ষয়ী মুক্তিযুদ্ধ শেষে ১৬ ডিসেম্বর অর্জিত হয় পরম কাঙ্ক্ষিত চূড়ান্ত বিজয়। ২০২১ সালে বাংলাদেশ তার গৌরবোজ্জ্বল স্বাধীনতার ৫০ বছর বা সুবর্ণজয়ন্তী উদযাপন করে। এই অর্ধশতাব্দীতে যুদ্ধবিধ্বস্ত একটি দেশ থেকে উন্নয়নশীল দেশে পদার্পণ বাংলাদেশের এক ঐতিহাসিক অর্জন। কৃষি, শিক্ষা, স্বাস্থ্য, নারীর ক্ষমতায়ন, সামাজিক নিরাপত্তা এবং অবকাঠামোগত উন্নয়ন বিশেষ করে পদ্মা সেতু, মেট্রোরেল, রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র ও কর্ণফুলী টানেলের মতো মেগা প্রকল্পের সফল বাস্তবায়ন বাংলাদেশকে বিশ্বমঞ্চে এক আত্মমর্যাদাশীল ও উন্নয়নশীল রোল মডেল হিসেবে প্রতিষ্ঠিত করেছে। সুবর্ণজয়ন্তী কেবল অতীতের আত্মত্যাগ ও অর্জনের স্মারক নয়, বরং একটি সমৃদ্ধ, উন্নত ও প্রযুক্তিভিত্তিক সোনার বাংলা গড়ার প্রত্যয়দীপ্ত অনুপ্রেরণা।"
+  },
+  {
+    "id": 10,
+    "question": "০৫. Write a paragraph on 'Traffic Jam'.",
+    "options": [],
+    "answer": "Paragraph on 'Traffic Jam'",
+    "explanation": "Traffic Jam:\nTraffic jam is one of the most common and acute problems in modern cities and urban areas. It occurs when a large number of vehicles crowd the road and vehicular movement comes to a standstill. The rapid growth of population, increase in the number of vehicles, narrow roads, violation of traffic rules, unauthorized parking, and lack of adequate civic sense are the primary causes of traffic jams. It causes immense suffering to the commuters, especially students, office-goers, and emergency patients. Precious working hours and fuel are wasted due to prolonged gridlock. To solve this problem, wide roads should be constructed, flyovers and bypasses must be introduced, strict traffic regulations should be enforced, and modern public mass transport like metro rail must be expanded."
+  },
+  {
+    "id": 11,
+    "question": "০৬. Translate in English: a. সাফল্যের জন্য তোমাকে অভিনন্দন জানাচ্ছি।",
+    "options": [],
+    "answer": "I am congratulating you for your success.",
+    "explanation": "Ans: I am congratulating you for your success."
+  }
+]

@@ -1,0 +1,780 @@
+[
+    {
+        "id": 1,
+        "question": "Subjective\n1. Which of the following accounts is an example of deferred revenue expenditure?",
+        "options": [
+            "Depreciation",
+            "Prepaid insurance premium",
+            "Bad Debt",
+            "Supplies",
+            "None"
+        ],
+        "answer": "Prepaid insurance premium",
+        "explanation": "ব্যাখ্যা (উত্তর: B): যেসব ব্যয় মুনাফাজাতীয় হওয়া সত্ত্বেও নির্দিষ্ট হিসাব বছরে সীমাবদ্ধ না থেকে একাধিক বছরে সুবিধা পাওয়া যায়, সেসব ব্যয়কে বিলম্বিত মুনাফাজাতীয় ব্যয় বলে। যেমন- তিন বছরের বিজ্ঞাপন খরচ, দুই বছরের জন্য অগ্রিম প্রদত্ত বাড়ি ভাড়া, অগ্রিম প্রদত্ত বিমা প্রিমিয়াম। এ জাতীয় ব্যয়ের ব্যবহৃত অংশ সংশ্লিষ্ট হিসাবকালের ব্যয় হিসেবে প্রদর্শিত হয় এবং অবশিষ্ট অংশ উদ্বৃত্তপত্রে সম্পত্তি হিসেবে প্রদর্শন করা হয়।"
+    },
+    {
+        "id": 2,
+        "question": "2. If accrued expenses are not adjusted-",
+        "options": [
+            "Net Income is understated",
+            "Expense is understated",
+            "Liability is understated",
+            "A & C",
+            "B & C"
+        ],
+        "answer": "B & C",
+        "explanation": "ব্যাখ্যা (উত্তর: E): ব্যয় সংঘটিত হয়েছে কিন্তু নগদে প্রদান করা হয়নি এমন ব্যয়কে 'বকেয়া ব্যয়' বলে। যেমন: ঋণের বকেয়া সুদ, বকেয়া বেতন। হিসাবকাল শেষে বকেয়া ব্যয় সমন্বয় করা হলে ব্যয় বৃদ্ধি পায় এবং দায় বৃদ্ধি পায়। হিসাবকাল শেষে ব্যয় সমন্বয় করা না হলে ব্যয় কম দেখানো হয় এবং দায় কম দেখানো হয়।"
+    },
+    {
+        "id": 3,
+        "question": "3. At the beginning of the year, XYZ company had total assets of Tk 50,000 and the total liability of Tk 30,000. During the year the asset increased by Tk 15,000 and the liability decreased by Tk 8,000. What is the amount of Owner's Equity?",
+        "options": [
+            "Tk 27,000",
+            "Tk 35,000",
+            "Tk 43,000",
+            "Tk 50,000",
+            "None"
+        ],
+        "answer": "Tk 43,000",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\nমোট সম্পত্তি = (৫০০০০+১৫০০০) টাকা = ৬৫০০০ টাকা\nমোট দায় = (৩০০০০-৮০০০) টাকা = ২২০০০ টাকা\nআমরা জানি, মালিকানা স্বত্ব = মোট সম্পত্তি - মোট দায়\n= (৬৫০০০-২২০০০) টাকা\n= ৪৩০০০ টাকা"
+    },
+    {
+        "id": 4,
+        "question": "4. For financial reporting purposes, which of the following assets are recorded according to the fair value principle?",
+        "options": [
+            "Plant & Machinery",
+            "Investment Securities",
+            "Inventories",
+            "Land",
+            "None"
+        ],
+        "answer": "Investment Securities",
+        "explanation": "ব্যাখ্যা (উত্তর: B): Fair value principle states that assets and liabilities should be reported at fair value (the price received or settle a liability). Fair value information may be more useful than historical cost for certain types of assets and liabilities, such as investment securities."
+    },
+    {
+        "id": 5,
+        "question": "5. According to which of the following accounting principles 'allowance for bad debts' is maintained as a percentage of credit sales'?",
+        "options": [
+            "Materiality",
+            "Consistency",
+            "Conservatism",
+            "Matching",
+            "None"
+        ],
+        "answer": "Matching",
+        "explanation": "ব্যাখ্যা (উত্তর: D):\n| নীতি/সীমাবদ্ধতা | ব্যাখ্যা |\n| :--- | :--- |\n| বস্তুনিষ্ঠতা (Materiality) | সীমাবদ্ধতার/বাধার নির্দেশনা হলো- হিসাবনিকাশের সময় কোন তথ্যটি গুরুত্বপূর্ণ আর কোনটি কম গুরুত্বপূর্ণ তা বিচার করেই হিসাবনিকাশ করতে হবে। এই সীমাবদ্ধতা অনুসারে - ছোট এবং কম মূল্যের সম্পত্তিকে হিসাবকালের ব্যয় হিসেবে প্রদর্শন করা যায়। যেমন: সম্ভার খরচ, স্টীলের স্কেল ইত্যাদি। |\n| ধারাবাহিকতা (consistency) | বলতে বোঝায়- কোম্পানি হিসাবনিকাশের ক্ষেত্রে বছরের পর বছর একই নীতি বা পদ্ধতি অনুসরণ করবে। |\n| রক্ষণশীলতা (Conservatism) | নীতির মাধ্যমে সম্ভাব্য সকল খরচ ও ক্ষতিকে আয় বিবরণীতে দেখানো হয়। আয়ের ক্ষেত্রে আয় নিশ্চিতভাবে উপার্জিত হলেই আয় বিবরণীতে দেখাতে হবে। অর্থাৎ ভবিষ্যতের সম্ভাব্য কোনো আয়কে আয় বিবরণীতে দেখাতে হবে না। পক্ষান্তরে ক্ষতি হওয়ার সম্ভাবনা থাকলে তা আয় বিবরণীতে দেখাতে হবে। |\n| মিলকরণ (Matching) | নীতির নির্দেশনা হলো- অর্জিত আয়ের সাথে সংঘটিত ব্যয়কে মিল বা সমন্বয় করতে হবে। আয়ের সাথে মোট ব্যয় সমন্বয় না করে ঐ আয়ের সাথে সংশ্লিষ্ট ব্যয়টুকুই সমন্বয় করতে হবে। তাই বিক্রয়মূল্যের সাথে মোট ক্রয়মূল্য সমন্বয় না করে বিক্রিত পণ্যের ক্রয়মূল্যকে সমন্বয় করতে হয়। |"
+    },
+    {
+        "id": 6,
+        "question": "6. In a bank reconciliation statement, which of the following items is added to the cash balance per bank statement?",
+        "options": [
+            "Deposits in transit",
+            "Outstanding Checks",
+            "Not Sufficient Funds (NSF) Check",
+            "Bank service charg",
+            "None"
+        ],
+        "answer": "Deposits in transit",
+        "explanation": "ব্যাখ্যা (উত্তর: A):\nBalance as per bank statement\nAdd :\n1. Deposits in transit\n2. Bank errors that understate the bank balance\nLess :\n1. Outstanding cheques\n2. Bank errors that overstate the bank statement balance\nAdjusted Balance as per bank statement\n\nBalance as per depositor's books\nAdd :\n1. Cash collected by bank\n2. Bank Interest\n3. Book errors that understate the book balance\nLess :\n1. Dishonored cheque (NSF Cheques)\n2. Bank charges not yet recorded in the books\n3. Book errors that overstate the book balance\nAdjusted balance as per books"
+    },
+    {
+        "id": 7,
+        "question": "7. During the period of inflation, which type of inventory valuation method produces higher net income?",
+        "options": [
+            "Average Cost Method",
+            "FIFO",
+            "LIFO",
+            "Moving Average Method",
+            "None"
+        ],
+        "answer": "FIFO",
+        "explanation": "ব্যাখ্যা (উত্তর: B) :"
+    },
+    {
+        "id": 8,
+        "question": "8. XYZ Company's contribution margia ratio is 30%. If sales revenue is Tk 100 greater than break-even sales which of the following will be its net income?",
+        "options": [
+            "TK 100",
+            "Tk 70",
+            "Tk 30",
+            "Can't be determined without knowing variable costs",
+            "Can't be determined without knowing variable costs"
+        ],
+        "answer": "Tk 30",
+        "explanation": "ব্যাখ্যা (উত্তর: C): নিরাপত্তা প্রান্ত = বিক্রয় আয় - সমচ্ছেদ বিক্রয়\nপ্রশ্নে বলা আছে বিক্রয় আয় সমচ্ছেদ বিক্রয় থেকে ১০০ টাকা বেশি\n∴ নিরাপত্তা প্রান্ত = ১০০\n∴ কন্ট্রিবিউশন মার্জিন অনুপাত = ৩০%\nআমরা জানি,\nনিরাপত্তা প্রান্ত = মুনাফা / কন্ট্রিবিউশন মার্জিন অনুপাত\n⇒ ১০০ = মুনাফা / ৩০%\n⇒ মুনাফা = ১০০ × ৩০% = ৩০ টাকা"
+    },
+    {
+        "id": 9,
+        "question": "9. Cash outflow for which of the following activities will be classified as cash flow from operations?",
+        "options": [
+            "Purchase of Plant",
+            "Redemption of Bond",
+            "Interest expense",
+            "Dividend payment",
+            "None"
+        ],
+        "answer": "Interest expense",
+        "explanation": "ব্যাখ্যা (উত্তর: C): নগদ প্রবাহ বিবরণীতে নগদ প্রাপ্তি ও প্রদানসমূহকে তিনটি অংশে বিভক্ত করা হয়। যথা- ১. পরিচালন কার্যক্রম থেকে নগদ প্রবাহ, ২. বিনিয়োগ কার্যক্রম থেকে নগদ প্রবাহ, ৩. অর্থায়ন কার্যক্রম থেকে নগদ প্রবাহ।\n\n| কার্যক্রম | প্রবাহের ধরন | বিবরণ |\n| :--- | :--- | :--- |\n| পরিচালন কার্যক্রম থেকে নগদ প্রবাহ | নগদ আন্তঃপ্রবাহ | পণ্য ও সেবার বিনিময়ে নগদ প্রাপ্তি, ফিস ও কমিশন প্রাপ্তি, সুদ প্রাপ্তি, লভ্যাংশ প্রাপ্তি |\n| পরিচালন কার্যক্রম থেকে নগদ প্রবাহ | নগদ বহিঃপ্রবাহ | পণ্য ক্রয় বাবদ পরিশোধ, বেতন ও মজুরি প্রদান, সুদ ও আয়কর পরিশোধ |\n| বিনিয়োগ কার্যক্রম থেকে নগদ প্রবাহ | নগদ আন্তঃপ্রবাহ | বিনিয়োগ বা স্থায়ী সম্পত্তি বিক্রয়, প্রদত্ত ঋণের আসল আদায়, অগ্রিম চুক্তি থেকে নগদ প্রাপ্তি |\n| বিনিয়োগ কার্যক্রম থেকে নগদ প্রবাহ | নগদ বহিঃপ্রবাহ | স্থায়ী সম্পত্তি ক্রয়, অন্য কোম্পানির শেয়ার বা বন্ড ক্রয়, ঋণ প্রদান |\n| অর্থায়ন কার্যক্রম থেকে নগদ প্রবাহ | নগদ আন্তঃপ্রবাহ | শেয়ার বিক্রয় হতে প্রাপ্ত অর্থ, বন্ড ইস্যু বাবদ প্রাপ্ত অর্থ |\n| অর্থায়ন কার্যক্রম থেকে নগদ প্রবাহ | নগদ বহিঃপ্রবাহ | লভ্যাংশ প্রদান, ঋণ পরিশোধ |"
+    },
+    {
+        "id": 10,
+        "question": "10. Which of the following accounts will normally appear in the ledger of a merchandising company that uses a perpetual inventory system?",
+        "options": [
+            "Purchases",
+            "Cost of goods sold",
+            "Freight-in",
+            "Purchase discounts",
+            "None"
+        ],
+        "answer": "Cost of goods sold",
+        "explanation": "ব্যাখ্যা (উত্তর: B): নিত্য বা অবিরত মজুদ পদ্ধতিতে (Perpetual Inventory System) ক্রীত ও বিক্রীত প্রতিটি মজুদের ব্যয় সম্পর্কে বিস্তারিত রেকর্ড সংরক্ষণ করা হয়। এই রেকর্ডগুলোর মাধ্যমে নিয়মিতভাবে (অবিরতভাবে) প্রতিটি দফার হাতে মজুদের পরিমাণ প্রদর্শন করা হয়। এই পদ্ধতিতে পণ্য সংক্রান্ত লেনদেন লিপিবদ্ধ করার ক্ষেত্রে মজুদ পণ্যকে প্রভাবিত করে এমন ধরনের লেনদেনসমূহ (যেমন: ক্রয়, পরিবহন ব্যয়/আন্তঃপরিবহন, ক্রয় ফেরত, ক্রয় বাটা)-কে “মজুদ পণ্য (Merchandise Inventory)” হিসাবে লিপিবদ্ধ করা হয় এবং প্রতি একক বিক্রয়ের ক্ষেত্রে, পণ্যের বিক্রয়মূল্য দ্বারা নগদ অর্থের প্রাপ্তি ও বিক্রয় রাজস্ব বৃদ্ধি এবং বিক্রীত পণ্যের ব্যয় নির্ণয় করে মজুদ পণ্যের হ্রাস ও বিক্রীত পণ্যের ব্যয় বৃদ্ধি করার জন্য দুইটি জাবেদা দাখিলা প্রদান করা হয়।"
+    },
+    {
+        "id": 11,
+        "question": "11. Which of the following is a nominal account?",
+        "options": [
+            "Salaries Expense",
+            "Bond Payable",
+            "Accounts Receivable",
+            "Plant Asset",
+            "None"
+        ],
+        "answer": "Salaries Expense",
+        "explanation": "ব্যাখ্যা (উত্তর: A): নামিক হিসাব (Nominal account) হলো এমন একটি সাধারণ খতিয়ান হিসাব যা সমস্ত আয়, ব্যয়, ক্ষতি এবং লাভ সম্পর্কিত হিসাব প্রকাশ করে, ব্যবসায়ের যাবতীয় খরচ বা ক্ষতি সম্পর্কিত হিসাবে ডেবিট এবং যাবতীয় আয় বা লাভ সম্পর্কিত হিসাব ক্রেডিট হবে। বন্ধকী ঋণ একটি স্থায়ী দায়, বিবিধ দেনাদার একটি চলতি সম্পদ এবং যন্ত্রপাতি একটি স্থায়ী সম্পদ।"
+    },
+    {
+        "id": 12,
+        "question": "12. Cash of Tk 100 received at the time the service was provided was journalized and posted as a debit to Cash Tk 1,000 and a credit to Accounts Receivable Tk 1,000. The rectification journal to correct this error will be-",
+        "options": [
+            "Debit Cash Tk 100, Credit Service Revenue Tk 100",
+            "Debit Service Revenue Tk 1,000, Credit Tk 1,000",
+            "Debit Accounts Receivable 1,000 Tk, Credit Cash 900 Tk and Credit Service Revenue 100 Tk",
+            "Debit Accounts Receivable Tk 1,000, Credit Cash Tk, 1,000",
+            "None"
+        ],
+        "answer": "Debit Accounts Receivable 1,000 Tk, Credit Cash 900 Tk and Credit Service Revenue 100 Tk",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\n\n| Rectification Journal | | |\n| :--- | :--- | :--- |\n| Accounts Receivable | Debit | 1000 |\n| Cash | Credit | 900 |\n| Service Revenue | Credit | 100 |"
+    },
+    {
+        "id": 13,
+        "question": "13. Mr. Karim purchased 1,500 Taka of merchandise from Mr. Rahim on March 1 with credit terms 2/10, n/30. Mr. Karim returned 300 Taka of the merchandise purchased on March 5, On March 9, Mr. Karim made full payment to Mr. Rahim. The amount of payment made by Mr. Karim was-",
+        "options": [
+            "Tk 1,100",
+            "Tk 1,176",
+            "Tk 1,200",
+            "Tk 1,470",
+            "None"
+        ],
+        "answer": "Tk 1,176",
+        "explanation": "ব্যাখ্যা (উত্তর: B):\nNet purchased = 1500–300= 1200\nAmount of discount = 1200×2% = 24\nNet payable amount = 1200–24= 1176 tk"
+    },
+    {
+        "id": 14,
+        "question": "14. If opening inventory is 3,000 Taka, closing inventory is 5,000 Taka, sales is 60,000 Taka and gross profit margin is 20%, inventory turnover will be-",
+        "options": [
+            "8 times",
+            "10 times",
+            "12 times",
+            "15 times",
+            "None"
+        ],
+        "answer": "12 times",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\nGross profit margin = Gross profit / Sales\n⇒ 20/100 = Gross profit / 60000\n⇒ Gross profit = 12000\nNow, Cost of goods sold = Sales – Gross profit = 60000–12000= 48000\nAverage inventory = (3000+5000) / 2 = 4000\nInventory Turnover Ratio = Cost of goods sold / Average inventory = 48000 / 4000 = 12 times"
+    },
+    {
+        "id": 15,
+        "question": "15. An Equipment was purchased for 50,000 Taka. Shipping cost for the equipment amounted to 10,000 Taka and the Installation cost amounted to 10,000 Taka. If the equipment has a salvage value of 15,000 Taka at the end of its 5-year useful life, the book value of the equipment after 2 years will be-",
+        "options": [
+            "Tk 22000",
+            "Tk 36000",
+            "Tk 46000",
+            "Tk 48000",
+            "None"
+        ],
+        "answer": "Tk 48000",
+        "explanation": "ব্যাখ্যা (উত্তর: D):\nযন্ত্রপাতি মোট মূল্য = (৫০,০০০ + ১০,০০০ + ১০,০০০) টাকা = ৭০,০০০ টাকা\nপ্রতিবছর অবচয় মূল্য হবে\n= (যন্ত্রপাতির মূল্য – ভগ্নাবশেষ মূল্য) / আয়ুষ্কাল\n= (৭০০০০ - ১৫০০০) / ৫ টাকা = ৫৫০০০ / ৫ টাকা = ১১০০০ টাকা\n∴ ২ বছর পর যন্ত্রপাতির বুক ভ্যালু হবে\n= (৭০,০০০ – (১১,০০০ × ২)) টাকা\n= (৭০,০০০ – ২২,০০০) টাকা\n= ৪৮,০০০ টাকা"
+    },
+    {
+        "id": 16,
+        "question": "16. Net Income of XYZ company is 1,00,000 Taka in 2020. During the year, accounts receivable increased by 40,000 Taka, amounts payable decreased by 20,000 Taka and Inventory increased by 30,000 Taka. Under Indirect method, what is the net cash provided by operating activities?",
+        "options": [
+            "Tk 10,000",
+            "Tk 30,000",
+            "Tk 50,000",
+            "Tk 1,50,000",
+            "None"
+        ],
+        "answer": "Tk 10,000",
+        "explanation": "ব্যাখ্যা (উত্তর: A):\nNet cash provided by operating activities (Indirect method)-\n| বিবরণ | টাকা |\n| :--- | :--- |\n| Net income | 100000 |\n| (-) Decrease in account payable | (20000) |\n| (-) Increase in inventory | (30000) |\n| (-) Increase in Account receivable | (40000) |\n| Net cash provided | 10000 |\n\nAdjustments required to convert net income to net cash provided by operating activities (Indirect Method)\n| বিভাগ | Adjustments Required to Convert Net Income to Net Cash Provided by Operating Activities | প্রভাব |\n| :--- | :--- | :--- |\n| Noncash changes | Depreciation expense | Add |\n| | Amortization expense | Add |\n| Gains and Loses | Loss on disposal of plant assets | Add |\n| | Gain on disposal of plant assets | Deduct |\n| Changes in current assets and current liabilities | Increase in current asset account | Deduct |\n| | Decrease in current asset account | Add |\n| | Increase in current liability account | Add |\n| | Decrease in current liability account | Deduct |\n\nপরিচালন কার্যক্রম থেকে নিট নগদ প্রবাহ বের করতে বলা হলে সবসময় উপরের টেবিলটি মনে রাখলেই হবে।"
+    },
+    {
+        "id": 17,
+        "question": "17. Given the following information: Sales Tk 1,00,000, Direct material Tk 30,000, Direct labor Tk 20,000, Total selling expense Tk 25,000, Total manufacturing cost Tk 40,000 and Administrative cost Tk 28,000, what are the prime cost and period cost?",
+        "options": [
+            "Prime cost Tk 50,000 & Period cost Tk 90,000",
+            "Prime cost Tk 60,000 & Period cost Tk 90,000",
+            "Prime cost Tk 50,000 & Period cost Tk 53,000",
+            "Prime cost Tk 60,000 & Period cost Tk 53,000",
+            "None"
+        ],
+        "answer": "Prime cost Tk 50,000 & Period cost Tk 53,000",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\n| বিবরণ | টাকা |\n| :--- | :--- |\n| প্রত্যক্ষ কাঁচামাল | ৩০,০০০ |\n| যোগ : প্রত্যক্ষ মজুরি | ২০,০০০ |\n| মুখ্য ব্যয় | ৫০,০০০ |\n| | |\n| মোট বিক্রয় ব্যয় | ২৫,০০০ |\n| যোগ: প্রশাসনিক ব্যয় | ২৮,০০০ |\n| কালীন ব্যয় | ৫৩,০০০ |"
+    },
+    {
+        "id": 18,
+        "question": "18. Given opening account receivables of Tk 11,500. Sales Tk 48,000 and receipts from debtors Tk 45,000, the closing accounts receivables total should be-",
+        "options": [
+            "Tk 8,500",
+            "Tk 14,500",
+            "Tk 18,500",
+            "Tk 83,500",
+            "None"
+        ],
+        "answer": "Tk 14,500",
+        "explanation": "ব্যাখ্যা (উত্তর: B):\n| বিবরণ | টাকা |\n| :--- | :--- |\n| Opening account receivables | 11500 |\n| (+) Sales during the year | 48000 |\n| (-) Receipt from debtors | (45000) |\n| Closing balance of account receivables | 14,500 |"
+    },
+    {
+        "id": 19,
+        "question": "19. Which of the following ratios measure a firm's short-term debt-paying ability?",
+        "options": [
+            "Debt to Asset Ratio",
+            "Acid Test Ratio",
+            "Payout Ratio",
+            "Price to Earnings Ratio",
+            "None"
+        ],
+        "answer": "Acid Test Ratio",
+        "explanation": "ব্যাখ্যা (উত্তর: B): যে অনুপাতসমূহ তারল্য পরিমাপ করে বা প্রতিষ্ঠানের চলতি দায় পরিশোধ ক্ষমতা মূল্যায়ন করে তাদেরকে তারল্য অনুপাত (Liquidity Ratios) বলে। প্রতিষ্ঠানের স্বল্পমেয়াদি দায় পরিশোধ ক্ষমতা এবং ভবিষ্যতে প্রয়োজনীয় নগদ অর্থের প্রাপ্যতা যাচাই করার জন্য তারল্য অনুপাতসমূহ ব্যবহার করা হয়ে থাকে। স্বল্পমেয়াদে ঋণদাতা, যেমন: ব্যাংক এবং সরবরাহকারীগণ (পাওনাদার) সাধারণত প্রতিষ্ঠানের তারল্য সম্পর্কে জানতে আগ্রহী হয়ে থাকে। তারল্য অনুপাতসমূহ হলো- চলতি অনুপাত (Current ratio), ত্বরিত/অ্যাসিড টেস্ট/অগ্নি পরীক্ষা অনুপাত (Quick/Acid-test ratio), চলতি/কার্যকরী মূলধন অনুপাত (Working capital ratio)। অন্যান্য অনুপাতসমূহ নিম্নরূপ-\n\n| অনুপাতের শ্রেণি | অন্তর্ভুক্ত অনুপাতসমূহ |\n| :--- | :--- |\n| সক্রিয়তার অনুপাত (Activity ratio) | দেনাদার আবর্তন অনুপাত, মজুদ আবর্তন অনুপাত, সম্পত্তি আবর্তন অনুপাত |\n| উপার্জনের ক্ষমতার অনুপাত (Profitability ratio) | মোট মুনাফার অনুপাত, নিট মুনাফার অনুপাত, সম্পত্তির উপর উপার্জন হার, মালিকানা স্বত্বের উপর উপার্জন হার, নিয়োজিত মূলধনের উপর উপার্জন হার, শেয়ার প্রতি উপার্জন হার, শেয়ারহোল্ডারদের প্রদেয় অনুপাত |\n| সচ্ছলতার অনুপাত (Solvency ratio) | দায়-মালিকানা অনুপাত, ঋণ-মূলধন অনুপাত |"
+    },
+    {
+        "id": 20,
+        "question": "20. When “Unearned Revenues” are adjusted which of the following happens?",
+        "options": [
+            "Liability decreases and Revenue increases",
+            "Asset decreases and Revenue increases",
+            "Asset increases and Revenue decreases",
+            "Equity increases and Revenue increases",
+            "None"
+        ],
+        "answer": "Liability decreases and Revenue increases",
+        "explanation": "ব্যাখ্যা (উত্তর: A): অনুপার্জিত আয় বলতে বোঝায় সেবার মূল্য গ্রহণ করা হয়েছে কিন্তু সেবা এখনো প্রদান করা হয়নি। অনুপার্জিত আয় হলো চলতি দায়। এটি সমন্বয় করার পূর্বে দায় বেশি দেখানো হয় এবং আয় কম দেখানো হয়। এটি সমন্বয় করার ফলে দায় হ্রাস পায় এবং আয় বৃদ্ধি পায়।"
+    },
+    {
+        "id": 21,
+        "question": "21. ________ is the act of designing the company's offerings and image so they occupy a meaningful and distinct competitive position in the target customers minds.",
+        "options": [
+            "Positioning",
+            "Segmentation",
+            "Maximarketing",
+            "Targeting",
+            "None"
+        ],
+        "answer": "Positioning",
+        "explanation": "ব্যাখ্যা (উত্তর: A):\n| ধারণা | বিবরণ |\n| :--- | :--- |\n| Positioning | লক্ষ্য ভোক্তাদের মনে প্রতিযোগীর পণ্যের তুলনায় কোন পণ্যের স্পষ্ট, পার্থক্যসূচক ও কাঙ্ক্ষিত স্থান অর্জনের প্রচেষ্টাকে- বাজার অবস্থান (Market Positioning) গ্রহণ বলে। |\n| Segmentation | বাজার বিভক্তিকরণ হলো- ক্রেতাদের প্রয়োজন, বৈশিষ্ট্য বা আচরণের ভিত্তিতে সমগ্র বাজারকে সমজাতীয় ক্রেতাদলে বিভক্ত করা। |\n| Targeting | বাজার বিভক্তিকরণের মাধ্যমে সমগ্র বাজারকে বিভিন্ন ভাগে ভাগ করে প্রত্যেক বাজার বিভাগের আকর্ষণীয়তা মূল্যায়ন করে এক বা একাধিক বাজার বিভাগ নির্বাচনকে- বাজার লক্ষ্যায়ন (Market targeting) বলে। |"
+    },
+    {
+        "id": 22,
+        "question": "22. A ________ market is characterized by a fairly narrowly defined market with a complete and distinct set of needs, and a willingness to pay a premium to meet those needs.",
+        "options": [
+            "Local",
+            "Individual",
+            "Derived",
+            "Niche",
+            "None"
+        ],
+        "answer": "Niche",
+        "explanation": "ব্যাখ্যা (উত্তর: D): কোন বাজার বিভাগের একটি নির্দিষ্ট অংশে কিংবা কয়েকটি অংশে একই ধরনের বাজারজাতকরণ কর্মকাণ্ড পরিচালনা করাকে কেন্দ্রীভূত বা Niche বাজারজাতকরণ বলে। কোটর বাজারজাতকরণ (Niche marketing) হলো বিশেষ সুবিধা প্রাপ্তির উদ্দেশ্যে স্বতন্ত্র বৈশিষ্ট্য সম্পন্ন উপবিভাগকে গুরুত্ব প্রদান করা। এক্ষেত্রে কোম্পানি একটি নির্দিষ্ট বিভাগে ছোট আয়তনে পণ্য বিক্রয় করে বলে Effectively and efficiently সেবা দিয়ে সুনাম বৃদ্ধি করতে পারে।\n✓ এক্ষেত্রে বিক্রেতা সরাসরি ক্রেতার সাথে যোগাযোগ করতে পারে।\n✓ এক্ষেত্রে বাজার বিভাগগুলো সাধারণত ক্ষুদ্র এবং শনাক্তকরণযোগ্য হয়ে থাকে।\n✓ যেসকল প্রতিষ্ঠান ক্ষুদ্রায়তনের এবং যাদের সম্পদের পরিমাণ কম, সে সকল প্রতিষ্ঠানের জন্য এ কৌশল খুবই উপযোগী।\n✓ যখন কোন কোম্পানির সীমিত সম্পদ (Resource are limited) থাকে, তখন এ কৌশল সবচেয়ে বেশি কার্যকর।\n✓ উদাহরণ: বিলাসী গাড়ির ক্রেতা, মিতব্যয়ী গাড়ির ক্রেতা ইত্যাদি।"
+    },
+    {
+        "id": 23,
+        "question": "23. Rectangle Pharmaceuticals makes Centrum Silver, a high potency multivitamin for active men and women over 50. This is an example of ________ segmentation.",
+        "options": [
+            "gender",
+            "generation",
+            "age and life cycle",
+            "usage rate",
+            "None"
+        ],
+        "answer": "age and life cycle",
+        "explanation": "ব্যাখ্যা (উত্তর: C) : বয়স এবং জীবন-চক্র বিভাজন হলো একটি বিভাজনের জনসংখ্যাতাত্ত্বিক কৌশল যেখানে একটি পণ্য বাজার বয়সের উপর নির্ভর করে সেগমেন্টে বিভক্ত করা হয়। যাতে কোম্পানি তার অফারগুলোকে আরও সঠিকভাবে জীবনের প্রতিটি পর্যায়ের আগ্রহের দিকে লক্ষ্য রাখতে পারে। পোশাক, প্রসাধনী, সুগন্ধি, জুতা ইত্যাদি বিভিন্ন পণ্যের কেনাকাটার ক্ষেত্রে নারী-পুরুষ উভয়েরই আলাদা আগ্রহ রয়েছে। লিঙ্গ বিভাজনের চ্যালেঞ্জ কাটিয়ে ওঠার জন্য একটি কোম্পানির পুরুষ ও মহিলা উভয়ের জন্য আলাদা মার্কেটিং কৌশল থাকা প্রয়োজন। প্রতিটি প্রজন্ম বিভিন্ন চাহিদা, অগ্রাধিকার এবং পছন্দগুলোর প্রতিনিধিত্ব করে। ব্যবহারে হার বিভাজন ভোক্তাদের কতটা তারা একটি পণ্য ব্যবহার করে সে অনুযায়ী ভাগ করে।"
+    },
+    {
+        "id": 24,
+        "question": "24. The number of different product lines offered by a company is termed the product mix's-",
+        "options": [
+            "Depth",
+            "Length",
+            "Width",
+            "Consistency",
+            "None"
+        ],
+        "answer": "Width",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\n➢ একটি কোম্পানিতে যতগুলো পণ্য লাইন রয়েছে তার সমষ্টিকে- পণ্য মিশ্রণ বলে।\n➢ পণ্য মিশ্রণের চারটি দিক (Four dimensions) রয়েছে। যথা:\n১. পণ্য মিশ্রণের প্রস্থ (Product mix width)\n২. পণ্য মিশ্রণের দৈর্ঘ্য (Product mix length)\n৩. পণ্য মিশ্রণের গভীরতা (Product mix depth)\n৪. পণ্য মিশ্রণের সামঞ্জস্যতা (Product mix consistency)\n➢ কোন কোম্পানির পণ্যের বিভিন্ন লাইনের সংখ্যাকে- পণ্য মিশ্রণের প্রস্থ বলে।\n➢ কোন কোম্পানির পণ্য লাইনের মধ্যে যতগুলো একক পণ্য বাজারজাতকরণ করে তার মোট সংখ্যাকে- পণ্য মিশ্রণের দৈর্ঘ্য বলে।\n➢ কোন কোম্পানির পণ্য লাইনের প্রত্যেক পণ্যের প্রকারভেদকে - পণ্য মিশ্রণের গভীরতা বলে।\n➢ কোন কোম্পানির পণ্য লাইনের বিভিন্ন পণ্যের ব্যবহার, উৎপাদনের উপকরণ, বণ্টন প্রণালী এবং অন্যান্য উপাদানের সংমিশ্রণের পরিমাণকে - পণ্য মিশ্রণের সামঞ্জস্যতা বলে।"
+    },
+    {
+        "id": 25,
+        "question": "25. Which of the following is the best example of nondurable goods?",
+        "options": [
+            "Watches",
+            "Aluminum cookware",
+            "Breakfast cereals",
+            "Shoes",
+            "None"
+        ],
+        "answer": "Breakfast cereals",
+        "explanation": "ব্যাখ্যা (উত্তর: C): যে সকল ভোগ্যপণ্য যা কেবল অবনতির পূর্বে অপেক্ষাকৃত স্বল্প সময়ের জন্য ব্যবহার করা যায় অথবা যেগুলো এককভাবে ব্যবহার করা হয় তাকে স্বল্প মেয়াদি ভোগ্যপণ্য বলা হয়। সিরিয়াল হলো গম শস্যের তৈরি এক প্রকার খাবার যা সকালে নাশতায় খাওয়া হয়। ঘড়ি, জুতা, অ্যালুমিনিয়ামের রান্নার জিনিসপত্র স্বল্পমেয়াদি ভোগ্যপণ্য নয়।"
+    },
+    {
+        "id": 26,
+        "question": "26. Which of the following securities is underpriced in the market?",
+        "options": [
+            "Security A with the expected return of 10% and required rate of return of 8% based on its systematic risk",
+            "Security B with the expected return of 10% and required rate of return of 12% based on its systematic risk",
+            "Security C with the expected return of 10% and required rate of return of 10% based on its systematic risk",
+            "Both A and B",
+            "None"
+        ],
+        "answer": "Security A with the expected return of 10% and required rate of return of 8% based on its systematic risk",
+        "explanation": "ব্যাখ্যা (উত্তর: A): যদি প্রত্যাশিত রিটার্ন প্রত্যাবর্তনের প্রয়োজনীয় হারের চেয়ে বেশি হয়, এটি স্পষ্টভাবে বোঝায় যে স্টকটি বা সিকিউরিটিজটি অবমূল্যায়িত হয়েছে। তাই বিনিয়োগকারীরা প্রত্যাশার চেয়ে বেশি রিটার্ন পাওয়ার সম্ভাবনা যে স্টক বা সিকিউরিটিজ এ আছে তা ক্রয় করে থাকে।"
+    },
+    {
+        "id": 27,
+        "question": "27. Which of the following is an impact of the imposition of excise tax in the market?",
+        "options": [
+            "Increase in the market price of the product",
+            "Decrease in the supply of the product",
+            "Increase in the supply of the product",
+            "Decrease in the market price of the product",
+            "Both A and B"
+        ],
+        "answer": "Both A and B",
+        "explanation": "ব্যাখ্যা (উত্তর: E): আবগারি শুল্ক হচ্ছে একটি নির্দিষ্ট পণ্যের উপর আরোপিত কর। এই ধরনের কর ভোক্তার কাছে পণ্যের দাম বাড়িয়ে দেয় অন্যদিকে উৎপাদক কর্তৃক নিট সরবরাহ হ্রাস করে। এর ফলে সাধারণত বাজারজাতকরণ সরবরাহ এবং ক্রয় পরিমাণ দুটিই কমে। ক্রেতাদের নিকট পণ্যের চাহিদা হ্রাস করার জন্য এটি আরোপ করা হয়। মানুষের জন্য ক্ষতিকর এমন ধরনের পণ্যের উপর এই ধরনের কর আরোপিত হয়। যেমন- অ্যালকোহল, সিগারেট ইত্যাদি।"
+    },
+    {
+        "id": 28,
+        "question": "28. Which of the following is an interbank lending tool meant for very short-term transactions only?",
+        "options": [
+            "Repo",
+            "Reverse repo",
+            "Call money",
+            "Both A & B",
+            "None"
+        ],
+        "answer": "Call money",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\n| শর্ত/রেট | বিবরণ |\n| :--- | :--- |\n| কল মানি রেট | সাময়িক অর্থ সংকটের সময়, একটি বাণিজ্যিক ব্যাংক যে সুদের হারে অন্য বাণিজ্যিক ব্যাংক থেকে ঋণ গ্রহণ করে তাকে কল মানি রেট বলে। এটি দুটি বাণিজ্যিক ব্যাংক বা আর্থিক প্রতিষ্ঠানের মধ্যে হয়ে থাকে এবং এটি অবশ্যই খুবই স্বল্প মেয়াদের জন্য হয়ে থাকে। |\n| ব্যাংক রেট | অর্থ চাহিদা পূরণের জন্য কোনো বাণিজ্যিক ব্যাংক বা আর্থিক প্রতিষ্ঠান কেন্দ্রীয় ব্যাংক বা বাংলাদেশ ব্যাংকের নিকট থেকে যে হারে ঋণ গ্রহণ করে, তাকে ব্যাংক রেট বলে। এটি হয়ে থাকে বাণিজ্যিক ব্যাংক ও কেন্দ্রীয় ব্যাংকের মধ্যে। |\n| রেপো রেট | একটি স্বল্পমেয়াদি সিকিউরিটি বিক্রয় করার পর বিক্রেতা একটি নির্দিষ্ট সময় শেষে ক্রেতার নিকট থেকে পূর্বনির্ধারিত মূল্যে পুনরায় ক্রয় করে নেওয়াকে পুনঃক্রয় চুক্তি বলে। পুনঃক্রয় চুক্তির সুদের হারকে রেপো রেট বলে। |\n| রিভার্স রেপো রেট | একটি স্বল্পমেয়াদি সিকিউরিটি ক্রয় করার পর ক্রেতা একটি নির্দিষ্ট সময় শেষে বিক্রেতার নিকট পূর্বনির্ধারিত মূল্যে পুনরায় বিক্রয় করে দেওয়াকে বিপরীত পুনঃক্রয় চুক্তি বলে। এর সুদের হারকে বলে রিভার্স রেপো রেট। |\n\nPolicy Rate (Upto : 21 March, 2024)\n| Rate | Percentage |\n| :--- | :--- |\n| Repo Rate | 8.00% |\n| SLF Rate | 9.50% |\n| SDF Rate | 6.50% |\n| Bank rate | 4% |"
+    },
+    {
+        "id": 29,
+        "question": "29. Perfectly competitive firms maximize their profits upon fulfillment of which of the following conditions?",
+        "options": [
+            "Average revenue should equal marginal cost",
+            "Marginal revenue should exceed marginal cost",
+            "Marginal cost should rise above MR=MC",
+            "Marginal revenue should rise above MR=MC",
+            "None"
+        ],
+        "answer": "Marginal revenue should rise above MR=MC",
+        "explanation": "ব্যাখ্যা (উত্তর: D): A perfectly competitive firm is a price taker, which means that it must accept the equilibrium price at which it sells goods. If a perfectly competitive firm attempts to charge even a tiny amount more than the market price, it will be unable to make any sales. Perfectly competitive firms maximize their profits upon fulfillment marginal revenue rise above MR=MC\nএকটি পুরোপুরি প্রতিযোগিতামূলক প্রতিষ্ঠানের জন্য মুনাফা সর্বাধিক পছন্দ হবে যেখানে প্রান্তিক রাজস্ব প্রান্তিক খরচের সমান অর্থাৎ MR=MC।"
+    },
+    {
+        "id": 30,
+        "question": "30. Which of the following products is traded in a perfectly competitive market?",
+        "options": [
+            "Foreign currency",
+            "Automobile",
+            "Clothing",
+            "Oil and gas",
+            "None"
+        ],
+        "answer": "Foreign currency",
+        "explanation": "ব্যাখ্যা (উত্তর: A): Perfect competition occurs when all companies sell identical products, market share does not influence price, companies are able to enter or exit without barriers, buyers have perfect or full information, and companies cannot determine prices. Here, foreign currency is the product that is traded in perfectly competitive market."
+    },
+    {
+        "id": 31,
+        "question": "31. Which of the following reasons is responsible for the conflict in rankings of mutually exclusive investment projects?",
+        "options": [
+            "Difference in costs of projects",
+            "Difference in the timing of cash flows",
+            "Difference in useful lives of projects",
+            "Both A and C",
+            "All of A, B, and C"
+        ],
+        "answer": "All of A, B, and C",
+        "explanation": "ব্যাখ্যা (উত্তর: E): In different capital budgeting techniques all costs, timing and useful lives causes conflict in ranking of mutually exclusive investment projects.\nকোনো একটি প্রকল্প গ্রহণ বা বর্জনের সাথে যদি অপর কোনো একটি প্রকল্প গ্রহণ বা বর্জন সরাসরি সংযুক্ত থাকে, অর্থাৎ একটি প্রকল্প গ্রহণ করলে যদি অপর প্রকল্পটি বাতিল বলে গণ্য হয় তাহলে প্রকল্প দুটিকে পরস্পর বর্জনশীল প্রকল্প বলে।"
+    },
+    {
+        "id": 32,
+        "question": "32. Constant Growth Model of common stock valuation cannot be applied in which of the following conditions?",
+        "options": [
+            "Ke > g",
+            "Ke < g",
+            "Ke = g",
+            "D0 = D1",
+            "B and C"
+        ],
+        "answer": "B and C",
+        "explanation": "ব্যাখ্যা (উত্তর: E): যে মডেলে লভ্যাংশ প্রত্যেক বছর একই হারে বাড়তে থাকে, তাকে Constant Dividend Growth Model বলে।\nএ পদ্ধতিতে কিছু অনুমিত শর্তাবলি রয়েছে। যেমন:\n১. লভ্যাংশ বৃদ্ধি স্থির হারে হতে থাকবে।\n২. লভ্যাংশ বৃদ্ধির হার প্রত্যাশিত আয়ের হার (k) অপেক্ষা কম হবে।\n৩. এক্ষেত্রে লভ্যাংশ এবং শেয়ার প্রতি আয় (EPS) একই হারে বৃদ্ধি পাবে।\nএ পদ্ধতিতে প্রত্যাশিত লভ্যাংশকে (D1) শেয়ারের বর্তমান মূল্য (P0) দ্বারা ভাগ করে এবং তার সাথে প্রত্যাশিত লভ্যাংশ বৃদ্ধির হার (g) যোগ করে সাধারণ শেয়ার মূলধনের ব্যয় পাওয়া যেতে পারে। অর্থাৎ সাধারণ শেয়ার মূলধনের ব্যয়, Ke = (D1 / P0) + g\n\n| প্রতীক | বিবরণ |\n| :--- | :--- |\n| D1 | Expected dividend (প্রত্যাশিত লভ্যাংশ) |\n| P0 | Current price of stock (শেয়ারের বর্তমান মূল্য) |\n| g | Growth rate of dividend (লভ্যাংশ বৃদ্ধির হার) |"
+    },
+    {
+        "id": 33,
+        "question": "33. Which of the following conditions best describe a bond discount?",
+        "options": [
+            "Market required rate of return > Stated coupon rate",
+            "Market required rate of return < Stated coupon rate",
+            "Market price < Face Value",
+            "Both A and C",
+            "Both B and C"
+        ],
+        "answer": "Market price < Face Value",
+        "explanation": "ব্যাখ্যা (উত্তর: C): The bond discount is the difference by which a bond's market price is lower than its face value. For example, a bond with a par value of $1,000 that is trading at $980 has a bond discount of $20. So option C is correct."
+    },
+    {
+        "id": 34,
+        "question": "34. When a Manager checks whether actual results are in line with targets, this is an example of the management function of:",
+        "options": [
+            "planning",
+            "organizing",
+            "leading",
+            "controlling",
+            "strategizing"
+        ],
+        "answer": "controlling",
+        "explanation": "ব্যাখ্যা (উত্তর: D):\n| কার্য | বিবরণ |\n| :--- | :--- |\n| পরিকল্পনা | লক্ষ্য ও উদ্দেশ্যাবলি নির্ধারণ এবং তা অর্জনের জন্য ভবিষ্যতে কি করতে হবে, কিভাবে করতে হবে, কখন করতে হবে ইত্যাদি বিষয়ে অগ্রিম কর্মসূচি নির্ধারণ করা, যা বিভিন্ন তথ্য সংগ্রহ ও বিচার-বিশ্লেষণের মধ্য দিয়ে দাঁড় করানো একাধিক বিকল্প কর্মপন্থার মধ্য হতে বাছাই করা। |\n| সংগঠন | ব্যবস্থাপনায় সংগঠন হলো প্রতিষ্ঠানের উপকরণাদি ও কাজকে বিভিন্ন বিভাগ ও উপবিভাগে বিভক্তকরণ প্রত্যেকের জন্য পৃথকভাবে দায়িত্ব ও কর্তব্য নির্ধারণ বিভাগ ও উপবিভাগের মধ্যে সম্পর্ক নির্ধারণ এবং সমন্বয় সাধনের একটি প্রক্রিয়া যাতে প্রত্যেকেরই কার্যকর ব্যবহার নিশ্চিত করে লক্ষ্যে পৌঁছানো যায়। |\n| নেতৃত্ব | কোনো দল বা গোষ্ঠীর আচরণ ও কাজকে লক্ষ্যপানে এগিয়ে নেওয়ার কৌশলকে নেতৃত্ব বলে। দলবদ্ধ যে কোনো কাজে অধিক গুরুত্বপূর্ণ বিষয় হলো সঠিক নেতৃত্ব। যে নেতৃত্ব দেন তাকে নেতা বলে। |\n| নিয়ন্ত্রণ | ব্যবস্থাপনা চক্রের সর্বশেষ ধাপ হলো নিয়ন্ত্রণ। নিয়ন্ত্রণ ধাপে সম্পাদিত কাজকে পূর্বে পরিকল্পনাকৃত কাজের সাথে তুলনা করে দেখা হয় এবং ফলাফলের সাথে পরিকল্পনাকৃত কাজের কোনো বিচ্যুতি পাওয়া গেলে সংশোধনমূলক ব্যবস্থা গ্রহণ করা হয়। |"
+    },
+    {
+        "id": 35,
+        "question": "35. In Company A, each manager typically supervises 10 employees. In Company B, each manager typically supervises 20 employees. The ________ is wider in company B than in Company A.",
+        "options": [
+            "base of power",
+            "hierarchical control",
+            "span of control",
+            "line of authority",
+            "line of command"
+        ],
+        "answer": "span of control",
+        "explanation": "ব্যাখ্যা (উত্তর: C): একজন ঊর্ধ্বতন কর্মকর্তার অধীনে যতজন নিম্নপদস্থ কর্মকর্তা থাকে তার সংখ্যাকে বলে স্প্যান অব কন্ট্রোল। কাম্য পরিসর নীতি অনুযায়ী একজন নির্বাহীর তত্ত্বাবধানে এমন পরিমাণ নির্বাহীর সংখ্যা নির্দিষ্ট করা উচিত যাতে তার পক্ষে অধস্তনদের কাজ সঠিকভাবে তত্ত্বাবধান করা যায়। এ লক্ষ্যে প্রতিষ্ঠানের উপরের স্তরে তত্ত্বাবধান স্তর ছোট এবং নিচের স্তরে তত্ত্বাবধান স্তর কিছুটা বড় হয়।"
+    },
+    {
+        "id": 36,
+        "question": "36. Which theory of motivation suggests that behavior is a function of consequences?",
+        "options": [
+            "Feedback theory",
+            "Equity theory",
+            "Expectancy theory",
+            "Goal setting theory",
+            "Reinforcement theory"
+        ],
+        "answer": "Reinforcement theory",
+        "explanation": "ব্যাখ্যা (উত্তর: E): Reinforcement theory of motivation was proposed by BF Skinner and his associates. It states that individual's behaviour is a function of its consequences. It is based on “law of effect”, i.e, individual's behaviour with positive consequences tends to be repeated, but individual's behaviour with negative consequences tends not to be repeated.\n\nএক নজরে প্রেষণা তত্ত্ব সমূহ:\n| Name of Theory | Provided By |\n| :--- | :--- |\n| Need Hierarchy Theory | Abraham Maslows |\n| Two-Factor Theory | Frederick Hertzberg |\n| X Theory and Y Theory | Douglas McGregor |\n| Z Theory | William G. Ouchi |\n| Attribution Theory | Heider |\n| Re-inforcement Theory | B.F. Skinner |\n| ERG Theory | Clayton Alderfer |\n| Expectancy Theory | Victor Vroom |\n| Equity Theory | J.Stacey Adams |\n| Acquired needs Theory | McClelland |\n| Carrot & Stick Theory | Jeremy Bentham |\n| Social Learning Theory | Albert Bandura |"
+    },
+    {
+        "id": 37,
+        "question": "37. Which of the following is not an advantage of decentralized decision-making?",
+        "options": [
+            "More flexibility",
+            "More empowerment",
+            "Unity of command",
+            "Product/ market focus",
+            "None"
+        ],
+        "answer": "More empowerment",
+        "explanation": "ব্যাখ্যা (উত্তর: B): প্রতিষ্ঠানের সিদ্ধান্ত গ্রহণের ক্ষেত্রে উচ্চ, মধ্য ও নিম্ন পর্যায়ের ব্যবস্থাপকসহ সবাই মিলে সিদ্ধান্ত গ্রহণ করা হলে তাকে বিকেন্দ্রীকরণ (Decentralization) বলে। বিকেন্দ্রীকরণ নীতির ফলে সিদ্ধান্ত গ্রহণে সবাই তাদের মতামত শেয়ার করতে পারে। অধিক নমনীয়তা, আদেশের ঐক্য, পণ্য বা বাজার পর্যবেক্ষণ বিকেন্দ্রীকরণের সুবিধা। অন্যদিকে, অধিক ক্ষমতায়ন সিদ্ধান্ত গ্রহণে বিকেন্দ্রীকরণের একটি অসুবিধা।"
+    },
+    {
+        "id": 38,
+        "question": "38. The process of comparing an organization's products processes with the best in the industry is-",
+        "options": [
+            "Breadbanking",
+            "Beolderpping",
+            "Differenciating",
+            "Benchmarking",
+            "None"
+        ],
+        "answer": "Benchmarking",
+        "explanation": "ব্যাখ্যা (উত্তর: D):\nBenchmarking:\n➔ কোনো কোম্পানি তার পণ্যের গুণগতমান ও কার্যক্ষমতা সম্পর্কে ক্রেতা বা ভোক্তারা যাতে নিশ্চিত হতে পারে সেজন্য তুলনাবোধক বা পরিমাপযোগ্য যে মান ব্যবহার করে তাকে Benchmarking বলে।\n➔ Benchmarking এর মাধ্যমে কোম্পানিগুলোর মধ্যে তুলনা করা হয়।\n➔ Benchmarking এর মাধ্যমে কোম্পানিগুলোর মধ্যে তুলনা করার জন্য প্রথমেই একটি আদর্শ মান ঠিক করতে হয় এবং সে আদর্শ মান অনুসারে কোম্পানিগুলোর মধ্যে তুলনা করতে হয়।"
+    },
+    {
+        "id": 39,
+        "question": "39. The remuneration awarded to employee in service is-",
+        "options": [
+            "Gratuity",
+            "Incentive",
+            "Stipend",
+            "Compensation",
+            "Benefits"
+        ],
+        "answer": "Compensation",
+        "explanation": "ব্যাখ্যা (উত্তর: D):\n| পরিভাষা | অর্থ / সংজ্ঞা |\n| :--- | :--- |\n| Gratuity | Gratuity, in simple terms, is a form of monetary benefit paid to a worker upon being terminated or retired from employment. |\n| Incentive | Incentive in simple terms is something that encourages a person or organization to do or achieve something. |\n| Stipend | Stipends are fixed amounts paid to certain individuals to cover expenses such as food, commute and housing. In some situations, people who perform duties for companies without receiving a regular salary may receive stipends. |\n| Compensation | Compensation describes the cash rewards paid to employees in exchange for the services they provide. |"
+    },
+    {
+        "id": 40,
+        "question": "40. The systematic process of recognizing and creating future leaders for the organizations top position is known as-",
+        "options": [
+            "Increment",
+            "Personnel planning",
+            "Succession planning",
+            "Strategic planning",
+            "Organizational planning"
+        ],
+        "answer": "Succession planning",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\n| পরিকল্পনা | বিবরণ |\n| :--- | :--- |\n| Succession planning | Succession planning is a process of developing talent to replace executive, leadership or other key employees when they transition to another role, leave the company, are fired, retire or die. |\n| Personnel planning | Personnel planning is an essential task of the human resources department. |\n| Strategic planning | Strategic planning is a process in which an organization's leaders define their vision for the future and identify their organization's goals and objectives. |\n| Organizational planning | Organizational planning is how business owners organize the day-to-day operations of a business. |"
+    },
+    {
+        "id": 41,
+        "question": "General Knowledge & ICT\n41. Where is 'Bangabandhu Sheikh Mujib Square' being constructed?",
+        "options": [
+            "Tetulia",
+            "Fatullah",
+            "Fulgazi",
+            "Shibganj"
+        ],
+        "answer": "Tetulia",
+        "explanation": "ব্যাখ্যা (উত্তর: A): মুজিব বর্ষ উপলক্ষে দেশের বিভিন্ন স্থানে বিভিন্ন ধরনের স্থাপনা তৈরি করা হয়েছে। যার মধ্যে উল্লেখযোগ্য কয়েকটি-\n\n| বঙ্গবন্ধুর নামে স্থাপত্য-স্থাপনা | অবস্থান |\n| :--- | :--- |\n| বঙ্গবন্ধু শেখ মুজিব স্কয়ার | তেঁতুলিয়া, পঞ্চগড় |\n| দ্য স্ট্যাচু অব স্পিচ অ্যান্ড ফ্রিডম | কালীগঞ্জ, ঝিনাইদহ |\n| মুজিব দর্শন ম্যুরাল | সিরাজগঞ্জ |\n| পিতা ও কন্যা থিম | জাজিরা, শরীয়তপুর |"
+    },
+    {
+        "id": 42,
+        "question": "42. The Bangladesh Infrastructure Development Fund (BIDF). Formed with a portion of foreign exchange reserve will finance which of the following projects?",
+        "options": [
+            "Karnaphuli Tunnel",
+            "Dhaka Metro rail",
+            "Payra Port",
+            "Matarbari Port",
+            "None"
+        ],
+        "answer": "Payra Port",
+        "explanation": "ব্যাখ্যা (উত্তর: C): নিজস্ব তহবিল থেকে উন্নয়ন প্রকল্পে অর্থায়নের লক্ষ্যে ১৫ মার্চ ২০২১ বাংলাদেশ অবকাঠামো উন্নয়ন তহবিল (বিআইডিএফ)-এর যাত্রা শুরু হয়। আর বৈদেশিক মুদ্রার রিজার্ভ থেকে গঠিত এই তহবিল থেকে সর্বপ্রথম অর্থায়ন করা হয় পায়রা বন্দরে।"
+    },
+    {
+        "id": 43,
+        "question": "43. Who directed the liberation war based documentary film 'Innocent Million'?",
+        "options": [
+            "Zahir Raihan",
+            "Alamgir Kabir",
+            "Babul Chowdhury",
+            "Tareque Masud",
+            "None"
+        ],
+        "answer": "Babul Chowdhury",
+        "explanation": "ব্যাখ্যা (উত্তর: C): মুক্তিযুদ্ধভিত্তিক কয়েকটি গুরুত্বপূর্ণ চলচ্চিত্র ও পরিচালকের নাম নিম্নরূপ-\n\n| চলচ্চিত্র | পরিচালক |\n| :--- | :--- |\n| সংগ্রাম, রক্তাক্ত বাংলা | চাষী নজরুল ইসলাম |\n| বাঘা বাঙ্গালী, কার হাসি কে হাসে | আনন্দ |\n| শ্যামল ছায়া, আগুনের পরশমণি | হুমায়ূন আহমেদ |\n| গেরিলা, একাত্তরের যীশু | নাসিরউদ্দীন ইউসুফ |\n| আবার তোরা মানুষ হ | খান আতাউর রহমান |\n| ধীরে বহে মেঘনা | আলমগীর কবির |\n| নদীর নাম মধুমতী | তানভীর মোকাম্মেল |\n| জয়যাত্রা | তৌকির আহমেদ |\n\nবাংলাদেশে উল্লেখযোগ্য সংখ্যক মুক্তিযুদ্ধভিত্তিক প্রামাণ্য চিত্র রয়েছে তার মধ্যে বাবুল চৌধুরী পরিচালিত ইনোসেন্ট মিলিয়নস, জহির রায়হান পরিচালিত স্টপ জেনোসাইড, আলমগীর কবির পরিচালিত লিবারেশন ফাইটারস অন্যতম।"
+    },
+    {
+        "id": 44,
+        "question": "44. How many stars are there in the national emblem of Bangladesh?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "None"
+        ],
+        "answer": "4",
+        "explanation": "ব্যাখ্যা (উত্তর: C): বাংলাদেশের জাতীয় প্রতীকের রূপকার হলো কামরুল হাসান। গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধানের ৪(৩) ধারায় জাতীয় প্রতীক সম্পর্কে বলা হয়েছে। জাতীয় প্রতীক সম্পর্কে ৪(৩) ধারায় বলা হয়েছে 'প্রজাতন্ত্রের জাতীয় প্রতীক হইতেছে উভয় পার্শ্বে ধানশীর্ষবেষ্টিত, পানিতে ভাসমান জাতীয় পুষ্প শাপলা, তাহার শীর্ষদেশে পাটগাছের তিনটি পরস্পরযুক্ত পত্র, তাহার উভয় পার্শ্বে দুইটি করিয়া তারকা।' শাপলা, ধান ও পাট প্রতীকে বৈশিষ্ট্যমণ্ডিত হয়েছে বাংলাদেশের নিসর্গ ও অর্থনীতি। এ তিনটি উপাদানের উপর স্থাপিত জলজ প্রস্ফুটিত শাপলা হলো অঙ্গীকার, সৌন্দর্য ও সুরুচির প্রতীক। তারকাগুলোতে ব্যক্ত হয়েছে জাতির লক্ষ্য ও উচ্চাকাঙ্ক্ষা।"
+    },
+    {
+        "id": 45,
+        "question": "45. Which of the following organization is the largest global development organization focused on the private sectors in the developing countries?",
+        "options": [
+            "Interntionl Development Agency (IDA)",
+            "International Finance Corporation (IFC)",
+            "Asian Development Bank (ADB)",
+            "International Monetary Fund (IMF)"
+        ],
+        "answer": "International Finance Corporation (IFC)",
+        "explanation": "ব্যাখ্যা (উত্তর: B): বিশ্বব্যাংক গ্রুপের পাঁচটি অঙ্গ সংগঠন হলো- IBRD, IDA, IFC, ICSID, MIGA. এদের মধ্যে IFC এর পূর্ণরূপ হলো International Finance Corporation. এটি ২০ জুলাই, ১৯৫৬ সালে প্রতিষ্ঠিত হয়। যুক্তরাষ্ট্রের ওয়াশিংটন ডিসিতে এর সদর দফতর অবস্থিত। উন্নয়নশীল দেশসমূহকে বেসরকারি পর্যায়ে উন্নয়ন ও সম্পদ ব্যবস্থাপনায় বিনিয়োগ ও পরামর্শ প্রদানের কাজ করে IFC."
+    },
+    {
+        "id": 46,
+        "question": "46. Which of the following function keys enter and exit full-screen mode in most all browsers?",
+        "options": [
+            "F1",
+            "F2",
+            "F10",
+            "F11",
+            "None"
+        ],
+        "answer": "F11",
+        "explanation": "ব্যাখ্যা (উত্তর: D): দ্রুত সম্প্রাদন, সংশোধন বা নির্দেশ প্রদানের জন্য ফাংশন কী ব্যবহার করা হয়। ১২টি ফাংশন কী রয়েছে (F1-F12)। ফাংশন কী এর মূল কাজ নিম্নরূপ-\n\n| কী এর নাম | মূল কাজ |\n| :--- | :--- |\n| F1 | হেল্প কি। |\n| F2 | ফাইল বা ফোল্ডারের নাম পরিবর্তনের জন্য ব্যবহৃত হয়। |\n| F3 | সার্চ সুবিধা / ওপেন ফাইল উইন্ডো। |\n| F4 | মাইক্রোসফট ওয়ার্ডের Last action performed repeat করা হয়। |\n| F5 | এটি চেপে মাইক্রোসফট ওয়ার্ডে find, replace, go to উইন্ডো খোলা যায়। |\n| F6 | মাউসের কারসারকে ইন্টারনেট ব্রাউজারের অ্যাড্রেসবারে নিয়ে যেতে চাইলে এই কি ব্যবহার করা হয়। |\n| F7 | বানান ও ব্যাকরণ ঠিক করা হয়। |\n| F8 | অপারেটিং সিস্টেম safe mood এ চালু করার জন্য এটি ব্যবহৃত হয়। |\n| F9 | ওয়ার্ড ডকুমেন্টের মেজারমেন্টটুলবার চালু করার জন্য এটি কাজে লাগে। |\n| F10 | এটি চেপে ইন্টারনেট ব্রাউজার বা কোনো খোলা উইন্ডোর মেনুবার নির্বাচন করা হয়। |\n| F11 | যেকোনো সক্রিয় উইন্ডো পূর্ণপর্দায় দেখতে এবং স্বাভাবিক অবস্থায় আনতে এটি ব্যবহৃত হয়। |\n| F12 | Save As উইন্ডো চালু করা হয়। F12 চেপে বাংলা থেকে ইংরেজি বা ইংরেজি থেকে বাংলা মুডে যাওয়া যাবে। |"
+    },
+    {
+        "id": 47,
+        "question": "47. Which of the following is a web browsing software?",
+        "options": [
+            "MS Bing",
+            "Google Chrome",
+            "Adobe Acrobat",
+            "Zoom",
+            "None"
+        ],
+        "answer": "Google Chrome",
+        "explanation": "ব্যাখ্যা (উত্তর: B): Web Browser ব্যবহার করে ইন্টারনেট জগত বা world wide web-এ প্রবেশ করা যায়। জনপ্রিয় কিছু Web Browser-এর মধ্যে রয়েছে Google chrome, Opera, Mozilla Firefox, Internet Explorer ইত্যাদি। অপরদিকে MS Bing হলো Web Search Engine, Adobe Acrobat পিডিএফ দেখা ও তৈরি করার Application Software এবং Zoom হলো ভিডিও টেলিকনফারেন্সিং Software Program।"
+    },
+    {
+        "id": 48,
+        "question": "48. Which international organization will award 'Bangbandhu Sheikh Mujibur Rahman Internationl Prize for the creative economy' from 2021?",
+        "options": [
+            "UNICEF",
+            "UNESCO",
+            "UNDP",
+            "UNHCR",
+            "None"
+        ],
+        "answer": "UNESCO",
+        "explanation": "ব্যাখ্যা (উত্তর: B): সৃজনশীল অর্থনীতির ক্ষেত্রে 'ইউনেস্কো বঙ্গবন্ধু পুরস্কার' ইউনেস্কো কর্তৃক প্রবর্তিত প্রথম আন্তর্জাতিক পুরস্কার। ১১ ডিসেম্বর, ২০২০ ইউনেস্কোর নির্বাহী পরিষদের ২১০তম অধিবেশনে সর্বসম্মতিক্রমে পুরস্কারের সিদ্ধান্ত গৃহীত হয়। দুই বছর পর পর এ পুরস্কার প্রদান করা হবে। পুরস্কারের অর্থমূল্য ৫০ হাজার মার্কিন ডলার। ১১ নভেম্বর ২০২১ প্রথম বারের মতো এ পুরস্কার প্রদান করা হয়। 'ইউনেস্কো-বঙ্গবন্ধু ইন্টারন্যাশনাল প্রাইজ ফর ক্রিয়েটিভ ইকোনমি ২০২১' লাভ করেন উগান্ডা ভিত্তিক প্রতিষ্ঠান MoTIV Limited. ২০২৩ সালে এ পুরস্কার লাভ করে- মিউজিক ক্রসরোডস (জিম্বাবুয়ে)।"
+    },
+    {
+        "id": 49,
+        "question": "49. ________ is defined as the social amount of Greenhouse Gas including carbon di-oxide and methane that are generated by an individul event, business of the country.",
+        "options": [
+            "Global warming",
+            "Carbon Monoxide",
+            "Population inde",
+            "Emissions index",
+            "Environment performance index"
+        ],
+        "answer": "Global warming",
+        "explanation": "ব্যাখ্যা (উত্তর: A): কার্বন ডাই-অক্সাইড একটি গুরুত্বপূর্ণ গ্রিনহাউজ গ্যাস যা ভূপৃষ্ঠের বিকীর্ণ তাপ আটকে দেয়। জীবাশ্ম ভিত্তিক জ্বালানি দহনের ফলে বায়ুমণ্ডলে কার্বন ডাই-অক্সাইডের ঘনত্ব দ্রুত বৃদ্ধি পাচ্ছে এবং বৈশ্বিক উষ্ণতা বৃদ্ধি সাথে সাথে জীবজগতে জলবায়ুর পরিবর্তন ঘটছে।"
+    },
+    {
+        "id": 50,
+        "question": "50. Which of the following was not a criterion for Bangladesh's graduation to LDC status?",
+        "options": [
+            "Income Criterion",
+            "Human Assets index",
+            "Sustainability Index",
+            "Economic Vulnerability Index",
+            "None"
+        ],
+        "answer": "Sustainability Index",
+        "explanation": "ব্যাখ্যা (উত্তর: C): এলডিসি থেকে কোন দেশ বের হবে, সে বিষয়ে সুপারিশ করে সিডিপি (CDP: Committee for Development Policy)। এজন্য প্রতি তিন বছর পর পর এলডিসিগুলোর ত্রিবার্ষিক মূল্যায়ন করা হয়। সিডিপির সুপারিশ প্রথমে জাতিসংঘের ইকোসকে (ECOSOC : The Economic and Social Council) যায়। তিন বছর পর তা জাতিসংঘের সাধারণ অধিবেশনে অনুমোদনের জন্য ওঠে। বাংলাদেশ ২০১৮ সালে সর্বপ্রথম সিডিপির সকল শর্ত পূরণ করে। বাংলাদেশ ২০২৬ সালে চূড়ান্তভাবে এলডিসি থেকে বের হবে।\n\nLDC থেকে বের হবার শর্তসমূহ:\n| শর্ত | মান |\n| :--- | :--- |\n| তিন বছরের গড় মাথাপিছু আয় | ১২৩০ ডলার |\n| মানব উন্নয়ন সূচক মান | ৬৬ বা তার বেশি |\n| অর্থনৈতিক ভঙ্গুরতা সূচক | ৩২ বা তার কম |\n\nউল্লেখ্য, বাংলাদেশ ২০২৬ সালে আনুষ্ঠানিকভাবে উন্নয়নশীল দেশের মর্যাদা অর্জন করবে।"
+    },
+    {
+        "id": 51,
+        "question": "51. When did Bangladesh become a member of the World Trade Organization (WTO)?",
+        "options": [
+            "1993",
+            "1995",
+            "1997",
+            "1999",
+            "None"
+        ],
+        "answer": "1995",
+        "explanation": "ব্যাখ্যা (উত্তর: B): জাতিসংঘের বিশেষায়িত সংস্থায় বাংলাদেশের সদস্যপদ লাভ:\n| সংস্থা | তারিখ |\n| :--- | :--- |\n| আন্তর্জাতিক অর্থ তহবিল (IMF) | ১৭ আগস্ট, ১৯৭২ |\n| পুনর্গঠন ও উন্নয়নের জন্য আন্তর্জাতিক ব্যাংক (IBRD) | ১৭ আগস্ট, ১৯৭২ |\n| আন্তর্জাতিক উন্নয়ন সমিতি (IDA) | ১৭ আগস্ট, ১৯৭২ |\n| আন্তর্জাতিক শ্রম সংস্থা (ILO) | ২২ জুন, ১৯৭২ |\n| আন্তর্জাতিক আণবিক শক্তি সংস্থা (IAEA) | ২৭ সেপ্টেম্বর, ১৯৭২ |\n| জাতিসংঘ শিক্ষা, বিজ্ঞান ও সংস্কৃতি সংস্থা (UNESCO) | ২৭ অক্টোবর, ১৯৭২ |\n| খাদ্য ও কৃষি সংস্থা (FAO) | ১২ নভেম্বর, ১৯৭৩ |\n| বিশ্ব বাণিজ্য সংস্থা (WTO) | ১ জানুয়ারি, ১৯৯৫ |"
+    },
+    {
+        "id": 52,
+        "question": "52. Who is the founder of Space X?",
+        "options": [
+            "Jeff Bezos",
+            "Elon Musk",
+            "Marc Benioff",
+            "Tim Cook",
+            "None"
+        ],
+        "answer": "Elon Musk",
+        "explanation": "ব্যাখ্যা (উত্তর: B): ইলন মাস্ক স্পেসএক্স, নিউরালিংক এবং দ্য বোরিং কোম্পানির প্রতিষ্ঠাতা, পাশাপাশি তিনি পেপাল এবং টেসলা-এর সহ-প্রতিষ্ঠাতা। অপরদিকে জেফ বেজোস ই-কমার্স জায়ান্ট আমাজনের প্রতিষ্ঠাতা, মার্ক বেনিওফ আমেরিকান ইন্টারনেট উদ্যোক্তা এবং টিম কুক অ্যাপল ইনকর্পোরেটেড-এর প্রধান নির্বাহী কর্মকর্তা।"
+    },
+    {
+        "id": 53,
+        "question": "সাম্প্রতিক প্রশ্নসমূহ (আপডেট তথ্যসহ)\n53. Which of the following banks will issue the first ever perpetual bond in Bangladesh to comply with Basel III requirement?",
+        "options": [
+            "The City Bank Limited",
+            "Eastern bank Limited",
+            "Prime Bank Limited",
+            "Dutch Bangla Bank Limited",
+            "None"
+        ],
+        "answer": "The City Bank Limited",
+        "explanation": "ব্যাখ্যা (উত্তর: A): ব্যাসেল ৩ (২০১০) হচ্ছে ব্যাসেল কমিটি প্রণীত ব্যাংকিং পরিচালনা ও মূলধন সংরক্ষণ সম্পর্কিত নীতিমালা। দেশের প্রথম প্রতিষ্ঠান হিসেবে ব্যাসেল ৩ নীতিমালা অনুযায়ী কন্টিনজেন্ট-কনভার্টিবল পারপেচ্যুয়াল বন্ড চালু করে সিটি ব্যাংক লিমিটেড।"
+    },
+    {
+        "id": 54,
+        "question": "54. Who has been conferred with the Gandhi Peace Prize 2020?",
+        "options": [
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "John Hume",
+            "Julius Nyerere",
+            "Bangabandhu Sheikh Mujibur Rahman"
+        ],
+        "answer": "Bangabandhu Sheikh Mujibur Rahman",
+        "explanation": "ব্যাখ্যা (উত্তর: E): ভারত থেকে প্রদত্ত একটি পুরস্কার হলো 'গান্ধী শান্তি পুরস্কার'। ১৯৯৫ সাল থেকে এ পুরস্কার প্রদান করা হয়। গান্ধী শান্তি পুরস্কার ২০২০ লাভ করেন বঙ্গবন্ধু শেখ মুজিবুর রহমান।"
+    },
+    {
+        "id": 55,
+        "question": "55. Bangladesh will launch the second satellite of the country 'Bangabandhu Satellite-2' by which year?",
+        "options": [
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "None"
+        ],
+        "answer": "2023",
+        "explanation": "ব্যাখ্যা (উত্তর: C):\nবঙ্গবন্ধু স্যাটেলাইট ১:\n| বিষয় | বিবরণ |\n| :--- | :--- |\n| ধরণ | যোগাযোগ ও সম্প্রচার স্যাটেলাইট |\n| পরিচালক | বাংলাদেশ কমিউনিকেশন স্যাটেলাইট কোম্পানি লিমিটেড |\n| প্রস্তুতকারক | থ্যালেস অ্যালেনিয়া স্পেস |\n| উৎক্ষেপণ তারিখ | ১১ মে ২০১৮ (১২ মে, ২০১৮ বাংলাদেশ সময়) |\n| উৎক্ষেপণ রকেট | ফ্যালকন ৯, ব্লক ৫ |\n| উৎক্ষেপণ স্থান | কেনেডি স্পেস সেন্টার, লঞ্চ কমপ্লেক্স ৩৯ এ, ফ্লোরিডা, যুক্তরাষ্ট্র |\n| ঠিকাদার | স্পেস এক্স |\n| মেয়াদকাল | ১৫ বছর |\n| ট্রান্সপন্ডার | ৪০টি |\n| কক্ষপথ | ১১৯.১° পূর্ব দ্রাঘিমাংশ |"
+    },
+    {
+        "id": 56,
+        "question": "56. Recently, which of the following private commercial banks has been converted into Sharia-baseh Islami banks?",
+        "options": [
+            "Standard Bank",
+            "National Bank",
+            "NCC Bank",
+            "Trust Bank",
+            "None"
+        ],
+        "answer": "Standard Bank",
+        "explanation": "ব্যাখ্যা (উত্তর: A): ১ জানুয়ারি, ২০২১ সুদ ভিত্তিক প্রথাগত ব্যাংকিং থেকে ইসলামি শরিয়াহ্ভিত্তিক ধারায় রূপান্তরিত হয় দুটি ব্যাংক। যথা- স্ট্যান্ডার্ড ব্যাংক লিমিটেড এবং এনআরবি গ্লোবাল ব্যাংক লিমিটেড (বর্তমান নাম: গ্লোবাল ইসলামী ব্যাংক লিমিটেড)। উল্লেখ্য, বর্তমানে দেশের ইসলামী ধারার ব্যাংক মোট ১০টি।"
+    },
+    {
+        "id": 57,
+        "question": "57. How many sectors in Bangladesh have been declared free from Child labor by the government?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "None"
+        ],
+        "answer": "6",
+        "explanation": "ব্যাখ্যা (উত্তর: C): ২০২৫ সালের মধ্যে সকল ধরনের শিশুশ্রম মুক্ত করার অংশ হিসেবে সরকার ৬টি শিল্প খাতকে 'শিশুশ্রম মুক্ত' ঘোষণা করেছে। খাতগুলো হলো- রেশম, ট্যানারি, সিরামিক, গ্লাস, জাহাজ প্রক্রিয়াজাতকরণ এবং রপ্তানিমুখী চামড়াজাত দ্রব্য ও পাদুকা শিল্প।"
+    },
+    {
+        "id": 58,
+        "question": "58. Recently which of the following countries has elected it's first-ever female 'Prime Minister'?",
+        "options": [
+            "Ghana",
+            "Ethiopia",
+            "Serbia",
+            "Estonia",
+            "None"
+        ],
+        "answer": "Estonia",
+        "explanation": "ব্যাখ্যা (উত্তর: D): বাল্টিক রাষ্ট্র এস্তোনিয়ার প্রথম নারী প্রধানমন্ত্রী হিসেবে নির্বাচিত হন কাজা কালাস। তার রাজনৈতিক দলের নাম রিফর্ম পার্টি।"
+    },
+    {
+        "id": 59,
+        "question": "59. Which country has launched the first commercial bio-fuel rocket?",
+        "options": [
+            "UK",
+            "China",
+            "France",
+            "USA",
+            "None"
+        ],
+        "answer": "USA",
+        "explanation": "ব্যাখ্যা (উত্তর: D): বিশ্বের প্রথম বাণিজ্যিক বায়োফুয়েল রকেট স্টারডাস্ট ১.০। এটি ৩১ জানুয়ারি ২০২১ যুক্তরাষ্ট্রের মেইন (Main) অঙ্গরাজ্য থেকে উৎক্ষেপণ করা হয়।"
+    },
+    {
+        "id": 60,
+        "question": "60. Which of the following countries has recently adopted a new consittution?",
+        "options": [
+            "Algeria",
+            "Albania",
+            "Kirgizstan",
+            "Turkmenistan",
+            "None"
+        ],
+        "answer": "Kirgizstan",
+        "explanation": "ব্যাখ্যা (উত্তর: C): ১১ এপ্রিল ২০২১ নতুন সংবিধান গ্রহণ করে কিরগিজস্তান। রাষ্ট্রপতি সাদির জাপারভ এটিকে স্বাক্ষর করেন ৫ মে ২০২১। নতুন সংবিধান অনুযায়ী রাষ্ট্রপতির ক্ষমতা ব্যাপক বৃদ্ধি পায় এবং সংসদের কর্তৃত্ব অনেকটা দুর্বল হয়।"
+    }
+]

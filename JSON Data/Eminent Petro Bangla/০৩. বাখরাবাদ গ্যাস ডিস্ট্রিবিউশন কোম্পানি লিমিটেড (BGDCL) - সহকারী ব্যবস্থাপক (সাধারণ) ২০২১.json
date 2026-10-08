@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "question": "ধনাত্মক শব্দদ্বিত্ব কোনটি?",
+    "options": [
+      "বাড়াবাড়ি",
+      "ফিকফিকি",
+      "পটাপট",
+      "পায়ে পায়ে"
+    ],
+    "answer": "C",
+    "explanation": "অভিন্ন বা সামান্য পরিবর্তিত চেহারায় কোনো শব্দ পরপর দুইবার ব্যবহৃত হলে তাকে পদদ্বিত্ব বলে। শব্দদ্বিত্ব তিন ধরনের: অনুকার দ্বিত্ব, ধনাত্মক দ্বিত্ব ও পুনরাবৃত্ত দ্বিত্ব।\n\nপরপর প্রয়োগ হওয়া কাছাকাছি চেহারার শব্দকে অনুকার দ্বিত্ব বলে। এতে প্রথম শব্দটি অর্থপূর্ণ হলেও প্রায় ক্ষেত্রে দ্বিতীয় শব্দটি অর্থহীন হয় এবং প্রথম শব্দের অনুকরণে তৈরি হয়। যেমন- অঙ্ক-টঙ্ক, আম-টাম, কেক-টেক, ঘর-টর, ছাগল-টাগল, ফল-টল, হেন-তেন, লুচিকুচি।\n\nকোনো প্রাকৃতিক ধ্বনির অনুকরণে যেসব শব্দ তৈরি হয়, সেগুলোকে ধনাত্মক শব্দ বলে। যেমন- কুট কুট, ফোঁত ফোঁত, কুটুস-কুটুস, খক খক, খুটুর-খুটুর, টুং টুং। কিছু ক্ষেত্রে ধনাত্মক দ্বিত্বের মাঝখানে স্বরধ্বনির আগমন ঘটে। যেমন- খপাখপ, গবাগব, দনাদন, পটাপট।\n\nপুনরায় আবৃত্ত হলে তাকে পুনরাবৃত্ত দ্বিত্ব বলে। পুনরাবৃত্ত দ্বিত্ব বিভক্তিহীন বা বিভক্তিযুক্ত হতে পারে। যেমন- জ্বর জ্বর, পর পর, কবি কবি, হাতে হাতে, কথায় কথায়, জোরে জোরে ইত্যাদি।"
+  },
+  {
+    "id": 2,
+    "question": "কোন শব্দের নারীবাচক শব্দ হয় না?",
+    "options": [
+      "শিক্ষক",
+      "গুরু",
+      "বাঘ",
+      "সভাপতি"
+    ],
+    "answer": "D",
+    "explanation": "কতগুলো শব্দে কেবল পুরুষবাচক বোঝায়। যেমন: সভাপতি, কৃতদার, অকৃতদার, কবিরাজ, ঢাকী, যোদ্ধা। কয়েকটি নিত্য স্ত্রীবাচক শব্দ হলো- সতীন, সৎমা, এয়ো, দাই, সধবা।\nশিক্ষক-শিক্ষিকা, গুরু-গুরুপত্নী, বাঘ-বাঘিনি।"
+  },
+  {
+    "id": 3,
+    "question": "কাজটা ভালো দেখায় না- এটি কোন বাচ্যের উদাহরণ?",
+    "options": [
+      "কর্তৃবাচ্য",
+      "কর্মবাচ্য",
+      "ভাববাচ্য",
+      "কর্মকর্তৃবাচ্য"
+    ],
+    "answer": "D",
+    "explanation": "যে বাক্যে কর্তার অর্থ - প্রাধান্য রক্ষিত হয় এবং ক্রিয়াপদ কর্তার অনুসারী হয়, তাকে কর্তৃবাচ্যের বাক্য বলে। যেমন- ছাত্ররা অঙ্ক করছে।\nযে বাক্যে কর্মের সাথে ক্রিয়ার সম্বন্ধ প্রধানভাবে প্রকাশিত হয়, তাকে কর্মবাচ্য বলে। যেমন- শিকারি কর্তৃক ব্যাঘ্র নিহত হয়েছে।\nযে বাচ্যে কর্ম থাকে না এবং বাক্যে ক্রিয়ার অর্থই বিশেষভাবে ব্যক্ত হয় তাকে ভাববাচ্য বলে। যেমন- আমার খাওয়া হলো না।\nযে বাক্যে কর্মপদই কর্তৃস্থানীয় হয়ে বাক্য গঠন করে তাকে কর্মকর্তৃবাচ্য বলে। যেমন- ১. সুতি কাপড় অনেক দিন টেকে। ২. বাঁশি বাজে এ মধুর লগনে। ৩. কাজটা ভালো দেখায় না।"
+  },
+  {
+    "id": 4,
+    "question": "নিচের কোনটি তদ্ধিত প্রত্যয়?",
+    "options": [
+      "ছাপা + খানা",
+      "জন + অক",
+      "রাঁধ + উনি",
+      "কাঁদ + না"
+    ],
+    "answer": "A",
+    "explanation": "'খানা' প্রত্যয় যোগে গঠিত বিদেশি তদ্ধিত প্রত্যয়- ছাপা + খানা = ছাপাখানা, বৈঠক + খানা = বৈঠকখানা।\n√জন্ + অক = জনক, √রাঁধ + অনি = রাঁধনি, √কাঁদ + না = কাঁদনা > কান্না কৃৎ প্রত্যয় সাধিত শব্দ।"
+  },
+  {
+    "id": 5,
+    "question": "বাংলা ভাষায় মৌলিক ব্যঞ্জনধ্বনির সংখ্যা কত?",
+    "options": [
+      "৩০",
+      "৩২",
+      "৩৭",
+      "৩৯"
+    ],
+    "answer": "A",
+    "explanation": "ভাষার ক্ষুদ্রতম একককে ধ্বনি বলে। বাংলা ভাষায় ৩৭টি মৌলিক ধ্বনি রয়েছে। তার মধ্যে মৌলিক স্বরধ্বনি ৭টি এবং মৌলিক ব্যঞ্জন ধ্বনি ৩০টি।"
+  },
+  {
+    "id": 6,
+    "question": "রূপতত্ত্বের অন্তর্ভুক্ত কোনটি?",
+    "options": [
+      "প্রতিশব্দ",
+      "বাগধারা",
+      "ক্রিয়াবিশেষণ",
+      "উক্তি"
+    ],
+    "answer": "C",
+    "explanation": "ব্যাকরণের প্রধান ও মৌলিক আলোচ্য বিষয় চারটি। যথা: ধ্বনিতত্ত্ব, রূপতত্ত্ব, বাক্যতত্ত্ব ও অর্থতত্ত্ব।\nরূপতত্ত্বের আলোচ্য বিষয় - বিশেষ্য, সর্বনাম, বিশেষণ, ক্রিয়া, ক্রিয়াবিশেষণ ইত্যাদি।\nধ্বনিতত্ত্বের আলোচ্য বিষয়- সন্ধি, বাযন্ত্র, উচ্চারণ-প্রক্রিয়া, ধ্বনির বিন্যাস ইত্যাদি।\nবাক্যতত্ত্বের আলোচ্য বিষয়- উক্তি, যতিচিহ্ন, বাক্যের বাচ্য, বাক্যের যোগ্যতা ইত্যাদি।\nঅর্থতত্ত্বের আলোচ্য বিষয়- প্রতিশব্দ, বিপরীত শব্দ, শব্দজোড়, বাগধারা ইত্যাদি।"
+  },
+  {
+    "id": 7,
+    "question": "কোনটি ভাষাবংশের নাম নয়?",
+    "options": [
+      "আফ্রিকীয়",
+      "দ্রাবিড়ীয়",
+      "ইন্দো-ইউরোপীয়",
+      "হিস্পানি"
+    ],
+    "answer": "D",
+    "explanation": "পৃথিবীর ভাষাগুলোকে ইন্দো-ইউরোপীয়, চীনা-তিব্বতীয়, আফ্রিকীয়, সেমীয়- হেমীয়, দ্রাবিড়ীয়, অস্ত্রো-এশীয় প্রভৃতি ভাষা-পরিবারে ভাগ করা হয়ে থাকে। ইংরেজি, জার্মান, ফরাসি, হিস্পানি, রুশ, পর্তুগিজ, ফারসি, হিন্দি, উর্দু, নেপালি প্রভৃতি ভাষার মতো বাংলা ভাষাও ইন্দো-ইউরোপীয় ভাষা-পরিবারের সদস্য। বাংলা ভাষার নিকটতম আত্মীয় অহমিয়া ও ওড়িয়া। ধ্রুপদি ভাষা সংস্কৃত এবং পালির সঙ্গে বাংলা ভাষার রয়েছে ঘনিষ্ঠ সম্পর্ক। হিস্পানি কোনো ভাষা পরিবারের নাম নয়।"
+  },
+  {
+    "id": 8,
+    "question": "বাংলাদেশের উত্তর-পশ্চিমাঞ্চলে প্রচলিত উপভাষার নাম কী?",
+    "options": [
+      "পশ্চিমাী",
+      "পূর্বী",
+      "বরেন্দ্রি",
+      "রাঢ়ি"
+    ],
+    "answer": "C",
+    "explanation": "অঞ্চলভিত্তিক মানুষের মুখের ভাষাকে আঞ্চলিক ভাষা বা উপভাষা বলে। কথ্য রীতির আঞ্চলিক ভেদ সহজেই বোঝা যায়। এই আঞ্চলিক ভেদ সাধারণত অঞ্চলের নামে পরিচিতি পায়। কয়েকটি কথ্য রীতির আঞ্চলিক ভাষা নিম্নরূপ-\n• বাংলাদেশের মধ্য ও দক্ষিণ অঞ্চল: বাঙালি\n• বাংলাদেশের পূর্ব অঞ্চল, ত্রিপুরা এবং আসামের বরাক অঞ্চল: পূর্বি\n• বাংলাদেশের উত্তর-পশ্চিম অঞ্চল: বরেন্দ্রি\n• বিহারের পূর্ব অঞ্চল, পশ্চিমবঙ্গের উত্তর অঞ্চল এবং বাংলাদেশের রংপুর অঞ্চল: কামরূপি\n• পশ্চিমবঙ্গ: রাঢ়ি\n• পশ্চিমবঙ্গের পশ্চিম অঞ্চল ও ঝাড়খণ্ডের পূর্ব অঞ্চল: ঝাড়খণ্ডি"
+  },
+  {
+    "id": 9,
+    "question": "The deadline was nearby, so Mrs. Jamila had her students ______ their essays.",
+    "options": [
+      "completing",
+      "to complete",
+      "complete",
+      "completed"
+    ],
+    "answer": "C",
+    "explanation": "একটি কাজ ব্যক্তি নিজে না করে অন্যকে দিয়ে করানো বুঝাতে causative verb ব্যবহৃত হয়। Make, let, help, have, get causative verb হিসেবে ব্যবহৃত হয়।\nMake এবং let causative verb এর পর main verb এর base form হয়।\nExample: The invigilator made us show our identity card at the test center.\nGet causative verb এর পর যদি doer (সাধারণত ব্যক্তিকে বুঝায়) থাকে তাহলে main verb এর (to+v1) form হয়। আর যদি Receiver (সাধারণত বস্তুকে বুঝায়) থাকে তাহলে main verb এর past participle form (v3) হয়।\nExample: 1. I got Rahim to do the work. 2. I got the car repaired.\nHave causative verb এর পর যদি doer থাকে তাহলে main verb এর base form হয়। আর যদি receiver থাকে তাহলে main verb এর past participle form (v3) হয়।\nExample: 1. I had Nafisa do the work. 2. I had the car repaired.\nআলোচ্য বাক্যটিতে had এর পর doer/person (her students) আছে বলে main verb এর base form (complete) বসবে।\nHelp causative verb থাকলে আমরা ২ ভাবে সমাধান করতে পারি। Help এর পর base form বা (to+v1) যে কোন একটি ব্যবহার করলেই হবে।\nExample: Her husband always helps her do the laundry."
+  },
+  {
+    "id": 10,
+    "question": "My husband asked him if he'd ever been convicted ______ a crime.",
+    "options": [
+      "of",
+      "with",
+      "on",
+      "by"
+    ],
+    "answer": "A",
+    "explanation": "আদালতে আনুষ্ঠানিকভাবে কাউকে দোষী সাব্যস্ত করলে convict-এর পরে of বসে। আরো কিছু গুরুত্বপূর্ণ appropriate preposition নিম্নরূপ-\n• Penalty for - জরিমানা\n• Relieve of - উপশম করা\n• Obliged to - বাধিত\n• Solution to - সমাধান\n• Proficiency in - দক্ষতা"
+  },
+  {
+    "id": 11,
+    "question": "Rashed, two of ______ brothers attend primary school, wishes to be a school teacher after his graduation.",
+    "options": [
+      "them",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": "D",
+    "explanation": "কোনো ব্যক্তি সম্বন্ধে আরও বেশি তথ্য দেয়ার জন্য whose ব্যবহৃত হয়। তাছাড়া whose possessive এর মতো কাজ করে, যার পরে অন্য একটি noun বসে।"
+  },
+  {
+    "id": 12,
+    "question": "Antonym of FALLACY is:",
+    "options": [
+      "Truth",
+      "Abandon",
+      "Oblique",
+      "Freedom"
+    ],
+    "answer": "A",
+    "explanation": "মূল শব্দ ও অর্থ:\n• Fallacy (মিথ্যা) - Synonyms: False, fake\n• Truth (সত্য) - Synonyms: Right, fact\n• Abandon (ত্যাগ করা) - Synonyms: Relinquish\n• Oblique (বক্র) - Synonyms: Curved, crooked\n• Freedom (স্বাধীনতা) - Synonyms: Emancipation\nসুতরাং Fallacy (মিথ্যা ধারণা অথবা যাকে লোকে সত্য বলে মনে করে অথবা কোনোকিছু সম্বন্ধে মিথ্যা চিন্তা-ভাবনা) শব্দের বিপরীত শব্দ হলো Truth।"
+  },
+  {
+    "id": 13,
+    "question": "What is the meaning of idiom ‘pour cold water on’?",
+    "options": [
+      "Discourage",
+      "Encourage",
+      "To be calm",
+      "Deceive"
+    ],
+    "answer": "A",
+    "explanation": "‘Pour cold water on’ অর্থ কোনো কিছুর সমালোচনা করা অথবা কোনো কিছুর বিপক্ষে কারণ দেখানো (Discourage)। আরো কিছু গুরুত্বপূর্ণ Phrase and idioms নিম্নরূপ-\n• For good - Permanently\n• Milk and water - Timid\n• Apple of one’s eye - Extremely favourite\n• Bring to book - Rebuke"
+  },
+  {
+    "id": 14,
+    "question": "Choose the word that is spelled correctly?",
+    "options": [
+      "Anniversary",
+      "Aniverssary",
+      "Aniversary",
+      "Anniversarry"
+    ],
+    "answer": "A",
+    "explanation": "প্রদত্ত অপশনগুলোর মধ্যে সঠিক Anniversary অর্থ বার্ষিকী, বার্ষিক অনুষ্ঠান ইত্যাদি। আরো কিছু Correct Spelling নিম্নরূপ-\n• Misspell (ভুল বানান করা)\n• Achieve (অর্জন করা)\n• Ascertain (নিশ্চিত করা)\n• Accessories (সহায়ক বস্তু)\n• Cigarette (সিগারেট)\n• Adversity (দুরবস্থা)"
+  },
+  {
+    "id": 15,
+    "question": "Passive Voice of 'They held a meeting very early'.",
+    "options": [
+      "A meeting is held by them very early.",
+      "A meeting will be held by them very early.",
+      "A meeting was hold by them very early.",
+      "A meeting was held by them very early."
+    ],
+    "answer": "D",
+    "explanation": "প্রদত্ত বাক্যটি past tense-এ রয়েছে। কাজেই subject হিসেবে a meeting-এর পরে was বসবে ও v3 হিসেবে held বসবে। এরপর by যুক্ত হয়ে them ও বাকি অংশ বসবে।\nActive: They held a meeting very early\nPassive: A meeting was held by them very early."
+  },
+  {
+    "id": 16,
+    "question": "Synonym of ENCROACH is –",
+    "options": [
+      "spread out",
+      "infest",
+      "weaken",
+      "trespass"
+    ],
+    "answer": "D",
+    "explanation": "মূল শব্দ ও অর্থ:\n• Encroach (সীমালঙ্ঘন করা) - Synonyms: Trespass\n• Spread out (ছড়িয়ে পড়া) - Synonyms: Deploy\n• Infest (বিরক্ত করা) - Synonyms: Bother, molest\n• Weaken (দুর্বল করা) - Synonyms: Impair, deaden"
+  },
+  {
+    "id": 17,
+    "question": "If the ratio of the area of a sector to the area of the circle is 3:5, what is the ratio of the length of the arc in the sector to the circumference of the circle?",
+    "options": [
+      "3/5",
+      "2/7",
+      "1/3",
+      "½"
+    ],
+    "answer": "A",
+    "explanation": "আমরা জানি,\nবৃত্তকলার ক্ষেত্রফল = (θ / 360°) πr²\nএবং বৃত্তের ক্ষেত্রফল = πr²\nপ্রশ্নমতে, {(θ / 360°) πr²} / πr² = 3/5\n∴ θ / 360° = 3/5\n∴ বৃত্তকলার চাপের দৈর্ঘ্য = (θ / 360°) × 2πr\nএবং বৃত্তের পরিধি = 2πr\n∴ নির্ণেয় অনুপাত = বৃত্তকলার চাপের দৈর্ঘ্য : বৃত্তের পরিধি\n= {(θ / 360°) × 2πr} / 2πr = θ / 360° = 3/5"
+  },
+  {
+    "id": 18,
+    "question": "x² - (a + b) x + ab = 0; x = ?",
+    "options": [
+      "a, b",
+      "a",
+      "b",
+      "ab"
+    ],
+    "answer": "A",
+    "explanation": "প্রদত্ত রাশি: x² - (a + b)x + ab = 0\n⇒ x² - ax - bx + ab = 0\n⇒ x(x - a) - b(x - a) = 0\n⇒ (x - a)(x - b) = 0\n∴ x - a = 0 অথবা x - b = 0\n⇒ x = a অথবা x = b\nসুতরাং x = a, b"
+  },
+  {
+    "id": 19,
+    "question": "When a plot is sold for Tk. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",
+    "options": [
+      "Tk. 21,000",
+      "Tk. 22,500",
+      "Tk. 25,300",
+      "Tk. 25,800"
+    ],
+    "answer": "C",
+    "explanation": "15% ক্ষতিতে বিক্রয়মূল্য = (100 - 15) = 85 টাকা\nবিক্রয়মূল্য 85 টাকা হলে ক্রয়মূল্য 100 টাকা\nবিক্রয়মূল্য 1 টাকা হলে ক্রয়মূল্য 100 / 85 টাকা\nবিক্রয়মূল্য 18,700 টাকা হলে ক্রয়মূল্য (100 × 18,700) / 85 = 22,000 টাকা\n\nআবার, 15% লাভে বিক্রয়মূল্য = (100 + 15) টাকা = 115 টাকা\nক্রয়মূল্য 100 টাকা হলে বিক্রয়মূল্য 115 টাকা\nক্রয়মূল্য 1 টাকা হলে বিক্রয়মূল্য 115 / 100 টাকা\nক্রয়মূল্য 22,000 টাকা হলে বিক্রয়মূল্য (115 × 22,000) / 100 = 25,300 টাকা"
+  },
+  {
+    "id": 20,
+    "question": "Two bikes start at the same time from two destination 300 km apart and travel towards each other. If they cross each other at a distance of 130 km from one of the destinations, what is the ratio of their speeds?",
+    "options": [
+      "17:13",
+      "7:3",
+      "1:3",
+      "2:3"
+    ],
+    "answer": "A",
+    "explanation": "দেয়া আছে, গন্তব্যদ্বয়ের দূরত্ব 300 কিমি\nচিত্রে দেখানো হলো:\nমোট দূরত্ব 300 কিমি\n১ম বাইকের দূরত্ব 130 কিমি, ২য় বাইকের দূরত্ব 170 কিমি\nধরি, ১ম বাইকের গতি v₁ ও ২য় বাইকের গতি v₂ হলে\nপ্রশ্নমতে, 130 / v₁ = 170 / v₂ [∵ সময় = দূরত্ব / বেগ]\n∴ v₂ : v₁ = 17 : 13"
+  },
+  {
+    "id": 21,
+    "question": "The total cost of flooring a room at Tk. 8.50 per square meter is Tk. 510. If the length of the room is 8m, what is its breadth?",
+    "options": [
+      "7.5 m",
+      "8.5 m",
+      "10.5 m",
+      "12.5 m"
+    ],
+    "answer": "A",
+    "explanation": "আমরা জানি,\nআয়তক্ষেত্রের ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ\nএখানে, ঘরের ক্ষেত্রফল = 510 / 8.50 = 60 বর্গমিটার\nপ্রশ্নমতে, 8 × প্রস্থ = 60 [∵ দৈর্ঘ্য = 8 মিটার]\n⇒ প্রস্থ = 60 / 8\n∴ প্রস্থ = 7.5 m"
+  },
+  {
+    "id": 22,
+    "question": "A worker union contract specifies a 6% salary increase plus a Tk. 450 bonus for each worker. For a worker, this is equivalent to 8% salary increase. What was this worker’s salary before the new contract?",
+    "options": [
+      "21,500",
+      "22,000",
+      "22,500",
+      "23,500"
+    ],
+    "answer": "C",
+    "explanation": "মনে করি, পূর্বে কর্মীর বেতন ছিল x টাকা\n6% বৃদ্ধিতে বেতন = x × (106 / 100) = 106x / 100 টাকা\nএবং 8% বৃদ্ধিতে বেতন = x × (108 / 100) = 108x / 100 টাকা\nপ্রশ্নমতে, (106x / 100) + 450 = 108x / 100\n⇒ (108x / 100) - (106x / 100) = 450\n⇒ 2x / 100 = 450\n∴ x = 22,500"
+  },
+  {
+    "id": 23,
+    "question": "4x = 52, x² - 5² = ?",
+    "options": [
+      "81",
+      "9",
+      "144",
+      "12"
+    ],
+    "answer": "C",
+    "explanation": "দেয়া আছে, 4x = 52\n⇒ x = 52 / 4\n∴ x = 13\n∴ x² - 5² = 13² - 5² = 169 - 25 = 144"
+  },
+  {
+    "id": 24,
+    "question": "How many cantons (states) are there in Switzerland?",
+    "options": [
+      "10",
+      "15",
+      "25",
+      "26"
+    ],
+    "answer": "D",
+    "explanation": "সুইজারল্যান্ড ইউরোপে অবস্থিত এবং ইউরোপীয় ইউনিয়ন বহির্ভূত একটি রাষ্ট্র। দেশটির রাজধানী বার্ন এবং বৃহত্তম নগরী জুরিখ। দেশটির মোট প্রদেশ ২৬টি।"
+  },
+  {
+    "id": 25,
+    "question": "Which among the following is popular as Windy City?",
+    "options": [
+      "Venice",
+      "Chicago",
+      "New York",
+      "Tokyo"
+    ],
+    "answer": "B",
+    "explanation": "পৃথিবীর বিভিন্ন অঞ্চলের কিছু গুরুত্বপূর্ণ ভৌগোলিক উপনাম নিম্নরূপ-\n• সাত পাহাড়ের শহর - রোম\n• মোটর গাড়ির শহর - ডেট্রয়েট\n• রাজপ্রাসাদের শহর - কলকাতা\n• গোলাপী শহর - জয়পুর, রাজস্থান\n• স্বর্ণনগরী - জোহানেসবার্গ\n• চির বসন্তের শহর - কিটো ও রোম\n• পৃথিবীর ছাদ - পামীর মালভূমি\n• সম্মেলনের শহর - জেনেভা\n• পবিত্র শহর - ভ্যাটিকান সিটি\n• উদ্যানের শহর - শিকাগো\n• বাতাসের শহর - শিকাগো"
+  },
+  {
+    "id": 26,
+    "question": "Who was the first Governor General of India?",
+    "options": [
+      "Warren Hastings",
+      "William Bentick",
+      "Lord Delhousie",
+      "Lord Canning"
+    ],
+    "answer": "A",
+    "explanation": "ওয়ারেন হেস্টিংস ১৭৭২ সালে বাংলার গভর্নর নিযুক্ত হন। তিনি ভারতে সাম্রাজ্যবাদ বিস্তারের প্রথম সূচনা করেন। এডমন্ড বার্ক তাকে মানবজাতির শত্রু বলে অভিহিত করেন। তিনি ১৭৭২ সালে দ্বৈতশাসন ব্যবস্থা বিলুপ্ত করেন। তিনি উপমহাদেশে রাজস্ব বোর্ড স্থাপন করেন।\nলর্ড উইলিয়াম বেন্টিঙ্ক ১৮২৯ সালের ৪ ডিসেম্বর আইন করে সতীদাহ প্রথা রহিত করেন। তিনি এলাহাবাদে রাজস্ব বোর্ড স্থাপন করেন।\nবাংলার সর্বপ্রথম রেলপথ তৈরি করেন লর্ড ডালহৌসি- রাণীগঞ্জ, কলকাতায় (১৮৫৪ সালে)। তিনি ডাকটিকিটের মাধ্যমে চিঠিপত্র আদান-প্রদান ব্যবস্থা চালু করেন। ১৮৫৬ সালের ২৬ জুলাই তিনি বিধবা বিবাহ আইন পাশ করেন। তার সময়ে বিখ্যাত গঙ্গা খাল খনন করা হয়।\nভারতের প্রথম ভাইসরয় বা রাজপ্রতিনিধি নিযুক্ত হন- লর্ড ক্যানিং। তিনি উপমহাদেশে প্রথম কাগজের মুদ্রা চালু করেন। তিনি বঙ্গীয় প্রজাস্বত্ব আইন বা টেন্যান্সি অ্যাক্ট চালু করেন। তিনি ইন্ডিয়ান সিভিল সার্ভিস আইন পাশ করেন ১৮৬১ সালে।"
+  },
+  {
+    "id": 27,
+    "question": "The currency of Ethiopia is –",
+    "options": [
+      "Dobra",
+      "Dong",
+      "Rand",
+      "Birr"
+    ],
+    "answer": "D",
+    "explanation": "কয়েকটি দেশের মুদ্রার নাম নিম্নরূপ-\n• আফগানিস্তান - আফগানি\n• তুর্কমেনিস্তান - মানাত\n• নেপাল - রুপি\n• তুরস্ক - লিরা\n• জাপান - ইয়েন\n• অস্ট্রিয়া - ইউরো\n• উত্তর কোরিয়া - ওন\n• পোল্যান্ড - জলটি\n• রাশিয়া - রুবল\n• নরওয়ে - ক্রোন\n• কাজাখস্তান - টেঙ্গে\n• হাইতি - গৌরদা\n• ইথিওপিয়া - বির\n• ভিয়েতনাম - ডং"
+  },
+  {
+    "id": 28,
+    "question": "Who has won the US Open 2021 men's singles title?",
+    "options": [
+      "Daniil Medvedev",
+      "Dominic Thiem",
+      "Novak Djokovic",
+      "Roger Federer"
+    ],
+    "answer": "A",
+    "explanation": "আপডেট তথ্য:\nগ্র্যান্ড স্লাম ২০২৩:\n• অস্ট্রেলিয়ান ওপেন: পুরুষ এককে চ্যাম্পিয়ন - নোভাক জোকোভিচ, নারী এককে চ্যাম্পিয়ন - এরিনা সাবালেঙ্কা\n• ফরাসি ওপেন: পুরুষ এককে চ্যাম্পিয়ন - নোভাক জোকোভিচ, নারী এককে চ্যাম্পিয়ন - ইগা সিওনতেক\n• উইম্বলডন: পুরুষ এককে চ্যাম্পিয়ন - কার্লোস আলকারাজ, নারী এককে চ্যাম্পিয়ন - মার্কেতা ভন্দ্রোসোভা\n• ইউএস ওপেন: পুরুষ এককে চ্যাম্পিয়ন - নোভাক জোকোভিচ, নারী এককে চ্যাম্পিয়ন - কোকো গফ"
+  },
+  {
+    "id": 29,
+    "question": "Who is the current Prime Minister of Japan?",
+    "options": [
+      "Noda Yoshihiko",
+      "Fumio Kishida",
+      "Yoshihide Suga",
+      "Shinzo Abe"
+    ],
+    "answer": "B",
+    "explanation": "জাপানের বর্তমান প্রধানমন্ত্রী ফুমিও কিশিদা। তার দলের নাম লিবারেল ডেমোক্রেটিক পার্টি (এলডিপি)। তিনি ৪ অক্টোবর ২০২১ প্রধানমন্ত্রীর দায়িত্ব গ্রহণ করেন।\nবিভিন্ন দেশের বর্তমান প্রধানমন্ত্রী:\n• নেপাল - পুষ্প কমল দাহাল\n• দক্ষিণ কোরিয়া - হান ডাক সু\n• নরওয়ে - জোনাস গহর স্টোর\n• অস্ট্রেলিয়া - অ্যান্টনি আলবানিজ\n• শ্রীলঙ্কা - দিনেশ গুণবর্ধনে\n• ফ্রান্স - এলিজাবেথ বর্নি"
+  },
+  {
+    "id": 30,
+    "question": "Who won the Nobel Prize 2021 in literature?",
+    "options": [
+      "Louise Gluck",
+      "Abdulrazak Gurnah",
+      "Olga Tokarczuk",
+      "Kazuo Ishiguro"
+    ],
+    "answer": "B",
+    "explanation": "নোবেল পুরস্কার ২০২৩:\n• শান্তি: নার্গিস মোহাম্মদি (ইরান)\n• অর্থনীতি: অধ্যাপক ক্লডিয়া গোল্ডিন (যুক্তরাষ্ট্র)\n• চিকিৎসা বিজ্ঞান: ক্যাটালিন কারিকো (হাঙ্গেরি) ও ড্রু ওয়াইজম্যান (যুক্তরাষ্ট্র)\n• রসায়ন: আলেক্সি একিমভ (রাশিয়া/সোভিয়েত ইউনিয়ন), মুঙ্গি বাওয়েন্ডি (ফ্রান্স), লুই ব্রুস (যুক্তরাষ্ট্র)\n• পদার্থ বিজ্ঞান: পিয়েরে অগস্তিনি (যুক্তরাষ্ট্র), ফেরেন্স ক্রাউজ (হাঙ্গেরি), অ্যান লুইলিয়ে (ফ্রান্স)\n• সাহিত্য: জন ফসে (নরওয়ে)"
+  },
+  {
+    "id": 31,
+    "question": "Part - II : Written\nMathematics (Marks: 3x5 = 15)\nA shopkeeper buys 100 mangoes at Tk. 12 each. He sells 60 mangoes at Tk. 17.40 each and x mangoes at Tk. 11.31 each. The shopkeeper makes a profit of at least 10%. Find the least possible value of x.",
+    "options": [],
+    "answer": "25",
+    "explanation": "Solution: Given that, A shopkeeper buys 100 mangoes at Tk. 12 each.\n100 mangoes cost Tk. 100 × 12 = Tk. 1200\nSimilarly, 60 mangoes selling price = Tk. 60 × 17.40 = Tk. 1044 and x mangoes selling price = Tk. 11.31x\n∴ Total selling price = Tk. (1044 + 11.31x)\nAt 10% profit, selling price = Tk. 110\nCost price Tk. 100 then selling price Tk. 110\nCost price Tk. 1 then selling price Tk. 110 / 100\nCost price Tk. 1200 then selling price Tk. (110 × 1200) / 100 = Tk. 1320\n\nAccording to questions,\n1044 + 11.31x = 1320\n⇒ 11.31x = 1320 - 1044\n⇒ 11.31x = 276\n∴ x = 24.4 ≈ 25 (Ans.)"
+  },
+  {
+    "id": 32,
+    "question": "Part - II : Written\nMathematics\nA train has a length of 150 metres. It is passing a man who is moving at 2 km/hour in the same direction of the train, in 3 seconds. Find out the speed of the train.",
+    "options": [],
+    "answer": "182 km/hr",
+    "explanation": "Solution: Given that,\nMan's speed = 2 km/hr = 2 × (5/18) m/s = 5/9 m/s\nIn 3s gone 150m\nIn 1s gone = 150/3 m\nIn 3600s gone = (150 × 3600) / 3 = 180000m = 180 km\n\nLet, train speed x km/hr\nAccording to question,\nx - 2 = 180\n⇒ x = 180 + 2\n∴ x = 182\n∴ Speed of the train is 182 km/hr (Ans.)"
+  },
+  {
+    "id": 33,
+    "question": "Part - II : Written\nMathematics\nIf the height of a right square pyramid is increased by 12%, by what percent must the side of the base be increased, so that the volume of the pyramid is increased by 28%?",
+    "options": [],
+    "answer": "6.9%",
+    "explanation": "Solution: We know that,\nPyramid volume = 1/3 × Area of base × height\nLet previous volume v₁, increased volume v₂ and previous height h₁, increased height h₂\nThen, v₂/v₁ = {1/3 × Area of base₂ × h₂} / {1/3 × Area of base₁ × h₁}\n⇒ {Area of base₂ × 1.12h₁} / {Area of base₁ × h₁} = 1.28v₁ / v₁\n[∵ h₂ = 1.12h₁ and v₂ = 1.28v₁]\n⇒ Area of base₂ / Area of base₁ = 1.28 / 1.12\n⇒ x₂² / x₁² = 1.28 / 1.12 [∵ Area of base = x²]\n⇒ x₂ / x₁ = 1.069 ⇒ x₂ = 1.069 × x₁\n⇒ x₂ = 1.069 × 100 [∵ x₁ = 100]\n∴ x₂ = 106.9\nSo side of base increased = (106.9 - 100) = 6.9% (Answer)"
+  },
+  {
+    "id": 34,
+    "question": "Part - II : Written\nBangla (Marks : 1x20 = 20)\nআপনার এক অধীনস্থ কর্মচারী প্রায়ই দেরি করে অফিসে আসছে। তার বিরুদ্ধে কেন দাপ্তরিক ব্যবস্থা গ্রহণ করা হবে না, তা জানতে চেয়ে কারণ দর্শানোর একটি চিঠি লিখুন।",
+    "options": [],
+    "answer": "",
+    "explanation": "উত্তর :\nবাখরাবাদ গ্যাস ডিস্ট্রিবিউশন কোম্পানি লিঃ\nসহকারী ব্যবস্থাপকের কার্যালয়\nবাখরাবাদ, মুরাদনগর, কুমিল্লা\nস্মারক নং- বিজিডি/টেক/ম.ব্য/ব্যক্তি/২০২১/১৮২৪\n\nতার ১৬-১০-২০২১\n\nবিষয়ঃ অনুপস্থিতির জন্য কারণ দর্শানো প্রসঙ্গে।\n\nউপযুক্ত বিষয় ও সূত্রের প্রেক্ষিতে জানানো যাচ্ছে যে বাখরাবাদ গ্যাস ডিস্ট্রিবিউশন কোম্পানি লিমিটেড এর অধীন নিম্নোক্ত শাখার নিম্নস্বাক্ষরকারী অফিসে অফিস সহায়ক হিসেবে ০১.১০.২০২১ তারিখ হতে ০৫.১০.২০২১ তারিখ পর্যন্ত অনুপস্থিত এবং প্রায়ই অফিসে বিলম্ব উপস্থিতির পরিলক্ষিত হয়েছে।\n\nএমতাবস্থায়, কেন গণকর্মচারী শৃঙ্খলা (নিয়মিত উপস্থিতি) অধ্যাদেশ ১৯৮২ এর ৪ ধারা অনুযায়ী আপনার বিরুদ্ধে আইনানুগ ব্যবস্থা গ্রহণ করা হবে না, তা পত্র প্রাপ্তির ৭ (সাত) কর্মদিবসের মধ্যে লিখিতভাবে কারণ দর্শানোর জন্য নির্দেশ প্রদান করা হলো।\n\nস্বাক্ষর\n১০.১০.২০২১\n\nমো: শহিদুল ইসলাম\nসহকারী ব্যবস্থাপক\nবাখরাবাদ গ্যাস ডিস্ট্রিবিউশন কোম্পানি লিমিটেড\n\nজনাব, রফিকুল ইসলাম\nঅফিস সহায়ক\nবাখরাবাদ গ্যাস ডিস্ট্রিবিউশন কোম্পানি লিমিটেড\nআইডিঃ ১২৩৪৫"
+  },
+  {
+    "id": 35,
+    "question": "Part - II : Written\nEnglish (Marks : 1 x 20 = 20)\nSome people believe that international sporting events are the ideal opportunity to show the world the qualities of the hosting nation. Others believe that these events are mainly a large unjustifiable expense. To what extent do you agree or disagree? Use your ideas, knowledge, and experience and support your opinion with examples and relevant evidences. You should write about 150 words.",
+    "options": [],
+    "answer": "",
+    "explanation": "Answer : Global sporting events like Olympics and FIFA world cup have played a major role in bringing nations closer. Few people believe that these sporting events provide a platform where nations can exhibit their traits. However, others believe that huge money spent for hosting these events is indefensible and I fully disagree with this argument. This essay will present some arguments in favour of hosting international sporting events.\n\nHosting global athletic events help countrymen to showcase their traditional and cultural values and reveal their hospitality standards. For instance, recent Olympics in London helped foreigners learn the craftsmanship, rich culture, artifacts, architectures, lifestyle, etiquettes and charitable acts of British people.\n\nMoreover, investments have done over constructing or upgrading the infrastructure of the sporting arena exhibit how skilled the nation is. During the actual competition, it displays their governance, technological skills, team management and communication skills which can be very inspiring for the visitors. For instance, FIFA World Cup in Brazil spread the message how good the nation is in building complex infrastructure that can accommodate hundred and thousands of spectators.\n\nFurthermore, another plausible counter in favour of hosting sporting events is the exhibition of moral and ethical values of countrymen. Professional attitude, skills and teamwork displayed by young athletes of the host nation shows how good their sporting academies are at gross root level.\n\nTo conclude, re-recreational events provide a launch pad where a nation can show the flare of its skills and standards. Spectators flocking all over the world can be inspired by these qualities and can even exercise them in their homeland."
+  },
+  {
+    "id": 36,
+    "question": "Part - II : Written\nGeneral Knowledge (Marks: 5 x 3 = 15)\nAnswer the following question:\na. Which party won the elections in Pakistan in 1970 but was not allowed to form government?\nb. 'Hutu' is the prominent tribe of which country?\nc. Which movie won the best picture Oscar award 2021?\nd. Which tennis tournament is played on clay court?\ne. Which is the operator company of Dhaka Metro Rail?",
+    "options": [],
+    "answer": "",
+    "explanation": "Answer:\na. Awami League\nb. Rwanda, Burundi and Democratic Republic of Congo.\nc. Nomadland\nd. French Open\ne. Dhaka Mass Transit Company Limited (DMTCL)"
+  }
+]

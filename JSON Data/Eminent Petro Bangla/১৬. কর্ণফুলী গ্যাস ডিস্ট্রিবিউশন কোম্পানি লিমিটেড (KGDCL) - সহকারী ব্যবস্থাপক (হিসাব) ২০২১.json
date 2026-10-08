@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "question": "Part 1 : MCQ\nSubjective\n1. The concept of present value relates to the idea that —",
+        "options": [
+            "the discount rate is always higher when youinvest now than in the future",
+            "the discount rate is always higher when youinvest in the future than now",
+            "the money you have now is worth less today than an identical amount you would received in the future",
+            "the money you have now is worth more today than an identical amount you would receive in the future."
+        ],
+        "answer": "the money you have now is worth more today than an identical amount you would receive in the future.",
+        "explanation": "ব্যাখ্যা (উত্তর: D): বর্তমান মূল্য (Present Value : PV) বলতে বোঝায় ভবিষ্যতে প্রাপ্য অর্থের আজকের মূল্য। বর্তমান মূল্য ভবিষ্যৎ মূল্য থেকে সবসময়ই অধিক পছন্দনীয়। কারণ হলো- অনিশ্চয়তা, মুদ্রাস্ফীতি, ভবিষ্যৎ বিনিয়োগের সুযোগ, ভোগ অগ্রাধিকার প্রভৃতি। বর্তমান মূল্য ধারণায় মনে করা হয়, আজকের ১০০ টাকা ২ বছর পরের ১০০ টাকা থেকে অধিক মূল্যবান (An amount of money today is worth more than that same amount in the future)। শেয়ার, বন্ড ইত্যাদি আর্থিক সম্পদের মূল্য নির্ণয় করার জন্য বর্তমান মূল্যের ধারণা ব্যবহৃত হয়।\n\nভবিষ্যৎ মূল্য থেকে বর্তমান মূল্য নির্ণয়ের সূত্র হলো :\nPV = FV / (1+i)^n\n[এক্ষেত্রে, i/r = সুদের হার, n = বছর, PV = বর্তমান মূল্য, FV = ভবিষ্যৎ মূল্য]\nবর্তমান মূল্য থেকে ভবিষ্যৎ মূল্য নির্ণয়ের সূত্র হলো:\n(FV) = PV(1+i)^n"
+    },
+    {
+        "id": 2,
+        "question": "2. The formula for calculating future value (FV) is",
+        "options": [
+            "FV = PV (1+r) ^n",
+            "FV = PV(1 + r)*n",
+            "FV = PV × (1+r)^n",
+            "FV = PV × (1 +r)*n"
+        ],
+        "answer": "FV = PV × (1+r)^n",
+        "explanation": "ব্যাখ্যা (উত্তর: C): আজকের নির্ধারিত টাকা নির্দিষ্ট সুদের হারে কোথাও বিনিয়োগ করলে নির্দিষ্ট সময় পরে চক্রবৃদ্ধি হারে তা বেড়ে যে পরিমাণ হবে তাকেই- ভবিষ্যৎ মূল্য বলে।"
+    },
+    {
+        "id": 3,
+        "question": "3. What type of risk can be eliminated by diversification?",
+        "options": [
+            "Specific risk",
+            "Systematic risk",
+            "Market risk",
+            "Beta"
+        ],
+        "answer": "Specific risk",
+        "explanation": "ব্যাখ্যা (উত্তর: A):\nCompany / Unsystematic risk:\n• যে ঝুঁকি কোনো নির্দিষ্ট কোম্পানির সাথে সম্পর্কযুক্ত তাকে- কোম্পানি ঝুঁকি (Company risk) বলে।\n• কোম্পানি ঝুঁকি নির্দিষ্ট কোম্পানিকে প্রভাবিত করে।\n• কোম্পানি ঝুঁকি - পরিহারযোগ্য।\n• কোম্পানি ঝুঁকি কোম্পানি নিয়ন্ত্রণ করতে পারে।\n• এ ঝুঁকির উৎস হলো: অদক্ষ ব্যবস্থাপনা, শ্রমিক ধর্মঘট ইত্যাদি কোম্পানি ঝুঁকির উৎস।\n\nMarket / Systematic risk:\n• কোনো একটি নির্দিষ্ট শেয়ার/সম্পদের মূল্যের দৈনন্দিন তারতম্যের সম্ভাবনাকে, বাজার ঝুঁকি বলে।\n• বাজার ঝুঁকি সকল কোম্পানিকে প্রভাবিত করে।\n• বাজার ঝুঁকি- অপরিহারযোগ্য।\n• বাজার ঝুঁকি কোম্পানি নিয়ন্ত্রণ করতে পারে না।\n• এ ঝুঁকির উৎস হলো: সরকারি নীতির পরিবর্তন, রাজস্ব নীতির পরিবর্তন, বৈদেশিক মুদ্রার বিনিময় হার পরিবর্তন, মুদ্রাস্ফীতি, কর হার বৃদ্ধি ইত্যাদি।"
+    },
+    {
+        "id": 4,
+        "question": "4. If you were able to earn interest at 3% and you started with $100, how much would you have after 3 years?",
+        "options": [
+            "$91.51",
+            "$109.27",
+            "$291.26",
+            "$103.00"
+        ],
+        "answer": "$109.27",
+        "explanation": "ব্যাখ্যা (উত্তর: B): FV = PV(1+r)^n\n= 100(1+0.03)^3 = 109.27"
+    }
+]

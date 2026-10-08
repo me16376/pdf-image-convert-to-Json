@@ -1,0 +1,536 @@
+[
+  {
+    "id": 1,
+    "question": "নিচের কোন শব্দটির কোনো লিঙ্গান্তর হয় না?",
+    "options": [
+      "ঢাকী",
+      "সেবিকা",
+      "মালী",
+      "সুন্দর",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "কতগুলো শব্দ নিত্য পুরুষবাচক। এগুলোর স্ত্রীবাচক শব্দ নেই। যেমন: ঢাকী, কবিরাজ, কৃতদার, অকৃতদার। অন্যদিকে, সেবক- সেবিকা, মালী-মালিনী ও সুন্দর-সুন্দরী।"
+  },
+  {
+    "id": 2,
+    "question": "‘পাঞ্জেরী’ শব্দের অর্থ কী?",
+    "options": [
+      "সমুদ্র",
+      "অন্ধকার",
+      "আলোকবর্তিকা",
+      "পথিক",
+      "ভাগ্য"
+    ],
+    "answer": "C",
+    "explanation": "ফররুখ আহমদ রচিত বিখ্যাত কবিতা ‘পাঞ্জেরী’। পাঞ্জেরী শব্দের অর্থ আলোকবর্তিকা বা জাতির পথপ্রদর্শক।"
+  },
+  {
+    "id": 3,
+    "question": "‘শিশুটা মা মা বলে কাঁদছে’- এখানে ‘মা মা’ দ্বিরুক্তিটি কোন অর্থে ব্যবহৃত হয়েছে?",
+    "options": [
+      "স্বল্পকাল স্থায়ী",
+      "আগ্রহ",
+      "আধিক্য",
+      "তীব্রতা",
+      "কোনোটিই নয়"
+    ],
+    "answer": "B",
+    "explanation": "দ্বিরুক্ত শব্দ বিভিন্ন অর্থে ব্যবহৃত হয়। যেমন-\n• আধিক্য বোঝাতে: রাশি রাশি ধান, ধামা ধামা ধান।\n• সামান্য বোঝাতে: আমি জ্বর জ্বর বোধ করছি।\n• ধারাবাহিকতা বোঝাতে: তুমি দিন দিন রোগা হয়ে যাচ্ছ।\n• ক্রিয়া বিশেষণে: ধীরে ধীরে যায়, ফিরে ফিরে চায়।\n• অনুরূপ কিছু বোঝাতে: তার সঙ্গী সাথী কেউ নেই।\n• আগ্রহ বোঝাতে: ও দাদা দাদা বলে কাঁদছে।"
+  },
+  {
+    "id": 4,
+    "question": "এক কথায় প্রকাশ করুন: ‘সম্মুখে অগ্রসর হয়ে অভ্যর্থনা’।",
+    "options": [
+      "সংবর্ধনা",
+      "অভিনন্দন",
+      "সম্মাননা",
+      "প্রত্যুদগমন",
+      "কোনোটিই নয়"
+    ],
+    "answer": "D",
+    "explanation": "কিছু গুরুত্বপূর্ণ এককথায় প্রকাশ নিম্নরূপ-\n• যে রমণীর असूয়া (হিংসা) নাই - অনসূয়া।\n• যেখানে মাছি পর্যন্ত নাই - নির্মক্ষিক।\n• অগ্র পশ্চাৎ না ভাবিয়া কাজ করে যে - অবিমৃষ্যকারী।\n• পুনঃ পুনঃ রোদন করিতেছে যে - রোরুদ্যমান।\n• পরের অন্নে যে জীবন ধারণ করে - পরান্নজীবী।\n• পরের উন্নতি দেখে যে কাতর হয় - পরশ্রীকাতর।\n• ঘর্ষণ বা পেষণজাত গন্ধ - পরিমল।\n• সম্মুখে অগ্রসর হয়ে অভ্যর্থনা- প্রত্যুদগমন"
+  },
+  {
+    "id": 5,
+    "question": "রাজা রামমোহন রায় প্রণীত বাংলা ব্যাকরণের নাম কী?",
+    "options": [
+      "মাগধীয় ব্যাকরণ",
+      "বাংলা ব্যাকরণ",
+      "গৌড়ীয় ব্যাকরণ",
+      "ভাষা ব্যাকরণ",
+      "কোনোটিই নয়"
+    ],
+    "answer": "C",
+    "explanation": "বাংলা ভাষার কিছু গুরুত্বপূর্ণ ব্যাকরণ ও রচয়িতার নাম নিম্নরূপ-\n• গৌড়ীয় ব্যাকরণ - রাজা রামমোহন রায়\n• ব্যাকরণ কৌমুদী - ঈশ্বরচন্দ্র বিদ্যাসাগর\n• ব্যাকরণ মঞ্জুরী - ড. মুহম্মদ এনামুল হক\n• ভাষা প্রকাশ বাঙ্গালা ব্যাকরণ - ড. সুনীতিকুমার চট্টোপাধ্যায়\n• বাঙ্গালা ব্যাকরণ - ড. মুহম্মদ শহীদুল্লাহ\nরাজা রামমোহন রায় রচিত কয়েকটি গদ্যগ্রন্থ হলো- বেদান্তগ্রন্থ, বেদান্তসার, পথ্য প্রদান, ভট্টাচার্য্যের সহিত বিচার, গোস্বামীর সহিত বিচার, প্রবর্তক ও নিবর্তকের সম্বাদ।"
+  },
+  {
+    "id": 6,
+    "question": "‘কিন্তু মঙ্গল আলোকে আমার শুভ উৎসব উজ্জ্বল হইয়া উঠিল।’ - উদ্ধৃতাংশটি রবি ঠাকুরের কোন গল্প থেকে নেওয়া হয়েছে?",
+    "options": [
+      "কাবুলিওয়ালা",
+      "পোস্টমাস্টার",
+      "জন্মভূমি",
+      "হৈমন্তী",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A",
+    "explanation": "রবীন্দ্রনাথ ঠাকুরের একটি বিখ্যাত সামাজিক ছোট গল্প হলো কাবুলিওয়ালা। এ ছোটগল্পের উল্লেখযোগ্য চরিত্র হলো- রহমত ও খুকী। এ ছোট গল্পের একটি বিখ্যাত উক্তি হলো- ‘কিন্তু মঙ্গল আলোকে আমার শুভ উৎসব উজ্জ্বল হইয়া উঠিল’।"
+  },
+  {
+    "id": 7,
+    "question": "‘উট উটের পিঠে চলেছে স্বদেশ’ এর রচয়িতা কে?",
+    "options": [
+      "আল মাহমুদ",
+      "আবুল হাসান",
+      "শামসুর রাহমান",
+      "শহীদ কাদরী",
+      "কোনোটিই নয়"
+    ],
+    "answer": "C",
+    "explanation": "নাগরিক কবি খ্যাত কবি শামসুর রাহমান ১৯২৯ সালের ২৩ অক্টোবর ঢাকার মাহুতটুলীতে জন্মগ্রহণ করেন এবং ২০০৬ সালের ১৭ আগস্ট ঢাকায় মৃত্যুবরণ করেন। তিনি ‘মজলুম আদিব’ ছদ্মনামে লিখতেন। তার রচিত কিছু বিখ্যাত কাব্যগ্রন্থ- প্রতিদিন ঘরহীন ঘরে, রৌদ্র করোটিতে, বুক তার বাংলাদেশের হৃদয়, নিরালোকে দিব্যরথ, বিধ্বস্ত নীলিমা, নিজ বাসভূমে, বন্দী শিবির থেকে, উদ্ভট উটের পিঠে চলছে স্বদেশ, প্রথম গান দ্বিতীয় মৃত্যুর আগে, দুঃসময়ের মুখোমুখি।"
+  },
+  {
+    "id": 8,
+    "question": "‘অরণ্যে রোদন’ না বলে ‘বনে ক্রন্দন’ বললে বাক্যটি কি হারাবে?",
+    "options": [
+      "আকাঙ্ক্ষা",
+      "আসক্তি",
+      "যোগ্যতা",
+      "উদ্দেশ্য",
+      "কোনোটিই নয়"
+    ],
+    "answer": "C",
+    "explanation": "বাগধারা ভাষা বিশেষের ঐতিহ্য। এর সঠিক প্রয়োগ না করলে শব্দ তার যোগ্যতা হারায়। যেমন: ‘অরণ্যে রোদন’ অর্থ: নিষ্ফল আবেদন-এর স্থলে ‘বনে ক্রন্দন’ বললে বাগধারাটি তার যোগ্যতা হারাবে।"
+  },
+  {
+    "id": 9,
+    "question": "‘অনুরক্ত’-এর বিপরীত শব্দ কোনটি?",
+    "options": [
+      "উক্ত",
+      "বিরক্ত",
+      "ত্যক্ত",
+      "উপরের সবগুলো",
+      "কোনোটিই নয়"
+    ],
+    "answer": "B",
+    "explanation": "কিছু গুরুত্বপূর্ণ বিপরীত শব্দ নিম্নরূপ-\n• অনুরক্ত - বিরক্ত\n• পাপ - পুণ্য\n• খুচরা - পাইকারি\n• প্রাচীন - অর্বাচীন/নবীন\n• গৌণ - মুখ্য\n• প্রতিযোগী - সহযোগী\n• গুরু - লঘু, শিষ্য\n• পাশ্চাত্য - প্রাচ্য\n• কৃশ - স্থূল\n• নিন্দিত - প্রশংসিত\n• প্রাচ্য - প্রতীচ্য\n• নিন্দা - প্রশংসা"
+  },
+  {
+    "id": 10,
+    "question": "বাগধারার অর্থ নির্ণয় করুন: ‘চক্ষুদান করা’।",
+    "options": [
+      "উপকার করা",
+      "চুরি করা",
+      "ক্ষতি করা",
+      "দান করা",
+      "কোনোটিই নয়"
+    ],
+    "answer": "B",
+    "explanation": "কিছু গুরুত্বপূর্ণ বাগধারা নিম্নরূপ-\n• চক্ষুদান করা - চুরি করা\n• কাঁচা পয়সা - নগদ উপার্জন\n• কূপমণ্ডূক - ঘরকুনো\n• কান পাতলা - বিশ্বাসপ্রবণ\n• গোঁফ খেজুরে - নিতান্ত অলস\n• ছা-পোষা - অত্যন্ত গরিব\n• তামার বিষ - অর্থের কুপ্রভাব\n• বালির বাঁধ - অস্থায়ী বস্তু\n• শাপে বর - অনিষ্টে ইষ্ট লাভ\n• হরিহর আত্মা - অন্তরঙ্গ বন্ধুত্ব\n• কচুবনের কালাচাঁদ - অপদার্থ"
+  },
+  {
+    "id": 11,
+    "question": "Questions 11 to 15: Fill in the blanks with the appropriate pair of words:\nThe losing team made a ______ but ______ effort to catch up with its opponent.",
+    "options": [
+      "vivid.......fervent",
+      "virulent....furtive",
+      "valiant........futile",
+      "valorous .......fruitful",
+      "vigorous........fetid"
+    ],
+    "answer": "C",
+    "explanation": "প্রদত্ত বাক্যটির মাঝখানে but ব্যবহার করা হয়েছে এজন্য but-এর আগে ও পরে বিপরীত শব্দ ব্যবহার হবে। অপশন (C) তে শুধু বিপরীত শব্দ পাওয়া যায়। Valiant (সাহসিকতাপূর্ণ কাজ) এবং futile (ব্যর্থ) বসিয়ে বাক্যটির অর্থ হবে ‘পরাজিত টিম সাহসিকতাপূর্ণ কাজ করেছিল কিন্তু তার প্রতিপক্ষ দলের সাথে পেরে উঠতে ব্যর্থ হলো’।\nঅপশনের বাকি শব্দের অর্থ হলো- vivid – অবিস্মরণীয়, fervent – তপ্ত, virulent – অত্যন্ত তীব্র, furtive – চুপিচুপি, valorous – বীর্যবান, fruitful – ফলপ্রসূ, vigorous – তেজস্বী, এবং fetid – দুর্গন্ধযুক্ত।"
+  },
+  {
+    "id": 12,
+    "question": "The regulations ______ that the manufacturers have to be ______ with the safety standards.",
+    "options": [
+      "stipulate...compliant",
+      "postulate ... copious",
+      "speculate ... conversant",
+      "capitulate ...aligned",
+      "prescribe....cogent"
+    ],
+    "answer": "A",
+    "explanation": "প্রদত্ত বাক্যটির অর্থ 'চুক্তিতে বলা হয়েছে যে উৎপাদনকারী প্রতিষ্ঠান পণ্যের নিরাপত্তার জন্য দায়ী অথবা বাধ্য থাকবে।' অপশন (A) তে stipulate (চুক্তি করা) ও compliant (বাধ্য থাকা) বসালে বাক্যটি পরিপূর্ণ হয়।\nPostulate - মেনে নেওয়া, copious - প্রচুর, speculate - চিন্তা করা, conversant - পরিচিত, capitulate - আত্মসমর্পণ করা, aligned - শ্রেণিবদ্ধ করা, prescribe - নির্ধারিত করা, cogent - অকাট্য।"
+  },
+  {
+    "id": 13,
+    "question": "We still follow the ______ of keeping the school closed in ______ of the death anniversary of the founder.",
+    "options": [
+      "habit.......reverence",
+      "culture....honor",
+      "ordinance......celebration",
+      "practice...adherence",
+      "tradition...observance"
+    ],
+    "answer": "B",
+    "explanation": "প্রদত্ত বাক্যটি দেখে বোঝা যাচ্ছে যে, স্কুলের প্রতিষ্ঠাতার মৃত্যুবার্ষিকী উপলক্ষে প্রতিবছর ঐ দিন স্কুল বন্ধ রাখার একটি সংস্কৃতি চালু রয়েছে। সেজন্য অপশন (B) তে culture (সংস্কৃতি) ও honor (সম্মান) বসালে বাক্যটি অর্থপূর্ণ হয়।"
+  },
+  {
+    "id": 14,
+    "question": "The instrument must be ______ and used according to the manufacturer’s ______.",
+    "options": [
+      "calibrated....instructions",
+      "celebrated....manual",
+      "codified...dictation",
+      "coded....stratagem",
+      "computed...advice"
+    ],
+    "answer": "C",
+    "explanation": "সাধারণত কোনো যন্ত্রাংশ বা যন্ত্র উৎপাদনকারী প্রতিষ্ঠান যেভাবে codified (বিধিবদ্ধ করে দেয়া) করে দেয়, সেই dictation (নির্দেশ) অনুযায়ী instrument বা যন্ত্র চালানো হয়। সেজন্য অপশন (C) সঠিক উত্তর।"
+  },
+  {
+    "id": 15,
+    "question": "She ______ on the information at ______ before concluding.",
+    "options": [
+      "pondered...long",
+      "deliberated...length",
+      "abstracted...depth",
+      "delevel...height",
+      "dived...large"
+    ],
+    "answer": "B",
+    "explanation": "বক্তব্য দেওয়া বা বক্তব্য চালিয়ে যাওয়া বুঝাতে deliberate on ব্যবহৃত হয়। আর at length অর্থ a long period of time বা দীর্ঘ সময়। Deliberated ও length বসিয়ে অর্থ হবে, 'উপসংহারের আগে সে তথ্যবহুল দীর্ঘ বক্তব্য দিল।' তাই অপশন (B) সঠিক উত্তর।"
+  },
+  {
+    "id": 16,
+    "question": "Questions 16 to 20: Replace the underlined part of each sentence with the option which is grammatically correct:\nArguably one of the worse crises in living memory, the present pandemic has claimed lives across the world.",
+    "options": [
+      "Arguably one of the worse crises in living memory.",
+      "Arguably one of the worse crises in living memories.",
+      "By being arguably one of the worse crises in living memory.",
+      "Arguably one of the worst crises in living memory.",
+      "Arguably in one of the worse crises in living memory."
+    ],
+    "answer": "D",
+    "explanation": "Superlative degree-এর আগে the ব্যবহৃত হয়। প্রদত্ত বাক্যে one of the এর পরে worst ব্যবহৃত হবে। কারণ, bad-এর comparative ও superlative degree হলো যথাক্রমে worse এবং worst। অপশন (D) সঠিক উত্তর।"
+  },
+  {
+    "id": 17,
+    "question": "Unable to reach a conclusion, the negotiation between the two parties kept getting elongated.",
+    "options": [
+      "the negotiation between the two parties kept getting elongated.",
+      "the negotiation among the two parties kept getting elongated.",
+      "the two parties kept elongating the negotiation.",
+      "there was a lengthy negotiation between the two parties.",
+      "the negotiating of the two parties kept getting elongated."
+    ],
+    "answer": "C",
+    "explanation": "Dangling modifier এড়াতে বাক্যের Subject হওয়া উচিত যারা সিদ্ধান্ত নিতে অক্ষম অর্থাৎ 'the two parties'। তাই অপশন (C) 'the two parties kept elongating the negotiation' সঠিক।"
+  },
+  {
+    "id": 18,
+    "question": "One view of the economy contends that a large drop in oil prices should eventually lead to lowering interest rates, as well as lowering fears about inflation, a rally in stocks and bonds, and a weakening of the dollar.",
+    "options": [
+      "lowering interest rates, as well as lowering fears abot inflation.",
+      "a lowering of interest rates and of fears about inflation.",
+      "a lowering of interest rates, along with fears about inflation.",
+      "interest rates being lowered, along with fears about inflation",
+      "interest rates and fears about inflation being lowered, with"
+    ],
+    "answer": "B",
+    "explanation": "Parallelism বজায় রাখতে 'a lowering of interest rates and of fears about inflation' ব্যবহৃত হবে। উত্তর: B।"
+  },
+  {
+    "id": 19,
+    "question": "Presumed to be genetic or partially genetic in origin, about five in every 200 children are born with a severe disorder.",
+    "options": [
+      "Presumed to be genetic or partially genetic in origin, about five in every 200 children are born with a severe disorder.",
+      "Born with a severe disorder presumed ot be genetic or partially genetic in origin, are about five in every 200 children.",
+      "About five in every 200 children are born with a severe disorder presumed to be genetic or partially genetic in origin.",
+      "About five in every 200 children, presumed to be genetic or partially genetic in origin, are born with a severe disorder.",
+      "Severe disorders that are presumed to be genetic or partially genetic in origin are found in about five in every 200 children who are born."
+    ],
+    "answer": "C",
+    "explanation": "প্রদত্ত বাক্যটিতে modifier-এর ব্যবহার ভুল। Modifier হলো বাক্যের sub, obj অথবা অন্য কোনো noun সম্পর্কে অতিরিক্ত ধারণা দেওয়া। অপশন (C) তে সঠিকভাবে modifier ব্যবহৃত হয়েছে। কারণ, এখানে children সম্পর্কে অতিরিক্ত ধারণা দেওয়া হয়েছে। With a severe disorder দ্বারা যেটি preposional phrase এবং post modifier হিসেবে ব্যবহৃত হয়েছে। তাই অপশন (C) সঠিক।"
+  },
+  {
+    "id": 20,
+    "question": "Teratomas are unusual forms of cancer because they are composed of tissues such as tooth and bone not normally found in the organ in which the tumour appears.",
+    "options": [
+      "because they are composed of tissues such as tooth and bone .",
+      "because they are composed of tissues like tooth and bone that are",
+      "because they are composed of tissues, like tooth and bone, tissues",
+      "in that their composition, tissues such as tooth and bone, is",
+      "in that they are composed of tissues such as tooth and bone, tissues"
+    ],
+    "answer": "E",
+    "explanation": "উত্তর: E"
+  },
+  {
+    "id": 21,
+    "question": "ABCD is a rectangle. If its length is decreased by 5 meter and the width is increased by 3 meter, the area decreases by 9 square meter. If its length is increased by 3 meter and the width is increased by 2 meter, the area increases by 67 square meter. What is the width of ABCD?",
+    "options": [
+      "9 meter",
+      "17 meter",
+      "18 meter",
+      "22 meter",
+      "None of these"
+    ],
+    "answer": "A",
+    "explanation": "মনে করি, ABCD আয়তক্ষেত্রের দৈর্ঘ্য x মিটার এবং প্রস্থ y মিটার\n১ম শর্তানুসারে, (x - 5)(y + 3) = xy - 9\n⇒ xy + 3x - 5y - 15 = xy - 9\n∴ 3x - 5y = 6 ............(i)\n২য় শর্তানুসারে, (x + 3)(y + 2) = xy + 67\n⇒ xy + 2x + 3y + 6 = xy + 67\n∴ 2x + 3y = 61 ............(ii)\n(ii) নং সমীকরণকে 3 দ্বারা গুণ করে এবং (i) নং সমীকরণকে 2 দ্বারা গুণ করে বিয়োগ করে পাই,\n6x + 9y = 183\n6x - 10y = 12\nবিয়োগ করে, 19y = 171\n∴ y = 9\nসুতরাং নির্ণেয় ABCD আয়তক্ষেত্রের প্রস্থ 9 মিটার।"
+  },
+  {
+    "id": 22,
+    "question": "A, B and C working individually can complete a task in 30 days, 15 days and 10 days respectively. If A starts working alone and B and C helps A on every 2nd and 3rd day respectively, how long will it take the task to be completed?",
+    "options": [
+      "15 days",
+      "14 days",
+      "12 days",
+      "10 days",
+      "None of these"
+    ],
+    "answer": "E",
+    "explanation": "দেওয়া আছে, A, B এবং C এককভাবে একটি কাজ করে 30 দিনে, 15 দিনে এবং 10 দিনে।\nশর্তমতে, প্রথম 6 দিনে A করে 6/30 অংশ কাজ\nB করে 3/15 অংশ কাজ\nএবং C করে 2/10 অংশ কাজ\n∴ প্রথম 6 দিনে A, B, C করে মোট = (6/30 + 3/15 + 2/10) অংশ = (1/5 + 1/5 + 1/5) অংশ = 3/5 অংশ\n∴ কাজ বাকি থাকে = (1 - 3/5) অংশ = 2/5 অংশ\nএখন, পরবর্তী তিন দিনের কাজ = 3/30 + 1/15 + 1/10 = 1/10 + 1/15 + 1/10 = (3 + 2 + 3)/30 = 8/30 = 4/15 অংশ\nবাকি কাজ = (2/5 - 4/15) অংশ = (6 - 4)/15 অংশ = 2/15 অংশ\nপরবর্তী দুই দিনের কাজ = 2/30 + 1/15 = 1/15 + 1/15 = 2/15 অংশ\nসুতরাং কাজটি শেষ করতে মোট = (6 + 3 + 2) দিন লাগবে = 11 দিন লাগবে। (None of these)"
+  },
+  {
+    "id": 23,
+    "question": "Jamil can run 1 km in 4 minutes. He has a car that has a top speed of 75 km/hour. Jamil’s speed is what percentage of his car’s top speed?",
+    "options": [
+      "10%",
+      "20%",
+      "25%",
+      "30%",
+      "None of these"
+    ],
+    "answer": "B",
+    "explanation": "দেওয়া আছে, জামিলের গাড়ির টপ গতিবেগ 75 km/hr\nআমরা জানি, গতিবেগ = দূরত্ব / সময়\nএখানে, জামিলের দূরত্ব = 1km এবং সময় = 4 min = 4/60 hr\n∴ জামিলের গতিবেগ = 1 / (4/60) = 60/4 km/hr = 15 km/hr.\nসুতরাং জামিলের গতিবেগ তার গাড়ির টপ গতিবেগের শতকরা = (15 / 75) × 100% = 20%"
+  },
+  {
+    "id": 24,
+    "question": "A certain amount of money earning simple interest becomes 7/5th of the initial amount in 4 years. What is the interest rate?",
+    "options": [
+      "4%",
+      "6%",
+      "8%",
+      "10%",
+      "None of these"
+    ],
+    "answer": "D",
+    "explanation": "মনে করি, প্রারম্ভিক মূলধন P = x টাকা\nমূলধন-সুদ A = 7/5 x টাকা\nসময়, n = 4 বছর\nসুদ = I\nআমরা জানি, A = P + I\n⇒ 7/5 x = x + I\n⇒ I = (7x - 5x)/5\n∴ I = 2x/5\nআবার, I = Pnr\n∴ সুদের হার, r = (I × 100) / Pn = {(2x/5) × 100} / (x × 4) = 10%"
+  },
+  {
+    "id": 25,
+    "question": "For which value of P will the square root of 4x² - Px + 9 be an integer?",
+    "options": [
+      "20",
+      "9",
+      "12",
+      "16",
+      "None of these"
+    ],
+    "answer": "C",
+    "explanation": "প্রদত্ত রাশি: 4x² - Px + 9 পূর্ণবর্গ হবে যদি দ্বিঘাত সমীকরণটির নিশ্চয়ক b² - 4ac = 0 [যেখানে, a = 4, b = -P, c = 9]\n⇒ (-P)² - 4.4.9 = 0\n⇒ P² - 144 = 0\n⇒ P² = 144\n∴ P = 12"
+  },
+  {
+    "id": 26,
+    "question": "A batter scored 87 runs in her 17th innings, which increased her career average by 3 runs. What is her average runs after the 17th innings?",
+    "options": [
+      "39",
+      "35",
+      "42",
+      "40",
+      "None of these"
+    ],
+    "answer": "A",
+    "explanation": "মনে করি, 17তম ইনিংস এর পর ব্যাটারের গড় হবে x।\nপ্রশ্নমতে, 17x = 16(x - 3) + 87\n⇒ 17x = 16x - 48 + 87\n∴ x = 39"
+  },
+  {
+    "id": 27,
+    "question": "A boat has a crack in its hull which is leaking water into the boat and could sink the boat in 6 hours. The boat has a pump which can pump the water out in 8 hours. If the boat is 168 km away from the shore and the pump is running what is the minimum speed the boat should run at so that it can reach the shore before sinking?",
+    "options": [
+      "5 km/hour",
+      "6 km/hour",
+      "7 km/hour",
+      "8 km / hour",
+      "None of these"
+    ],
+    "answer": "C",
+    "explanation": "ছিদ্রের কারণে নৌকা ডুবে 6 ঘণ্টায়\n∴ ছিদ্রের কারণে 1 ঘণ্টায় নৌকা ডুবে 1/6 অংশ\nঅনুরূপভাবে, 1 ঘণ্টায় পাম্পের দ্বারা পানি বের হয় = 1/8 অংশ\n1 ঘণ্টায় নৌকার যত অংশ ডুববে = (1/6 - 1/8) অংশ = (4 - 3)/24 = 1/24 অংশ\n∴ নৌকার সম্পূর্ণ অর্থাৎ 1 অংশ ডুববে = 24 ঘণ্টায়\nসুতরাং, নৌকার ন্যূনতম গতিবেগ = 168 / 24 কি.মি./ঘণ্টা = 7 কি.মি./ঘণ্টা"
+  },
+  {
+    "id": 28,
+    "question": "In a class, if 4 students sit in each bench, there are 3 empty benches, but 6 students have to stand if 3 students sit each bench. How many students are there in that class?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80",
+      "None of these"
+    ],
+    "answer": "B",
+    "explanation": "মনে করি, শ্রেণিতে ছাত্রছাত্রীর সংখ্যা x\nপ্রশ্নমতে, x/4 + 3 = (x - 6)/3\n⇒ (x - 6)/3 - x/4 = 3\n⇒ (4x - 24 - 3x)/12 = 3\n⇒ x - 24 = 36\n∴ x = 60"
+  },
+  {
+    "id": 29,
+    "question": "If X is the difference of the squares of two consecutive even numbers. Which of the following numbers is a divisor of X?",
+    "options": [
+      "4",
+      "7",
+      "8",
+      "9",
+      "None of these"
+    ],
+    "answer": "A",
+    "explanation": "দেওয়া আছে, x হলো দুটি ক্রমিক জোড় সংখ্যার বর্গের পার্থক্য যা একটি জোড় সংখ্যা।\n∴ (X₁ + 2)² - X₁² = X যেখানে X₁ হলো একটি জোড় সংখ্যা\nএখানে, X₁ = 0, 2, 4, 6, 8, 10.... বসিয়ে পাই,\n2² - 0 = 4\n4² - 2² = 12\n6² - 4² = 20\nসুতরাং দেখা যায় অপশন থেকে 4 হলো X-এর ভাজক (Divisor)।"
+  },
+  {
+    "id": 30,
+    "question": "Eight years back, Adil’s age was 1/8th of Zaber’s age. Ten years from now, Zaber’s age will be double of Adil’s age. How old is Adil now?",
+    "options": [
+      "23",
+      "21",
+      "17",
+      "11",
+      "None of these"
+    ],
+    "answer": "D",
+    "explanation": "মনে করি, আদিলের বয়স = A বছর এবং জাবেরের বয়স = Z বছর।\n১ম শর্তমতে, A - 8 = 1/8 (Z - 8)\n⇒ 8A - 64 = Z - 8\n∴ Z = 8A - 56 .............(i)\n২য় শর্তমতে, Z + 10 = 2(A + 10)\n⇒ 8A - 56 + 10 = 2A + 20\n⇒ 8A - 2A = 56 - 10 + 20\n⇒ 6A = 66\n⇒ A = 11 বছর"
+  },
+  {
+    "id": 31,
+    "question": "Who was the captain of Bangladesh’s first test cricket team?",
+    "options": [
+      "Aminul Islam",
+      "Khaled Masud",
+      "Akram Khan",
+      "Naimul Islam",
+      "None of these"
+    ],
+    "answer": "E",
+    "explanation": "ব্যাখ্যা (উত্তর: E): বাংলাদেশ ১৯৯৭ সালে প্রথম ওয়ানডে স্ট্যাটাস লাভ করে এবং ২০০০ সালে আই.সি.সি. এর দশম সদস্য দেশ হিসেবে টেস্ট খেলুড়ে দেশের মর্যাদা লাভ করে। বাংলাদেশের টেস্টের প্রথম অধিনায়ক নাইমুর রহমান দুর্জয়। তিনিই ভারতের বিপক্ষে বাংলাদেশের হয়ে প্রথম টেস্ট উইকেট লাভ করেন। ওয়ানডে ক্রিকেটের প্রথম অধিনায়ক গাজী আশরাফ হোসেন লিপু।"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is the result of the Maastricht Treaty?",
+    "options": [
+      "NATO",
+      "EU",
+      "G-7",
+      "COP-26",
+      "None of these"
+    ],
+    "answer": "B",
+    "explanation": "১৯৯২ সালের ৭ ফেব্রুয়ারি স্বাক্ষরিত ম্যাসট্রিখট চুক্তির মাধ্যমে ইউরোপীয় ইউনিয়নের (EU) আত্মপ্রকাশ ঘটে। সংস্থাটির অফিসিয়াল ভাষা ২৩টি এবং সদস্য সংখ্যা ২৭টি। বেলজিয়ামের ব্রাসেলসে সংস্থাটির সদর দপ্তর অবস্থিত।"
+  },
+  {
+    "id": 33,
+    "question": "Where is the headquarters of ESCAP situated?",
+    "options": [
+      "Bangkok",
+      "Singapore",
+      "Delhi",
+      "Dhaka",
+      "None of these"
+    ],
+    "answer": "A",
+    "explanation": "ESCAP এর পূর্ণরূপ হলো- Economic and Social Commission for Asia and the Pacific. এটি ১৯৪৭ সালে প্রতিষ্ঠিত হয়। সদর দপ্তর থাইল্যান্ডের ব্যাংককে অবস্থিত। সদস্য সংখ্যা ৫৩।"
+  },
+  {
+    "id": 34,
+    "question": "What is the minimum number of files required to use mail merge in MS Office package?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "None of these"
+    ],
+    "answer": "B",
+    "explanation": "মেইল মার্জ (Mail Merge) হলো এমন একটি পদ্ধতি যার মাধ্যমে অল্প সময়ের মধ্যে একাধিক ব্যবহারকারীর কাছে বিভিন্ন ধরনের চিঠি প্রেরণ করা যায়। একটি মেইল মার্জ তৈরি করতে সর্বনিম্ন তিনটি ফাইল Main document, Data source এবং Merged document প্রয়োজন।"
+  },
+  {
+    "id": 35,
+    "question": "Who is the director of the documentary ‘A State Is Born’?",
+    "options": [
+      "Zahir Raihan",
+      "Tanvir Mokammel",
+      "Chashi Nazrul Islam",
+      "Alamgir Kabir",
+      "None of these"
+    ],
+    "answer": "A",
+    "explanation": "জহির রায়হান পরিচালিত কয়েকটি চলচ্চিত্র হলো- কখনও আসেনি (প্রথম পরিচালিত চলচ্চিত্র), কাঁচের দেয়াল, সঙ্গম (বাংলাদেশের প্রথম রঙিন চলচ্চিত্র), জীবন থেকে নেয়া (ভাষা আন্দোলনভিত্তিক), বেহুলা, Stop genocide (গণহত্যার প্রামাণ্যচিত্র), A state is Born (মুক্তিযুদ্ধভিত্তিক প্রামাণ্যচিত্র), Let there be light."
+  },
+  {
+    "id": 36,
+    "question": "Which of the following chess players is the first grandmaster from Bangladesh?",
+    "options": [
+      "Rani Hamid",
+      "Ziaur Rahman",
+      "Niaz Morshed",
+      "Rifat Bin Sattar",
+      "None of these"
+    ],
+    "answer": "C",
+    "explanation": "বাংলাদেশে দাবা খেলায় খেতাবপ্রাপ্ত গ্র্যান্ডমাস্টার ৫ জন। যথাক্রমে-\n• প্রথম (বাংলাদেশ ও দক্ষিণ এশিয়ায়): নিয়াজ মোর্শেদ (১৯৮৭ সালে)\n• দ্বিতীয়: জিয়াউর রহমান (২০০২ সালে)\n• তৃতীয়: রিফাত বিন সাত্তার (২০০৬ সালে)\n• চতুর্থ: আব্দুল্লাহ আল রাকিব (২০০৭ সালে)\n• পঞ্চম (সর্বশেষ): এনামুল হক রাজীব (২০০৮ সালে)"
+  },
+  {
+    "id": 37,
+    "question": "The river Buriganga is a branch of which river?",
+    "options": [
+      "Jamuna",
+      "Padma",
+      "Turag",
+      "Dhaleshwari",
+      "None of these"
+    ],
+    "answer": "D",
+    "explanation": "যমুনা নদীর একটি শাখানদী হলো ধলেশ্বরী নদী। আর ধলেশ্বরী নদীর শাখা নদী হলো বুড়িগঙ্গা নদী।"
+  },
+  {
+    "id": 38,
+    "question": "In Bangladesh, who acts as the administrative head of any ministry?",
+    "options": [
+      "Minister",
+      "Secretary",
+      "Director General",
+      "Rector",
+      "None of these"
+    ],
+    "answer": "B",
+    "explanation": "মন্ত্রণালয়ের রাজনৈতিক নির্বাহীর দায়িত্ব পালন করে- মন্ত্রী। মন্ত্রণালয়ের প্রশাসনিক বা প্রশাসনিক নির্বাহীর দায়িত্ব পালন করে- সচিব।"
+  },
+  {
+    "id": 39,
+    "question": "Which one of the following is not an internet search engine?",
+    "options": [
+      "Google",
+      "MSN",
+      "Cortana",
+      "Yahoo",
+      "None of these"
+    ],
+    "answer": "C",
+    "explanation": "সার্চ ইঞ্জিন হলো এক ধরনের ওয়েবসাইট বা টুল, যা ইন্টারনেটের মাধ্যমে ওয়েব সার্ভার থেকে যেকোনো তথ্য অথবা অন্যান্য ওয়েবসাইট খুঁজে পেতে সাহায্য করে। কয়েকটি উল্লেখযোগ্য সার্চ ইঞ্জিনের উদাহরণ হলো- Google, bing, Yahoo, Baidu, AOL, Excite, Ask, DuckDuckGo, Altavista, Webcrawler, msn, lycos, Dogpile, Yandex, Chorki, পিপীলিকা। উইন্ডোজ হলো একটি অপারেটিং সিস্টেম। অন্যদিকে Cortana হলো মাইক্রোসফট দ্বারা নির্মিত Windows 10 এর virtual assistant।"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following treaties was for the purpose of banning nuclear explosions?",
+    "options": [
+      "NATO",
+      "CTBT",
+      "NPT",
+      "SALT",
+      "None of these"
+    ],
+    "answer": "B",
+    "explanation": "Comprehensive Nuclear-Test-Ban Treaty: CTBT\n• স্বাক্ষর: ১০ ডিসেম্বর, ১৯৯৬\n• স্থান: নিউইয়র্ক, যুক্তরাষ্ট্র\n• উদ্দেশ্য: সামরিক-বেসামরিক সকল পারমাণবিক পরীক্ষা নিষিদ্ধকরণ"
+  },
+  {
+    "id": 41,
+    "question": "Part II : Written (20 marks)\n1. Argument Writing (10 marks):\nSmall and medium businesses are more important than large business. Justify this statement with your views providing examples.",
+    "options": [],
+    "answer": "",
+    "explanation": "Argument Writing prompt as printed in exam."
+  },
+  {
+    "id": 42,
+    "question": "Part II : Written\n2. Short notes (10 marks):\na. OPEC\nb. FIFA World Cup 2022",
+    "options": [],
+    "answer": "",
+    "explanation": "Short notes prompt as printed in exam."
+  }
+]

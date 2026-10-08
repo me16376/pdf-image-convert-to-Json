@@ -1,0 +1,781 @@
+[
+  {
+    "id": 1,
+    "question": "সন্ধি বিচ্ছেদ করুন: 'নিরবধি'",
+    "options": [
+      "নির + অবধি",
+      "নির + বধি",
+      "নিঃ + অবদি",
+      "নি: + অবধি",
+      "কোনোটিই নয়"
+    ],
+    "answer": "নি: + অবধি",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): 'নিরবধি' শব্দের সঠিক সন্ধি বিচ্ছেদ নি: + অবধি; আরও কয়েকটি গুরুত্বপূর্ণ বিসর্গ সন্ধি: নিঃ + অক্ষর = নিরক্ষর, নিঃ + ঊঢ় = নিউঢ়।"
+  },
+  {
+    "id": 2,
+    "question": "'গাজী মিয়ার বস্তানী' কী ধরনের রচনা?",
+    "options": [
+      "প্রবন্ধ",
+      "নাটক",
+      "উপন্যাস",
+      "কবিতা",
+      "কোনোটিই নয়"
+    ],
+    "answer": "উপন্যাস",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): মীর মশাররফ হোসেন রচিত সাহিত্যকর্মসমূহ নিম্নরূপ-\nউপন্যাস: বিষাদ-সিন্ধু, রত্নাবতী, গাজী মিয়ার বস্তানী, উদাসীন পথিকের মনের কথা\nনাটক: বসন্তকুমারী, জমিদার দর্পণ, বেহুলা গীতাভিনয়, টালা অভিনয়\nআত্মজীবনী: আমার জীবন, বিবি কুলসুম\nপ্রবন্ধ: গো-জীবন\nপ্রহসন: এর উপায় কি, ভাই ভাই এইতো চাই, ফাঁস কাগজ, প্রভৃতি।"
+  },
+  {
+    "id": 3,
+    "question": "'অনাবৃষ্টি' শব্দটিতে 'অনা' উপসর্গটি কী অর্থে ব্যবহৃত হয়েছে?",
+    "options": [
+      "অভাব",
+      "অশুভ",
+      "নিকৃষ্ট",
+      "পুনরা",
+      "কোনোটিই নয়"
+    ],
+    "answer": "অভাব",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): বাংলা 'অনা' উপসর্গযোগে গঠিত 'অনাবৃষ্টি' শব্দে 'অনা' উপসর্গটি অভাব অর্থে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 4,
+    "question": "নিচের কোনটি বিশেষ্য পদ?",
+    "options": [
+      "পঞ্চায়েত",
+      "চিরন্তন",
+      "সে",
+      "এবং",
+      "কোনোটিই নয়"
+    ],
+    "answer": "পঞ্চায়েত",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): যে বিশেষ্য পদে বেশকিছু সংখ্যক ব্যক্তি বা প্রাণীর সমষ্টি বোঝায়, তা-ই সমষ্টিবাচক বিশেষ্য। যেমন: পঞ্চায়েত, জনতা, মাহফিল, বহর, দল ইত্যাদি। অন্যদিকে চিরন্তন- বিশেষণ, সে- সর্বনাম এবং- অব্যয় পদ।"
+  },
+  {
+    "id": 5,
+    "question": "এককথায় প্রকাশ করুন: 'ইন্দ্রিয়কে জয় করেছে যে'",
+    "options": [
+      "ইন্দ্রজিৎ",
+      "জিতেশ",
+      "ইন্দ্রিয়ান্বিত",
+      "জিতেন্দ্রিয়",
+      "কোনোটিই নয়"
+    ],
+    "answer": "জিতেন্দ্রিয়",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): ইন্দ্রিয়কে জয় করেছে যে- জিতেন্দ্রিয়। আরও কয়েকটি গুরুত্বপূর্ণ এককথায় প্রকাশ: ইন্দ্রকে জয় করেন যিনি- ইন্দ্রজিৎ। ইতিহাস রচনা করেন যিনি- ঐতিহাসিক। ইতিহাস বিষয়ে অভিজ্ঞ যিনি- ইতিহাসবেত্তা।"
+  },
+  {
+    "id": 6,
+    "question": "বাগধারার অর্থ নির্ণয় করুন: 'বকধার্মিক'",
+    "options": [
+      "কপট",
+      "স্বার্থপর",
+      "চাটুকার",
+      "ভণ্ড ধার্মিক",
+      "কোনোটিই নয়"
+    ],
+    "answer": "ভণ্ড ধার্মিক",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): 'বকধার্মিক' বাগধারার অর্থ হলো ধার্মিক বা ভণ্ড সাধু। আরও কয়েকটি গুরুত্বপূর্ণ বাগধারা: ভিজে বিড়াল- কপটচারী, খয়ের খাঁ- চাটুকার, এসপার ওসপার- মীমাংসা।"
+  },
+  {
+    "id": 7,
+    "question": "'কাঁদো নদী কাঁদো' উপন্যাসটির রচয়িতা কে?",
+    "options": [
+      "মীর মশাররফ হোসেন",
+      "হুমায়ুন আজাদ",
+      "সৈয়দ ওয়ালীউল্লাহ",
+      "শওকত ওসমান",
+      "কোনোটিই নয়"
+    ],
+    "answer": "সৈয়দ ওয়ালীউল্লাহ",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): সৈয়দ ওয়ালীউল্লাহ রচিত উল্লেখযোগ্য উপন্যাস- কাঁদো নদী কাঁদো, লালসালু, চাঁদের অমাবস্যা। তাঁর উল্লেখযোগ্য নাটক- বহিপীর, তরঙ্গভঙ্গ, সুড়ঙ্গ।"
+  },
+  {
+    "id": 8,
+    "question": "এককথায় প্রকাশ করুন: 'সম্মুখে অগ্রসর হয়ে অভ্যর্থনা।'",
+    "options": [
+      "সংবর্ধনা",
+      "প্রত্যুদগমন",
+      "আগামনী",
+      "প্রত্যাগমন",
+      "কোনোটিই নয়"
+    ],
+    "answer": "প্রত্যুদগমন",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): সম্মুখে অগ্রসর হয়ে অভ্যর্থনা- প্রত্যুদগমন। আরও কয়েকটি গুরুত্বপূর্ণ এককথায় প্রকাশ: যে শুনেই মনে রাখতে পারে- শ্রুতিধর। যা পূর্বে শোনা যায়নি- অশ্রুতপূর্ব। যে বিষয়ে কোনো বিতর্ক নেই- অবিসংবাদিত।"
+  },
+  {
+    "id": 9,
+    "question": "নিচের কোন শব্দে স্বভাবতই 'ষ' হয়?",
+    "options": [
+      "ষড়ঋতু",
+      "কোষ",
+      "ভাষা",
+      "A, B, C সবগুলোই",
+      "কোনোটিই নয়"
+    ],
+    "answer": "A, B, C সবগুলোই",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): কতগুলো শব্দে স্বভাবতই 'ষ' হয়। যেমন: ষড়ঋতু, কোষ, ভাষা, আষাঢ়, ভাষণ, রোষ, মানুষ, পাষাণ, মেষ ইত্যাদি।"
+  },
+  {
+    "id": 10,
+    "question": "'দত্তকুলোদ্ভব' কবি কে?",
+    "options": [
+      "অজিত দত্ত",
+      "মাইকেল মধুসূদন দত্ত",
+      "জীবনানন্দ দাশ",
+      "হুমায়ুন কবির",
+      "কোনোটিই নয়"
+    ],
+    "answer": "মাইকেল মধুসূদন দত্ত",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): মাইকেল মধুসূদন দত্তকে 'দত্তকুলোদ্ভব' কবি বলা হয়। তিনি বাংলা সাহিত্যের প্রথম বিদ্রোহী কবি। তার রচিত 'মেঘনাদবধ কাব্য' বাংলা সাহিত্যের প্রথম সার্থক মহাকাব্য। তার রচিত উল্লেখযোগ্য কাব্য- তিলোত্তমাসম্ভব কাব্য, ব্রজাঙ্গনা কাব্য, বীরাঙ্গনা কাব্য।"
+  },
+  {
+    "id": 11,
+    "question": "Question 11 to 15: Select the word (s) / phrase (s) that appropriately fill (s) in the gap (s) in each sentence.\nSome people ______ themselves into believing that they are the only honest and dedicated in the company.",
+    "options": [
+      "keep",
+      "fool",
+      "delude",
+      "force",
+      "None of these"
+    ],
+    "answer": "delude",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): Keep-এর পরে into সহযোগে অর্থবোধক কিছু আসে না। Fool-এর পরে somebody into doing something দ্বারা অন্যকে এমন কোনো কিছুতে বিশ্বাস করানো বোঝায়, যা সে ব্যক্তি বা বস্তুটি নয়। Delude somebody (+self) / yourself into doing something অর্থ নিজেকে বা অন্যকে অসত্য কোনো কিছুতে বিশ্বাস করানো অথবা এক ধরনের অলীক কল্পনায় নিজেকে ডুবিয়ে রাখা কিংবা নিজেকে অন্যের চেয়ে অধিক গুরুত্বপূর্ণ ভাবা, যা বাস্তবে সত্য নয়। Force-এর পরে into বসে শুধু passive-এর ক্ষেত্রে; Be forced into doing something যার অর্থ কাউকে কোনো কিছু করতে বাধ্য করা। সুতরাং সামগ্রিক দিক বিবেচনায় অপশন (C) সঠিক।"
+  },
+  {
+    "id": 12,
+    "question": "The truck met with an accident and was ______ the traffic in Dhanmondi, so he had a hard time driving through the area.",
+    "options": [
+      "eliminating",
+      "obstructing",
+      "obviating",
+      "hiding",
+      "None of these"
+    ],
+    "answer": "obstructing",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): Eliminate (something) অর্থ কোনো কিছু দূর করা। Obstruct (Something) অর্থ কোনো বাধা, ধ্বংসাবশেষ মাটিতে ফেলা যার ফলে কোনো কিছু ঢুকতে বা বেরোতে না পারে। Obviate অর্থ কোনো সমস্যা বা ঝামেলা দূর করা। Hide অর্থ কোনো কিছু লুকানো। শূন্যস্থানে obstructing বসালে বাক্যটির অর্থ দাঁড়ায়- ট্রাকটি দুর্ঘটনায় পড়েছিল এবং ধানমন্ডিতে যানবাহন আটকে পড়েছিল, তাই সে ঐ এলাকায় গাড়ি চালাতে হিমশিম খেয়েছিল।"
+  },
+  {
+    "id": 13,
+    "question": "Plastic bags are ______ symbols of consumer society, they are found wherever you travel.",
+    "options": [
+      "rare",
+      "ephemeral",
+      "ubiquitous",
+      "fleeting",
+      "None of these"
+    ],
+    "answer": "ubiquitous",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): Rare অর্থ বিরল, Ephemeral অর্থ ক্ষণস্থায়ী, Ubiquitous অর্থ সর্বব্যাপী, যত্রতত্র, দখল প্রাপ্ত, Fleeting অর্থ ক্ষণস্থায়ী। শূন্যস্থানে ubiquitous বসালে বাক্যটি অর্থপূর্ণ হয়। বাক্যটির অর্থ দাঁড়ায়- প্লাস্টিকের ব্যাগ হলো ভোক্তা সমাজের বহুল ব্যবহর্য প্রতীক; তুমি যেখানেই যাও এদের পাওয়া যায়।"
+  },
+  {
+    "id": 14,
+    "question": "When their body size is considered, mammals and birds have much larger brain than ______ .",
+    "options": [
+      "other vertebrates do",
+      "that other vetebrates have",
+      "are other vertebrates",
+      "other are vetebrates"
+    ],
+    "answer": "other vertebrates do",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): প্রদত্ত বাক্যটিতে than-এর পূর্বে mammals and birds-এর brain থাকার কারণে other vertebrates এর brain থাকার (have) তুলনা করা হচ্ছে। কাজেই than-এর পরে subject (other vertebrates) + verb এর auxiliary form (do / does / did) tense অনুযায়ী।"
+  },
+  {
+    "id": 15,
+    "question": "The use of preservatives in food manufacturing ______ steadily over the past few decades and ______ no signs of abating.",
+    "options": [
+      "had risen, would show",
+      "would rise, will show",
+      "has risen, shows",
+      "rose, will show",
+      "None of these"
+    ],
+    "answer": "has risen, shows",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): দুটো coordinate clause and দ্বারা যুক্ত থাকায় tense-এর sequence বজায় রাখতে হবে, যা অপশনসমূহের মধ্যে একমাত্র (C)- তে রয়েছে; has risen ও shows দুটোই present tense-এ রয়েছে। বাকি অপশনসমূহ tense-এর sequence রক্ষিত হয়নি।"
+  },
+  {
+    "id": 16,
+    "question": "Questions 16 to 20: In each of the following sentences, one part is underlined. Beneath the sentence you will find five ways of phrasing the underlined part. Select the phrase that produces the most correct sentence.\nThe perfomance of our football players was rather worst than I had expected.",
+    "options": [
+      "worst than what I had epxected",
+      "worse than what I had expected",
+      "worst than expectation",
+      "worst than what was expected",
+      "appreciated the method adopting method"
+    ],
+    "answer": "worse than what I had expected",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): Underlined অংশে than থাকায় এর পূর্বের adjective-টির comparative form বসবে, যা শুধু অপশন (B)- তেই রয়েছে।"
+  },
+  {
+    "id": 17,
+    "question": "Rizwan admired the speed with which he completed the work and appreciating the method adopted by him.",
+    "options": [
+      "appreciating the method adopted by him",
+      "appreciate the method being adopted",
+      "appreciated the method adopted",
+      "appreciate the method of adoption",
+      "appreciated the method adopting method"
+    ],
+    "answer": "appreciated the method adopted",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): And-এর পূর্বের clause-টি past indefinite হওয়ায় পরের clause-টিও indefinite হবে। অপশন (C)- তেই রয়েছে সঠিক clause। এখানে method-এর পরে adopted বসেছে V3 (past participle) as adjective হিসেবে, যেটি method কেই modify করছে। অপশন (E)- তে verb past form-এ থাকলেও the method-এর পরে adopting method বসে বাহুল্য দোষে দুষ্ট হয়ে পড়েছে।"
+  },
+  {
+    "id": 18,
+    "question": "The pharmacist hadn't hardly any of those kind of medicines.",
+    "options": [
+      "hadn't hardly any of those kind",
+      "had hardly any of those kinds",
+      "had hardly not any of those kinds",
+      "had scarcely any of those kind",
+      "had hardly any of those kind"
+    ],
+    "answer": "had hardly any of those kinds",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): Underlined অংশে hardly (কদাচিৎ) থাকায় সরাসরি not যুক্ত হবে না। কারণ hardly শব্দটি নিজেই negative অর্থ প্রদান করে। আবার, any of এর পরে 'those' plural হওয়ায় এর পরের kinds শব্দটি plural হবে। সমস্ত কিছু মিলিয়ে সঠিক অপশন (B)।"
+  },
+  {
+    "id": 19,
+    "question": "No sooner do the bells ring than the curtain rose.",
+    "options": [
+      "did the bell ring",
+      "did the bells ring",
+      "had the bell rang",
+      "had the bell rung",
+      "None correction required"
+    ],
+    "answer": "had the bell rung",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): No sooner-এর পরে past prefect বসে। তবে এক্ষেত্রে had subject এর পূর্বে বসে।"
+  },
+  {
+    "id": 20,
+    "question": "They were all shocked at his failure in the competition.",
+    "options": [
+      "were all shocked",
+      "were shocked at all",
+      "had all shocked at",
+      "had all shocked by",
+      "had been all shocked on"
+    ],
+    "answer": "were all shocked",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): Shock অর্থ বিস্মিত ও হতাশ করা। shock সাধারণত passive হয়। সবাই বা সকলেই বিস্মিত ও হতাশ হওয়া বুঝাতে all shocked (at) বসে। Underlined অংশের কোনো পরিবর্তন হবে না। সুতরাং অপশন (A) সঠিক।"
+  },
+  {
+    "id": 21,
+    "question": "Questions 21 to 25: Choose the correclty spelled word from the given options:\nChoose the correctly spelled word from the given options:",
+    "options": [
+      "Flamboyance",
+      "Flumboyance",
+      "Flamboyanse",
+      "Flamboyancce",
+      "Flamboyanse"
+    ],
+    "answer": "Flamboyance",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): সঠিক বানানের শব্দটি অপশন (A)- তে রয়েছে flamboyance, যার অর্থ জাঁকজমক, ধুমধাম, সমারোহ।"
+  },
+  {
+    "id": 22,
+    "question": "Choose the correctly spelled word from the given options:",
+    "options": [
+      "Endorcement",
+      "Endorsement",
+      "Endoursement",
+      "Endorseement",
+      "Endoreccement"
+    ],
+    "answer": "Endorsement",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): সঠিক বানানের শব্দটি endorsement, যার অর্থ অনুমোদন, সমর্থন ইত্যাদি।"
+  },
+  {
+    "id": 23,
+    "question": "Choose the correclty spelled word from the given options:",
+    "options": [
+      "Synchronization",
+      "Synchronizasion",
+      "Synchonization",
+      "synchonizasion",
+      "synchonization"
+    ],
+    "answer": "Synchronization",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): সঠিক বানানের শব্দটি synchronization, যার অর্থ ছন্দসমতা।"
+  },
+  {
+    "id": 24,
+    "question": "Choose the correclty spelled word from the given options:",
+    "options": [
+      "Missle",
+      "Missile",
+      "Misile",
+      "Messile",
+      "Missile"
+    ],
+    "answer": "Missile",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): সঠিক বানানের শব্দটি missile, যার অর্থ ক্ষেপণাস্ত্র।"
+  },
+  {
+    "id": 25,
+    "question": "Choose the correctly spelled word from the given options:",
+    "options": [
+      "Inapropriate",
+      "Inaproopriate",
+      "Inaproopriate",
+      "Inappropriate",
+      "Inaproprate"
+    ],
+    "answer": "Inappropriate",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): সঠিক বানানের শব্দটি Inppropriate, যার অর্থ অনুপযুক্ত, অনুচিত, বেমানান ইত্যাদি।"
+  },
+  {
+    "id": 26,
+    "question": "If m and n are whole numbers such that mⁿ = 121, then the value of m(m - 1)ⁿ⁺¹ is = ?",
+    "options": [
+      "1000",
+      "676",
+      "121",
+      "10",
+      "None of these"
+    ],
+    "answer": "1000",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): দেয়া আছে, mⁿ = 121\n⇒ mⁿ = 11²\nযেখানে, n = 2, m = 11\n∴ (m - 1)ⁿ⁺¹ = (11 - 1)²⁺¹ = (10)³ = 1000"
+  },
+  {
+    "id": 27,
+    "question": "If 65% of x = 13% of y, then find the value of x if y = 2000.",
+    "options": [
+      "200",
+      "300",
+      "400",
+      "500",
+      "None of these"
+    ],
+    "answer": "400",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): দেয়া আছে, 65% of x = 13% of y\n⇒ 65/100 × x = 13/100 y\n⇒ x = (13 × 100 × 2000) / (65 × 100)  [∵ y = 2000]\n∴ x = 400"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following numbers is divisible by 3?",
+    "options": [
+      "177",
+      "200",
+      "331",
+      "457",
+      "None of these"
+    ],
+    "answer": "177",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): অপশন টেস্ট করলে 3 দ্বারা বিভাজ্য সংখ্যা পাওয়া যায়।\nA. 177/3 = 59; যা 3 দ্বারা বিভাজ্য\nB. 200/3 = 66⅔ ; যা 3 দ্বারা বিভাজ্য নয়।\nC. 331/3 = 110⅓ ; যা 3 দ্বারা বিভাজ্য নয়\nD. 457/3 = 152⅓ ; যা 3 দ্বারা বিভাজ্য নয়।\nসুতরাং অপশন (A) হলো সঠিক উত্তর।"
+  },
+  {
+    "id": 29,
+    "question": "By selling a book at 600 taka. Salim makes a profit of 25%. What was the cost of the book in taka?",
+    "options": [
+      "480",
+      "500",
+      "520",
+      "540",
+      "None of these"
+    ],
+    "answer": "480",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A):\n25% লাভে বিক্রয়মূল্য = 125 টাকা\nবিক্রয়মূল্য 125 টাকা হলে ক্রয়মূল্য = 100 টাকা\n\" 1 \" \" \" = 100/125 \"\n\" 600 \" \" \" = (100 × 600)/125 \"\n= 480 টাকা"
+  },
+  {
+    "id": 30,
+    "question": "A cement mixture is composed of 3 elements. By weight, 1/3 of the mixture is sand, 3/5 is water and the remaining 12 pounds of the mixture is gravel. What is the weight of the entire mixture in pounds?",
+    "options": [
+      "60",
+      "80",
+      "90",
+      "180",
+      "None of these"
+    ],
+    "answer": "180",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): ধরি,\nসিমেন্টের সম্পূর্ণ মিশ্রণ x পাউন্ড.\nযেখানে বালুর পরিমাণ = x/3 পাউন্ড\nপানির পরিমাণ = 3x/5 পাউন্ড\n∴ অবশিষ্ট থাকা কাঁকরের পরিমাণ = (x - x/3 - 3x/5) পাউন্ড\n= (15x - 14x)/15 পাউন্ড\n= x/15 পাউন্ড\nপ্রশ্নমতে, x/15 = 12\n∴ x = 180\nসুতরাং সিমেন্টের সম্পূর্ণ মিশ্রণ 180 পাউন্ড।"
+  },
+  {
+    "id": 31,
+    "question": "On Dhaka-Sylhet highway 5% of the drivers are fined for exceeding the speed limit. However, 80% of the drivers who exceed the speed limit are not fined. What percentage of drivers on this highway exceed the speed limit?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "None of these"
+    ],
+    "answer": "25",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D):\nপ্রশ্নমতে, 20% = 5\n∴ 1% = 5/20\n∴ 100% = (5 × 100)/20\n= 25"
+  },
+  {
+    "id": 32,
+    "question": "If the average of 5 consecutive integers is 15 then what is the difference between least and the greatest of the 5 integers?",
+    "options": [
+      "4",
+      "5",
+      "8",
+      "10",
+      "None of these"
+    ],
+    "answer": "4",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): ধরি, 5টি ক্রমিক সংখ্যা x, x + 1, x + 2, x + 3, x + 4\nপ্রশ্নমতে, (x + x + 1 + x + 2 + x + 3 + x + 4)/5 = 15\n⇒ (5x + 10)/5 = 15\n⇒ x + 2 = 15\n∴ x = 13\n∴ সবচেয়ে ছোট সংখ্যা x = 13 এবং সবচেয়ে বড় সংখ্যা, x + 4 = 13 + 4 = 17\nসুতরাং সংখ্যা দুটির মধ্যে পার্থক্য = 17 - 13 = 4।"
+  },
+  {
+    "id": 33,
+    "question": "If x = (y + 3)² then which of the following will be equal to (-2y - 6)²?",
+    "options": [
+      "-4x",
+      "-2x",
+      "4x",
+      "2x",
+      "None of these"
+    ],
+    "answer": "4x",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C):\nদেয়া আছে, x = (y + 3)² ................(i)\n∴ (-2y - 6)² = {-2 (y + 3)}²\n= 4(y + 3)²\n= 4 (y + 3)² = 4x"
+  },
+  {
+    "id": 34,
+    "question": "A rectangular plot of land has a fence along three of its four sides, the unfenced side and the side opposite the unfenced side have a length that is three times the length of the other two sides. If the area of the plot is 432 square feet, what is the total length of the fence is feet?",
+    "options": [
+      "60",
+      "72",
+      "80",
+      "90",
+      "None of these"
+    ],
+    "answer": "60",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): মনে করি,\nআয়তাকার প্লটের প্রস্থ x ফুট ও দৈর্ঘ্য 3x ফুট।\nপ্রশ্নমতে, 3x² = 432\n⇒ x² = 144\n∴ x = 12\nসুতরাং বেড়া দেয়া অংশের মোট দৈর্ঘ্য = (x + x + 3x) ফুট\n= 5x ফুট\n= (5 × 12) ফুট\n= 60 ফুট"
+  },
+  {
+    "id": 35,
+    "question": "What is the area in square feet of the triangle whose sides have lengths equal to 10, 8 and 6 feet respectively?",
+    "options": [
+      "480",
+      "24",
+      "48",
+      "30",
+      "None of these"
+    ],
+    "answer": "24",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): মনে করি, ত্রিভুজের বাহু a = 10, b = 8, c = 6\nঅর্ধ পরিসীমা, s = (a + b + c)/2\n= (10 + 8 + 6)/2\n= 24/2 = 12\n∴ নির্ণেয় ত্রিভুজের ক্ষেত্রফল = √[s(s - a)(s - b)(s - c)]\n= √[12(12 - 10)(12 - 8)(12 - 6)]\n= √[12 × 2 × 4 × 6]\n= 24 ফুট"
+  },
+  {
+    "id": 36,
+    "question": "An examiner checks 4 scripts in 5/3 hours. How many scripts can be check in 50 minutes?",
+    "options": [
+      "2",
+      "3",
+      "22/3",
+      "25/6",
+      "None of these"
+    ],
+    "answer": "2",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A):\nপরীক্ষক 5/3 ঘণ্টায় চেক করে 4টি স্ক্রিপ্ট\n\" 1 \" \" \" = (4 × 3)/5 \"\n\" 50/60 \" \" \" = (4 × 3 × 50)/(5 × 60)\n= 2টি স্ক্রিপ্ট"
+  },
+  {
+    "id": 37,
+    "question": "On dividing a number by 5, we get 3 as remainder. What will be the remainder when the square of this number is divided by 5?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "None of these"
+    ],
+    "answer": "4",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): মনে করি, সংখ্যাটি z যাকে 5 দ্বারা ভাগ করলে 3 অবশিষ্ট থাকে এবং ভাগফল y।\n∴ z = 5y + 3 ................(i)\nআবার, z² = (5y + 3)²\n⇒ z² = 25y² + 30y + 9\n⇒ z² = 25y² + 30y + 5 + 4\n∴ z² = 5(5y² + 6y + 1) + 4\nসুতরাং দেখা যায় যে একটি সংখ্যাকে 5 দ্বারা ভাগ করলে 3 অবশিষ্ট থাকলেও সংখ্যাটির বর্গকে 5 দ্বারা ভাগ করলে 4 অবশিষ্ট থাকে।"
+  },
+  {
+    "id": 38,
+    "question": "Due to a reduction in books price by 10%, the number of books sold increased by 35%. What was the percentage increase in revenue?",
+    "options": [
+      "17",
+      "18",
+      "19",
+      "20",
+      "None of these"
+    ],
+    "answer": "None of these",
+    "explanation": "ব্যাখ্যা (উত্তরঃ E):\nএখানে, 10% কমতিতে বইয়ের দাম = 90 টাকা\n∴ বিক্রি 35% বৃদ্ধিতে বিক্রয়মূল্য = 90 × 135/100 টাকা\n= 121.5 টাকা\nসুতরাং শতকরা রেভিনিউ = [(121.5 - 100)/100] 100%\n= 21.5%"
+  },
+  {
+    "id": 39,
+    "question": "For which of the following values of x is (x + 78) / x an integer?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "13",
+      "None of these"
+    ],
+    "answer": "13",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): এখানে, (x + 78)/x একটি পূর্ণ সংখ্যা হবে এবং অপশন থেকে x এর মান কোনটি হবে দেখানো হলো:\nx = 9 হলে, (9 + 78)/9 = 87/9 = 29/3 ; যা ভগ্নাংশ\nx = 10 হলে, (10 + 78)/10 = 88/10 = 44/5 ; যা ভগ্নাংশ\nx = 11 হলে, (11 + 78)/11 = 89/11 ; যা ভগ্নাংশ\nx = 13 হলে, (13 + 78)/13 = 91/13 = 7; যা পূর্ণ সংখ্যা\nসুতরাং অপশন (D) তে অবস্থিত 13 হলো নির্ণেয় মান।"
+  },
+  {
+    "id": 40,
+    "question": "The average of a set of 12 numbers, which includes 34 is A. If 34 is removed from the set and 38 is included to the set. What is the average of new set of numbers in terms of A?",
+    "options": [
+      "A + 4",
+      "(A + 38)/12",
+      "12A + 4",
+      "A + 1/3",
+      "None of these"
+    ],
+    "answer": "A + 1/3",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): নতুন গড় = (12A - 34 + 38)/12\n= A + 4/12\n= A + 1/3"
+  },
+  {
+    "id": 41,
+    "question": "Where in 'Bangabandhu Sheikh Mujib Industrial City' located?",
+    "options": [
+      "Dhaka",
+      "Chattogram",
+      "Khulna",
+      "Sylhet",
+      "None of these"
+    ],
+    "answer": "Chattogram",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): বঙ্গবন্ধু শেখ মুজিব শিল্প নগর চট্টগ্রামের মিরসরাই ও সীতাকুণ্ড উপজেলায় বঙ্গোপসাগরের তীরে ৩০,০০০ একর জায়গাজুড়ে বিস্তৃত। যদিও ফেনী জেলার সোনাগাজী উপজেলাতেও এ শিল্প নগরের বিস্তৃতি রয়েছে।"
+  },
+  {
+    "id": 42,
+    "question": "Which country is called the 'Land of Rising Sun'?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Thailand",
+      "None of these"
+    ],
+    "answer": "Japan",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): উত্তর-পূর্ব এশিয়ার দেশ জাপানকে 'Land of Rising Sun' বলা হয়ে থাকে।"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following organizations control the price of crude oil in the global market?",
+    "options": [
+      "European Union",
+      "United Nations",
+      "APEC",
+      "OPEC",
+      "None of these"
+    ],
+    "answer": "OPEC",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): ১৯৬০ সালে প্রতিষ্ঠিত বর্তমানে ১২ সদস্যবিশিষ্ট বিশ্ব তেল রপ্তানিকারক দেশগুলোর সংগঠন OPEC বিশ্বের অপরিশোধিত তেলের মূল্য নিয়ন্ত্রণ করে থাকে।"
+  },
+  {
+    "id": 44,
+    "question": "Which one of the following is the largest gas field in Bangladesh?",
+    "options": [
+      "Meghna",
+      "Bakhrabad",
+      "Titas",
+      "Kamta",
+      "None of these"
+    ],
+    "answer": "Titas",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): বাংলাদেশের সবচেয়ে বড় গ্যাসক্ষেত্র হলো তিতাস গ্যাস ক্ষেত্র। ব্রাহ্মণবাড়িয়ায় অবস্থিত এ গ্যাসক্ষেত্র ১৯৬২ সালে পাকিস্তান শেল অয়েল কোম্পানি কর্তৃক আবিষ্কৃত হয়।"
+  },
+  {
+    "id": 45,
+    "question": "When did 'The Bangladesh Petroleum Act' come in force?",
+    "options": [
+      "1972",
+      "1974",
+      "1976",
+      "1980",
+      "None of these"
+    ],
+    "answer": "1974",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): 'The Bangladesh Petroleum Act' কার্যকর হয় ২২ আগস্ট ১৯৭৪।"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is not a metal?",
+    "options": [
+      "Gold",
+      "Diamond",
+      "Silver",
+      "Copper",
+      "None of these"
+    ],
+    "answer": "Diamond",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): যেসব মৌল রাসায়নিক বন্ধন গঠনকালে সর্বদা ইলেকট্রন ত্যাগ করে ক্যাটায়ন উৎপন্ন করে, তাদেরকে ধাতু বলে। যেমন- সোডিয়াম (Na), ক্যালসিয়াম (Ca), কপার (Cu), সিলভার (Ag), সোনা (Au) ইত্যাদি। অপরদিকে হীরক হলো কার্বনের রূপভেদ। কার্বন যেহেতু অধাতু তাই হীরক ও অধাতু।"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is a land port of Bangladesh?",
+    "options": [
+      "Chattogram",
+      "Mongla",
+      "Hili",
+      "Barisal",
+      "None of these"
+    ],
+    "answer": "Hili",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): হিলি স্থলবন্দর বাংলাদেশের উত্তর-পশ্চিমের জেলা দিনাজপুরের হাকিমপুর উপজেলায় অবস্থিত। স্থলবন্দরটি ১৯৮৫ সালে প্রতিষ্ঠিত হয়।"
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following is the state-owned oil refinery of Bangladesh?",
+    "options": [
+      "Bashundhara Refinery Limited",
+      "Jamuna Refinery Limited",
+      "Padma Refinery Limited",
+      "Eastern Refinery Limited",
+      "None of these"
+    ],
+    "answer": "Eastern Refinery Limited",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): বাংলাদেশের সরকারি মালিকানাধীন তেল শোধনাগার হলো ইস্টার্ন রিফাইনারি লিমিটেড। ১৯৬৩ সালে প্রতিষ্ঠিত এ শোধনাগার চট্টগ্রাম শহরের প্রান্তে কর্ণফুলি নদীর তীরে অবস্থিত।"
+  },
+  {
+    "id": 49,
+    "question": "To migrate from a least developed country (LDC) to a developing country. Gross national income per capita of a country has to be dollars.",
+    "options": [
+      "1000",
+      "1210",
+      "1200",
+      "1230",
+      "None of these"
+    ],
+    "answer": "1230",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D):\nLDC থেকে বের হবার শর্তসমূহ:\nতিন বছরের গড় মাথাপিছু আয়: ১২৩০ ডলার\nমানব উন্নয়ন সূচক মান: ৬৬ বা তার বেশি\nঅর্থনৈতিক ভঙ্গুরতা সূচক: ৩২ বা তার কম\nউল্লেখ্য, বাংলাদেশ ২০২৬ সালে আনুষ্ঠানিকভাবে উন্নয়নশীল দেশের মর্যাদা অর্জন করবে।"
+  },
+  {
+    "id": 50,
+    "question": "Where is the headquarter of international atomic energy agency (IAEA) located?",
+    "options": [
+      "Austria",
+      "Australia",
+      "France",
+      "Italy",
+      "None of these"
+    ],
+    "answer": "Austria",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): জাতিসংঘের আন্তর্জাতিক পরমাণু শক্তি সংস্থা IAEA, যার পূর্ণরূপ International Atomic Energy Agency। ১৯৫৭ সালে প্রতিষ্ঠিত সংস্থাটির সদরদপ্তর অস্ট্রিয়ার রাজধানী ভিয়েনায় অবস্থিত।"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is a Scandinavian country?",
+    "options": [
+      "England",
+      "Turkey",
+      "Italy",
+      "Denmark",
+      "None of these"
+    ],
+    "answer": "Denmark",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): স্ক্যান্ডিনেভীয় বা নর্ডিক দেশ হলো পাঁচটি। যথা: নরওয়ে, সুইডেন, ডেনমার্ক, ফিনল্যান্ড ও আইসল্যান্ড।"
+  },
+  {
+    "id": 52,
+    "question": "'The Great Ocean Road' is located -",
+    "options": [
+      "Canada",
+      "West Africa",
+      "North America",
+      "Australia",
+      "None of these"
+    ],
+    "answer": "Australia",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): অস্ট্রেলিয়ার দক্ষিণ-পূর্বের ভিক্টোরিয়া অঙ্গরাজ্যের সমুদ্রপাড় ঘেঁষে নির্মিত ২৪৩ কিমি দীর্ঘ আঁকাবাঁকা রাস্তাটি 'The Great Ocean Road' নামে পরিচিত।"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following minerals is found at Jamalganj in Joypurhat district?",
+    "options": [
+      "Coal",
+      "White Clayy",
+      "Lime stone",
+      "Hard rock",
+      "None of these"
+    ],
+    "answer": "Coal",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): জয়পুরহাট জেলার জামালগঞ্জ উপজেলায় ১৯৬১ সালে কয়লাখনি আবিষ্কৃত হয়। বাংলাদেশের উন্নতমানের কয়লার সন্ধান পাওয়া গেছে এ কয়লাখনিতে।"
+  },
+  {
+    "id": 54,
+    "question": "What is the former name of electricity generation company of Bangladesh Limited?",
+    "options": [
+      "Meghna power company limited",
+      "Meghnaghat Power Company Limited",
+      "Padma power company limited",
+      "Bangladesh power company limited",
+      "None of these"
+    ],
+    "answer": "Meghnaghat Power Company Limited",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): Electricity Generation Company of Bangladesh Limited-এর পূর্ব নাম ছিল Meghnaghat Power Company, যা ২৩ নভেম্বর ১৯৯৯ প্রতিষ্ঠিত হয় এবং ১৬ ফেব্রুয়ারি ২০০৪ নাম পরিবর্তন করে বর্তমান নামে করা হয়।"
+  },
+  {
+    "id": 55,
+    "question": "সাম্প্রতিক প্রশ্নসমূহ (আপডেট তথ্যসহ)\nWhat is the name of the latest variant of COVID-19?",
+    "options": [
+      "Gamma",
+      "beta",
+      "Omicron",
+      "Delta",
+      "None of these"
+    ],
+    "answer": "Omicron",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): করোনা ভাইরাসের সর্বশেষ ভ্যারিয়েন্ট হলো ওমিক্রন। ২৪ নভেম্বর ২০২১ দক্ষিণ আফ্রিকায় প্রথম এ ভ্যারিয়েন্ট নিয়ে প্রতিবেদন প্রকাশিত হয়। এ ভ্যারিয়েন্টের আসল নাম হলো বি. ১.১.৫২৯।"
+  },
+  {
+    "id": 56,
+    "question": "Who is the honorable state ministry of ministry of power, energy and mineral resources?",
+    "options": [
+      "Tawfiq-e-Elahi Chowdhury",
+      "Nasrul Hamid",
+      "Sultan Ahmed",
+      "Md. Anisur Rahman",
+      "None of these"
+    ],
+    "answer": "Nasrul Hamid",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ মন্ত্রণালয়ের বর্তমান মন্ত্রী হলেন প্রধানমন্ত্রী শেখ হাসিনা। প্রতিমন্ত্রী হলেন নসরুল হামিদ (বিদ্যুৎ বিভাগ)।"
+  },
+  {
+    "id": 57,
+    "question": "On which date in 2021, the national Energy security Day-2021 was observed across the country?",
+    "options": [
+      "8th August",
+      "10th November",
+      "10th December",
+      "9th August",
+      "None of these"
+    ],
+    "answer": "9th August",
+    "explanation": "ব্যাখ্যা (উত্তরঃ D): ৯ আগস্ট জাতীয় জ্বালানি নিরাপত্তা দিবস। ২০১০ সাল থেকে সরকারিভাবে দিবসটি পালিত হয়ে আসছে। দিবসটির তাৎপর্য হচ্ছে, ১৯৭৫ সালের এই দিনে বঙ্গবন্ধু শেখ মুজিবুর রহমান শেল অয়েল কোম্পানির কাছ থেকে ৪৫ লাখ পাউন্ড স্টার্লিংয়ে (তখনকার ১৭ কোটি ৮৬ লাখ টাকা) পাঁচটি গ্যাসক্ষেত্র কিনে রাখেন। ক্ষেত্রগুলো হচ্ছে: তিতাস, বাখরাবাদ, রশিদপুর, হবিগঞ্জ ও কৈলাশটিলা।"
+  },
+  {
+    "id": 58,
+    "question": "Who will serve as the chair of the 'climate vulnerable forum' until 2022?",
+    "options": [
+      "Sheikh Hasina",
+      "Md. Nasheed",
+      "Abdul Zaher",
+      "Abu Naser",
+      "None of these"
+    ],
+    "answer": "Sheikh Hasina",
+    "explanation": "ব্যাখ্যা (উত্তরঃ A): বৈশ্বিক উষ্ণায়নের নেতিবাচক প্রভাব বেশি পড়েছে এমন ৪৮টি দেশকে নিয়ে ২০০৯ সালে গঠিত হয় Climate Vulnerable Forum (CVF)। এ ফোরামের ২০২০-২০২২ মেয়াদে সভাপতি বাংলাদেশ তথা পদাধিকারবলে বাংলাদেশের প্রধানমন্ত্রী।"
+  },
+  {
+    "id": 59,
+    "question": "Which one is 12th city corporation in Bangladesh?",
+    "options": [
+      "Dhaka North",
+      "Mymensingh",
+      "Gazipur",
+      "Rajshahi",
+      "Non eof these"
+    ],
+    "answer": "Mymensingh",
+    "explanation": "ব্যাখ্যা (উত্তরঃ B): বাংলাদেশের বর্তমান ১২টি সিটি কর্পোরেশন রয়েছে। সর্বশেষ ১২তম সিটি কর্পোরেশন হলো ময়মনসিংহ সিটি কর্পোরেশন, যা ২ এপ্রিল ২০১৮ প্রতিষ্ঠিত হয়।"
+  },
+  {
+    "id": 60,
+    "question": "Who is the first female vice president of the United States of America?",
+    "options": [
+      "Snna Marin",
+      "Judith Kutit",
+      "Kamala Harris",
+      "Jacinda Arden",
+      "None of these"
+    ],
+    "answer": "Kamala Harris",
+    "explanation": "ব্যাখ্যা (উত্তরঃ C): যুক্তরাষ্ট্রের ইতিহাসে প্রথম মহিলা ভাইস প্রেসিডেন্ট হলেন কমলা হ্যারিস। তিনি দেশটির ৪৬তম প্রেসিডেন্ট জো বাইডেনের রানিংমেট হিসেবে নির্বাচিত হন।"
+  }
+]
