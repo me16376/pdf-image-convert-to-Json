@@ -103,15 +103,15 @@
     {
       "id": 8,
       "section": "Teacher’s Work",
-      "question": "Who is the central character of ‘Wuthering Heights’– [ ৪০তম বিসিএস ]",
+      "question": "Who is the central character of ‘Wuthering Heights’– [৪০তম বিসিএস]",
       "options": [
         "Mr. Earnshaw",
-        "Catherine Hindley Earnshaw",
+        "Catherine",
         "Heathcliff",
-        ""
+        "Hindley Earnshaw"
       ],
       "answer": "গ",
-      "explanation": "ইংরেজি সাহিত্য ও সাহিত্যিকদের ইতিহাস এবং সাহিত্যকর্মের পরিচিতি অনুযায়ী সঠিক উত্তর: 'Heathcliff'।"
+      "explanation": "In Emily Bronte's novel 'Wuthering Heights', the central protagonist is Heathcliff."
     },
     {
       "id": 9,
@@ -610,7 +610,7 @@
     {
       "id": 47,
       "section": "Home Work",
-      "question": "The author of the book a ‘A thousand Splendid Sun’ is [ বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড (সহকারী এনফোর্সেমন্ট কো-অডিের্নটর)-২৪]",
+      "question": "The author of the book a ‘A thousand Splendid Sun’ is [ বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড (সহকারী এনফোর্সেমন্ট কো-অর্ডিনেটর)-২৪]",
       "options": [
         "Salman Rushdie",
         "Farah Ahmedi",
@@ -693,7 +693,7 @@
         "চিলি",
         "যুক্তরাজ্য",
         "আমেরিকা",
-        "জামাির্ন"
+        "জার্মানি"
       ],
       "answer": "গ",
       "explanation": "ইংরেজি সাহিত্য ও সাহিত্যিকদের ইতিহাস এবং সাহিত্যকর্মের পরিচিতি অনুযায়ী সঠিক উত্তর: 'আমেরিকা'।"
@@ -774,7 +774,7 @@
         "Historical"
       ],
       "answer": "ঘ",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Historical'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Historical'।"
     },
     {
       "id": 60,
@@ -1143,15 +1143,15 @@
     {
       "id": 88,
       "section": "Home Work",
-      "question": "Who is the author of ‘Jane Eyre’? [ ৪৩তম বিসিএস; বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড (BREB)- এর সহকারী জেনারেল ম্যানেজার-২০২৪; বাংলাদেশ রেলওয়ের উপসহকারী প্রকৌশলী-২০২৪ ]",
+      "question": "Who is the author of ‘Jane Eyre’? [৪৩তম বিসিএস; বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড (BREB)- এর সহকারী জেনারেল ম্যানেজার-২০২৪; বাংলাদেশ রেলওয়ের উপসহকারী প্রকৌশলী-২০২৪]",
       "options": [
         "Charlotte Bronte",
-        "Emily Bronte Mary Shelley",
-        "Austen",
-        ""
+        "Emily Bronte",
+        "Mary Shelley",
+        "Jane Austen"
       ],
       "answer": "ক",
-      "explanation": "ইংরেজি সাহিত্যের ইতিহাস ও গ্রন্থতালিকা অনুসারে উল্লিখিত গ্রন্থ/সাহিত্যকর্মটির রচয়িতা হলেন 'Charlotte Bronte'।"
+      "explanation": "The famous Victorian novel Jane Eyre was written by Charlotte Bronte."
     },
     {
       "id": 89,
@@ -1164,7 +1164,7 @@
         "Denmark"
       ],
       "answer": "ঘ",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Denmark'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Denmark'।"
     },
     {
       "id": 90,
@@ -1359,7 +1359,7 @@
         "Macbeth"
       ],
       "answer": "খ",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Hamlet'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Hamlet'।"
     },
     {
       "id": 105,
@@ -1385,7 +1385,7 @@
         "Measure for Measure"
       ],
       "answer": "খ",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'The Merchant of Venice'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'The Merchant of Venice'।"
     },
     {
       "id": 107,
@@ -1419,12 +1419,12 @@
       "question": "‘Vanity Fair’ is a novel written by- [৪১ তম বিসিএস]",
       "options": [
         "D. H. Lawrence",
-        "William Makepeace Thackeray Virgina Woolf",
-        "Joseph Conrad",
-        ""
+        "William Makepeace Thackeray",
+        "Virginia Woolf",
+        "Joseph Conrad"
       ],
       "answer": "খ",
-      "explanation": "ইংরেজি সাহিত্যের ইতিহাস ও গ্রন্থতালিকা অনুসারে উল্লিখিত গ্রন্থ/সাহিত্যকর্মটির রচয়িতা হলেন 'William Makepeace Thackeray Virgina Woolf'।"
+      "explanation": "Vanity Fair is a renowned English satirical novel written by William Makepeace Thackeray."
     },
     {
       "id": 110,
@@ -1437,7 +1437,7 @@
         "Mrs. Warren’ Profession"
       ],
       "answer": "ক",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Pygmalion'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Pygmalion'।"
     },
     {
       "id": 111,
@@ -1697,7 +1697,7 @@
         "Ben Jonson"
       ],
       "answer": "ঘ",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Ben Jonson'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'Ben Jonson'।"
     },
     {
       "id": 131,
@@ -1837,7 +1837,7 @@
         "the 1 st half of 19 th century",
         "the 2 nd half of 18 th century",
         "the 1 st half of 18 th century",
-        "the 2 nd half of 19 th century [ Note : The Novel was first published in 1749]"
+        "the 2nd half of 19th century"
       ],
       "answer": "গ",
       "explanation": "ইংরেজি সাহিত্য ও সাহিত্যিকদের ইতিহাস এবং সাহিত্যকর্মের পরিচিতি অনুযায়ী সঠিক উত্তর: 'the 1 st half of 18 th century'।"
@@ -1983,7 +1983,7 @@
         "Arthur Miller"
       ],
       "answer": "গ",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'G.B. Shaw'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'G.B. Shaw'।"
     },
     {
       "id": 153,
@@ -2061,7 +2061,7 @@
         "Samuel Beckett"
       ],
       "answer": "খ",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'George Bernard Shaw'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'George Bernard Shaw'।"
     },
     {
       "id": 159,
@@ -2269,7 +2269,7 @@
         "S.T. Coleridge"
       ],
       "answer": "খ",
-      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাটক ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'George Bernard Shaw'।"
+      "explanation": "ইংরেজি সাহিত্যের বিখ্যাত নাUK ও নাট্যকারদের ইতিহাস অনুযায়ী সঠিক বিকল্প হলো: 'George Bernard Shaw'।"
     },
     {
       "id": 175,

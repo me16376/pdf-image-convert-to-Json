@@ -90,7 +90,7 @@
     {
       "id": 7,
       "section": "Teacher’s Work",
-      "question": "Adverb of the word ‘Object’– [ দুনীির্ত দমন ব্যুরোর সহকারী পরিদর্শক-০৪]",
+      "question": "Adverb of the word ‘Object’– [ দুর্নীতি দমন ব্যুরোর সহকারী পরিদর্শক-০৪]",
       "options": [
         "Objection",
         "Objective",
@@ -142,28 +142,28 @@
     {
       "id": 11,
       "section": "Teacher’s Work",
-      "question": "What is the adjective form of the word ‘People’? [প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা (৩য় পর্যায়)-২০২২ ]",
+      "question": "What is the adjective form of the word ‘People’? [প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা (৩য় পর্যায়)-২০২২]",
       "options": [
-        "Popular Popularity",
-        "",
-        "Popularize Populous",
-        ""
+        "Popular",
+        "Popularity",
+        "Popularize",
+        "Populous"
       ],
       "answer": "ঘ",
-      "explanation": "শব্দের বৈশিষ্ট্য বা গুণ প্রকাশকারী সঠিক Adjective রূপটি হলো: ''।"
+      "explanation": "The noun 'People' has the adjective form 'Populous' (ঘনবসতিপূর্ণ)।"
     },
     {
       "id": 12,
       "section": "Teacher’s Work",
       "question": "The adjective form of ‘decision’ is --- [প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা (৪র্থ পর্যায় : ৩)-২০১৯]",
       "options": [
-        "decisive deceived",
-        "",
-        "decide decisiveness",
-        ""
+        "decisive",
+        "deceived",
+        "decide",
+        "decisiveness"
       ],
       "answer": "ক",
-      "explanation": "শব্দের বৈশিষ্ট্য বা গুণ প্রকাশকারী সঠিক Adjective রূপটি হলো: 'decisive deceived'।"
+      "explanation": "The noun 'decision' has the adjective form 'decisive' (চূড়ান্ত/সিদ্ধান্তমূলক)।"
     },
     {
       "id": 13,
@@ -431,12 +431,12 @@
       "question": "Choose the correct sentence.",
       "options": [
         "The house of our village is better than yours.",
-        "The houses of our village are better than those of yours",
-        "The houses our village is good than yours",
-        ""
+        "The houses of our village are better than those of yours.",
+        "The houses our village is good than yours.",
+        "The house of our village are better than those of yours."
       ],
       "answer": "খ",
-      "explanation": "Word Formation ও Degree পরিবর্তনের ব্যাকরণিক নিয়ম অনুযায়ী সঠিক উত্তর: 'The houses of our village are better than those of yours'।"
+      "explanation": "তুলনার ক্ষেত্রে বহুবচনে 'those of' ব্যবহৃত হয়। সুতরাং সঠিক বাক্য 'The houses of our village are better than those of yours.'।"
     },
     {
       "id": 34,
@@ -1026,7 +1026,7 @@
     {
       "id": 79,
       "section": "Home Work",
-      "question": "Verb of ‘Master’ is–– [বাংলাদেশ বেসামরিক বিমান চলাচল কর্তৃপক্ষ ( CAAB )-এর এরোড্রাম কর্মকর্তা/ইন্সপেক্টর/সহকারী ভা-ার কর্মকর্তা/সহকারী হিসাবরক্ষণ কর্মকর্তা/সহকারী নিরীক্ষা অফিসার ২০২১]",
+      "question": "Verb of ‘Master’ is–– [বাংলাদেশ বেসামরিক বিমান চলাচল কর্তৃপক্ষ ( CAAB )-এর এরোড্রাম কর্মকর্তা/ইন্সপেক্টর/সহকারী ভাণ্ডার কর্মকর্তা/সহকারী হিসাবরক্ষণ কর্মকর্তা/সহকারী নিরীক্ষা অফিসার ২০২১]",
       "options": [
         "Mister",
         "Mistress",

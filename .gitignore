@@ -10,3 +10,7 @@ $RECYCLE.BIN/
 # Large PDFs
 PDF/1+ Petro Bangla/
 PDF/Eminent Petro Bangla/
+
+# Python
+__pycache__/
+*.pyc
