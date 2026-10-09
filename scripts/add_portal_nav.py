@@ -61,7 +61,7 @@ def update_file(filename, active_page, count_text):
           <i class="fa-solid fa-shapes"></i> সকল প্রশ্নব্যাংক:
         </span>
         <a href="Ict-wizard-NTRCA-313-and-325.html" class="portal-link{' active' if active_page == 'ict' else ''}"><i class="fa-solid fa-laptop-code"></i> ICT Wizard NTRCA</a>
-        <a href="Bidyabari-NTRCA.html" class="portal-link{' active' if active_page == 'bidyabari' else ''}"><i class="fa-solid fa-graduation-cap"></i> বিদ্যাবাড়ি NTRCA (১৯তম)</a>
+        <a href="Biddabari-NTRCA.html" class="portal-link{' active' if active_page == 'bidyabari' else ''}"><i class="fa-solid fa-graduation-cap"></i> Biddabari-NTRCA (১৯তম)</a>
         <a href="Eminent-Petro-Bangla.html" class="portal-link{' active' if active_page == 'epb' else ''}"><i class="fa-solid fa-fire-flame-curved"></i> Eminent Petro Bangla</a>
         <a href="class 9-10-Computer-GK.html" class="portal-link{' active' if active_page == 'cgk' else ''}"><i class="fa-solid fa-desktop"></i> Class 9-10 Computer GK</a>
       </div>

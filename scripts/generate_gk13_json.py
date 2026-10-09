@@ -750,7 +750,7 @@ result_data = {
     "questions": gk13_questions
 }
 
-out_path = os.path.join(r"JSON Data/বিদ্যাবাড়ি NTRCA/GK", f"{file_title}.json")
+out_path = os.path.join(r"JSON Data/Biddabari-NTRCA/GK", f"{file_title}.json")
 with open(out_path, 'w', encoding='utf-8') as f:
     json.dump(result_data, f, ensure_ascii=False, indent=2)
 

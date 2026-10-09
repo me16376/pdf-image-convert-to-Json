@@ -253,7 +253,7 @@ def parse_line_stream(lines, sec_name):
 
 def process_bangla_pdf(lec_num):
     fname = f"Lecture Sheet-{lec_num:02d}.pdf"
-    fpath = os.path.join(r"PDF/বিদ্যাবাড়ি NTRCA/Bangla", fname)
+    fpath = os.path.join(r"PDF/Biddabari-NTRCA/Bangla", fname)
     if not os.path.exists(fpath):
         print(f"File not found: {fpath}")
         return None
@@ -344,7 +344,7 @@ def process_bangla_pdf(lec_num):
         "questions": all_questions
     }
 
-    out_dir = r"JSON Data/বিদ্যাবাড়ি NTRCA/Bangla"
+    out_dir = r"JSON Data/Biddabari-NTRCA/Bangla"
     os.makedirs(out_dir, exist_ok=True)
     out_file = os.path.join(out_dir, f"{file_title}.json")
     with open(out_file, "w", encoding="utf-8") as f:

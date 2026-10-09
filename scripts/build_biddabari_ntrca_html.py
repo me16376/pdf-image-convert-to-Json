@@ -5,7 +5,7 @@ import re
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-base = r"JSON Data/বিদ্যাবাড়ি NTRCA"
+base = r"JSON Data/Biddabari-NTRCA"
 subjects = [
     ('Bangla', 'বাংলা', 'bn'),
     ('English', 'ইংরেজি', 'eng'),
@@ -82,7 +82,7 @@ html_template = """<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>বিদ্যাবাড়ি NTRCA (১৯তম কোর্স স্পেশাল) - বিষয় ও লেকচারভিত্তিক প্রশ্নব্যাংক</title>
+  <title>Biddabari-NTRCA (১৯তম কোর্স স্পেশাল) - বিষয় ও লেকচারভিত্তিক প্রশ্নব্যাংক</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@400;500;600;700&family=Hind+Siliguri:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;500;600;700&family=Noto+Serif+Bengali:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -1237,7 +1237,7 @@ html_template = """<!DOCTYPE html>
         <span style="font-weight: 700; color: #f1f5f9; display: flex; align-items: center; gap: 6px;">
           <i class="fa-solid fa-shapes"></i> সকল প্রশ্নব্যাংক:
         </span>
-        <a href="Bidyabari-NTRCA.html" class="portal-link active"><i class="fa-solid fa-graduation-cap"></i> বিদ্যাবাড়ি NTRCA (১৯তম)</a>
+        <a href="Biddabari-NTRCA.html" class="portal-link active"><i class="fa-solid fa-graduation-cap"></i> Biddabari-NTRCA (১৯তম)</a>
         <a href="Eminent-Petro-Bangla.html" class="portal-link"><i class="fa-solid fa-fire-flame-curved"></i> Eminent Petro Bangla</a>
         <a href="Ict-wizard-NTRCA-313-and-325.html" class="portal-link"><i class="fa-solid fa-laptop-code"></i> ICT Wizard NTRCA</a>
         <a href="class 9-10-Computer-GK.html" class="portal-link"><i class="fa-solid fa-desktop"></i> Class 9-10 Computer GK</a>
@@ -1252,9 +1252,9 @@ html_template = """<!DOCTYPE html>
   <header class="app-header">
     <div class="header-container">
       <div class="header-top">
-        <a href="Bidyabari-NTRCA.html" class="brand-logo" title="বিদ্যাবাড়ি NTRCA">
+        <a href="Biddabari-NTRCA.html" class="brand-logo" title="Biddabari-NTRCA">
           <div class="badge-icon"><i class="fa-solid fa-graduation-cap"></i></div>
-          <span class="brand-name">বিদ্যাবাড়ি NTRCA</span>
+          <span class="brand-name">Biddabari-NTRCA</span>
         </a>
 
         <div class="top-actions">
@@ -1299,7 +1299,7 @@ html_template = """<!DOCTYPE html>
 
       <!-- Subject Title & Description -->
       <div class="subject-title-area">
-        <h1>বিদ্যাবাড়ি NTRCA (১৯তম কোর্স স্পেশাল)</h1>
+        <h1>Biddabari-NTRCA (১৯তম কোর্স স্পেশাল)</h1>
         <p><i class="fa-solid fa-book-open-reader"></i> বাংলা, ইংরেজি, গণিত ও সাধারণ জ্ঞান • মোট ৪টি বিষয়, ৬৭টি লেকচার শিট (৯,৯৭৪টি প্রশ্ন)</p>
       </div>
 
@@ -1466,7 +1466,7 @@ html_template = """<!DOCTYPE html>
       if (sel) sel.value = fontKey;
       if (save) {
         try {
-          localStorage.setItem('bidyabari_saved_font', fontKey);
+          localStorage.setItem('biddabari_saved_font', fontKey);
         } catch(e) {}
       }
     }
@@ -1518,7 +1518,7 @@ html_template = """<!DOCTYPE html>
       // Restore Saved Font
       let savedFont = 'hind';
       try {
-        savedFont = localStorage.getItem('bidyabari_saved_font') || 'hind';
+        savedFont = localStorage.getItem('biddabari_saved_font') || 'hind';
       } catch(e) {}
       applyFont(savedFont, false);
 
@@ -1530,8 +1530,8 @@ html_template = """<!DOCTYPE html>
       let savedSub = 'all';
       let savedCh = 'all';
       try {
-        savedSub = localStorage.getItem('bidyabari_saved_subject') || 'all';
-        savedCh = localStorage.getItem('bidyabari_saved_chapter') || 'all';
+        savedSub = localStorage.getItem('biddabari_saved_subject') || 'all';
+        savedCh = localStorage.getItem('biddabari_saved_chapter') || 'all';
       } catch(e) {}
       currentSubject = savedSub;
       currentChapter = savedCh;
@@ -1539,7 +1539,7 @@ html_template = """<!DOCTYPE html>
       // Restore Per-Page Setting
       let savedPerPage = '20';
       try {
-        savedPerPage = localStorage.getItem('bidyabari_saved_per_page') || '20';
+        savedPerPage = localStorage.getItem('biddabari_saved_per_page') || '20';
       } catch(e) {}
       const perPageSelect = document.getElementById('perPageSelect');
       if (perPageSelect) {
@@ -1549,7 +1549,7 @@ html_template = """<!DOCTYPE html>
 
       // Restore Explanations Toggle
       try {
-        const savedExp = localStorage.getItem('bidyabari_saved_exp');
+        const savedExp = localStorage.getItem('biddabari_saved_exp');
         if (savedExp !== null) showExplanations = (savedExp === 'true');
       } catch(e) {}
       const btnExp = document.getElementById('btnToggleExp');
@@ -1562,7 +1562,7 @@ html_template = """<!DOCTYPE html>
 
       // Restore Answers Toggle
       try {
-        const savedAns = localStorage.getItem('bidyabari_saved_answers');
+        const savedAns = localStorage.getItem('biddabari_saved_answers');
         if (savedAns !== null) showAnswers = (savedAns === 'true');
       } catch(e) {}
       const btnAns = document.getElementById('btnToggleAnswers');
@@ -1575,7 +1575,7 @@ html_template = """<!DOCTYPE html>
 
       // Restore Bengali Number Toggle
       try {
-        const savedNum = localStorage.getItem('bidyabari_saved_num_lang');
+        const savedNum = localStorage.getItem('biddabari_saved_num_lang');
         if (savedNum !== null) {
           useBengaliNumbers = (savedNum === 'true');
           document.getElementById('numLangText').textContent = useBengaliNumbers ? 'সংখ্যা: বাংলা' : 'সংখ্যা: English';
@@ -1607,14 +1607,14 @@ html_template = """<!DOCTYPE html>
         questionsPerSheet = val === 'all' ? 999999 : parseInt(val, 10);
         currentPage = 1;
         try {
-          localStorage.setItem('bidyabari_saved_per_page', val);
+          localStorage.setItem('biddabari_saved_per_page', val);
         } catch(e) {}
         render();
       });
 
       // Restore Practice Mode Toggle
       try {
-        const savedPractice = localStorage.getItem('bidyabari_saved_practice');
+        const savedPractice = localStorage.getItem('biddabari_saved_practice');
         if (savedPractice !== null) isPracticeMode = (savedPractice === 'true');
       } catch(e) {}
       const btnPractice = document.getElementById('btnTogglePractice');
@@ -1631,7 +1631,7 @@ html_template = """<!DOCTYPE html>
           document.body.classList.toggle('practice-mode', isPracticeMode);
           document.getElementById('practiceText').textContent = isPracticeMode ? 'অনুশীলন বন্ধ' : 'অনুশীলন করুন';
           try {
-            localStorage.setItem('bidyabari_saved_practice', isPracticeMode);
+            localStorage.setItem('biddabari_saved_practice', isPracticeMode);
           } catch(e) {}
           render();
         });
@@ -1653,7 +1653,7 @@ html_template = """<!DOCTYPE html>
         }
         document.body.classList.toggle('show-answers', showAnswers);
         try {
-          localStorage.setItem('bidyabari_saved_answers', showAnswers);
+          localStorage.setItem('biddabari_saved_answers', showAnswers);
         } catch(e) {}
         render();
       });
@@ -1675,7 +1675,7 @@ html_template = """<!DOCTYPE html>
           document.body.classList.remove('show-explanations');
         }
         try {
-          localStorage.setItem('bidyabari_saved_exp', showExplanations);
+          localStorage.setItem('biddabari_saved_exp', showExplanations);
         } catch(e) {}
       });
 
@@ -1684,7 +1684,7 @@ html_template = """<!DOCTYPE html>
         useBengaliNumbers = !useBengaliNumbers;
         document.getElementById('numLangText').textContent = useBengaliNumbers ? 'সংখ্যা: বাংলা' : 'সংখ্যা: English';
         try {
-          localStorage.setItem('bidyabari_saved_num_lang', useBengaliNumbers);
+          localStorage.setItem('biddabari_saved_num_lang', useBengaliNumbers);
         } catch(e) {}
         populateLecturesUI();
         render();
@@ -1725,8 +1725,8 @@ html_template = """<!DOCTYPE html>
       currentSubject = subKey;
       currentChapter = 'all';
       try {
-        localStorage.setItem('bidyabari_saved_subject', subKey);
-        localStorage.setItem('bidyabari_saved_chapter', 'all');
+        localStorage.setItem('biddabari_saved_subject', subKey);
+        localStorage.setItem('biddabari_saved_chapter', 'all');
       } catch(e) {}
 
       updateSubjectTabsUI();
@@ -1820,7 +1820,7 @@ html_template = """<!DOCTYPE html>
 
       if (save) {
         try {
-          localStorage.setItem('bidyabari_saved_chapter', chId);
+          localStorage.setItem('biddabari_saved_chapter', chId);
         } catch(e) {}
       }
 
@@ -1914,7 +1914,7 @@ html_template = """<!DOCTYPE html>
       const sheetCard = document.createElement('div');
       sheetCard.className = 'exam-sheet';
 
-      let headerTitle = 'বিদ্যাবাড়ি NTRCA (১৯তম কোর্স) - প্রশ্নব্যাংক';
+      let headerTitle = 'Biddabari-NTRCA (১৯তম কোর্স) - প্রশ্নব্যাংক';
       if (currentChapter !== 'all') {
         const c = chaptersData.find(x => x.id === currentChapter);
         if (c) headerTitle = `${c.subjectBn} - ${c.short}: ${c.title}`;
@@ -2140,7 +2140,7 @@ html_template = """<!DOCTYPE html>
 lectures_json = json.dumps(lectures, ensure_ascii=False)
 final_html = html_template.replace("%LECTURES_JSON%", lectures_json)
 
-out_file = "Bidyabari-NTRCA.html"
+out_file = "Biddabari-NTRCA.html"
 with open(out_file, "w", encoding="utf-8") as f:
     f.write(final_html)
 

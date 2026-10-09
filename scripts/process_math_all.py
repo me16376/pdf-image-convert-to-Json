@@ -133,7 +133,7 @@ def parse_math_stream(lines, default_sec='Teacher’s Work', is_class_test=False
 
 def process_math_pdf(sheet_num):
     fname = f"Lecture Sheet-{sheet_num:02d}.pdf"
-    fpath = os.path.join(r"PDF/বিদ্যাবাড়ি NTRCA/Math", fname)
+    fpath = os.path.join(r"PDF/Biddabari-NTRCA/Math", fname)
     if not os.path.exists(fpath):
         print(f"File not found: {fpath}")
         return None
@@ -227,7 +227,7 @@ def process_math_pdf(sheet_num):
         "questions": final_questions
     }
 
-    out_dir = r"JSON Data/বিদ্যাবাড়ি NTRCA/Math"
+    out_dir = r"JSON Data/Biddabari-NTRCA/Math"
     os.makedirs(out_dir, exist_ok=True)
     out_path = os.path.join(out_dir, f"{file_title}.json")
 
