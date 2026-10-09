@@ -1,0 +1,162 @@
+import os
+import sys
+import json
+
+sys.stdout.reconfigure(encoding='utf-8')
+
+q1_20 = [
+    {
+        "id": 1,
+        "question": "বাংলা ভাষা ও সাহিত্য প্রাচীন নির্দেশনা কি",
+        "options": ["মহাভারত", "রামায়ণ", "বঙ্গনামা", "চর্যাপদ"],
+        "answer": "ঘ",
+        "explanation": ""
+    },
+    {
+        "id": 2,
+        "question": "বচন ও লিঙ্গ ব্যাকরণের কোন অংশে আলোচিত হয়",
+        "options": ["ভাষাতত্ত্বে", "রূপতত্ত্বে", "ধ্বনিতত্ত্বে", "বাক্যতত্ত্বে"],
+        "answer": "খ",
+        "explanation": ""
+    },
+    {
+        "id": 3,
+        "question": "\"pen throught the line\"-এর সঠিক অনুবাদ",
+        "options": ["লাইন এর উপর কলম ছোড়", "লাইন বরাবর কলম চালাও", "লাইন টি কেটে দাও", "লাইন টি মুছে ফালও"],
+        "answer": "গ",
+        "explanation": ""
+    },
+    {
+        "id": 4,
+        "question": "\"এ দেহে প্রাণ নেই \"কোন কারকা এ কোন বিভক্তি ?",
+        "options": ["অধিকরণে ৭মী", "করণে ৭মী", "কর্তাই ৭মী", "কর্মে ৭ মী"],
+        "answer": "ক",
+        "explanation": ""
+    },
+    {
+        "id": 5,
+        "question": "শ্রাবণ শব্দের প্রকিতি ও প্রত্যয় কোনটি?",
+        "options": ["শ্রী+অন", "শ্রাবণ+ আ", "শ্রী+ অনট", "শ্রব+অন"],
+        "answer": "ক",
+        "explanation": ""
+    },
+    {
+        "id": 6,
+        "question": "উড়নচণ্ডী বাগধারা এর অর্থ কি?",
+        "options": ["উচ্ছিৃঙ্খল", "অমিতব্যয়ী", "নির্বোধ", "ভবঘুরে"],
+        "answer": "খ",
+        "explanation": ""
+    },
+    {
+        "id": 7,
+        "question": "'নিশিত' শব্দ এর অর্থ কি?",
+        "options": ["ধারাল", "গভীর রাত", "ঝরনা", "শিকারি"],
+        "answer": "ক",
+        "explanation": ""
+    },
+    {
+        "id": 8,
+        "question": "উপমান কর্মধারাই সমাস এর উদাহরন কোনটি?",
+        "options": ["মনমাঝি", "ঘনশ্যাম", "মুখচন্দ্র", "ক্রধানল"],
+        "answer": "খ",
+        "explanation": ""
+    },
+    {
+        "id": 9,
+        "question": "'যে নারীর স্বামী ও পুত্র নেই' এক কথাই কি বলে ?",
+        "options": ["অনূঢ়া", "কুমারী", "নবঢ়ো", "অবীরা"],
+        "answer": "ঘ",
+        "explanation": ""
+    },
+    {
+        "id": 10,
+        "question": "কোনটির লিঙান্তর হয় না?",
+        "options": ["বাহাইয়া", "সাহেব", "কবিরাজ", "রজক"],
+        "answer": "গ",
+        "explanation": ""
+    },
+    {
+        "id": 11,
+        "question": "'হরতাল' কোন ভাষার শব্দ?",
+        "options": ["পাঞ্জাবি", "জাপানি", "তুর্কি", "গুজরাটী"],
+        "answer": "ঘ",
+        "explanation": ""
+    },
+    {
+        "id": 12,
+        "question": "কোন বানানটি অশুদ্ধ?",
+        "options": ["সূর্য", "সুবর্ণ", "অনুসঙ্গ", "ফটোস্ট্যাট"],
+        "answer": "গ",
+        "explanation": ""
+    },
+    {
+        "id": 13,
+        "question": "কোনটি বিশেষ নিয়ম সাধিত স্ত্রী বাচক শব্দ?",
+        "options": ["গাড়িওসি", "মানবী", "মাধবিনী", "সধবা"],
+        "answer": "ক",
+        "explanation": ""
+    },
+    {
+        "id": 14,
+        "question": "'বাবা কে বড়ো ভয় পাই'-চিহ্নিত শব্দটির কোন কারক কোন বিভক্ত?",
+        "options": ["কর্ম ২ য়া", "কর্ম ৪ র্থী", "অপাদান ২ য়া", "অপাদান ৫ মী"],
+        "answer": "গ",
+        "explanation": ""
+    },
+    {
+        "id": 15,
+        "question": "কোনটি বিপরীতক দ্বন্দ্ব?",
+        "options": ["ঝিকিমিকি", "মারামারি", "ছটফট", "চালচলন"],
+        "answer": "ক",
+        "explanation": ""
+    },
+    {
+        "id": 16,
+        "question": "কোন পুরুষ এর অনুজ্ঞা পদ হয় না?",
+        "options": ["উত্তম পুরুষ", "মধ্যম পুরুষ", "নাম পুরুষ", "প্রথম পুরুষ"],
+        "answer": "ক",
+        "explanation": ""
+    },
+    {
+        "id": 17,
+        "question": "জন্ম এর বিশেষণ রূপ কোনটি?",
+        "options": ["জনম", "জাত", "সৃষ্টি", "জান্ম"],
+        "answer": "খ",
+        "explanation": ""
+    },
+    {
+        "id": 18,
+        "question": "'আয়না' আবুল মনসুর আহমেদ কোন ধরণের রচনা?",
+        "options": ["প্রবন্ধ", "কাাব্যগ্রন্থ", "রম্য রচনা", "নাটক"],
+        "answer": "গ",
+        "explanation": ""
+    },
+    {
+        "id": 19,
+        "question": "সময়ের অনেক গভীরে ডুব দিয়ে /আমি আমার স্বদেশ দেখছি ' কবিতা কার রচনা?",
+        "options": ["শামসুর রাহমান", "সৈয়দ আলী আহসান", "সুভাষ মুখপদ্দই", "সিকান্দার আবু জাফর"],
+        "answer": "খ",
+        "explanation": ""
+    },
+    {
+        "id": 20,
+        "question": "Lexicography এর বাংলা পারিভাষিক শব্দ কি?",
+        "options": ["ভাষাতত্ত্ব", "অভিধানতত্ত্ব", "ধ্বনিতত্ত্ব", "বাক্য তত্ত্ব"],
+        "answer": "খ",
+        "explanation": ""
+    }
+]
+
+model_test_data = {
+    "title": "বাংলা বুলেটিন-৩২",
+    "subject": "Bangla",
+    "model_test": "Model Test-32",
+    "total_questions": len(q1_20),
+    "questions": q1_20
+}
+
+output_path = "JSON Data/Saif Sir NTRCA Suggestion/Bangla/Model Test-32.json"
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(model_test_data, f, ensure_ascii=False, indent=2)
+
+print(f"Saved {output_path} successfully with {len(q1_20)} questions.")
