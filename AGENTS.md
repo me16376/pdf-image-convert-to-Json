@@ -23,8 +23,8 @@
 - **English Status:**
   - **COMPLETED:** **Model Test-01 through Model Test-97 + Model Test-46A** (All 98 JSON files, 2,034 MCQs verified & saved).
 - **Math Status:**
-  - **IN PROGRESS:** **Model Test-01 to Model Test-17 Completed** (450 MCQs verified & saved across 18 JSON files). Bulletins 18 to 29 pending (Pages 308–338).
-  - **Next Task:** When user says `continue`: Start **Math Bulletin-18 (`গণিত বুলেটিন-১৮`)** on PDF Page 308 (0-indexed page 307, banner `গণিত বুলেটিন-১৮`, question 451). Target output: `JSON Data/Saif Sir NTRCA Suggestion/Math/Model Test-18.json`.
+  - **IN PROGRESS:** **Model Test-01 to Model Test-18 Completed** (475 MCQs verified & saved across 19 JSON files). Bulletins 19 to 29 pending (Pages 311–338).
+  - **Next Task:** When user says `continue`: Start **Math Bulletin-19 (`গণিত বুলেটিন-১৯`)** on PDF Page 311 (0-indexed page 310, banner `গণিত বুলেটিন-১৯`, question 476). Target output: `JSON Data/Saif Sir NTRCA Suggestion/Math/Model Test-19.json`.
 - Refer to `PROGRESS.md` for complete progress tracking.
 
 

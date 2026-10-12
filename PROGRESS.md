@@ -220,8 +220,8 @@
   - **Status:** **ALL 97 ENGLISH BULLETINS (98 JSON FILES) COMPLETED & VERIFIED!**
 
 - **Math (গণিত):** Bulletins 1 to 29 (Pages 257–338) — **IN PROGRESS**
-  - **Completed:** Model Test-01 to Model Test-17 (`Model Test-01.json` to `Model Test-17.json` + `Model Test-03A.json`)
-  - **Total MCQs Extracted & Verified:** **450 MCQs** (18 JSON files)
+  - **Completed:** Model Test-01 to Model Test-18 (`Model Test-01.json` to `Model Test-18.json` + `Model Test-03A.json`)
+  - **Total MCQs Extracted & Verified:** **475 MCQs** (19 JSON files)
     - Model Test-01: 26 MCQs (Pages 257–260)
     - Model Test-02: 25 MCQs (Pages 260–264)
     - Model Test-03: 25 MCQs (Pages 264–266)
@@ -240,15 +240,16 @@
     - Model Test-15: 24 MCQs (Pages 299–302, Q376–Q400, book skipped 399)
     - Model Test-16: 25 MCQs (Pages 302–305, Q401–Q425)
     - Model Test-17: 25 MCQs (Pages 305–308, Q426–Q450)
-  - **Pending:** Bulletins 18 to 29
+    - Model Test-18: 25 MCQs (Pages 308–311, Q451–Q475)
+  - **Pending:** Bulletins 19 to 29
 
 ---
 
 ## 2. Next Step When Resuming ("continue")
 When the user types `continue`:
-1. Start directly with **Math Bulletin-18** (`গণিত বুলেটিন-১৮` / questions starting at 451).
-   - Location: Starts on PDF Page 308 (0-indexed page 307, banner `গণিত বুলেটিন-১৮`, question 451).
-   - Target Folder: `JSON Data/Saif Sir NTRCA Suggestion/Math/Model Test-18.json`
+1. Start directly with **Math Bulletin-19** (`গণিত বুলেটিন-১৯` / questions starting at 476).
+   - Location: Starts on PDF Page 311 (0-indexed page 310, banner `গণিত বুলেটিন-১৯`, question 476).
+   - Target Folder: `JSON Data/Saif Sir NTRCA Suggestion/Math/Model Test-19.json`
 2. Follow standard JSON schema:
    ```json
    {
