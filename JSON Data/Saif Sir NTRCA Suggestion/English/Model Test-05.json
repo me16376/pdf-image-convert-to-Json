@@ -1,0 +1,224 @@
+{
+  "title": "ইংলিশ বুলেটিন-০৫",
+  "subject": "English",
+  "model_test": "Model Test-05",
+  "total_questions": 18,
+  "questions": [
+    {
+      "id": 1,
+      "question": "মানবজাতি এখন সংকটাপন্ন।",
+      "options": {
+        "ক": "Mankind are at a stake now.",
+        "খ": "Mankind are at stake now.",
+        "গ": "Mankind is at stake now.",
+        "ঘ": "Men are at stake now."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "তার কোনো বন্ধু নাই বললেই চলে।",
+      "options": {
+        "ক": "He has no friends.",
+        "খ": "He has a few friends.",
+        "গ": "He has few friends.",
+        "ঘ": "He does not have any friends."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "বিনয় মহত্ত্বের ভূষণ।",
+      "options": {
+        "ক": "Modesty is the embellishment of greatness.",
+        "খ": "Modesty is greatness.",
+        "গ": "Modesty is great embellishment.",
+        "ঘ": "Modesty is embellishment to greatness."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "What is the antonym of `agile`?",
+      "options": {
+        "ক": "active",
+        "খ": "nimble",
+        "গ": "lively",
+        "ঘ": "lazy"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "The antonym of `optimism` is -",
+      "options": {
+        "ক": "Pessimism",
+        "খ": "Opprtunities",
+        "গ": "Pestilence",
+        "ঘ": "Opulenvce"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "What is the synonym of `alliance`?",
+      "options": {
+        "ক": "Enmity",
+        "খ": "Alien",
+        "গ": "Associtation",
+        "ঘ": "Separation"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "The synonym of `annihilate`is -",
+      "options": {
+        "ক": "restore",
+        "খ": "preserve",
+        "গ": "safe",
+        "ঘ": "destroy"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Varb form of `false`is -",
+      "options": {
+        "ক": "falsify",
+        "খ": "falsely",
+        "গ": "falsification",
+        "ঘ": "falcify"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Adverb form of 'heart' is -",
+      "options": {
+        "ক": "heartened",
+        "খ": "heartily",
+        "গ": "hearty",
+        "ঘ": "heartening"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Adjecrive from of `courage` is -",
+      "options": {
+        "ক": "encourage",
+        "খ": "courageous",
+        "গ": "curiosity",
+        "ঘ": "courageable"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "What is the verb form of `ability`?",
+      "options": {
+        "ক": "ableness",
+        "খ": "enable",
+        "গ": "ably",
+        "ঘ": "able"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "It`s time you – youre mistakes.",
+      "options": {
+        "ক": "realised",
+        "খ": "realise",
+        "গ": "had realised",
+        "ঘ": "have realised"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Jamal walks as if he – lame.",
+      "options": {
+        "ক": "is",
+        "খ": "has been",
+        "গ": "were",
+        "ঘ": "was"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Uneasy lies the head that – a crown.",
+      "options": {
+        "ক": "wear",
+        "খ": "wears",
+        "গ": "puts",
+        "ঘ": "keep"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Read diligently lest you – fail in the examination.",
+      "options": {
+        "ক": "should",
+        "খ": "will",
+        "গ": "shall",
+        "ঘ": "must"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "He – me while I was reading.",
+      "options": {
+        "ক": "interrupts",
+        "খ": "interrupted",
+        "গ": "is interrupting",
+        "ঘ": "interrupting"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Corruption is one of the worst evils. (Positive)",
+      "options": {
+        "ক": "Very few evils is as bad as corruption.",
+        "খ": "No other evils are as bad as corruption.",
+        "গ": "No other evils is as bad as corruption.",
+        "ঘ": "Very few evils are as bad as corruption."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "We should read books to gain knowledge. (Make it complex)?",
+      "options": {
+        "ক": "We should read books for gaining knowledge.",
+        "খ": "We should read books and gain knowledge.",
+        "গ": "We should read books so that we can gain knowledge.",
+        "ঘ": "We should read books to gain knowledge."
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৮১",
+  "subject": "English",
+  "model_test": "Model Test-81",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "অবাক কাজ এর ইংরেজি-",
+      "options": {
+        "ক": "The work wonderful",
+        "খ": "What is strange?",
+        "গ": "The wonderful work",
+        "ঘ": "The beautiful work"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "Poors are not always dishonest",
+        "খ": "The poor are not always dishonest",
+        "গ": "The poors are not always dishonest",
+        "ঘ": "The poor is not always dishonest"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "What is the antonym of ‘ Gentle’",
+      "options": {
+        "ক": "Harsh",
+        "খ": "Rude",
+        "গ": "Cleaver",
+        "ঘ": "Modest"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "“Hardly ‘ means –",
+      "options": {
+        "ক": "frequently",
+        "খ": "very often",
+        "গ": "scarcely",
+        "ঘ": "positively"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Harvest is related to –",
+      "options": {
+        "ক": "crop",
+        "খ": "autumn",
+        "গ": "tractor",
+        "ঘ": "stockpile"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "Fifty miles is a long distance",
+        "খ": "Fifty miles has a long distance",
+        "গ": "Fifty miles are a long distance",
+        "ঘ": "Fifty mile is a long distance"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "What is the correct antonym of ‘ panic’?",
+      "options": {
+        "ক": "relax",
+        "খ": "sit",
+        "গ": "laugh",
+        "ঘ": "dance"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The opposite of ‘ Friendship’",
+      "options": {
+        "ক": "dislike",
+        "খ": "bitterness",
+        "গ": "loggerheads",
+        "ঘ": "enmity"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "‘ Manifesto ‘ means",
+      "options": {
+        "ক": "policy statement",
+        "খ": "well behaved",
+        "গ": "various forms things",
+        "ঘ": "manifold"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct spelling:",
+      "options": {
+        "ক": "ascertain",
+        "খ": "ascertain",
+        "গ": "asartain",
+        "ঘ": "ascertain"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "‘Pass for’ means –",
+      "options": {
+        "ক": "appear to be",
+        "খ": "allow",
+        "গ": "brush aside",
+        "ঘ": "qualify"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "The Headmaster is the --- person in the village –",
+      "options": {
+        "ক": "wise",
+        "খ": "better",
+        "গ": "wisest",
+        "ঘ": "best"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "He sleep a sound sleep. Here ‘sound’ is a /an",
+      "options": {
+        "ক": "adverb",
+        "খ": "adjective",
+        "গ": "noun",
+        "ঘ": "pronoun"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "He said, What a pity’ বাক্যের indirect speech –",
+      "options": {
+        "ক": "He exclaimed that it is a great pity",
+        "খ": "He exclaimed that it was a great pity",
+        "গ": "He exclaimed that it is great pity",
+        "ঘ": "He exclaimed that it is very pity"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Optimist is to cheerful as pessimist is to –",
+      "options": {
+        "ক": "pretty",
+        "খ": "mean",
+        "গ": "helpful",
+        "ঘ": "gloomy"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Everybody longs --- happiness.",
+      "options": {
+        "ক": "from",
+        "খ": "for",
+        "গ": "in",
+        "ঘ": "for"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "The opposite of ‘purchase’",
+      "options": {
+        "ক": "sell",
+        "খ": "buy",
+        "গ": "produce",
+        "ঘ": "procure"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Mankind means –",
+      "options": {
+        "ক": "the male kind",
+        "খ": "the human race",
+        "গ": "the people in general",
+        "ঘ": "kind men"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘Competent ‘ means –",
+      "options": {
+        "ক": "able",
+        "খ": "competitive",
+        "গ": "forceful",
+        "ঘ": "forcefully"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "What is the antonym of ‘famous’",
+      "options": {
+        "ক": "obscure",
+        "খ": "immature",
+        "গ": "opaque",
+        "ঘ": "illiterate"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "title": "ইংলিশ বুলেটিন-৩৫",
+  "subject": "English",
+  "model_test": "Model Test-35",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following sentence is correct?",
+      "options": {
+        "ক": "I forbade him going",
+        "খ": "I forbade him not to go",
+        "গ": "I forbade him from going",
+        "ঘ": "I forbade him to go"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Which of the following sets contain the correct meaning?",
+      "options": {
+        "ক": "antipathy : Strong dislike",
+        "খ": "Bequeath : Determined to go",
+        "গ": "Collide : Indifferent",
+        "ঘ": "Devolve : Without"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Who wrote `The Taming of the shrew'?",
+      "options": {
+        "ক": "John Dryden",
+        "খ": "William Shakespeare",
+        "গ": "G. B Shaw",
+        "ঘ": "W. B Yeats"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Find the correct compound sentence.",
+      "options": {
+        "ক": "I offended him because i did this.",
+        "খ": "He kept the promise he had made.",
+        "গ": "I did this and so offered him.",
+        "ঘ": "He kept his promise."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Who is known as \"the father of Green revolution\"?",
+      "options": {
+        "ক": "Norman Borloug",
+        "খ": "Rachel Carson",
+        "গ": "Joseph Watson",
+        "ঘ": "Hantony A. Wallace"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Which of the following sentences uses `right' as an adjective?",
+      "options": {
+        "ক": "It is such a fault that will right itself.",
+        "খ": "Serve him right.",
+        "গ": "He is a right man for the job.",
+        "ঘ": "It is a matter of right."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Which of the following sentences has Factitive object?",
+      "options": {
+        "ক": "He was made king by them.",
+        "খ": "They were talked of by us.",
+        "গ": "Puffed rice is not liked by me.",
+        "ঘ": "Had he not called by you?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Identify the word in the plural form.",
+      "options": {
+        "ক": "Civics",
+        "খ": "Agendum",
+        "গ": "Physics",
+        "ঘ": "Radii"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Choose the word that has the closest meaning with the word `semblance'?",
+      "options": {
+        "ক": "Disparate",
+        "খ": "Impression",
+        "গ": "Dismantle",
+        "ঘ": "Concise"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Which of the following word is Verb-Adverb?",
+      "options": {
+        "ক": "Make-up",
+        "খ": "Hold-all",
+        "গ": "Hear-say",
+        "ঘ": "Know-how"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Fill in the blank ............ is the Shakespeare's Last play.",
+      "options": {
+        "ক": "Macbeth",
+        "খ": "Tempest",
+        "গ": "Othello",
+        "ঘ": "As you like it"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "ক": "His brother was left before I reached.",
+        "খ": "His brother has left before I reached.",
+        "গ": "His brother left before I reached there.",
+        "ঘ": "His brother had left before I reached there."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The best passive form of the sentence `What do you want' is-",
+      "options": {
+        "ক": "What was wanted by you?",
+        "খ": "What is wanted by you?",
+        "গ": "What is wanting by you?",
+        "ঘ": "What was wanting by you?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Would you please find out Bangladesh ......... the map?",
+      "options": {
+        "ক": "on",
+        "খ": "over",
+        "গ": "at",
+        "ঘ": "in"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "What is the interrogative form of `All love flowers'?",
+      "options": {
+        "ক": "Do all love flowers?",
+        "খ": "Who does not love flowers?",
+        "গ": "Who do not love flowers?",
+        "ঘ": "Who loves flowers?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Change the voice. Who is calling me?",
+      "options": {
+        "ক": "By whom am I being called?",
+        "খ": "By whom am I called?",
+        "গ": "By whom I am called?",
+        "ঘ": "who am I called by?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "To doctor an animal means-",
+      "options": {
+        "ক": "to poison",
+        "খ": "To treat it",
+        "গ": "To sterilize it",
+        "ঘ": "To curse it"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "`Foot loose and fancy-free' means-",
+      "options": {
+        "ক": "unemployed",
+        "খ": "whose foot is lost",
+        "গ": "free to enjoy oneself",
+        "ঘ": "imaginative"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "A rolling stone gathers no moss. Here `rolling' is-",
+      "options": {
+        "ক": "Gerund",
+        "খ": "Adjective",
+        "গ": "Participle",
+        "ঘ": "Noun"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Which sentence is correct?",
+      "options": {
+        "ক": "I knew the police of the matter.",
+        "খ": "My father informed the matter to the police.",
+        "গ": "My father informed the police of the matter.",
+        "ঘ": "My father informed of the matter to the police."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "'Look before you leap' Here 'look' is-",
+      "options": {
+        "ক": "a subordinate clause",
+        "খ": "not a clause",
+        "গ": "the principal clause",
+        "ঘ": "a verb clause"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct spelling-",
+      "options": {
+        "ক": "abborigines",
+        "খ": "aboriginnes",
+        "গ": "aborigines",
+        "ঘ": "aboregenes"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "I am accustomed ............ such a life. Fill this gap with-",
+      "options": {
+        "ক": "to",
+        "খ": "with",
+        "গ": "in",
+        "ঘ": "by"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "A mournful poem written on the death of someone loved and lost-",
+      "options": {
+        "ক": "Tragedy",
+        "খ": "Homage",
+        "গ": "Ode",
+        "ঘ": "Elegy"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "When we want to mean a government by the richest class, we use the term-",
+      "options": {
+        "ক": "Plutocracy",
+        "খ": "Cryptoeracy",
+        "গ": "Arlatocracy",
+        "ঘ": "Oligarchy"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "question": "Who was not awarded the Nobel Prize-",
+      "options": {
+        "ক": "Elizabeth Barrett",
+        "খ": "JohnGalsworthy",
+        "গ": "Orhan Pamuk",
+        "ঘ": "Winston Churchill"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 27,
+      "question": "Synonym of `Humility' -",
+      "options": {
+        "ক": "Huminity",
+        "খ": "Humiliate",
+        "গ": "Insult",
+        "ঘ": "Modesthy"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 28,
+      "question": "‘He is a man of straw’ Here `man of straw' means-",
+      "options": {
+        "ক": "a man of strong morality",
+        "খ": "a very active person",
+        "গ": "A rich man",
+        "ঘ": "a man of no substance"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 29,
+      "question": "Which of the following words is a noun?",
+      "options": {
+        "ক": "Ricochet",
+        "খ": "Ordian",
+        "গ": "Imprimatur",
+        "ঘ": "Pontificate"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 30,
+      "question": "Masculine gender for `Bee' is-",
+      "options": {
+        "ক": "Dame",
+        "খ": "Drone",
+        "গ": "Doe",
+        "ঘ": "Drake"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

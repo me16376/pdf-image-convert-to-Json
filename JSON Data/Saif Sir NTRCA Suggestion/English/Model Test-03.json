@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-০৩",
+  "subject": "English",
+  "model_test": "Model Test-03",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "যারে দেখতে নারি তার চলন বাঁকা।",
+      "options": {
+        "ক": "Faults are unfair where love is fair.",
+        "খ": "Faults are thick where love is thin.",
+        "গ": "Faults are counted where there is no love",
+        "ঘ": "Faults are many where love is little."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "তুমি কি জানো সে কোথায় থাকে?",
+      "options": {
+        "ক": "Do you know where does he live?",
+        "খ": "Do you know where does he lives?",
+        "গ": "Do you know where he lives?",
+        "ঘ": "Do you know where he live?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "আজ বৃষ্টি হতে পারে?",
+      "options": {
+        "ক": "Today will rain",
+        "খ": "It should be raining today",
+        "গ": "It may rain today.",
+        "ঘ": "Today is raining."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "What is the antonym of ‘transparent’?",
+      "options": {
+        "ক": "Transform",
+        "খ": "Lubricant",
+        "গ": "Pure",
+        "ঘ": "Hazy"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "The synonym of ‘Prestige’ is_",
+      "options": {
+        "ক": "status",
+        "খ": "state",
+        "গ": "prestigious",
+        "ঘ": "static"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "What is the antonym of ‘antagonistic’?",
+      "options": {
+        "ক": "Unfriendly",
+        "খ": "Friendly",
+        "গ": "Hostile",
+        "ঘ": "Trivial"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "what is the adjective of ‘Laud’?",
+      "options": {
+        "ক": "Laudable",
+        "খ": "Laudful",
+        "গ": "Laudy",
+        "ঘ": "Lauded"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "What is the verb form of ‘Popularity’?",
+      "options": {
+        "ক": "Popular",
+        "খ": "Popularly",
+        "গ": "Population",
+        "ঘ": "Popularize"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Noun form of ‘blind’ is _",
+      "options": {
+        "ক": "blind",
+        "খ": "blindly",
+        "গ": "blindness",
+        "ঘ": "blindly"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "I will not go out if it _",
+      "options": {
+        "ক": "rain",
+        "খ": "rains",
+        "গ": "is raining",
+        "ঘ": "would be raining"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "One of the boys_ absent yesterday.",
+      "options": {
+        "ক": "was",
+        "খ": "is",
+        "গ": "were",
+        "ঘ": "are"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "She talked as thought she _ CEO of that company.",
+      "options": {
+        "ক": "was",
+        "খ": "were",
+        "গ": "had",
+        "ঘ": "had been"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "You had better (to go) there.",
+      "options": {
+        "ক": "You had better gone there.",
+        "খ": "You had better went there.",
+        "গ": "You had better go there.",
+        "ঘ": "You had better will go there."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "I was him (go) there.",
+      "options": {
+        "ক": "go",
+        "খ": "gone",
+        "গ": "was going",
+        "ঘ": "going"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Time flies very fast.(Exclamatory)",
+      "options": {
+        "ক": "how fast the time flies!",
+        "খ": "How time do fly!",
+        "গ": "How time flies!",
+        "ঘ": "How time fly!"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Everybody accepts this.(Interrogative)",
+      "options": {
+        "ক": "Nobody reject this",
+        "খ": "Does everybody accept this?",
+        "গ": "Who does not accept this?",
+        "ঘ": "Who accept this?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "We explain why we want to do it. (passive)",
+      "options": {
+        "ক": "The reason want to do that will be  explained by us.",
+        "খ": "All the reasons we explain be explained by us.",
+        "গ": "Why we want to be do would be explained by us.",
+        "ঘ": "Why we want to do it will be explained by us."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "We work hard to earn money. (Compound)",
+      "options": {
+        "ক": "We work hard to earn a lot of money.",
+        "খ": "We work hard so that we can earn  money.",
+        "গ": "We work hard so that we can earn money.",
+        "ঘ": "We work hard and we want to earn money."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "what is the meaning of the phrase ‘a man of letters’?",
+      "options": {
+        "ক": "A dull-headed person",
+        "খ": "A scholar",
+        "গ": "A big gun",
+        "ঘ": "A wealthy person"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "‘Do  away with’ means_",
+      "options": {
+        "ক": "to remove something",
+        "খ": "to flourish something",
+        "গ": "to forward something",
+        "ঘ": "to set up something new"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "It is high time you _ a business.",
+      "options": {
+        "ক": "starts",
+        "খ": "start",
+        "গ": "started",
+        "ঘ": "can start"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Navid told Sumon that he (go) to Khulna the next day.",
+      "options": {
+        "ক": "went",
+        "খ": "had gone",
+        "গ": "will go",
+        "ঘ": "would go"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "‘Bolt from of the blue’ means_",
+      "options": {
+        "ক": "a danger with warning",
+        "খ": "a danger without warning",
+        "গ": "hard danger",
+        "ঘ": "powerful danger"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Adjective form of ‘ambition’ is_",
+      "options": {
+        "ক": "ambitive",
+        "খ": "ambitionaly",
+        "গ": "ambigious",
+        "ঘ": "ambitious"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "He is a liar, _?",
+      "options": {
+        "ক": "does he",
+        "খ": "isn’t he",
+        "গ": "is he",
+        "ঘ": "aren’t he"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

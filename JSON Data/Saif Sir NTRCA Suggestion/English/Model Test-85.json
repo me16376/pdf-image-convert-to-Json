@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৮৫",
+  "subject": "English",
+  "model_test": "Model Test-85",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কোনটি Present Perfect tense – এর উদাহরণ?",
+      "options": {
+        "ক": "I had the news.",
+        "খ": "I shall have the news",
+        "গ": "I have had the news.",
+        "ঘ": "I have the news."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Synonym for ‘Magnificent” ?",
+      "options": {
+        "ক": "Impressive",
+        "খ": "Splendid",
+        "গ": "Beautiful",
+        "ঘ": "Interesting"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "I would like --- information , please .",
+      "options": {
+        "ক": "some",
+        "খ": "few",
+        "গ": "a",
+        "ঘ": "an"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "“A burning question “ means –",
+      "options": {
+        "ক": "a false question",
+        "খ": "an important question",
+        "গ": "Hard question",
+        "ঘ": "a uncommon question"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Which one is Reflexive Pronoun?",
+      "options": {
+        "ক": "Myself",
+        "খ": "Who",
+        "গ": "He",
+        "ঘ": "Each"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "“Bottom line” means –",
+      "options": {
+        "ক": "the end of a road",
+        "খ": "the last line of a book",
+        "গ": "the essential point",
+        "ঘ": "the final step"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "What is the noun of ‘ deny’?",
+      "options": {
+        "ক": "Deny",
+        "খ": "Deniable",
+        "গ": "Refuse",
+        "ঘ": "Denial"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Which one is always used as singular ?",
+      "options": {
+        "ক": "Custom",
+        "খ": "Staff",
+        "গ": "Horse",
+        "ঘ": "Bread"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Kamal did not join the army. Here the word 'Army' is –",
+      "options": {
+        "ক": "an  abstract noun",
+        "খ": "a common noun",
+        "গ": "a collective noun",
+        "ঘ": "a material noun"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "The study of religion is –",
+      "options": {
+        "ক": "Phonology",
+        "খ": "Etymology",
+        "গ": "Theology",
+        "ঘ": "Morphology"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "“Let the book be read by you” বাক্যের active form হচ্ছে-",
+      "options": {
+        "ক": "Read the book",
+        "খ": "You are to read the book",
+        "গ": "Let read the book by you.",
+        "ঘ": "Let the book be reading by you."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "I --- him only letter up to now.",
+      "options": {
+        "ক": "sent",
+        "খ": "have sent",
+        "গ": "shall send",
+        "ঘ": "had sent"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "parallel",
+        "খ": "parallel",
+        "গ": "parallel",
+        "ঘ": "parelel"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "He addressed Mr. Rahman and wished him good morning বাক্যটির direct speech হবে –",
+      "options": {
+        "ক": "He said, “Good morning, Mr. Rahman”.",
+        "খ": "He said , “Good morning to Mr. Rahman .”",
+        "গ": "He bade good morning to Mr. Rahman",
+        "ঘ": "He said to Mr. morning, “Good morning”."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Karim as well as Rahim --- praise",
+      "options": {
+        "ক": "deserve",
+        "খ": "deserves",
+        "গ": "are deserving",
+        "ঘ": "is deserving"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "The child cried for --- mother .",
+      "options": {
+        "ক": "its",
+        "খ": "none",
+        "গ": "his",
+        "ঘ": "her"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "‘Ensure ‘means –",
+      "options": {
+        "ক": "Encourage",
+        "খ": "Profuse",
+        "গ": "Make certain",
+        "ঘ": "Make progress"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "“ At home” –এর অর্থ হচ্ছে –",
+      "options": {
+        "ক": "one who has lost home",
+        "খ": "try to make a home",
+        "গ": "familiar with",
+        "ঘ": "home made of bricks"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘Black and Blue” অর্থ কী?",
+      "options": {
+        "ক": "সুন্দর",
+        "খ": "লাল ও নীল",
+        "গ": "উত্তম মধ্যম",
+        "ঘ": "রঙীন"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "Remittance",
+        "খ": "Remmitence",
+        "গ": "Remittence",
+        "ঘ": "Remettrance"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

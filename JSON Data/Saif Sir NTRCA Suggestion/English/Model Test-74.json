@@ -1,0 +1,188 @@
+{
+  "title": "ইংলিশ বুলেটিন-৭৪",
+  "subject": "English",
+  "model_test": "Model Test-74",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Incypclopedia",
+        "খ": "Encyclopedia",
+        "গ": "Encyclopadia",
+        "ঘ": "Encyclopidia"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "‘Postulate’ শব্দটির Synonym হচ্ছে----",
+      "options": {
+        "ক": "Assume",
+        "খ": "Prove",
+        "গ": "Supplement",
+        "ঘ": "Complain"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Elemantary",
+        "খ": "Elimentary",
+        "গ": "Elementory",
+        "ঘ": "Elementary"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "After it was repaired, it ----again. বাক্যের শূন্যস্থানে কোনটি সঠিক হবে?",
+      "options": {
+        "ক": "ran perfect",
+        "খ": "ran perfectly",
+        "গ": "runs perfect",
+        "ঘ": "run perfect"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Time and tide ----for none. বাক্যের শূন্যস্থানে সঠিক শব্দ কোনটি?",
+      "options": {
+        "ক": "waits",
+        "খ": "waiting",
+        "গ": "wait",
+        "ঘ": "renders"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "সঠিক Preposition সহ কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "ক": "Industry is key to success.",
+        "খ": "Industry is key for success.",
+        "গ": "Industry is key fo success.",
+        "ঘ": "Industry is key into success."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "কোনটি শুদ্ধ বাক্য?",
+      "options": {
+        "ক": "There is no place for doubt in it.",
+        "খ": "There is no suspension in it.",
+        "গ": "There is no room for doubt in it.",
+        "ঘ": "There is no misunderstanding in it."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "‘Pros and cons’ phrase টির অর্থ ----",
+      "options": {
+        "ক": "Good and bad",
+        "খ": "Advantage and disadvantage",
+        "গ": "Light and dark",
+        "ঘ": "In and out"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "‘Vice versa’ শব্দের অর্থ-----",
+      "options": {
+        "ক": "For example",
+        "খ": "Face to face",
+        "গ": "Namely",
+        "ঘ": "The terms being exchanged"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "‘Come what may I shall adhere-----my principles’ বাক্যের শূন্যস্থানে সঠিক Preposition ---",
+      "options": {
+        "ক": "to",
+        "খ": "with",
+        "গ": "on",
+        "ঘ": "upon"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "‘Socrates was accused ----- misleading the young section in Athens.’ বাক্যের শূন্যস্থানে সঠিক Preposition –",
+      "options": {
+        "ক": "to",
+        "খ": "of",
+        "গ": "for",
+        "ঘ": "on"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "He said that he had come to see me- এর direct speech",
+      "options": {
+        "ক": "He said, ‘he has come to see you’.",
+        "খ": "He said, ‘I came to see you’.",
+        "গ": "He said, ‘I have come to see you’.",
+        "ঘ": "He said, ‘I had come to see you’."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "You said to me, ‘You do not do your duty.’ এর Indirect speech",
+      "options": {
+        "ক": "You told me that I donot do my duty.",
+        "খ": "You said to me that I did not do my duty.",
+        "গ": "You said to me that I donot do my duty.",
+        "ঘ": "You told me that I did not do my duty."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "‘I have to do it’- এর Passive form",
+      "options": {
+        "ক": "It has to be done by me.",
+        "খ": "It is to be done by me.",
+        "গ": "Let it be done by me.",
+        "ঘ": "It has to be done to me."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "‘I know him ‘ এর Passive form",
+      "options": {
+        "ক": "He is known by me.",
+        "খ": "He was known to me.",
+        "গ": "He is known to me.",
+        "ঘ": "He is being known to me."
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

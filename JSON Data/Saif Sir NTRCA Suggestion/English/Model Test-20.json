@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-২০",
+  "subject": "English",
+  "model_test": "Model Test-20",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "বর্ষা শুরু হয়েছে? (Translate into English)",
+      "options": {
+        "ক": "The rain has set in",
+        "খ": "The rains have set in",
+        "গ": "The rain have set on",
+        "ঘ": "The rain has set out"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "সে দিন এনে দিন খায়। (Translate into English)",
+      "options": {
+        "ক": "He lives from hand to mouth",
+        "খ": "He lives by hand to mouth",
+        "গ": "He lives day by day",
+        "ঘ": "He eats day by day"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "সে বলল যে সে যাবে। (Translate into English)",
+      "options": {
+        "ক": "He said that he will go",
+        "খ": "He said that he would went",
+        "গ": "He said that he will went",
+        "ঘ": "He said that he would go"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "আমি বরং মরব কিন্তু ভিক্ষা করব না। (Translate into English)",
+      "options": {
+        "ক": "I would rather die than beg",
+        "খ": "I would rather to die than to beg",
+        "গ": "I would die than beg",
+        "ঘ": "I would die rather beg"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "সে হাসতে হাসতে চলে গেল। (Translate into English)",
+      "options": {
+        "ক": "He went away laugh",
+        "খ": "He went away to laugh",
+        "গ": "He went away laughing and lauging",
+        "ঘ": "He went away laughing"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "আমি এটা না করে পারলাম না। (Translate into English)",
+      "options": {
+        "ক": "I could not help do it",
+        "খ": "I could not help doing it",
+        "গ": "I could not help to do it",
+        "ঘ": "I could not but did it"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "I do not take tea.",
+      "options": {
+        "ক": "আমি চা খাই",
+        "খ": "আমি চা পান করি",
+        "গ": "আমি চা খাই না",
+        "ঘ": "আমি চা আনি না"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Look before you leap.",
+      "options": {
+        "ক": "লাফ দেবার আগে তাকাও",
+        "খ": "ভাবিয়া করিও কাজ",
+        "গ": "আগে ভাবিয়া পরে লাফ দিবে",
+        "ঘ": "দেখে নাও পরে লাফ দাও"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "It is raining cats and dogs.",
+      "options": {
+        "ক": "মুষলধারে বৃষ্টি হচ্ছে",
+        "খ": "কুকুর বিড়ালের মতো বৃষ্টি হচ্ছে",
+        "গ": "ইহা বৃষ্টি হচ্ছে কুকুর ও বিড়ালগুলি",
+        "ঘ": "কুকুর ও বিড়াল বৃষ্টিতে ভিজছে।"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "He has killed himself.",
+      "options": {
+        "ক": "সে তোমাকে হত্যা করেছে",
+        "খ": "সে তাকে হত্যা করেছে",
+        "গ": "সে মারা গিয়েছে",
+        "ঘ": "সে আত্মহত্যা করেছে"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Diamond cuts diamond.",
+      "options": {
+        "ক": "রতন চেনে নষ্ট",
+        "খ": "রতন দেখে লোক চেনা যায়",
+        "গ": "সৎ সঙ্গে স্বর্গ বাস",
+        "ঘ": "মানিকে মানিক চেনে"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "I am deadly hard up.",
+      "options": {
+        "ক": "আমি অসহ্য হয়ে উঠেছি",
+        "খ": "আমি এককথার মানুষ",
+        "গ": "আমি কঠিন অসুখে ভুগছি",
+        "ঘ": "আমার টাকার খুব অনটন হয়েছে"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "He is only five (Negative)",
+      "options": {
+        "ক": "He is not less than five",
+        "খ": "He is not only five",
+        "গ": "He is above not five",
+        "ঘ": "He is not aged five"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "If he does not do, he will die. (Compound)",
+      "options": {
+        "ক": "Do and die",
+        "খ": "Do or die",
+        "গ": "He cannot do and die",
+        "ঘ": "Let him do or he will die"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Everybody knows this. (Interrogative)",
+      "options": {
+        "ক": "Does anybody knows this.",
+        "খ": "Who does not know this?",
+        "গ": "Who do not know this.",
+        "ঘ": "Do anybody know this."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "I wish I were an ideal teacher. (Exclamatory)",
+      "options": {
+        "ক": "If I were an ideal teacher!",
+        "খ": "How an ideal teacher I was!",
+        "গ": "What and ideal teacher I was!",
+        "ঘ": "If an ideal teacher I am!"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "I must go there. (Negative)",
+      "options": {
+        "ক": "I cannot but going there",
+        "খ": "I cannot help go there",
+        "গ": "I cannot but go there",
+        "ঘ": "I must not go there"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Move and die. (Simple)",
+      "options": {
+        "ক": "If you move, you will die",
+        "খ": "By moving you will die",
+        "গ": "Without moving you will die",
+        "ঘ": "If you do not move, you will do"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Though he tried hard, he failed. (Compound)",
+      "options": {
+        "ক": "He tried and failed",
+        "খ": "In spite of his trying hard, he failed",
+        "গ": "He tried hard but failed",
+        "ঘ": "But for his trying hard, be failed"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "What is the ‘noun’ form of ‘beautiful’?",
+      "options": {
+        "ক": "beauty",
+        "খ": "beautify",
+        "গ": "beautifully",
+        "ঘ": "beauteous"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "He is a justice of the High Court. Here justice’ is a/an-noun.",
+      "options": {
+        "ক": "abstract",
+        "খ": "material",
+        "গ": "proper",
+        "ঘ": "common"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "He raised his hand. Here ‘raised’ is a - verb.",
+      "options": {
+        "ক": "copulative",
+        "খ": "transitive",
+        "গ": "factitive",
+        "ঘ": "causative"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "An adverb does not modify-",
+      "options": {
+        "ক": "nouns",
+        "খ": "adjectives",
+        "গ": "verbs",
+        "ঘ": "adverbs"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Which pen do you want? Here ‘which’ is a/an -.",
+      "options": {
+        "ক": "adjective",
+        "খ": "pronoun",
+        "গ": "conjunction",
+        "ঘ": "interjection"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "A paragraph must have - theme/themes.",
+      "options": {
+        "ক": "one",
+        "খ": "two",
+        "গ": "three",
+        "ঘ": "four"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "title": "ইংলিশ বুলেটিন-৪৮",
+  "subject": "English",
+  "model_test": "Model Test-48",
+  "total_questions": 11,
+  "questions": [
+    {
+      "id": 1,
+      "question": "\"আমার টাকা ছিল না\" এর সঠিক ইংরেজি কোনটি?",
+      "options": {
+        "ক": "I have no money",
+        "খ": "I had no money",
+        "গ": "I was no money",
+        "ঘ": "I has no money"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "He died _______ an accident.",
+      "options": {
+        "ক": "of",
+        "খ": "by",
+        "গ": "for",
+        "ঘ": "from"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "নিচের কোন শব্দটি verb?",
+      "options": {
+        "ক": "Cloth",
+        "খ": "Blood",
+        "গ": "Food",
+        "ঘ": "Feed"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "\"Beautify\" শব্দটি একটি --",
+      "options": {
+        "ক": "Noun",
+        "খ": "Adjective",
+        "গ": "verb",
+        "ঘ": "adverb"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Ten years ----- a long time to wait.",
+      "options": {
+        "ক": "have been",
+        "খ": "are",
+        "গ": "is",
+        "ঘ": "were"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Each learner of English ---- a good dictionary.",
+      "options": {
+        "ক": "need",
+        "খ": "is",
+        "গ": "are",
+        "ঘ": "needs"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "I don't have ---- furniture.",
+      "options": {
+        "ক": "much",
+        "খ": "more",
+        "গ": "many",
+        "ঘ": "too"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Ten thousand dollars ---- a lot of money.",
+      "options": {
+        "ক": "are",
+        "খ": "is",
+        "গ": "will",
+        "ঘ": "were"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "He is ---- MBBS.",
+      "options": {
+        "ক": "a",
+        "খ": "an",
+        "গ": "the",
+        "ঘ": "on article"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "He ---- go to his home yesterday",
+      "options": {
+        "ক": "does not",
+        "খ": "did not",
+        "গ": "do not",
+        "ঘ": "has not"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "I know him -এর passive ফরমটি কি?",
+      "options": {
+        "ক": "He is known by me",
+        "খ": "He is known to me",
+        "গ": "He was known to me",
+        "ঘ": "He has been known by me"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-৩০",
+  "subject": "English",
+  "model_test": "Model Test-30",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Complete the sentence: When my friend arrived I was about to -",
+      "options": {
+        "ক": "be leaving",
+        "খ": "leave",
+        "গ": "left",
+        "ঘ": "go"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "One of the must beautiful girls has come",
+        "খ": "One of the must beautiful girls have come",
+        "গ": "One of the must beautiful girls have come",
+        "ঘ": "One of the beautiful girl are come"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Find out correct synonym of ‘Hazard’",
+      "options": {
+        "ক": "Impartial",
+        "খ": "static",
+        "গ": "Immobile",
+        "ঘ": "Danger"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "I have been lived here since five years.",
+        "খ": "I am living here for five years.",
+        "গ": "I have been living here for five years",
+        "ঘ": "I live here five years"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Everyday – begins at 9 O’clock and ends at 3 O’clock.",
+      "options": {
+        "ক": "college",
+        "খ": "a college",
+        "গ": "the college",
+        "ঘ": "colleges"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Which one is the correct passive form of the sentence ‘panic seized me’?",
+      "options": {
+        "ক": "I was seized by panic.",
+        "খ": "I was seized for panic.",
+        "গ": "I was seized from panic.",
+        "ঘ": "I was seized with panic."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "I don’t hanker wealth.",
+      "options": {
+        "ক": "for",
+        "খ": "on",
+        "গ": "over",
+        "ঘ": "after"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Select correct Bangla translation of ‘’It is a long story’’",
+      "options": {
+        "ক": "সে অনেক দিনের কথা",
+        "খ": "সে অনেক কথা",
+        "গ": "সে লম্বা গল্প করেছিল",
+        "ঘ": "সে অনেক বড় কথা বলেছিল"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "She could not but ___ there..",
+      "options": {
+        "ক": "help going",
+        "খ": "goes",
+        "গ": "has gone",
+        "ঘ": "go"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Noun of the word `free’is -",
+      "options": {
+        "ক": "freeness",
+        "খ": "freely",
+        "গ": "freedom",
+        "ঘ": "freedomness"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "`Take one to task’ means-",
+      "options": {
+        "ক": "imitate",
+        "খ": "rebuke",
+        "গ": "resume",
+        "ঘ": "restrain"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "The dog was – in front of the door.",
+      "options": {
+        "ক": "lain",
+        "খ": "lying",
+        "গ": "lied",
+        "ঘ": "laid"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Which one is the correct English translation of ‘এখন আমার হাত খালি’?",
+      "options": {
+        "ক": "I am empty hand now",
+        "খ": "I am empty pocket",
+        "গ": "I am hard up now",
+        "ঘ": "I am without money now"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "The verb of `sure’ is-",
+      "options": {
+        "ক": "surely",
+        "খ": "surety",
+        "গ": "ensure",
+        "ঘ": "none of these"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Rahim went ___ hospital as patient.",
+      "options": {
+        "ক": "the",
+        "খ": "a",
+        "গ": "an",
+        "ঘ": "no article"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "‘’ Writing is better than reading’’ Negative form of this sentence is -",
+      "options": {
+        "ক": "Writing is not as good as reading",
+        "খ": "Reading is not as good as writing",
+        "গ": "Nothing is as good as writing",
+        "ঘ": "No other thing is as good as reading"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "It is high time we – our eating habits.",
+      "options": {
+        "ক": "changed",
+        "খ": "should changed",
+        "গ": "have changing",
+        "ঘ": "change"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Select the correct Bangla translation of ‘’There is no room in the bench.",
+      "options": {
+        "ক": "এ রুমে কোন বেঞ্চ নেই।",
+        "খ": "এ বেঞ্চে কোন কক্ষ নেই।",
+        "গ": "এ বেঞ্চে কোনো জায়গা নেই।",
+        "ঘ": "কোথাও কোনো বেঞ্চ নেই।"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘’শব্দটি কেটে দাও’’- এর শুদ্ধ ইংরেজি-",
+      "options": {
+        "ক": "Pen trough the word",
+        "খ": "Cut the word",
+        "গ": "cut trough the word",
+        "ঘ": "Cut out the word"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "What is the adjective of ‘purify’?",
+      "options": {
+        "ক": "Purity",
+        "খ": "Purefule",
+        "গ": "Pure",
+        "ঘ": "Purifying"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "We eat – we may live.",
+      "options": {
+        "ক": "for",
+        "খ": "because",
+        "গ": "so that",
+        "ঘ": "lest"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Which one is the correct passive form of the sentence ‘I know you?’",
+      "options": {
+        "ক": "You are known by me",
+        "খ": "You are known to me",
+        "গ": "You are unknown by me",
+        "ঘ": "You are known with me"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Which one is a compound noun?",
+      "options": {
+        "ক": "comprehension",
+        "খ": "Holiday",
+        "গ": "Entertainment",
+        "ঘ": "Hair-brush"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Syntax is concerned with -",
+      "options": {
+        "ক": "word",
+        "খ": "letter",
+        "গ": "passage",
+        "ঘ": "sentence"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Rana`s father wants him to be an engineer – a doctor.",
+      "options": {
+        "ক": "instead",
+        "খ": "instead of",
+        "গ": "expecting",
+        "ঘ": "expect to"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

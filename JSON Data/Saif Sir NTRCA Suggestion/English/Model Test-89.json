@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৮৯",
+  "subject": "English",
+  "model_test": "Model Test-89",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Shakespeare is known mostly for his _____",
+      "options": {
+        "ক": "Poetry",
+        "খ": "Drama",
+        "গ": "Novels",
+        "ঘ": "Films"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Which of the noun is used in the feminine form?",
+      "options": {
+        "ক": "Anger",
+        "খ": "Time",
+        "গ": "Moon",
+        "ঘ": "None"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "“Out and Out” means.",
+      "options": {
+        "ক": "Whole heatedly",
+        "খ": "Not at all",
+        "গ": "Brave",
+        "ঘ": "Thoroughly"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "The train _____ from Rangpur.",
+      "options": {
+        "ক": "have already arrived",
+        "খ": "has already arrived",
+        "গ": "already arrive",
+        "ঘ": "already has been arriving"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "“Man of straw ‘ means-",
+      "options": {
+        "ক": "Respected person",
+        "খ": "Worthless man",
+        "গ": "Gentleman",
+        "ঘ": "Noted person"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Find out the correct synonym of “tenuous’",
+      "options": {
+        "ক": "Careful",
+        "খ": "Dangerous",
+        "গ": "Vital",
+        "ঘ": "Thin"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "If we want concrete proof , We are looking for___",
+      "options": {
+        "ক": "clear evidence",
+        "খ": "building material",
+        "গ": "a cement mixer",
+        "ঘ": "something to cover a path"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The correct sentence of the following :",
+      "options": {
+        "ক": "The Padma is longest river in Bangladesh",
+        "খ": "The Padma is longest river in the Bangladesh",
+        "গ": "Padma is longest river in Bangladesh",
+        "ঘ": "The Padma is the longest river in Bangladesh"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Nine men were concerned _____ the plot .",
+      "options": {
+        "ক": "for",
+        "খ": "at",
+        "গ": "with",
+        "ঘ": "in"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "A ‘pilgrim’ is a person who undertakes a journey to a _____",
+      "options": {
+        "ক": "New country",
+        "খ": "Holy place",
+        "গ": "Bazar",
+        "ঘ": "Mosque"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "He lives ___ comfortable life.",
+      "options": {
+        "ক": "a",
+        "খ": "an",
+        "গ": "the",
+        "ঘ": "None of them"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Identify the correct passive form of _ “ He is going to open a shop” .",
+      "options": {
+        "ক": "He is being gone to open a shop .",
+        "খ": "A shop is being gone opened by him",
+        "গ": "A shop will be opened by him",
+        "ঘ": "A shop is going to be opened by him"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The world ‘Gravity’ is-",
+      "options": {
+        "ক": "Noun",
+        "খ": "Adverb",
+        "গ": "adjective",
+        "ঘ": "gerund"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "‘A Voyage to Lilliput ‘ is written by-",
+      "options": {
+        "ক": "William Wordsworth",
+        "খ": "Jonathan Swift",
+        "গ": "R. L Stefvenson",
+        "ঘ": "Thomas Hardy"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "One should be careful about ___ duty.",
+      "options": {
+        "ক": "the",
+        "খ": "his",
+        "গ": "her",
+        "ঘ": "one’s"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "The indirect form of the sentence _ Farida said to her mother , “ I shall go to bed now” is _",
+      "options": {
+        "ক": "Farida told her mother that she would go to bed then",
+        "খ": "Farida told her mother that she will go to bed now",
+        "গ": "Farida told her mother that she should go to bed",
+        "ঘ": "Farida told her mother that she will go to bed"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Nasima arrived while I __ the dinner .",
+      "options": {
+        "ক": "cook",
+        "খ": "was cooking",
+        "গ": "would cook",
+        "ঘ": "had cooked"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "The invigilator made us __ our identity card at the test center.",
+      "options": {
+        "ক": "to show",
+        "খ": "showing",
+        "গ": "show",
+        "ঘ": "showed"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "The chain was __ than we thought.",
+      "options": {
+        "ক": "strong",
+        "খ": "stronger",
+        "গ": "much",
+        "ঘ": "strongest"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Which is the correct spelling ?",
+      "options": {
+        "ক": "Achievrnent",
+        "খ": "Achievement",
+        "গ": "Achevenent",
+        "ঘ": "Achevinent"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

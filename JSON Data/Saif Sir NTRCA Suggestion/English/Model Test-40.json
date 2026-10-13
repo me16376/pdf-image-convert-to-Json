@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-৪০",
+  "subject": "English",
+  "model_test": "Model Test-40",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Assemble শব্দটির সঠিক synonym কোনটি?",
+      "options": {
+        "ক": "Unit",
+        "খ": "Disparse",
+        "গ": "Separate",
+        "ঘ": "Split"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Buccaneer শব্দটির সঠিক synonym কোনটি?",
+      "options": {
+        "ক": "Bachelor",
+        "খ": "Presenter",
+        "গ": "Pirate",
+        "ঘ": "Butcher"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Pungent শব্দটির সঠিক synonym কোনটি?",
+      "options": {
+        "ক": "Tide",
+        "খ": "Rain",
+        "গ": "Overpowering",
+        "ঘ": "Bland"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Aroma শব্দটির সঠিক synonym কোনটি?",
+      "options": {
+        "ক": "Food",
+        "খ": "Fruits",
+        "গ": "Colourless",
+        "ঘ": "Fragrance"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Desolate শব্দটির সঠিক Antonyms কোনটি?",
+      "options": {
+        "ক": "Populous",
+        "খ": "Isolated",
+        "গ": "Abandoned",
+        "ঘ": "Disfigured"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Flawlessness শব্দটির সঠিক Antonym কোনটি?",
+      "options": {
+        "ক": "Excellence",
+        "খ": "Imperfectness",
+        "গ": "Accurateness",
+        "ঘ": "Faultlessness"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Aproach শব্দটির সঠিক Antonym কোনটি?",
+      "options": {
+        "ক": "Come",
+        "খ": "Retract",
+        "গ": "Decrease",
+        "ঘ": "Move"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Hate শব্দটির সঠিক Antonym কোনটি?",
+      "options": {
+        "ক": "Admire",
+        "খ": "Abhor",
+        "গ": "Concern",
+        "ঘ": "Loathe"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Liability শব্দটির সঠিক Antonym কোনটি?",
+      "options": {
+        "ক": "Treasure",
+        "খ": "Debt",
+        "গ": "Asset",
+        "ঘ": "Property"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "সঠিক বানানের শব্দ কোনটি?",
+      "options": {
+        "ক": "Credential",
+        "খ": "Credancial",
+        "গ": "Credantial",
+        "ঘ": "Credencial"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "সঠিক বানানের শব্দ কোনটি ?",
+      "options": {
+        "ক": "Licence",
+        "খ": "Licents",
+        "গ": "Lisence",
+        "ঘ": "Licens"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "সঠিক বানানের শব্দ কোনটি ?",
+      "options": {
+        "ক": "Extantion",
+        "খ": "Extansion",
+        "গ": "Extension",
+        "ঘ": "Extention"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "সঠিক বানানের শব্দ কোনটি?",
+      "options": {
+        "ক": "Apropriate",
+        "খ": "Appropriate",
+        "গ": "Appropriet",
+        "ঘ": "Apropriet"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "সঠিক বানানের শব্দ কোনটি?",
+      "options": {
+        "ক": "Unfare",
+        "খ": "Unfear",
+        "গ": "Unfaire",
+        "ঘ": "Unfair"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "সঠিক বানানের শব্দ কোনটি?",
+      "options": {
+        "ক": "Personale",
+        "খ": "Parsonnel",
+        "গ": "Personel",
+        "ঘ": "Personnel"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "সঠিক বানানের শব্দ কোনটি?",
+      "options": {
+        "ক": "Collataral",
+        "খ": "colatteral",
+        "গ": "Collateral",
+        "ঘ": "Colateral"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "শূন্যস্থানটি অর্থবোধক শব্দ ব্যবহার করে পূরণ করুন : I promise I ____ smoke again.",
+      "options": {
+        "ক": "won't",
+        "খ": "don't",
+        "গ": "couldn't",
+        "ঘ": "didn't"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "শূন্যস্থানটি অর্থবোধক শব্দ ব্যবহার করে পূরণ করুন : He did not give me _____",
+      "options": {
+        "ক": "much advice",
+        "খ": "much advices",
+        "গ": "many advice",
+        "ঘ": "many advices"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "শূন্যস্থানটি অর্থবোধক শব্দ ব্যবহার করে পূরণ করুন : This company does not need _____",
+      "options": {
+        "ক": "many machines",
+        "খ": "much machine",
+        "গ": "many machine",
+        "ঘ": "much machines"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Emphasis শব্দটির অর্থ কোনটি?",
+      "options": {
+        "ক": "Importance",
+        "খ": "Neglect",
+        "গ": "Overlook",
+        "ঘ": "Ponder"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Query শব্দটির অর্থ কোনটি?",
+      "options": {
+        "ক": "Solution",
+        "খ": "Question",
+        "গ": "Dissolve",
+        "ঘ": "Ratify"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Gravity শব্দটির অর্থ কোনটি?",
+      "options": {
+        "ক": "Irrelevant",
+        "খ": "Strange",
+        "গ": "Seriousness",
+        "ঘ": "Regular"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Ensure শব্দটির অর্থ কোনটি?",
+      "options": {
+        "ক": "Make progress",
+        "খ": "encourage",
+        "গ": "Effect",
+        "ঘ": "Make certain"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Premium শব্দটির অর্থ কোনটি?",
+      "options": {
+        "ক": "Contaminate",
+        "খ": "Condone",
+        "গ": "Best",
+        "ঘ": "Large"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Comprehension শব্দটির অর্থ কোনটি?",
+      "options": {
+        "ক": "Loss",
+        "খ": "Calamity",
+        "গ": "Difference",
+        "ঘ": "Knowledge"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৩৯",
+  "subject": "English",
+  "model_test": "Model Test-39",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a noun?",
+      "options": {
+        "ক": "Eat",
+        "খ": "Very",
+        "গ": "To",
+        "ঘ": "City"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "What is the superlative degree of \"Bad\"?",
+      "options": {
+        "ক": "Most Bad",
+        "খ": "Baddest",
+        "গ": "Badder",
+        "ঘ": "Worst"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "What is the past participle form of the verb \"come\"?",
+      "options": {
+        "ক": "came",
+        "খ": "come",
+        "গ": "comed",
+        "ঘ": "camed"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is the plural form of \"Tooth\"?",
+      "options": {
+        "ক": "Teeths",
+        "খ": "Tooth",
+        "গ": "Teeth",
+        "ঘ": "Tooths"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "What is the antonym of \"High\"?",
+      "options": {
+        "ক": "Low",
+        "খ": "Big",
+        "গ": "Pacify",
+        "ঘ": "Fiber"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "It ______ last night. (Fill in the gaps)",
+      "options": {
+        "ক": "raining",
+        "খ": "rain",
+        "গ": "rained",
+        "ঘ": "rains"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "If you make delay, you _____ the train. (Fill in the gaps)",
+      "options": {
+        "ক": "missing",
+        "খ": "should miss",
+        "গ": "missed",
+        "ঘ": "will miss"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "No man can _____ alone. (Fill in the gaps)",
+      "options": {
+        "ক": "live",
+        "খ": "lives",
+        "গ": "living",
+        "ঘ": "lived"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "______ are you doing? (Fill in the gaps)",
+      "options": {
+        "ক": "What",
+        "খ": "Who",
+        "গ": "Where",
+        "ঘ": "Which"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "______ earth moves round the sun. (Fill in the gaps)",
+      "options": {
+        "ক": "A",
+        "খ": "An",
+        "গ": "The",
+        "ঘ": "None of these"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "শক্তিশালী (Word Meaning)",
+      "options": {
+        "ক": "Efficient",
+        "খ": "Obedient",
+        "গ": "Strong",
+        "ঘ": "Social"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "রহস্যময় (Word Meaning)",
+      "options": {
+        "ক": "Efficient",
+        "খ": "Mysterious",
+        "গ": "Tiring",
+        "ঘ": "magical"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "নিষিদ্ধ (Word Meaning)",
+      "options": {
+        "ক": "Height",
+        "খ": "Ban",
+        "গ": "Capacity",
+        "ঘ": "Enrollment"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "শিক্ষিত (Word Meaning)",
+      "options": {
+        "ক": "Gentleman",
+        "খ": "Generous",
+        "গ": "Educated",
+        "ঘ": "Pious"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "পর্যাপ্ত (Word Meaning)",
+      "options": {
+        "ক": "Lack",
+        "খ": "Unwanted",
+        "গ": "Sharper",
+        "ঘ": "Adequate"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Identification of correct spelling",
+      "options": {
+        "ক": "Appropriat",
+        "খ": "Apropriate",
+        "গ": "Appropriate",
+        "ঘ": "Apropriat"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Identification of correct spelling",
+      "options": {
+        "ক": "Pungtual",
+        "খ": "Puntual",
+        "গ": "Punctual",
+        "ঘ": "Puncttual"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Identification of correct spelling",
+      "options": {
+        "ক": "Atteentive",
+        "খ": "Atenttive",
+        "গ": "Atentive",
+        "ঘ": "Attentive"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Identification of correct spelling",
+      "options": {
+        "ক": "Disciplin",
+        "খ": "Dicipline",
+        "গ": "Discipline",
+        "ঘ": "Descipline"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Identification of correct spelling",
+      "options": {
+        "ক": "Acommodation",
+        "খ": "Accommodation",
+        "গ": "Accomodation",
+        "ঘ": "Acomodation"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

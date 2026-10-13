@@ -1,0 +1,236 @@
+{
+  "title": "ইংলিশ বুলেটিন-৫৭",
+  "subject": "English",
+  "model_test": "Model Test-57",
+  "total_questions": 19,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Adjective of the word “Ox’ is-",
+      "options": {
+        "ক": "Cowl",
+        "খ": "Bovine",
+        "গ": "Oxe",
+        "ঘ": "Oxy"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Whih is the noun of the word “Try”?",
+      "options": {
+        "ক": "Tryin",
+        "খ": "Triable",
+        "গ": "Trial",
+        "ঘ": "None of them"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "The correct form of “ She found the boy (to cry)”-",
+      "options": {
+        "ক": "She found the boy cry.",
+        "খ": "She found the boy crying.",
+        "গ": "She found the boy cried.",
+        "ঘ": "She found the boy crys."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "They count--- your help বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে-",
+      "options": {
+        "ক": "for",
+        "খ": "with",
+        "গ": "upon",
+        "ঘ": "after"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "“To meet trouble halfway” means—",
+      "options": {
+        "ক": "To get nervous",
+        "খ": "To be disappointed",
+        "গ": "To bear up",
+        "ঘ": "To be puzzled"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "“He has assured me --- safety”.",
+      "options": {
+        "ক": "of",
+        "খ": "with",
+        "গ": "for",
+        "ঘ": "at"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "What is the meaning of “Soft soap”?",
+      "options": {
+        "ক": "To speak ill of others.",
+        "খ": "Flattery for self motives.",
+        "গ": "To speak high of others.",
+        "ঘ": "To recognize others good deed."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The synonym for “Efface” is-",
+      "options": {
+        "ক": "Improve",
+        "খ": "Exhaust",
+        "গ": "Rub out",
+        "ঘ": "Cut out"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "The opposite word of “Sluggish” is---",
+      "options": {
+        "ক": "Slow",
+        "খ": "Heavy",
+        "গ": "Dull",
+        "ঘ": "Animated"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "“Boat leg” Means-",
+      "options": {
+        "ক": "Distribute",
+        "খ": "Export",
+        "গ": "Import",
+        "ঘ": "Smuggle"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "What is the synonym of “jovial”?",
+      "options": {
+        "ক": "Jolly",
+        "খ": "Happy",
+        "গ": "Gay",
+        "ঘ": "None of these"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Addulatration",
+        "খ": "Adultration",
+        "গ": "Adultaration",
+        "ঘ": "Adulteration"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct sentence?",
+      "options": {
+        "ক": "A new cabinet has been sworn in in Dhaka.",
+        "খ": "A new cabinet has been sworn in Dhaka.",
+        "গ": "A new cabinet has been sworn by in Dhaka.",
+        "ঘ": "A new cabinet has sworn in Dhaka."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a correct sentence?",
+      "options": {
+        "ক": "He was too clever not to miss the point.",
+        "খ": "He was so clever to miss the point.",
+        "গ": "He was too clever to miss the point.",
+        "ঘ": "he was too clever to grasp the point."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "What is the indirect speech of the sentence: He said, “Good morning sir”?",
+      "options": {
+        "ক": "He respectfully wished good morning to the person spoken to",
+        "খ": "He respectfully wishes good morning to the person spoken to",
+        "গ": "He respectfully wish good morning to the person spoken to",
+        "ঘ": "He respectfully wished good morning to the person spoke to"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "What is the indirect speech of the sentence: He said, “What a pity!”",
+      "options": {
+        "ক": "He said that it was a great pity",
+        "খ": "He exclaimed that it is a great pity",
+        "গ": "Hew exclaimed that it is great pity",
+        "ঘ": "He exclaimed that it was a great pity"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "What is the passive voice of “ Fortune favours the brave”",
+      "options": {
+        "ক": "The brave is favoured by fortune.",
+        "খ": "The brave was favoured by fortune.",
+        "গ": "The brave are favoured by fortune.",
+        "ঘ": "The brave were favoured by fortune."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "“Mishap” Means-",
+      "options": {
+        "ক": "Danger",
+        "খ": "Disease",
+        "গ": "Accident",
+        "ঘ": "Theft"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Griveance",
+        "খ": "Grievence",
+        "গ": "Grievance",
+        "ঘ": "Greivance"
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

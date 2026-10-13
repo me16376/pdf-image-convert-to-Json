@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-২৫",
+  "subject": "English",
+  "model_test": "Model Test-25",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "which one is a correct sentence?",
+      "options": {
+        "ক": "Every student are present today.",
+        "খ": "Ten kilometers are too far to walk.",
+        "গ": "Two-third of the students got degrees.",
+        "ঘ": "All the information is current."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "The principal along with his student-planting trees are two hours.",
+      "options": {
+        "ক": "have been",
+        "খ": "has been",
+        "গ": "is",
+        "ঘ": "are"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "I have applied for the post of lecturer ____ English.",
+      "options": {
+        "ক": "at",
+        "খ": "of",
+        "গ": "for",
+        "ঘ": "in"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "The synonym of the word ‘scanty’ is_",
+      "options": {
+        "ক": "ample",
+        "খ": "copious",
+        "গ": "meager",
+        "ঘ": "abundant"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "What would be the right antonym for ‘annihilate’ ____",
+      "options": {
+        "ক": "destroy",
+        "খ": "obliterate",
+        "গ": "establish",
+        "ঘ": "extinguish"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "The word ‘ permissive’ means____",
+      "options": {
+        "ক": "polite",
+        "খ": "law-abiding",
+        "গ": "liberal",
+        "ঘ": "submissive"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Select the meaning of the word ‘stagflation’.",
+      "options": {
+        "ক": "controlled prices",
+        "খ": "economic slow down",
+        "গ": "a disintegrating government",
+        "ঘ": "cultural dullness"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Identify the correct sentence:",
+      "options": {
+        "ক": "He is better and superior than me",
+        "খ": "He is better than and superior to me.",
+        "গ": "He is better and superior to me.",
+        "ঘ": "He is superior than and better to me."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct alternative to correct at he sentence : He ____ to see us if he had been able to do.",
+      "options": {
+        "ক": "would come",
+        "খ": "would have come",
+        "গ": "may had come",
+        "ঘ": "would may come"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "The idiom `put up with’ means:",
+      "options": {
+        "ক": "stay together",
+        "খ": "tolerate",
+        "গ": "keep trust",
+        "ঘ": "protect"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Walk fast lest you ____ miss the bus.",
+      "options": {
+        "ক": "will",
+        "খ": "can",
+        "গ": "could",
+        "ঘ": "should"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Price for bicycles can run ____ Tk.2,0",
+      "options": {
+        "ক": "as high as",
+        "খ": "so high as",
+        "গ": "as high to",
+        "ঘ": "as high for"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "“He fathered the plan.”_here the word `father’ is:",
+      "options": {
+        "ক": "a noun",
+        "খ": "an adjective",
+        "গ": "a verb",
+        "ঘ": "an adverb"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "A few of the three boys got a prize.",
+        "খ": "Each of the three boys got a prize.",
+        "গ": "Every of the three boys got a prize.",
+        "ঘ": "All of the three boys got a prize."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Identify the correct passive form of ‘He made me laugh’.",
+      "options": {
+        "ক": "I was made laugh by him.",
+        "খ": "I was made to laugh by him.",
+        "গ": "I was made laughing with him.",
+        "ঘ": "I was made laughing by him."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "‘Call to mind’’ means____",
+      "options": {
+        "ক": "fantasize",
+        "খ": "attend",
+        "গ": "remember",
+        "ঘ": "request"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "he prohibited me____",
+      "options": {
+        "ক": "to do it",
+        "খ": "do it",
+        "গ": "in doing I t",
+        "ঘ": "from doing it"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "What would be the right synonym for` initiative’?",
+      "options": {
+        "ক": "apathy",
+        "খ": "enterprise",
+        "গ": "indolence",
+        "ঘ": "activity"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "“A rolling stone gathers no moss.” Here ‘rolling’ is____",
+      "options": {
+        "ক": "a verb",
+        "খ": "an adjective",
+        "গ": "a participle",
+        "ঘ": "a gerund"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Slow and steady ____ the race.",
+      "options": {
+        "ক": "win",
+        "খ": "wins",
+        "গ": "has won",
+        "ঘ": "won"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "The verb form of `deceit’ is:",
+      "options": {
+        "ক": "deceitful",
+        "খ": "deceitfully",
+        "গ": "decisive",
+        "ঘ": "deceive"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "“কর্তৃপক্ষ তাকে তিরস্কার করল”। ____ The best translation is:",
+      "options": {
+        "ক": "The authorities blame him.",
+        "খ": "The authority took to task.",
+        "গ": "The authorities took to book.",
+        "ঘ": "The authority gave reins at him."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "____ Mount Everest is the highest peak in the Himalayas.",
+      "options": {
+        "ক": "A",
+        "খ": "An",
+        "গ": "The",
+        "ঘ": "no article"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Nasim will discus the issue with Rafiq ____ phone.",
+      "options": {
+        "ক": "in",
+        "খ": "over",
+        "গ": "by",
+        "ঘ": "on"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "ক": "I have many works perform.",
+        "খ": "I have many work to perform.",
+        "গ": "I have much works to perform.",
+        "ঘ": "I have much work to perform."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

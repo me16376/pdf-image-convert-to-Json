@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-২৩",
+  "subject": "English",
+  "model_test": "Model Test-23",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "‘I know you’. Choose the complex form-",
+      "options": {
+        "ক": "I know what you are.",
+        "খ": "I know who you are.",
+        "গ": "I know who are you.",
+        "ঘ": "I know who are you."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "____ course of time, he became f famous writer.",
+      "options": {
+        "ক": "In",
+        "খ": "Of",
+        "গ": "For",
+        "ঘ": "By"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "____ ink in my pen is red.",
+      "options": {
+        "ক": "A",
+        "খ": "The",
+        "গ": "An",
+        "ঘ": "No article"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Complete the sentence with appropriate word: Poly ran fast lest she ____ miss the class.",
+      "options": {
+        "ক": "could",
+        "খ": "would",
+        "গ": "can",
+        "ঘ": "should"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Which one is correct?",
+      "options": {
+        "ক": "There is no place for doubt in it.",
+        "খ": "There is no space for doubt in it.",
+        "গ": "There is no room for doubt in it",
+        "ঘ": "There is no area to doubt in it."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Which one is the correct English translation of “অসারের তর্জন গর্জন সার” ?",
+      "options": {
+        "ক": "Ignorance is vociferous.",
+        "খ": "An idle man speaks much.",
+        "গ": "A barking dog seldom bites.",
+        "ঘ": "An empty vessel sound much."
+      },
+      "answer": "গ+ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "The doctor will come back to the ward in no time, the underlined phrase means-",
+      "options": {
+        "ক": "instantly",
+        "খ": "hardly",
+        "গ": "always",
+        "ঘ": "never"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The memoranda ____ not importance.",
+      "options": {
+        "ক": "is",
+        "খ": "has",
+        "গ": "have",
+        "ঘ": "are"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "The word ‘ decade’ refers to ____",
+      "options": {
+        "ক": "thirty years",
+        "খ": "fifty years",
+        "গ": "ten years",
+        "ঘ": "twenty five years"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "No spelling occurs in ____.",
+      "options": {
+        "ক": "extravagant",
+        "খ": "pronounciation",
+        "গ": "spurious",
+        "ঘ": "temporary"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "None but ____ brave deserve ____ fair.",
+      "options": {
+        "ক": "a, an",
+        "খ": "the, the",
+        "গ": "the, no article",
+        "ঘ": "no article, the"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "If you help me, I ____ grateful.",
+      "options": {
+        "ক": "will be remain",
+        "খ": "should remain",
+        "গ": "will remain",
+        "ঘ": "would remain"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Which is the correct form of Assertive of Who does not like a rose?",
+      "options": {
+        "ক": "All of us likes a rose.",
+        "খ": "Nobody likes a rose.",
+        "গ": "Everyone dislikes a rose.",
+        "ঘ": "Everyone likes a rose."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Had you walked fast, you ____ the train. The correct form of verb will be-",
+      "options": {
+        "ক": "Will not miss",
+        "খ": "Will not have missed",
+        "গ": "would not have missed",
+        "ঘ": "would not miss"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "‘গাছে এখনো ফল ধরে নাই’-The best translation is-",
+      "options": {
+        "ক": "The tree can not bear fruit",
+        "খ": "The tree has not given fruit yet",
+        "গ": "The tree has not caught any fruit",
+        "ঘ": "The tree has not yet borne fruit"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "The word ‘heritage’ refers to_",
+      "options": {
+        "ক": "heir",
+        "খ": "tradition",
+        "গ": "legitimacy",
+        "ঘ": "intrigue"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "The price of mango is high in over country, ____ we turn this land into mango orchard?",
+      "options": {
+        "ক": "As if",
+        "খ": "Would rather",
+        "গ": "What’s it like",
+        "ঘ": "What if"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Ignorance is obstacle ____ progress.",
+      "options": {
+        "ক": "to",
+        "খ": "for",
+        "গ": "with",
+        "ঘ": "from"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Very few insects are as busy as a bee. The correct comparative form of the sentence is -",
+      "options": {
+        "ক": "A bee is busier than very few insects",
+        "খ": "A bee is busier than few insects.",
+        "গ": "A bee is busier than most other insects.",
+        "ঘ": "A bee is more busy than other insects."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Fifty miles ____ not a long distance.",
+      "options": {
+        "ক": "are",
+        "খ": "is",
+        "গ": "have been",
+        "ঘ": "were"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "He came home yesterday. Choose the correct Interrogative form of the sentence.",
+      "options": {
+        "ক": "Did he come home yesterday?",
+        "খ": "Did he not came home yesterday?",
+        "গ": "When did he come home?",
+        "ঘ": "When does he come home?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "The verb form of `danger’ is ____",
+      "options": {
+        "ক": "dangered",
+        "খ": "endangered",
+        "গ": "indanger",
+        "ঘ": "endanger"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "‘যেমন কর্ম তেমন ফল’- The translation is ____",
+      "options": {
+        "ক": "All that glitters is not gold.",
+        "খ": "As you sow, so you reap.",
+        "গ": "A stitch in time, savers nine.",
+        "ঘ": "The more you work, the more you get."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct answer-",
+      "options": {
+        "ক": "I will avail myself of the opportunity.",
+        "খ": "I shall avail of the opportunity.",
+        "গ": "I will avail myself with the opportunity.",
+        "ঘ": "The more you work, the more you yet."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "The antonym of ‘vice’ is-",
+      "options": {
+        "ক": "honesty",
+        "খ": "values",
+        "গ": "virtue",
+        "ঘ": "Truthful"
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

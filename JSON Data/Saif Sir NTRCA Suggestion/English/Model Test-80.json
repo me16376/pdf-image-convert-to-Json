@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৮০",
+  "subject": "English",
+  "model_test": "Model Test-80",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "At least one of the students _____ full marks every time.",
+      "options": {
+        "ক": "gets",
+        "খ": "have got",
+        "গ": "get",
+        "ঘ": "are getting"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "The correct spelling is ---",
+      "options": {
+        "ক": "Buroucrat",
+        "খ": "Beaurocrat",
+        "গ": "Burocreat",
+        "ঘ": "Bureaucrat"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "“Look before you leap”-",
+      "options": {
+        "ক": "দেখে নাও পরে লাফ দাও",
+        "খ": "লাফ দেয়ার আগে তাকাও",
+        "গ": "ভাবিয়া করিও কাজ",
+        "ঘ": "আগে ভাবিয়া পরে লাফ দাও"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "‘Frequency “ is",
+      "options": {
+        "ক": "Adjective",
+        "খ": "Noun",
+        "গ": "Adverb",
+        "ঘ": "Verb"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Ambiguous means .",
+      "options": {
+        "ক": "Eager",
+        "খ": "Large",
+        "গ": "Increase",
+        "ঘ": "Unclear"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "“কোন মানুষ একা বাস করতে পারে না”- সঠিক ইংরেজি কী?",
+      "options": {
+        "ক": "No one can live alone.",
+        "খ": "None can live alone.",
+        "গ": "No man can live alone.",
+        "ঘ": "Man cannot live alone."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "AFTER : BEFORE",
+      "options": {
+        "ক": "contemporary : histroric",
+        "খ": "present : past",
+        "গ": "successor : predecessor",
+        "ঘ": "first : second"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "All of the people at the conference are –",
+      "options": {
+        "ক": "mathematics teachers",
+        "খ": "mathematics teacher",
+        "গ": "mathematic’s teacher",
+        "ঘ": "mathematic’s teacher"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "A few of the three boys got a prize",
+        "খ": "Each of the three boys got a prize.",
+        "গ": "Every of the three boys got a prize.",
+        "ঘ": "All of the three boys got a prize ."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "The synonym of “Stringent “ is –",
+      "options": {
+        "ক": "Shrill",
+        "খ": "Dry",
+        "গ": "Strained",
+        "ঘ": "Rigorous"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "The Ambassador called --- the president.",
+      "options": {
+        "ক": "on",
+        "খ": "none of them",
+        "গ": "at",
+        "ঘ": "in"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "I cannot --- to pay such high prices .",
+      "options": {
+        "ক": "able",
+        "খ": "but",
+        "গ": "try",
+        "ঘ": "afford"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The lady prides herself --- her beauty .",
+      "options": {
+        "ক": "about",
+        "খ": "upon",
+        "গ": "in",
+        "ঘ": "of"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "‘Dog Days” means –",
+      "options": {
+        "ক": "hot weather",
+        "খ": "a period of misfortune",
+        "গ": "a time when dogs roam the street",
+        "ঘ": "a period of being care –free"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "The synonym of “Sanguine” is",
+      "options": {
+        "ক": "Cheerful",
+        "খ": "Careful",
+        "গ": "Scared",
+        "ঘ": "Sparkle"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Which one is plural –",
+      "options": {
+        "ক": "Each",
+        "খ": "None of these",
+        "গ": "Anyone",
+        "ঘ": "Someone"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Choose the correctly spelt word.",
+      "options": {
+        "ক": "voluntary",
+        "খ": "volantory",
+        "গ": "voluntary",
+        "ঘ": "voluntary"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Counsel means –",
+      "options": {
+        "ক": "Meeting",
+        "খ": "Advice",
+        "গ": "Trade",
+        "ঘ": "Cabinet"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘কর্তৃপক্ষ তাকে তিরস্কার করলো’- সঠিক ইংরেজি কী?",
+      "options": {
+        "ক": "The authority took him to task",
+        "খ": "The authority criticised him",
+        "গ": "The authority took him to book",
+        "ঘ": "The authority gave reins to him"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "What is the adjective of the word ‘Heart”?",
+      "options": {
+        "ক": "Heartful",
+        "খ": "Heartening",
+        "গ": "Heartly",
+        "ঘ": "Heart"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

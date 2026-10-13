@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৪১",
+  "subject": "English",
+  "model_test": "Model Test-41",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "I would like ______ information",
+      "options": {
+        "ক": "A",
+        "খ": "An",
+        "গ": "Some",
+        "ঘ": "A piece"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Where is the ______ post office?",
+      "options": {
+        "ক": "Nearest",
+        "খ": "Most near",
+        "গ": "More near",
+        "ঘ": "Nearer"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "I ______ a reply to my letter in the next few days.",
+      "options": {
+        "ক": "Write",
+        "খ": "expect",
+        "গ": "wait",
+        "ঘ": "get"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Raju ______ here yesterday.",
+      "options": {
+        "ক": "Come",
+        "খ": "Came",
+        "গ": "Will come",
+        "ঘ": "Has come"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "I prefer tea ______ coffee",
+      "options": {
+        "ক": "For",
+        "খ": "Than",
+        "গ": "From",
+        "ঘ": "To"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "CHARLATAN(Match the closest meaning that correspond to the quotations word)",
+      "options": {
+        "ক": "Bilingual",
+        "খ": "deserter",
+        "গ": "Imposter",
+        "ঘ": "Revamp"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "COMPENSATION (Match the closest meaning that correspond to the quotations word)",
+      "options": {
+        "ক": "Satistfiction",
+        "খ": "Admission",
+        "গ": "Compromise",
+        "ঘ": "Reward"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "BENEVOLENT(Match the closest meaning that correspond to the quotations word)",
+      "options": {
+        "ক": "Compassionate",
+        "খ": "Compromise",
+        "গ": "Honorarrium",
+        "ঘ": "Disgraceful"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "BIZARE (Match the closest meaning that correspond to the quotations word)",
+      "options": {
+        "ক": "Strange",
+        "খ": "Calamity",
+        "গ": "Fatal",
+        "ঘ": "Naive"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "LINGUIST(Match the closest meaning that correspond to the quotations word)",
+      "options": {
+        "ক": "Absconder",
+        "খ": "Swinder",
+        "গ": "Polyglot",
+        "ঘ": "Knowledgeable"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "These two temples are probably the two oldest surviving concrete erections in Old Dhaka,\"Both dating\" back at least two hundread years.(Match the best alternative that correspond to the quotations word)",
+      "options": {
+        "ক": "Both dating",
+        "খ": "Both of which have dated",
+        "গ": "And each has dated",
+        "ঘ": "And each one dating"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Unlike the many winter vegetables that have tought leaves and thus require a lengthy cooking time,\"Those of csbbage need little cooking time\"(Match the best alternative that correspond to the quotations word)",
+      "options": {
+        "ক": "Those of cabbage need little cooking time",
+        "খ": "Cabbage needs little cooking time",
+        "গ": "Cabbage need little cooking time",
+        "ঘ": "Those of cabbage needs little cooking time"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The population of Bangladesh has been steadily increasing for decades, \"and it will probably have what is estimated as 220\" million people by 250",
+      "options": {
+        "ক": "It will probably have what is estimated as",
+        "খ": "They are likely to have",
+        "গ": "the country will probably",
+        "ঘ": "There will probably be"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Natural slection operates whenever individuals of one genetic composition are better at reproducing than \"That of others\"as charles Darwin observed",
+      "options": {
+        "ক": "That of others",
+        "খ": "The other",
+        "গ": "Another",
+        "ঘ": "Those of another"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "May physician has told me that stomach ulcres are \"not caused by stress ,alcohol,or rich foods\" but a bacterium that dwells in the mucous lining of the stomach.(Match the best alternative that correspond to the quotations word)",
+      "options": {
+        "ক": "Not caused by stress ,alchol, or rich foods, but",
+        "খ": "Not caused by stress ,alchol, or rich foods or but",
+        "গ": "Caused not by stress,alchol,or rich foods but by",
+        "ঘ": "Caused not by stress,alcohol and rich foods but"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Identify the correct speeling-",
+      "options": {
+        "ক": "Psychology",
+        "খ": "psycology",
+        "গ": "sychology",
+        "ঘ": "Tsychology"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Identify the correct speeling-",
+      "options": {
+        "ক": "Enthusiastic",
+        "খ": "Enthoustic",
+        "গ": "Enthosuastic",
+        "ঘ": "Enthaustsiastic"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Identify the correct speeling-",
+      "options": {
+        "ক": "Precedence",
+        "খ": "Presedence",
+        "গ": "presidence",
+        "ঘ": "presedence"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Identify the correct speeling-",
+      "options": {
+        "ক": "paleontology",
+        "খ": "paletonology",
+        "গ": "paleteonology",
+        "ঘ": "palioteontology"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Identify the correct speeling-",
+      "options": {
+        "ক": "taxidarmist",
+        "খ": "taxydermist",
+        "গ": "Taxydermist",
+        "ঘ": "taxidermist"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

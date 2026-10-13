@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-১৬",
+  "subject": "English",
+  "model_test": "Model Test-16",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Prevention is better than –",
+      "options": {
+        "ক": "nothing",
+        "খ": "healing",
+        "গ": "cure",
+        "ঘ": "remedy"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Knowledge is –",
+      "options": {
+        "ক": "strength",
+        "খ": "Power",
+        "গ": "cure",
+        "ঘ": "comfort"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "What is lotted can not be –",
+      "options": {
+        "ক": "blotted",
+        "খ": "broken",
+        "গ": "endured",
+        "ঘ": "updated"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "সে ইংরেজিতে ভাল।",
+      "options": {
+        "ক": "He is well in English.",
+        "খ": "He is expert in English.",
+        "গ": "He is good at English.",
+        "ঘ": "He is better in English."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "জীবন পুষ্পশয্যা নয়।",
+      "options": {
+        "ক": "The life is not bed of roses.",
+        "খ": "A life is not bed of roses.",
+        "গ": "Life is not bed of roses.",
+        "ঘ": "Life is not a bed of roses."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "ইংরেজি শেখা সহজ।",
+      "options": {
+        "ক": "English is easy for learning.",
+        "খ": "The English is easy to learn.",
+        "গ": "It is easy to lerning English",
+        "ঘ": "It is easy to learn English"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "The journey was pleasant. Here ‘pleasant’ is –",
+      "options": {
+        "ক": "noun",
+        "খ": "pronoun",
+        "গ": "adjective",
+        "ঘ": "adverb"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Lovely comes here regularly. Here ‘regularly’ is –",
+      "options": {
+        "ক": "noun",
+        "খ": "pronoun",
+        "গ": "adjective",
+        "ঘ": "adverb"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "The noun form of 'lose' is –",
+      "options": {
+        "ক": "losing",
+        "খ": "loss",
+        "গ": "lost",
+        "ঘ": "Loose"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Honey is (taste) – sweet.",
+      "options": {
+        "ক": "taste",
+        "খ": "tasting",
+        "গ": "tasted",
+        "ঘ": "being tasted"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "It is our duty to (obey) – our parents.",
+      "options": {
+        "ক": "obey",
+        "খ": "obeying",
+        "গ": "obeyed",
+        "ঘ": "be obeyed"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Charity (to begin) – at home.",
+      "options": {
+        "ক": "is beginning",
+        "খ": "began",
+        "গ": "begins",
+        "ঘ": "has begun"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "something is better than –",
+      "options": {
+        "ক": "everything",
+        "খ": "nothing",
+        "গ": "anything",
+        "ঘ": "all"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Many men, many –",
+      "options": {
+        "ক": "faces",
+        "খ": "lives",
+        "গ": "minds",
+        "ঘ": "thoughts"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Out of sight, out of –",
+      "options": {
+        "ক": "life",
+        "খ": "might",
+        "গ": "mind",
+        "ঘ": "right"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Only the moon was visible. (Negative)",
+      "options": {
+        "ক": "The moon was not visible.",
+        "খ": "The moon was not invisible.",
+        "গ": "Nothing but the moon was visible.",
+        "ঘ": "None but the moon was visible."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Dhaka is one of the biggest cities in Bangladesh. (Positive)",
+      "options": {
+        "ক": "No other cities in Bangladesh are as big as Dhaka.",
+        "খ": "Very few cities in Bangladesh are as big as Dhaka.",
+        "গ": "Very few cities in Bangladesh is as big as Dhaka.",
+        "ঘ": "Some cities in Bangladesh is as big as Dhaka."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Never tell a lie. (passive)",
+      "options": {
+        "ক": "A lie is never told.",
+        "খ": "A lie is never be told.",
+        "গ": "Let a lie is never be told.",
+        "ঘ": "Let not a lie be told ever."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "I have no pen that I can lend you, (Simple)",
+      "options": {
+        "ক": "Having no pen, I can lend you.",
+        "খ": "Without any pen, I can lend you.",
+        "গ": "I have no pen to lend you.",
+        "ঘ": "I have no enough pen to lend."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "The synonym of the word ‘increase’ is –",
+      "options": {
+        "ক": "augment",
+        "খ": "decrease",
+        "গ": "quick",
+        "ঘ": "lessen"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "The antonym of the word ‘alien’ is –",
+      "options": {
+        "ক": "new comer",
+        "খ": "native",
+        "গ": "adverse",
+        "ঘ": "foreigner"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "The word ‘usual’ is the synonym of –",
+      "options": {
+        "ক": "normal",
+        "খ": "certain",
+        "গ": "unusual",
+        "ঘ": "strange"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "He is proud of his aristocracy. Here ‘aristocracy’ means –",
+      "options": {
+        "ক": "bad blood",
+        "খ": "blue blood",
+        "গ": "good blood",
+        "ঘ": "cold blood"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "The man did the work as my direction. Here ‘as’ indicates the idiom –",
+      "options": {
+        "ক": "as regards",
+        "খ": "by all means",
+        "গ": "according to",
+        "ঘ": "at random"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Smoking tells upon our body. Here ‘tell upon’ means –",
+      "options": {
+        "ক": "benefits",
+        "খ": "harms",
+        "গ": "indicates",
+        "ঘ": "strengthens"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

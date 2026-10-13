@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-৩১",
+  "subject": "English",
+  "model_test": "Model Test-31",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many parts are there in a letter?",
+      "options": {
+        "ক": "One",
+        "খ": "Two",
+        "গ": "Four",
+        "ঘ": "Six"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Which one is the correct passive form of the sentence: “Buy me a pen”.",
+      "options": {
+        "ক": "Let me by a pen",
+        "খ": "Let a pen be bought for me",
+        "গ": "Let a pen be bought by me",
+        "ঘ": "Let me a pen be bought"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Select the correct linking word to fill in the gap. “Read attentively___ you should fail in the examination.”",
+      "options": {
+        "ক": "or",
+        "খ": "until",
+        "গ": "lest",
+        "ঘ": "till"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Which one is very important in a ‘News Report’?",
+      "options": {
+        "ক": "An introduction",
+        "খ": "A short eye-catching head line",
+        "গ": "A description",
+        "ঘ": "Conclusion"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Cohesion and coherence is essential in:",
+      "options": {
+        "ক": "Letter",
+        "খ": "Narration",
+        "গ": "Preposition",
+        "ঘ": "Paragraph"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "I heard the little boy-",
+      "options": {
+        "ক": "cry",
+        "খ": "crying",
+        "গ": "cried",
+        "ঘ": "in crying"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Select the correct Bangla translation of: “There is no room in the bench.”",
+      "options": {
+        "ক": "এ রুমে কোন বেঞ্চ নেই",
+        "খ": "এ বেঞ্চে কোন কক্ষ নেই",
+        "গ": "এ বেঞ্চে কোনো জায়গা নেই",
+        "ঘ": "এ বেঞ্চে কোনো কক্ষ নেই"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Do not run_ debt.",
+      "options": {
+        "ক": "to",
+        "খ": "with",
+        "গ": "from",
+        "ঘ": "into"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "He lives here for five months.",
+        "খ": "He is living here for five months",
+        "গ": "He has been living here for five months.",
+        "ঘ": "He lived here for five months."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "‘Advice’ is a _",
+      "options": {
+        "ক": "verb",
+        "খ": "noun",
+        "গ": "adjective",
+        "ঘ": "adverb"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Synonym of ‘Notable’ is_",
+      "options": {
+        "ক": "novelty",
+        "খ": "notion",
+        "গ": "prominent",
+        "ঘ": "ordinary"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Select the correct English translation of: “The boys takes after his father”.",
+      "options": {
+        "ক": "ছেলেটি তার পিতার দেখাশুনা করে",
+        "খ": "ছেলেটি তার পিতার অনুকরণ করে",
+        "গ": "ছেলেটি তার পিতার পদাংক অনুসরণ করে",
+        "ঘ": "ছেলেটি দেখতে তার পিতার মতো"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "It is high time we _ our attitude.",
+      "options": {
+        "ক": "changed",
+        "খ": "should change",
+        "গ": "have to change",
+        "ঘ": "change"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "The verb of the word fool is_",
+      "options": {
+        "ক": "fool",
+        "খ": "befool",
+        "গ": "foolish",
+        "ঘ": "foul"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "What you (to do) last night?",
+      "options": {
+        "ক": "What did you do last night?",
+        "খ": "What you did last night?",
+        "গ": "What had you done last night?",
+        "ঘ": "What have you done last night?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "‘Bill of fare’ is_",
+      "options": {
+        "ক": "a chart of bus fare",
+        "খ": "a price list",
+        "গ": "a valuable document",
+        "ঘ": "a list of dishes at a restaurant"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "He is confident to get a scholarship.",
+        "খ": "He is confident of getting a scholarship.",
+        "গ": "He is confident in getting a scholarship",
+        "ঘ": "He is confident at getting a scholarship."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is the correct indirect form of the given direct speech? “What do you want ?” He said to me.",
+      "options": {
+        "ক": "He asked me what I wanted.",
+        "খ": "He asked me what I had wanted.",
+        "গ": "He asked me what I want.",
+        "ঘ": "He asked me what do you want."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Choose the right form of verb : It’s many years since I (meet) you.",
+      "options": {
+        "ক": "met",
+        "খ": "meeting",
+        "গ": "shall meet",
+        "ঘ": "can meet"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "No animal is so big ___ the blue whale.",
+      "options": {
+        "ক": "than",
+        "খ": "from",
+        "গ": "but",
+        "ঘ": "as"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "I cannot help _____ there.",
+      "options": {
+        "ক": "to go",
+        "খ": "went",
+        "গ": "going",
+        "ঘ": "have gone"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Della stood _____ the window.",
+      "options": {
+        "ক": "by",
+        "খ": "on",
+        "গ": "up",
+        "ঘ": "for"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "The adjective of the word ‘Humanity’ is -",
+      "options": {
+        "ক": "Human",
+        "খ": "Humane",
+        "গ": "Humen",
+        "ঘ": "In human"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "He divided the money___ the two brothers.",
+      "options": {
+        "ক": "between",
+        "খ": "among",
+        "গ": "in between",
+        "ঘ": "over"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Slow and steady ____ the race.",
+      "options": {
+        "ক": "win",
+        "খ": "won",
+        "গ": "has won",
+        "ঘ": "wins"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-১৫",
+  "subject": "English",
+  "model_test": "Model Test-15",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "No sooner – than the students stood up.",
+      "options": {
+        "ক": "the teacher enter the class",
+        "খ": "do the teacher enter the class",
+        "গ": "does the teacher enter the class",
+        "ঘ": "had the teacher entered the class"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "1971 was the year -",
+      "options": {
+        "ক": "when Bangladesh is born",
+        "খ": "when Bangladesh came to being",
+        "গ": "when Bangladesh came into being",
+        "ঘ": "when Bangladesh comes to being"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Had I the wings of a bird –",
+      "options": {
+        "ক": "I flew in the sky",
+        "খ": "I could fly in the sky",
+        "গ": "I fly in the sky",
+        "ঘ": "I would have flown in the sky"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "The man is too dishonest –",
+      "options": {
+        "ক": "to tell a lie",
+        "খ": "to take bribe",
+        "গ": "to speak the truth",
+        "ঘ": "to steal something"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "It is many years since –",
+      "options": {
+        "ক": "I meet you",
+        "খ": "I met you",
+        "গ": "I help you",
+        "ঘ": "I have met you"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "the old man walks slowly lest –",
+      "options": {
+        "ক": "he falls",
+        "খ": "he may fall",
+        "গ": "he should",
+        "ঘ": "he fell down"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "কতই না বিস্ময়কর মানুষের জীবন?",
+      "options": {
+        "ক": "How strange man’s life was!",
+        "খ": "How strange man’s life is!",
+        "গ": "What an wonderful man’s life is!",
+        "ঘ": "How wonderful a man’s life is!"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "তার কোনো বন্ধু নেই বললেই চলে।",
+      "options": {
+        "ক": "He has a few friends",
+        "খ": "He has no friends.",
+        "গ": "He has few friends",
+        "ঘ": "He has the few friends"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "ভাই ভাই ঠাঁই ঠাঁই?",
+      "options": {
+        "ক": "Brothers part",
+        "খ": "Brothers will part",
+        "গ": "Brothers will be part",
+        "ঘ": "Brothers have parted"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "শিশুটি কাঁদতে কাঁদতে আমার কাছে এল?",
+      "options": {
+        "ক": "The child comes to me run.",
+        "খ": "The child came to me running.",
+        "গ": "The child came to me carrying.",
+        "ঘ": "The child came to me to cry."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "তুমি কি কখনও কক্সবাজার গিয়েছ?",
+      "options": {
+        "ক": "Have you ever been to Cox’s Bazar?",
+        "খ": "Did you you ever go to Cox’s Bazar?",
+        "গ": "Heve you ever go to Cox’s Bazar?",
+        "ঘ": "Have you gone to Cox’s Bazar?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "I wish I – child again.",
+      "options": {
+        "ক": "be",
+        "খ": "am",
+        "গ": "was",
+        "ঘ": "were"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Two and two – four.",
+      "options": {
+        "ক": "make",
+        "খ": "makes",
+        "গ": "made",
+        "ঘ": "make/makes"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "It is high time we – our food habits.",
+      "options": {
+        "ক": "give up",
+        "খ": "gave up",
+        "গ": "changed",
+        "ঘ": "changing"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "The headmaster along with his colleagues – coming here today.",
+      "options": {
+        "ক": "is",
+        "খ": "are",
+        "গ": "will",
+        "ঘ": "was"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "It – since morning.",
+      "options": {
+        "ক": "has rained",
+        "খ": "has been raining",
+        "গ": "is raining",
+        "ঘ": "has rained/has been raining"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Birds fly – in the sky.",
+      "options": {
+        "ক": "at a stretch",
+        "খ": "at large",
+        "গ": "all along",
+        "ঘ": "at random"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "“Tooth and nill” means –",
+      "options": {
+        "ক": "get by heart.",
+        "খ": "go with heart",
+        "গ": "tried hard",
+        "ঘ": "get hard"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘Big bug’ means –",
+      "options": {
+        "ক": "useful person",
+        "খ": "important person",
+        "গ": "unemployed parson",
+        "ঘ": "emoployed parson"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "The price of rice is increasing –",
+      "options": {
+        "ক": "by fits and starts",
+        "খ": "by dint of",
+        "গ": "by virtue of",
+        "ঘ": "by leaps and bounds"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Della was too poor to buy a gift for Jim. (Negative)?",
+      "options": {
+        "ক": "Della was not too poor to buy a gift for Jim.",
+        "খ": "Della was so poor that he could not by a gift for Jim.",
+        "গ": "Della was so poor that she could not by a gift for Jim",
+        "ঘ": "Della was so poor that she cannot by a gift for Jim"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Nobody wishes to be unhappy. (Interrogative)?",
+      "options": {
+        "ক": "Who wishes to be unhappy?",
+        "খ": "Who wishes to be happy?",
+        "গ": "Who does not wish to be unhappy?",
+        "ঘ": "Does nobody wish to be happy?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Unemployment is a state for a man having no work to earn money. (Complex)",
+      "options": {
+        "ক": "Unemployment is a state when a man has no work to earn money.",
+        "খ": "Unemployment is a state for a man who has no work to earn money.",
+        "গ": "Unemployment is a state of a man who has no work.",
+        "ঘ": "Unemployment is the condition of a man who has no work."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Noun of the word ‘simple’ is –.",
+      "options": {
+        "ক": "simply",
+        "খ": "simplify",
+        "গ": "simplicity",
+        "ঘ": "simplification"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Find out the correct synonym of ‘hazard’",
+      "options": {
+        "ক": "Impartial",
+        "খ": "Static",
+        "গ": "Impolite",
+        "ঘ": "Danger"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

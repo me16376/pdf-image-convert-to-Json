@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-২৯",
+  "subject": "English",
+  "model_test": "Model Test-29",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which on is the correct passive form of the sentence ‘Your conduct pleased me’?",
+      "options": {
+        "ক": "I am pleased of your conduct",
+        "খ": "I was pleased with your conduct",
+        "গ": "I was pleased by your conduct",
+        "ঘ": "I was pleased at your conduct"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Choose the verb form of ‘friend’.",
+      "options": {
+        "ক": "friendshipe",
+        "খ": "friended",
+        "গ": "befriend",
+        "ঘ": "enfriend"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "‘’তার জন্য জায়গা করে দাও’’ এর শুদ্ধ ইংরেজি-",
+      "options": {
+        "ক": "Make place for him.",
+        "খ": "Manage place for him.",
+        "গ": "Make accommodation for him",
+        "ঘ": "Make room for him"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "What is the synonym of ‘reveal’?",
+      "options": {
+        "ক": "disclose",
+        "খ": "conceal",
+        "গ": "proclaim",
+        "ঘ": "pacify"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Fill in the blank with appropriate preposition in the sentence: I am pleased ___ hear about your promotion",
+      "options": {
+        "ক": "by",
+        "খ": "to",
+        "গ": "with",
+        "ঘ": "for"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "‘Swan song’ Means_",
+      "options": {
+        "ক": "First work",
+        "খ": "Last work",
+        "গ": "Middle work",
+        "ঘ": "Early work"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Sinners will suffer-",
+      "options": {
+        "ক": "in fine",
+        "খ": "in the long run",
+        "গ": "in no time",
+        "ঘ": "in the court"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "‘’All mean must die’’-Negative form of this sentence is-",
+      "options": {
+        "ক": "No men will never die.",
+        "খ": "None but all men must die.",
+        "গ": "Nothing but all men must die.",
+        "ঘ": "None can avoid death."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "I would rather die-",
+      "options": {
+        "ক": "to beg",
+        "খ": "than beg",
+        "গ": "than begging",
+        "ঘ": "than would have begged"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Had I been rich , I_",
+      "options": {
+        "ক": "Would have helped the poor",
+        "খ": "will help the poor",
+        "গ": "had helped the poor",
+        "ঘ": "than would have begged"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Do not insist ___ his going there.",
+      "options": {
+        "ক": "to",
+        "খ": "on",
+        "গ": "with",
+        "ঘ": "in"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "What is is the noun form of ‘belive’?",
+      "options": {
+        "ক": "belive",
+        "খ": "belief",
+        "গ": "believable",
+        "ঘ": "believance"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Select the right word to fill in the sentence ‘’He ran fast lest – miss the train.’’",
+      "options": {
+        "ক": "can",
+        "খ": "should",
+        "গ": "could",
+        "ঘ": "would"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "‘Phonetics’ is concerned with-",
+      "options": {
+        "ক": "pronunciation",
+        "খ": "Word building",
+        "গ": "Sentence making",
+        "ঘ": "Passage"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "He advised me - smoking.",
+      "options": {
+        "ক": "give up",
+        "খ": "to stop",
+        "গ": "to give up",
+        "ঘ": "from giving up"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Would you mind (to take) simply a cup of coffee? The correct verb form would be-",
+      "options": {
+        "ক": "to take",
+        "খ": "token",
+        "গ": "taking",
+        "ঘ": "for taking"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "The passive form of the sentence of the sentence : ‘’Do it as I say’’ is-",
+      "options": {
+        "ক": "Let it be done as is said by me",
+        "খ": "Let it be done as I say",
+        "গ": "It should be done as I say",
+        "ঘ": "Be it one as it is said"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "‘Blue blood’ means-",
+      "options": {
+        "ক": "aristocratic birth",
+        "খ": "scoundrel",
+        "গ": "fresh blood",
+        "ঘ": "blood of king"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "I look forward ___ you.",
+      "options": {
+        "ক": "to see",
+        "খ": "meeting",
+        "গ": "to hearing from",
+        "ঘ": "to meet"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "We work hard so that we_ succeed.",
+      "options": {
+        "ক": "can",
+        "খ": "could",
+        "গ": "may",
+        "ঘ": "should"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "-- water of the pond is clear_ Use article.",
+      "options": {
+        "ক": "the",
+        "খ": "a",
+        "গ": "no article",
+        "ঘ": "an"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Which one is a compound noun?",
+      "options": {
+        "ক": "Head master",
+        "খ": "Information",
+        "গ": "Friday",
+        "ঘ": "Examination"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "The man was—murder.",
+      "options": {
+        "ক": "hung for",
+        "খ": "hanged for",
+        "গ": "hanged",
+        "ঘ": "hung to"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "‘Head over heels in love’means-",
+      "options": {
+        "ক": "loving somebody",
+        "খ": "disliking somebody very much",
+        "গ": "hating love strongly",
+        "ঘ": "loving somebody very much"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "No sooner had I came than he went away",
+        "খ": "No sooner I come than he went away",
+        "গ": "No sooner had I come When he went away",
+        "ঘ": "No sooner had I come than he went away"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "title": "ইংলিশ বুলেটিন-৭৫",
+  "subject": "English",
+  "model_test": "Model Test-75",
+  "total_questions": 17,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Truth must prevail in the long run—বাক্য ‘truth’ শব্দটি কোন প্রকারের Noun?",
+      "options": {
+        "ক": "Common noun",
+        "খ": "Collective noun",
+        "গ": "Material noun",
+        "ঘ": "Abstract noun"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "‘The police dispersed the crowd’—বাক্য ‘crowd’ শব্দটি কোন প্রকারের Noun?",
+      "options": {
+        "ক": "Common noun",
+        "খ": "Collective noun",
+        "গ": "Material noun",
+        "ঘ": "Abstract noun"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "কোন বানানটি শুদ্ধ ?",
+      "options": {
+        "ক": "Occasion",
+        "খ": "Occasion",
+        "গ": "Ocassion",
+        "ঘ": "Occasion"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "কোন বানানটি শুদ্ধ ?",
+      "options": {
+        "ক": "Disentery",
+        "খ": "Dysentery",
+        "গ": "Disentary",
+        "ঘ": "Disentry"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "কোন বানানটি শুদ্ধ ?",
+      "options": {
+        "ক": "Accesible",
+        "খ": "Accessible",
+        "গ": "Accesibal",
+        "ঘ": "Acsecible"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "‘Tell him to do it’ বাক্যটির Passive form হবে ----",
+      "options": {
+        "ক": "Let him be told to do it",
+        "খ": "He may be told to do it",
+        "গ": "Let him told to do it",
+        "ঘ": "Let him tell to do it"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "‘I shall do the work’ বাক্যটির Passive form হবে ----",
+      "options": {
+        "ক": "I shall be doing the work",
+        "খ": "The work may be done by me",
+        "গ": "I may be doing the work",
+        "ঘ": "The work will be done by me"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "He said, ‘ I am well’ বাক্যটির Indirect speech হবে ----",
+      "options": {
+        "ক": "He said that I am well",
+        "খ": "He said that I was well",
+        "গ": "He said that he was well",
+        "ঘ": "He said that he is well"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Amin said, “I shall go to school.” বাক্যটির Indirect speech হবে ----",
+      "options": {
+        "ক": "Amin said that he will go to school",
+        "খ": "Amin said that he would go to school",
+        "গ": "Amin said that I shall go to school",
+        "ঘ": "Amin said that I would go to school"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "ক": "Everybody have gone there.",
+        "খ": "Everybody has gone there.",
+        "গ": "Everybody are gone there.",
+        "ঘ": "Everybody has went there."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "কোনটি শুদ্ধ বাক্য?",
+      "options": {
+        "ক": "There is book and pen on the table",
+        "খ": "There are a book and a pen on the table",
+        "গ": "There are a book on the table",
+        "ঘ": "There is a book and a pen on the table"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "I was admitted------Dhaka College বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে ---",
+      "options": {
+        "ক": "in",
+        "খ": "to",
+        "গ": "from",
+        "ঘ": "on"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "I beg mercy ------the principal বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে ---",
+      "options": {
+        "ক": "of",
+        "খ": "to",
+        "গ": "on",
+        "ঘ": "from"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "‘Abolish’ –এর সমার্থক শব্দ কোনটি?",
+      "options": {
+        "ক": "Cancel",
+        "খ": "General",
+        "গ": "Perform",
+        "ঘ": "Create"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "‘Gain’ –এর সমার্থক শব্দ কোনটি?",
+      "options": {
+        "ক": "Promote",
+        "খ": "Advantage",
+        "গ": "Fulfil",
+        "ঘ": "Trouble"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "‘Null and void’--- phrase –টির অর্থ কি?",
+      "options": {
+        "ক": "Good and bad",
+        "খ": "Light and dark",
+        "গ": "Advantage and disadvantage",
+        "ঘ": "এর কোনটিই নয়"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "‘Blue blood’--- phrase –টির অর্থ কি?",
+      "options": {
+        "ক": "Scoundrel",
+        "খ": "Sound health",
+        "গ": "Aristrocratic birth",
+        "ঘ": "Blood of blue colour"
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

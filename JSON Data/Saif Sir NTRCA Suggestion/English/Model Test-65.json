@@ -1,0 +1,188 @@
+{
+  "title": "ইংলিশ বুলেটিন-৬৫",
+  "subject": "English",
+  "model_test": "Model Test-65",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "Achevement",
+        "খ": "Achievment",
+        "গ": "Achievement",
+        "ঘ": "Acheivment"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Acclamation",
+        "খ": "Aclamation",
+        "গ": "Aclaimation",
+        "ঘ": "Acclaimation"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Anger may be compared … fire বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে-",
+      "options": {
+        "ক": "to",
+        "খ": "with",
+        "গ": "in",
+        "ঘ": "at"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "‘His behavior surprised me.” বাক্যটির Passive form হবে –",
+      "options": {
+        "ক": "I surprised at his behavior.",
+        "খ": "I was surprised with his behavior.",
+        "গ": "I was surprised at his behavior.",
+        "ঘ": "I had been surprised at his behavior."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "কোনটি Abstract Noun ?",
+      "options": {
+        "ক": "Man",
+        "খ": "Jury",
+        "গ": "Long",
+        "ঘ": "Height"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "He was astonished… my courage বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে-",
+      "options": {
+        "ক": "to",
+        "খ": "in",
+        "গ": "with",
+        "ঘ": "at"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "নিচের কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "ক": "He is not in the committee.",
+        "খ": "He is not at the committee.",
+        "গ": "He is not on the committee.",
+        "ঘ": "He is not with the committee."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "‘Courage’ শব্দটির verb হবে-",
+      "options": {
+        "ক": "Encourage",
+        "খ": "Courageous",
+        "গ": "Couragefull",
+        "ঘ": "Courage"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "নিচের কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "ক": "The more he gets, more he wants.",
+        "খ": "More he gets, the more he wants.",
+        "গ": "More he gets, more he wants.",
+        "ঘ": "The more he gets, the more he wants."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "The Chairman said, to the members, ‘Let us drop the matter today. ‘ বাক্যটির indirect speech হবে-",
+      "options": {
+        "ক": "The Chairman proposed to the members to drop the matter that day.",
+        "খ": "The Chairman proposed to the members that they should drop the matter today.",
+        "গ": "The Chairman proposed to the members that they should drop the matter that day.",
+        "ঘ": "The Chairman proposed to the members that they might drop the matter today."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "কোনটি ‘Vacant’ শব্দের সমার্থক শব্দ?",
+      "options": {
+        "ক": "Blank",
+        "খ": "Busy",
+        "গ": "Engaged",
+        "ঘ": "Full"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "কোনটি ‘Kind’ শব্দের সমার্থক শব্দ?",
+      "options": {
+        "ক": "Unkind",
+        "খ": "Benign",
+        "গ": "Cruel",
+        "ঘ": "Inhuman"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "‘Did you eat the apple?’ বাক্যটির Passive form হবে-",
+      "options": {
+        "ক": "Do the apple eaten by you?",
+        "খ": "Was the apple eaten by you?",
+        "গ": "Was the apple eat by you?",
+        "ঘ": "Was the apple ate by you?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "He addressed Mr. Rahman and wished him good morning. বাক্যটির direct speech হবে-",
+      "options": {
+        "ক": "He said to Mr. Rahman, ‘Good morning.”",
+        "খ": "He said, ‘Good morning, Mr. Rahman.’",
+        "গ": "He said, ‘Good morning, to Mr. Rahman.’",
+        "ঘ": "He bade good morning to Mr. Rahman"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "A baker’s dozen এর অর্থ-",
+      "options": {
+        "ক": "Charity",
+        "খ": "Allowance",
+        "গ": "Twelve",
+        "ঘ": "Thirteen"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

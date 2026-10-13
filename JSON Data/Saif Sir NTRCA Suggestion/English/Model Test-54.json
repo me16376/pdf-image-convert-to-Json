@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৫৪",
+  "subject": "English",
+  "model_test": "Model Test-54",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "”Maiden Speech” Means-",
+      "options": {
+        "ক": "Late Speech",
+        "খ": "Early Speech",
+        "গ": "Last Speech",
+        "ঘ": "First Speech"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "“To keep one’s head” Means-",
+      "options": {
+        "ক": "To save oneself",
+        "খ": "To be self-respectful",
+        "গ": "To keep calm",
+        "ঘ": "None of these"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Choose the correctly spelt word-",
+      "options": {
+        "ক": "Accelerate",
+        "খ": "Accilerate",
+        "গ": "Accelerrate",
+        "ঘ": "Accilarate"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Which of the following words is wrong in spelling?",
+      "options": {
+        "ক": "Pneumonia",
+        "খ": "Dyspepsia",
+        "গ": "Diarrhoea",
+        "ঘ": "Cholera"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Identify the correct sentence.",
+      "options": {
+        "ক": "She had faith and hopes for the future.",
+        "খ": "She had faith in and hopes for the future.",
+        "গ": "She had faith and hopes in the future.",
+        "ঘ": "She had faith and hope in future."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "ক": "The matter was informed in the police.",
+        "খ": "The matter had been informed of the police.",
+        "গ": "The police were informed of the matter.",
+        "ঘ": "The police was informed of the matter."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "নিচের কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "ক": "I felt his pulse.",
+        "খ": "I found his pulse.",
+        "গ": "I examined his pulse.",
+        "ঘ": "I saw his pulse."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "“He asked me when the next letter would come” বাক্যের direct speech হচ্ছে-",
+      "options": {
+        "ক": "He said to me, “When would the next letter come?”",
+        "খ": "He asked to me, “When will the next letter come?”",
+        "গ": "He said to me, “When will the next letter come?”",
+        "ঘ": "He said me, “When the next letter come?”"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Put the following sentence into indirect narration: “You had better not leave your room unlocked” said my friends.",
+      "options": {
+        "ক": "My friends asked me not to leave my room unlocked.",
+        "খ": "My friends reminded me to lock my room.",
+        "গ": "My friends advised me to lock my room.",
+        "ঘ": "My friends warned me not to leave my room unlocked."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "“I will have a cup of tea” my father said “because I’m not hungry.” Which one is the correct indirect speech?",
+      "options": {
+        "ক": "My father said that the will have a cup of tea because be was not hungry.",
+        "খ": "My father said that he would have a cup of tea because he has not hungry.",
+        "গ": "My father said that he would have had a cup of tea because he was not hungry.",
+        "ঘ": "My father said that he had a cup of tea because he was not hungry."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "“Who can do it” বাক্যটির Passive form হবে---",
+      "options": {
+        "ক": "By whom it can be done",
+        "খ": "By whom can it be do",
+        "গ": "By whom can it be done",
+        "ঘ": "By whom can it be did"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "“He please us” বাক্যটির Passive form হবে---",
+      "options": {
+        "ক": "We were pleased with him",
+        "খ": "We are pleased with him",
+        "গ": "We are pleased by him",
+        "ঘ": "By whom can it be did"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "What is the adjective of the word ‘Tax’?",
+      "options": {
+        "ক": "Taxation",
+        "খ": "Taxing",
+        "গ": "Taxably",
+        "ঘ": "Taxable"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Noun of the word ‘Brief’ is-",
+      "options": {
+        "ক": "Brevity",
+        "খ": "Shortness",
+        "গ": "Briefly",
+        "ঘ": "None of these"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct preposition in the blank of the sentence “I count ---- help”",
+      "options": {
+        "ক": "for",
+        "খ": "upon",
+        "গ": "with",
+        "ঘ": "after"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Choose the right preposition for the blank space in “What is the time ----- your watch?”",
+      "options": {
+        "ক": "at",
+        "খ": "in",
+        "গ": "by",
+        "ঘ": "with"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "What is the antonym of ‘Queer’?",
+      "options": {
+        "ক": "Integrated",
+        "খ": "Abnormal",
+        "গ": "Odd",
+        "ঘ": "Orderly"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "The synonym of the word ‘Pitfall’ is-",
+      "options": {
+        "ক": "Opportunity",
+        "খ": "Artistic",
+        "গ": "Shortcoming",
+        "ঘ": "Enduring"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "The antonym of ‘Indifference’ is –",
+      "options": {
+        "ক": "Anxiety",
+        "খ": "Concern",
+        "গ": "Compassion",
+        "ঘ": "Ardour"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "A synonym for ‘Mischievous’ is-",
+      "options": {
+        "ক": "Vicious",
+        "খ": "Kind",
+        "গ": "Serious",
+        "ঘ": "Well-behaved"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

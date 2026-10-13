@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৮৩",
+  "subject": "English",
+  "model_test": "Model Test-83",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কোনটি সঠিক?",
+      "options": {
+        "ক": "Paper is made with wood.",
+        "খ": "Paper is made by wood",
+        "গ": "Paper is made of wood.",
+        "ঘ": "Paper is made from wood."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "কোনটি শুদ্ধ?",
+      "options": {
+        "ক": "He is a lecturer in English",
+        "খ": "He is a lecturer for English",
+        "গ": "He is a lecturer for English",
+        "ঘ": "He is a lecturer of English"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is with correct punctuation –",
+      "options": {
+        "ক": "Maria, my student, is on leave today.",
+        "খ": "Maria my student, is on leave today .",
+        "গ": "Maria my student is on leave today .",
+        "ঘ": "Maria my student is ,on leave today."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "“ Two heads are better than one” এ প্রবাদ বাক্যটির ভাবার্থ কোনটি?",
+      "options": {
+        "ক": "Comprehenson",
+        "খ": "Correction",
+        "গ": "Compromise",
+        "ঘ": "Consulatation"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "The adjective form of ‘decision’ is –",
+      "options": {
+        "ক": "decisive",
+        "খ": "deceived",
+        "গ": "decide",
+        "ঘ": "decisiveness"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "What is the meaning of ‘ of late’ ?",
+      "options": {
+        "ক": "lateness",
+        "খ": "too late",
+        "গ": "delayed",
+        "ঘ": "recently"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "“নিঃশেষিত” এর সঠিক ইংরেজি রূপায়ন-",
+      "options": {
+        "ক": "Out of sorts",
+        "খ": "Out of doors",
+        "গ": "Out of doors",
+        "ঘ": "Out of print"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "“Look forward” means –",
+      "options": {
+        "ক": "examine",
+        "খ": "take care of",
+        "গ": "Find out",
+        "ঘ": "expect with pleasure"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "কোন বানানটি শুদ্ধ ?",
+      "options": {
+        "ক": "Occation",
+        "খ": "Occasion",
+        "গ": "Occasion",
+        "ঘ": "Occasion"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Kamal said to me, “what is your name?” ( Indirect form )",
+      "options": {
+        "ক": "Kamal asked what was my name.",
+        "খ": "Kamal asked you your name",
+        "গ": "What my name is , kamal asked",
+        "ঘ": "Kamal asked me what my name was."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "I suggest that he --- there .",
+      "options": {
+        "ক": "gone",
+        "খ": "goes",
+        "গ": "go",
+        "ঘ": "went"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "Grievance",
+        "খ": "Greviance",
+        "গ": "Grivence",
+        "ঘ": "Greivance"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "A rolling stone gathers no moss. What is “rolling”?",
+      "options": {
+        "ক": "Verbal Noun",
+        "খ": "Gerund",
+        "গ": "Participle",
+        "ঘ": "Adjective"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "“তুমি কার সাথে কথা বলছ?” এর ইংরেজি –",
+      "options": {
+        "ক": "Whom are you speaking?",
+        "খ": "Whom are you speaking with ?",
+        "গ": "Whom are you speaking to ?",
+        "ঘ": "With whom are you speaking?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "You must work hard for success ( Make it compound ).",
+      "options": {
+        "ক": "Work hard for the success.",
+        "খ": "Work hard to the success.",
+        "গ": "Work hard and you will succeed .",
+        "ঘ": "Work hard for success."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "“ He was taken to task” অর্থ –",
+      "options": {
+        "ক": "সে কাজ নিয়েছিল ।",
+        "খ": "তাকে তিরস্কার করা হয়েছিল ।",
+        "গ": "তাকে কাজ দেয়া হয়েছিল ।",
+        "ঘ": "তাকে কাজের জন্য বলা হয়েছিল ।"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Anis had a talent --- making people laugh .",
+      "options": {
+        "ক": "on",
+        "খ": "for",
+        "গ": "of",
+        "ঘ": "in"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Tress have --- off their leaves .",
+      "options": {
+        "ক": "thrown",
+        "খ": "fallen",
+        "গ": "cast",
+        "ঘ": "put"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "The principal had an inquiry – the case.",
+      "options": {
+        "ক": "to",
+        "খ": "into",
+        "গ": "at",
+        "ঘ": "in"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "What is the meaning of “ White Elephant ?”",
+      "options": {
+        "ক": "A very costly or troublesome possession",
+        "খ": "An elephant of white colour",
+        "গ": "s A hoarder",
+        "ঘ": "A black marketer"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-১৩",
+  "subject": "English",
+  "model_test": "Model Test-13",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "তিনি কদাচিত মিথ্যা কথা বলেন।",
+      "options": {
+        "ক": "He sometimes tells a life",
+        "খ": "He never tells a life",
+        "গ": "He seldom tells a life",
+        "ঘ": "He sometime tells a life"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "ভুল করা মানুষের স্বভাব?",
+      "options": {
+        "ক": "To err is human",
+        "খ": "To err is a human",
+        "গ": "To err is humans",
+        "ঘ": "To err are human"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "নাই মামার চেয়ে কানা মামা ভাল?",
+      "options": {
+        "ক": "Something is gooder than nothing",
+        "খ": "Some uncles are better than no uncle",
+        "গ": "Something are better than nothing",
+        "ঘ": "Something is better than nothing´"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "লোকটি মরমর অবস্থা।",
+      "options": {
+        "ক": "The man is to die",
+        "খ": "The man is about to die",
+        "গ": "The man is died",
+        "ঘ": "The man is has die"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "আমি তাকে দিয়ে কাজটি করলাম।",
+      "options": {
+        "ক": "I made him do the work",
+        "খ": "I got him do the work",
+        "গ": "I made done the work by him",
+        "ঘ": "I have done him the work"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Belal is the best boys in the class. (Comparative)?",
+      "options": {
+        "ক": "Very few boys in the class are as good as Belal",
+        "খ": "Belal is a good boy in the class",
+        "গ": "Belal is better than any other boy in the class",
+        "ঘ": "Belal is better than any other boys in the class"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Everybody hates a liar. (Interrogative)?",
+      "options": {
+        "ক": "Who hates a liar?",
+        "খ": "Do you hate a liar?",
+        "গ": "Who does not hates a liar?",
+        "ঘ": "Who does not hate a liar?"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "He is poor but he is honest. (Complex)?",
+      "options": {
+        "ক": "Though he is poor, he is honest",
+        "খ": "He is poor and honest",
+        "গ": "As he is poor, he is honest",
+        "ঘ": "Since he is poor, he is honest"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "He is so weak that he cannot walk (Complex)?",
+      "options": {
+        "ক": "He is so weak that",
+        "খ": "He is weak to walk",
+        "গ": "He is too weak to walk",
+        "ঘ": "He is very weak to walk,"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "‘Milk and water’ means –",
+      "options": {
+        "ক": "brave",
+        "খ": "timid",
+        "গ": "daring",
+        "ঘ": "courageous"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Politicians often use students as –",
+      "options": {
+        "ক": "cat’s paw",
+        "খ": "cold water",
+        "গ": "fresh blood",
+        "ঘ": "kith and kin"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Sher-e-Bangla was a –",
+      "options": {
+        "ক": "man of sorrow",
+        "খ": "man of justice",
+        "গ": "man of mark",
+        "ঘ": "man of softheart"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "He is –a rogue.",
+      "options": {
+        "ক": "above all",
+        "খ": "after all",
+        "গ": "one and every",
+        "ঘ": "out and out"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "I sew the beggar – on the floor.",
+      "options": {
+        "ক": "laid",
+        "খ": "lying",
+        "গ": "lay",
+        "ঘ": "lie"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "I went to the library with a view to – knowledge.",
+      "options": {
+        "ক": "gain",
+        "খ": "gained",
+        "গ": "gain",
+        "ঘ": "gaining"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "The poor – much in winter.",
+      "options": {
+        "ক": "suffer",
+        "খ": "suffers",
+        "গ": "suffering",
+        "ঘ": "suffered"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Walk fast lest you (miss) the train.",
+      "options": {
+        "ক": "would miss",
+        "খ": "missed",
+        "গ": "should miss",
+        "ঘ": "will miss"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "The patient (die) before the doctor came.",
+      "options": {
+        "ক": "died",
+        "খ": "had died",
+        "গ": "have died",
+        "ঘ": "would die"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "I (to suffer) from fever for three days.",
+      "options": {
+        "ক": "have suffered",
+        "খ": "am suffering",
+        "গ": "suffered",
+        "ঘ": "have been suffering"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Hardly had we taken shelter under a big tree-",
+      "options": {
+        "ক": "then the storm started",
+        "খ": "when the storm starts",
+        "গ": "then the storm starts",
+        "ঘ": "when the storm started"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "If I were a bird,-",
+      "options": {
+        "ক": "I would fly in the sky",
+        "খ": "I should fly in the sky",
+        "গ": "I will fly in the sky",
+        "ঘ": "I flew in the sky"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "He speaks as if –",
+      "options": {
+        "ক": "he knows everything",
+        "খ": "he knew everything",
+        "গ": "he had known everything",
+        "ঘ": "he know everything"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Which is the antonym of ‘handsome’?",
+      "options": {
+        "ক": "Beautiful",
+        "খ": "Ugly",
+        "গ": "Nice",
+        "ঘ": "Bad"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "What is the adjective of ‘comfort’?",
+      "options": {
+        "ক": "Comfortation",
+        "খ": "Comfortably",
+        "গ": "Comfortification",
+        "ঘ": "Comfortable"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Find out the correct synonym of the word ‘ability’",
+      "options": {
+        "ক": "Property",
+        "খ": "Appropriacy",
+        "গ": "Capability",
+        "ঘ": "Disability"
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

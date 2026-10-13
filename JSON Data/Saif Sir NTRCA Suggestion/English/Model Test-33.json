@@ -1,0 +1,116 @@
+{
+  "title": "ইংলিশ বুলেটিন-৩৩",
+  "subject": "English",
+  "model_test": "Model Test-33",
+  "total_questions": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "He got ..... his illness quickly.",
+      "options": {
+        "ক": "over",
+        "খ": "on",
+        "গ": "at",
+        "ঘ": "by"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "I'm getting late--- office .",
+      "options": {
+        "ক": "from",
+        "খ": "for",
+        "গ": "to",
+        "ঘ": "in"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Please wait for me. I will be finished .... five or ten minutes.",
+      "options": {
+        "ক": "at",
+        "খ": "in",
+        "গ": "by",
+        "ঘ": "from"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "A disease that is transmitted to people through the environment is known as ....... ?",
+      "options": {
+        "ক": "Contagious",
+        "খ": "Infections",
+        "গ": "Fatal",
+        "ঘ": "Incurable"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Antonym of ENORMOUS is -",
+      "options": {
+        "ক": "Weak",
+        "খ": "Soft",
+        "গ": "Tiny",
+        "ঘ": "Hard"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Antonym for PRODIGAL - is",
+      "options": {
+        "ক": "Sqandering",
+        "খ": "Thrifty",
+        "গ": "Spendthrift",
+        "ঘ": "Wanton"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Change the voice of the sentence : They greet me cheerfully every morning.",
+      "options": {
+        "ক": "Every morning I was greeted cheerfully.",
+        "খ": "I am greeted cheerfully by them every morning.",
+        "গ": "I am being greeted cheerfully by them every morning.",
+        "ঘ": "They greet me cheerfully every morning ."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "\"Spill the beans\" means -",
+      "options": {
+        "ক": "Frivolously performing a simple task",
+        "খ": "Reveal someone's secret",
+        "গ": "To stop something at an early stage",
+        "ঘ": "None of these"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Synonym of ZEST is -",
+      "options": {
+        "ক": "Enthusiasm",
+        "খ": "Passive",
+        "গ": "Disgust",
+        "ঘ": "Various"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

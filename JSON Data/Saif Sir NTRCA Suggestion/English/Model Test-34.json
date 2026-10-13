@@ -1,0 +1,116 @@
+{
+  "title": "ইংলিশ বুলেটিন-৩৪",
+  "subject": "English",
+  "model_test": "Model Test-34",
+  "total_questions": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "‘Promises should be kept’- make the sentences in passive form.",
+      "options": {
+        "ক": "He should keep his promises.",
+        "খ": "One should keep his promises.",
+        "গ": "You should keep your promises.",
+        "ঘ": "One should keep one's promises."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "A synonym for \"Synergy\" is-",
+      "options": {
+        "ক": "Alliance",
+        "খ": "Conflict",
+        "গ": "Autonomy",
+        "ঘ": "Antagonism"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Find the correct analogy of \"Light : Blind\".",
+      "options": {
+        "ক": "Voice : Vibration",
+        "খ": "Speech : Dumb",
+        "গ": "None of them",
+        "ঘ": "Tongue : Sound"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "He lives _____ honest means.",
+      "options": {
+        "ক": "by",
+        "খ": "on",
+        "গ": "within",
+        "ঘ": "for"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "`To fight shy of' - means.",
+      "options": {
+        "ক": "to adopt",
+        "খ": "to snatch",
+        "গ": "to quarrel",
+        "ঘ": "to avoid"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "The play `Hamlet' is written by.",
+      "options": {
+        "ক": "W. B. Yeats",
+        "খ": "William Shakespeare",
+        "গ": "W. H. Auden",
+        "ঘ": "W. Wordsworth"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Antonym of `bizarre' is-",
+      "options": {
+        "ক": "Messy",
+        "খ": "Normal",
+        "গ": "Flexible",
+        "ঘ": "Hannibal"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Select the correct sentence?",
+      "options": {
+        "ক": "He resembles as his father.",
+        "খ": "He resembles to his father.",
+        "গ": "He resembles his father.",
+        "ঘ": "He resembles like his father."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct spelling-",
+      "options": {
+        "ক": "Sovereignty",
+        "খ": "Soverinty",
+        "গ": "Sovreignty",
+        "ঘ": "Soverenity"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

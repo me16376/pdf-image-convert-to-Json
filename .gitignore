@@ -15,3 +15,5 @@ PDF/Saif Sir NTRCA Suggestion/
 # Python
 __pycache__/
 *.pyc
+*_test.png
+.tempmediaStorage/

@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-২৪",
+  "subject": "English",
+  "model_test": "Model Test-24",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "ক": "I know what dose he wants?",
+        "খ": "I know what dose he wants",
+        "গ": "I know what dose he want?",
+        "ঘ": "I Know what he wants."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Which is the correct use of gerund?",
+      "options": {
+        "ক": "I saw the girl dancing",
+        "খ": "I am dancing on the floor.",
+        "গ": "Dancing is a good exercise",
+        "ঘ": "The girl came here dancing."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "The correctly spelt word is –",
+      "options": {
+        "ক": "Millennium",
+        "খ": "Milennium",
+        "গ": "Milenium",
+        "ঘ": "Millinium"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Which one is the correct sentence?",
+      "options": {
+        "ক": "He is comparatively better today.",
+        "খ": "He is good today than before.",
+        "গ": "He is better today.",
+        "ঘ": "He is best today than yesterday."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "The word ‘Homely’ is-",
+      "options": {
+        "ক": "Noun",
+        "খ": "Adverb",
+        "গ": "Verb",
+        "ঘ": "Adjective"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "What you (do) at this moment?",
+      "options": {
+        "ক": "do you do",
+        "খ": "doing",
+        "গ": "are you doing",
+        "ঘ": "the done"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct answer?",
+      "options": {
+        "ক": "He gave me good-bye",
+        "খ": "He bade me good -bye",
+        "গ": "He told me good-bye",
+        "ঘ": "He wished me good-bye"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The word ‘adulteration’ can be best explained as ____",
+      "options": {
+        "ক": "to mix something intensely",
+        "খ": "to use unusual methods",
+        "গ": "to make impure by adding inferior ingredient",
+        "ঘ": "to mix poison"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "It is high time we (change)our food habit. Here the correct form of verb is_",
+      "options": {
+        "ক": "changed",
+        "খ": "have changed",
+        "গ": "should have change",
+        "ঘ": "should changed"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Five litre of milk is contained _ the pot.",
+      "options": {
+        "ক": "by",
+        "খ": "to",
+        "গ": "in",
+        "ঘ": "at"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "I could not go _ for the examination due to rain.",
+      "options": {
+        "ক": "in",
+        "খ": "by",
+        "গ": "to",
+        "ঘ": "on"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "The phrase ‘at loggerhead’ means _",
+      "options": {
+        "ক": "very close",
+        "খ": "belligerent",
+        "গ": "quarreling",
+        "ঘ": "distant relation"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Hurry spoils-",
+      "options": {
+        "ক": "the work",
+        "খ": "the curry",
+        "গ": "to tarry",
+        "ঘ": "and scary"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "____ water of this lake s pure.",
+      "options": {
+        "ক": "a",
+        "খ": "an or the",
+        "গ": "the",
+        "ঘ": "no article"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "I wanted the poster to _",
+      "options": {
+        "ক": "hang",
+        "খ": "to be hanged",
+        "গ": "to be hunged",
+        "ঘ": "to be hung"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "“Leave no stone unturned” means_",
+      "options": {
+        "ক": "heavy stone",
+        "খ": "impossible",
+        "গ": "rare stone",
+        "ঘ": "try every possible means"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Would you mind _me cup of tea?",
+      "options": {
+        "ক": "giving",
+        "খ": "make",
+        "গ": "bringing",
+        "ঘ": "bring"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "What is the antonym of ‘rear’?",
+      "options": {
+        "ক": "Not available",
+        "খ": "Behind",
+        "গ": "Front",
+        "ঘ": "Available"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘ছেলেটি কাঁদতে কাঁদতে আমার কাছে এলো’ -",
+      "options": {
+        "ক": "The boy came to me crying.",
+        "খ": "The boy came near me crying.",
+        "গ": "The boy came to me in crying.",
+        "ঘ": "The boy came to me by crying."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Had I riches, I ____ (help) you.",
+      "options": {
+        "ক": "would helped",
+        "খ": "would have helped",
+        "গ": "had helped",
+        "ঘ": "will help"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "What is the appropriate meaning of ‘Achilles heel’?",
+      "options": {
+        "ক": "Important issue",
+        "খ": "Turning point",
+        "গ": "Vulnerable point",
+        "ঘ": "Main point"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "‘লেবু কচলালে তেঁতো হয়’ The best translation is",
+      "options": {
+        "ক": "The lemon becomes bitter if it is rubbed.",
+        "খ": "A jest driven hard, loses its points.",
+        "গ": "A hungry fox is an angry fox.",
+        "ঘ": "Don’t try to do anything again and again."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Which on below is a correct sentence? They have seen me yesterday.",
+      "options": {
+        "ক": "Not available",
+        "খ": "I like this childlike simplicity.",
+        "গ": "It is I who is to blame.",
+        "ঘ": "The girl resembles to her mother"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "At the scene, _ mother arose in her.",
+      "options": {
+        "ক": "a",
+        "খ": "the",
+        "গ": "a or the",
+        "ঘ": "on article"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "What is the verb form of the word `friend’?",
+      "options": {
+        "ক": "friend",
+        "খ": "friended",
+        "গ": "Friending",
+        "ঘ": "be friend"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

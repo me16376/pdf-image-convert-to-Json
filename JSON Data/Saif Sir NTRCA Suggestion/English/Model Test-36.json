@@ -1,0 +1,368 @@
+{
+  "title": "ইংলিশ বুলেটিন-৩৬",
+  "subject": "English",
+  "model_test": "Model Test-36",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct affirmative-",
+      "options": {
+        "ক": "Everyone must submit to one's fate",
+        "খ": "Everyone cannot escape his fate",
+        "গ": "Everyone accept his fate",
+        "ঘ": "Everyone cane scape his fate"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Sujon had been ______ the rum ever since the stain councilors' brother filed the case.",
+      "options": {
+        "ক": "after",
+        "খ": "in",
+        "গ": "on",
+        "ঘ": "to"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Indentify the correct sentence-",
+      "options": {
+        "ক": "Fortunately, the explosin killed person one only",
+        "খ": "Fotunately, the explosion killed on one person.",
+        "গ": "Only fortunately, the explosion killed only one person",
+        "ঘ": "Fortunately , only explosion killed one person"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "How many affixes are there in the word 'artheist?",
+      "options": {
+        "ক": "two",
+        "খ": "three",
+        "গ": "four",
+        "ঘ": "one"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "When you think someone 'introspective' you think she/he is-",
+      "options": {
+        "ক": "thoughtful",
+        "খ": "rude",
+        "গ": "reserved",
+        "ঘ": "Selfish"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Choose the pair that best corresponds to _____ Sketch: Artist.",
+      "options": {
+        "ক": "cell: prisoner",
+        "খ": "chisel:sculptor",
+        "গ": "birs:egg",
+        "ঘ": "draft:write"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Fill int the blank. He had his hair______",
+      "options": {
+        "ক": "cutting",
+        "খ": "to cut",
+        "গ": "to be cut",
+        "ঘ": "cut"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Who wrote the novel \" Great Expectations'?",
+      "options": {
+        "ক": "Charles Dickens",
+        "খ": "John Milton",
+        "গ": "G.B Shaw",
+        "ঘ": "Shakeseare"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "A group of lines places togethre to create poem is called a -",
+      "options": {
+        "ক": "Form",
+        "খ": "Poem",
+        "গ": "Stanza",
+        "ঘ": "Paragraph"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is correct?",
+      "options": {
+        "ক": "He is tired with the job",
+        "খ": "He is tired of the job",
+        "গ": "He is tires to his job",
+        "ঘ": "He is tired by the job"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "The saying : enough is enough\" is used when you want-",
+      "options": {
+        "ক": "To tell instruction are clear",
+        "খ": "To express anger",
+        "গ": "Something to stop",
+        "ঘ": "To say enough"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Identify the correct sentence-",
+      "options": {
+        "ক": "The sceneries of Cox's Bazar are attractive",
+        "খ": "The sceneries of Cox's Bazar is attractive",
+        "গ": "The scenary of Cox's Bazar is attractive",
+        "ঘ": "The scenery of Cox's Bazar is attractive."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Selete the correct passive form of - \"we insist on punctuality in this office.\"",
+      "options": {
+        "ক": "It is to be insisted that punctuality should be in this office",
+        "খ": "Punctualty should be insisted in this office",
+        "গ": "Punctuality is insisted on in this office",
+        "ঘ": "Punctuality be insisted in this office."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "What is is the plural of ' stimulus'?",
+      "options": {
+        "ক": "stimuli",
+        "খ": "stimullae",
+        "গ": "stimulaes",
+        "ঘ": "stimuluses"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "He said, \" Would that I were rich \" the correct indirect form is-",
+      "options": {
+        "ক": "He wished he would be rich",
+        "খ": "He said that he were rich",
+        "গ": "He wished that he had been rich",
+        "ঘ": "He said would that he were rich"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Which is the correct spelling?",
+      "options": {
+        "ক": "Equalibraium",
+        "খ": "Equalibrium",
+        "গ": "Equallibrium",
+        "ঘ": "Equilibrium"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Did you have any difficulty ____ a visa?",
+      "options": {
+        "ক": "to have got",
+        "খ": "having",
+        "গ": "get",
+        "ঘ": "in getting"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Antonym of ' dogma ' is-",
+      "options": {
+        "ক": "tenet",
+        "খ": "unbelief",
+        "গ": "doctrine",
+        "ঘ": "principle"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "__________AIDS virus infection in incurable.",
+      "options": {
+        "ক": "no article",
+        "খ": "an",
+        "গ": "one",
+        "ঘ": "the"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Indentity the part of speech ' seldom'",
+      "options": {
+        "ক": "Verb",
+        "খ": "Adverb",
+        "গ": "Noun",
+        "ঘ": "Adjective"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Find the correct spelling -",
+      "options": {
+        "ক": "Lietenant",
+        "খ": "Lieutenant",
+        "গ": "Commite",
+        "ঘ": "Committee"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Who wrote\" The Excursion?",
+      "options": {
+        "ক": "Thomas Gray",
+        "খ": "Dr. Samuel Johnson",
+        "গ": "Samuel Richardson",
+        "ঘ": "William Wordsworth"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "What is the meaning of the idiom \" The salt of the Earth\"?",
+      "options": {
+        "ক": "Best People",
+        "খ": "Best Place",
+        "গ": "Best salt",
+        "ঘ": "Best soil"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "What is the correct antonym of \" Honorary\"?",
+      "options": {
+        "ক": "Literary",
+        "খ": "Paid",
+        "গ": "Honourable",
+        "ঘ": "Unpaid"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Study of religion is called-",
+      "options": {
+        "ক": "Theology",
+        "খ": "Anthropology",
+        "গ": "Regionology",
+        "ঘ": "Apiology"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "question": "' Renaissance \" means-",
+      "options": {
+        "ক": "Reborn",
+        "খ": "Rebirth",
+        "গ": "Regain",
+        "ঘ": "Rearrange"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 27,
+      "question": "They sysnonym of ' cryptic' -",
+      "options": {
+        "ক": "Impromptu",
+        "খ": "Horrible",
+        "গ": "Indolence",
+        "ঘ": "Obscure"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 28,
+      "question": "Identity is the correct noun?",
+      "options": {
+        "ক": "Cute",
+        "খ": "Mute",
+        "গ": "Acute",
+        "ঘ": "Flute"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 29,
+      "question": "'Green eye\" means-",
+      "options": {
+        "ক": "Jelaously",
+        "খ": "Green movement",
+        "গ": "Good eysight",
+        "ঘ": "Greeen garden"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 30,
+      "question": "A question mark i parentheses an be used to-",
+      "options": {
+        "ক": "express uncertainty",
+        "খ": "writer's expectation",
+        "গ": "the end of any sentence",
+        "ঘ": "express writer's interest"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

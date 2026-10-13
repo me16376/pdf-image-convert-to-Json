@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৯০",
+  "subject": "English",
+  "model_test": "Model Test-90",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "We couldn’t buy anything because............of the shops was open.",
+      "options": {
+        "ক": "all",
+        "খ": "no one",
+        "গ": "nothing",
+        "ঘ": "none"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Choose the opposite word in meaning to the word ‘Liability’",
+      "options": {
+        "ক": "Property",
+        "খ": "Treasure",
+        "গ": "Debt",
+        "ঘ": "Assets"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "The ‘Tale of Two Cities’ is written by-",
+      "options": {
+        "ক": "Jane austen",
+        "খ": "Thomas Hardy",
+        "গ": "Charles Dickens",
+        "ঘ": "George Eliot"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Rahim discourages me............borrowing.",
+      "options": {
+        "ক": "from",
+        "খ": "in",
+        "গ": "to",
+        "ঘ": "on"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Which is correctly spelt ?",
+      "options": {
+        "ক": "Diarrhoea",
+        "খ": "Dirohea",
+        "গ": "Dirrohea",
+        "ঘ": "Dirrhoea"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "The chairman and secretary ........... present at the last meeting.",
+      "options": {
+        "ক": "is",
+        "খ": "have",
+        "গ": "was",
+        "ঘ": "were"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "The word American is-",
+      "options": {
+        "ক": "Noun",
+        "খ": "Adjective",
+        "গ": "Pronoun",
+        "ঘ": "Both noun and adjective"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "He is confident..........success.",
+      "options": {
+        "ক": "to",
+        "খ": "of",
+        "গ": "for",
+        "ঘ": "with"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Which word is correct ?",
+      "options": {
+        "ক": "Achievment",
+        "খ": "Acheivment",
+        "গ": "Achievement",
+        "ঘ": "Acheivement"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "The antonym of the word ‘Delete’ is –",
+      "options": {
+        "ক": "Dull",
+        "খ": "Insert",
+        "গ": "Contract",
+        "ঘ": "Discrete"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "The man appears to be stronger than other living men.",
+        "খ": "The man appears to be stronger than many living men.",
+        "গ": "The man appears to be stronger than all other living men.",
+        "ঘ": "The man appears to be stronger than any other living men."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Which one of the following is a common gender ?",
+      "options": {
+        "ক": "Teacher",
+        "খ": "Book",
+        "গ": "Boy",
+        "ঘ": "Madam"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "He said “I can do the work”.",
+      "options": {
+        "ক": "He said that I will do the work",
+        "খ": "He said that he could do the work",
+        "গ": "He said that he can do the work",
+        "ঘ": "He said that I could do the work"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "ক": "Airport is a busy place.",
+        "খ": "Airport is  busy place.",
+        "গ": "The Airport is a busy place.",
+        "ঘ": "The Airport is  busy place."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "‘A child likes sweets only’ the negative from of the sentence is –",
+      "options": {
+        "ক": "A child likes but sweets.",
+        "খ": "A child likes nothings but sweets.",
+        "গ": "A child likes not more sweets.",
+        "ঘ": "A child likes none but sweets."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "What is the passive voice of ‘Who did this?",
+      "options": {
+        "ক": "By whom this has been done ?",
+        "খ": "Whom did this ?",
+        "গ": "By whom was this done ?",
+        "ঘ": "Who has done this ?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "What is the meaning of ‘White Elephant’?",
+      "options": {
+        "ক": "A big elephant",
+        "খ": "A very costly and troublesome possession",
+        "গ": "A precious rate possession",
+        "ঘ": "An elephant of white colour"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Which of the following sentence is correct?",
+      "options": {
+        "ক": "Which shirt he bought is blue in colour",
+        "খ": "The shirt which he bought is blue in colour",
+        "গ": "That shirt which he has bought is blue in colour",
+        "ঘ": "The shirt that which he bought is blue in colour"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Choose the appropriate options to complete the sentence: Today..........people who enjoy cricket is bigger than that of thirty years ago.",
+      "options": {
+        "ক": "a great deal of",
+        "খ": "many",
+        "গ": "the number of",
+        "ঘ": "number of"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Which one of the following is an adverb.",
+      "options": {
+        "ক": "Someone",
+        "খ": "Somebody",
+        "গ": "Someday",
+        "ঘ": "Something"
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

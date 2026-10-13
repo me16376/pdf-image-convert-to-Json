@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৪৭",
+  "subject": "English",
+  "model_test": "Model Test-47",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Synonym of the word 'Compatriot' is:",
+      "options": {
+        "ক": "Champion",
+        "খ": "Country-man",
+        "গ": "fellow-man",
+        "ঘ": "colleague"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Synonym of the word 'Exhibit' is",
+      "options": {
+        "ক": "out",
+        "খ": "example",
+        "গ": "display",
+        "ঘ": "refence"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Antonym of the word endure is':",
+      "options": {
+        "ক": "bear",
+        "খ": "fade",
+        "গ": "last",
+        "ঘ": "close"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Antonym of the word 'fecund'  is':",
+      "options": {
+        "ক": "sterile",
+        "খ": "prolific",
+        "গ": "distress",
+        "ঘ": "rich"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Bird's eye view means:",
+      "options": {
+        "ক": "a rough idea",
+        "খ": "eyes of birds",
+        "গ": "eyes of a flock of birds",
+        "ঘ": "a view of the sky"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "If we had boat, we ____ the river.",
+      "options": {
+        "ক": "will cross",
+        "খ": "would cross",
+        "গ": "shall",
+        "ঘ": "will be crossing"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Paradise Lost 'We written by'",
+      "options": {
+        "ক": "george Orwel",
+        "খ": "Stevens-ion",
+        "গ": "Jonathan Swift Swift",
+        "ঘ": "Jonh Milton"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Which is correct spelt?",
+      "options": {
+        "ক": "queue",
+        "খ": "queu",
+        "গ": "quew",
+        "ঘ": "quee"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "The social environment in which people work or live is called:",
+      "options": {
+        "ক": "workplace",
+        "খ": "work setting",
+        "গ": "context",
+        "ঘ": "milleu"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "One millions of a second is called:",
+      "options": {
+        "ক": "nano-second",
+        "খ": "micros second",
+        "গ": "mini-secnd",
+        "ঘ": "mili-second"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "They arrived here after you (left)",
+      "options": {
+        "ক": "left",
+        "খ": "leave",
+        "গ": "had left",
+        "ঘ": "will leave"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Drawing or writing on a wall, etc. in a public place is called:",
+      "options": {
+        "ক": "graffti",
+        "খ": "painting",
+        "গ": "wall writing",
+        "ঘ": "chika mara"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Adjective of the word 'circle' is",
+      "options": {
+        "ক": "encicrle",
+        "খ": "circle like",
+        "গ": "circular",
+        "ঘ": "circuler"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "His ____ pleased us all.",
+      "options": {
+        "ক": "slow coach",
+        "খ": "silver spoon",
+        "গ": "weal and woe",
+        "ঘ": "maiden speech"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Which word is opposite of  Docile?",
+      "options": {
+        "ক": "complex",
+        "খ": "unruly",
+        "গ": "optimistic",
+        "ঘ": "shrink"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "My desk is a ______  I should clean it.",
+      "options": {
+        "ক": "messy",
+        "খ": "slop",
+        "গ": "mess",
+        "ঘ": "sloppy"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Which one of the following is in singular form ?",
+      "options": {
+        "ক": "gentry",
+        "খ": "aristocracy",
+        "গ": "physics",
+        "ঘ": "vermin"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "'A hard nut to crack 'means:",
+      "options": {
+        "ক": "to finish nothing",
+        "খ": "to come",
+        "গ": "tit for tat",
+        "ঘ": "difficult problem"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "choose the correct spelling:",
+      "options": {
+        "ক": "asassination",
+        "খ": "assassination",
+        "গ": "assasination",
+        "ঘ": "asasination"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "I am tired, I ______ (go) to bed now.",
+      "options": {
+        "ক": "am going",
+        "খ": "will go",
+        "গ": "going",
+        "ঘ": "go"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

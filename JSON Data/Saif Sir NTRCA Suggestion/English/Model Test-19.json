@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-১৯",
+  "subject": "English",
+  "model_test": "Model Test-19",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "আমি তাকে দু’বছর ধরে চিনি।",
+      "options": {
+        "ক": "I have been knowing her for two years.",
+        "খ": "I have known her for two years.",
+        "গ": "I know her for two years.",
+        "ঘ": "I am knowing her for two years."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "সূর্য উঠেছে।",
+      "options": {
+        "ক": "The sun has up.",
+        "খ": "The sun is up.",
+        "গ": "The sun had been up.",
+        "ঘ": "The sun has been up."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "সে গতকাল বাড়ি এসেছে।",
+      "options": {
+        "ক": "He had come home yesterday.",
+        "খ": "He has come home last day.",
+        "গ": "He had home yesterday.",
+        "ঘ": "He had been come home yesterday."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "মেয়েটিকে আমি পথের পাশে ফুল বিক্রি করতে দেখেছিলাম-",
+      "options": {
+        "ক": "I had seen the nice girl beside the road to sell flowers.",
+        "খ": "I saw the girl on the road to sell the flowers.",
+        "গ": "I saw the girl beside the road to sell the flowers.",
+        "ঘ": "I saw seeing the girl beside the road to sell flowers."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "মোস্তারীরা চার বোন।",
+      "options": {
+        "ক": "Mostari has four sisters.",
+        "খ": "Mostari has three sisters.",
+        "গ": "Mostari have three sisters.",
+        "ঘ": "Mostaris have four sisters."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "লক্ষ্মী আজ স্কুলে আসে নাই।",
+      "options": {
+        "ক": "Laxmi does not come to school today.",
+        "খ": "Laxmi did not come to school that day.",
+        "গ": "Laxmi has not come to school today.",
+        "ঘ": "Laxmi has not been come to school today."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "It is really a vexed question?",
+      "options": {
+        "ক": "একটি প্রকৃতপক্ষে একটি অসহ্যয়ি প্রশ্ন।",
+        "খ": "বাস্তবিকই এটি একটি বিরক্তিকর প্রশ্ন।",
+        "গ": "এটি প্রকৃতপক্ষে বিরক্তিকর প্রশ্ন।",
+        "ঘ": "এটি আসলেই বাজে প্রশ্ন।"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The cluds rolled away.",
+      "options": {
+        "ক": "মেঘ চলে গ্যাছে।",
+        "খ": "মেঘ কেটে গেল।",
+        "গ": "মেঘ উড়ে গেল।",
+        "ঘ": "মেঘ চলে গেল।"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "A little learning is a dangerous thing.",
+      "options": {
+        "ক": "অল্প লেখা পড়া ভীষণ ভয়ংকন।",
+        "খ": "অল্পবিদ্যা ভয়ংকরী।",
+        "গ": "অল্প বিদ্যা ভয়ংকর।",
+        "ঘ": "সামান্য বিদ্যা ভীষণ ভয়ানক।"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Sathi is known to me.",
+      "options": {
+        "ক": "সাথী আমার চেনা।",
+        "খ": "সাথী আমার আত্মীয়।",
+        "গ": "সাথী আমার পরিচিত।",
+        "ঘ": "সাথীকে আমি চিনি।"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Time and tide wait for none.",
+      "options": {
+        "ক": "সময় ও জল কারও জন্য থেমে থাকে না।",
+        "খ": "সময় ও জল অপেক্ষা করে না কারো জন্য।",
+        "গ": "সময় ও জলস্রোত কারও জন্য অপেক্ষা করে না।",
+        "ঘ": "সময় ও স্রোত কারও অপেক্ষা করে থাকে না।"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Don’t cry down your enemy.",
+      "options": {
+        "ক": "শত্রুকে খাটো করে দেখো না।",
+        "খ": "শত্রু থেকে দূরে থেকো।",
+        "গ": "শত্রুকে ছোট ভাবতে নাই।",
+        "ঘ": "শত্রুকে আপন ভেবোনা।"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Certainly, I shall stand by you (Complex)",
+      "options": {
+        "ক": "I shall stand by you and it is certain.",
+        "খ": "It is certain that I shall stand by you.",
+        "গ": "It is certainly that I shall stand by you.",
+        "ঘ": "There is no doubt that I shall stand by you."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "I had a nice dream last night (Interrogative)",
+      "options": {
+        "ক": "Didn’t I had a nice dream last night?",
+        "খ": "Did not I have a nice dream last night?",
+        "গ": "Had not I have a nice dream?",
+        "ঘ": "Had I have a nice dream last night?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Although he is poor, he is hones (Simple)",
+      "options": {
+        "ক": "Despite his poor, he is honest.",
+        "খ": "Despite his honesty, he is poor.",
+        "গ": "Despite his poverty, he is honest.",
+        "ঘ": "In spite of having poor, he is honest."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "It burns the prettiest of any wood (Positive)",
+      "options": {
+        "ক": "No other wood is as pretty as it burns.",
+        "খ": "No other wood is as pretty as it.",
+        "গ": "No other wood burns as pretty as it.",
+        "ঘ": "No other wood burn as pretty as it."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "There is only a high school at Satkhira (Nagetive)",
+      "options": {
+        "ক": "Note more than a high school is at Satkhira",
+        "খ": "There is not more than a high school at Satkhira.",
+        "গ": "There is a few school at Satkhira.",
+        "ঘ": "There is nothing but a school at Satkhira."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Akhi missed the train (Nagative)",
+      "options": {
+        "ক": "Akhi did not catch the train.",
+        "খ": "Akhi did not get the train.",
+        "গ": "Akhi did not get into the train.",
+        "ঘ": "Akhi does not get on the train."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "I know his name (Complex).",
+      "options": {
+        "ক": "I know what is his name.",
+        "খ": "I know what his name is.",
+        "গ": "I knew what was his name.",
+        "ঘ": "I knew what name is."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "We shall not see his like again. Here ‘like’ is a/an-",
+      "options": {
+        "ক": "Adverb",
+        "খ": "Noun",
+        "গ": "Preposition",
+        "ঘ": "Adjective"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "What is the noun form of ‘know’?",
+      "options": {
+        "ক": "Knowing",
+        "খ": "Knowledge",
+        "গ": "Known",
+        "ঘ": "Knowledgeable"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Shahed did not join the army. Here the word ‘army’ is-",
+      "options": {
+        "ক": "an abstract noun",
+        "খ": "a common noun",
+        "গ": "a collective noun",
+        "ঘ": "a material noun"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "The road runs - hill and plain.",
+      "options": {
+        "ক": "by",
+        "খ": "to",
+        "গ": "across",
+        "ঘ": "over"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Priya has slept only three hours. Which part of speech is the word ‘only’ here?",
+      "options": {
+        "ক": "A noun",
+        "খ": "An adjective",
+        "গ": "An adverb",
+        "ঘ": "A preposition"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "A paragraph has _ important parts in a single para.",
+      "options": {
+        "ক": "1",
+        "খ": "2",
+        "গ": "3",
+        "ঘ": "4"
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

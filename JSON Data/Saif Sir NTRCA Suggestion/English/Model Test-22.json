@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-২২",
+  "subject": "English",
+  "model_test": "Model Test-22",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The man is in great trouble.",
+      "options": {
+        "ক": "লোকটা মহাসঙ্কটে পড়েছে",
+        "খ": "লোকটা বিপদে পড়েছে",
+        "গ": "লোকটা সমস্যায় পড়েছে",
+        "ঘ": "লোকটা খুবই অসহায়"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "The rains have set in.",
+      "options": {
+        "ক": "বৃষ্টি শুরু",
+        "খ": "বৃষ্টিপাত হয়েছিল",
+        "গ": "বর্ষাকাল আসছে",
+        "ঘ": "বর্ষাকাল শুরু হয়েছে"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Suddenly he began to weeping.",
+      "options": {
+        "ক": "হঠাৎ সে কাঁদছে",
+        "খ": "হঠাৎ সে কাঁদতে শুরু করল",
+        "গ": "হঠাৎ সে কাঁদতে শুরু করেছে",
+        "ঘ": "হঠাৎ সে কাঁদতে শুরু করে"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Were the birds chirping?",
+      "options": {
+        "ক": "পাখিরা কি গান করছিল",
+        "খ": "পাখিরা কি গান করছে",
+        "গ": "পাখিরা কি কিচিরমিচির করছিল?",
+        "ঘ": "পাখিরা কি কিচিরমিচির করছে?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "He used to come here every week.",
+      "options": {
+        "ক": "তিনি প্রত্যেক সপ্তাহে এখানে আসেন।",
+        "খ": "তিনি প্রত্যেক সপ্তাহে এখানে আসতেন।",
+        "গ": "তিনি প্রত্যেক সপ্তাহে এখানে এসেছিলেন।",
+        "ঘ": "তিনি প্রত্যেক সপ্তাহে এখানে এসে থাকবেন।"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "He starts for London tonight.",
+      "options": {
+        "ক": "সে আজ রাতে লন্ডন যায়।",
+        "খ": "সে আজ রাতে লন্ডন শুরু করে।",
+        "গ": "সে আজ লন্ডন যাত্রা শুরু করে।",
+        "ঘ": "সে আজ রাতে লন্ডন রওয়ানা হবে।"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "He is an honest man. (Interrogative)",
+      "options": {
+        "ক": "Does he an honest man?",
+        "খ": "Is he an honest man?",
+        "গ": "Isn’t he an honest man?",
+        "ঘ": "Dosen’t he a dishonest man?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "He as only a few books.(Negative)",
+      "options": {
+        "ক": "He does not but a few books.",
+        "খ": "He is nothing thought a few books.",
+        "গ": "He has nothing but a few books.",
+        "ঘ": "He does not possess a few books."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "I had done the work and went home. (Simple)",
+      "options": {
+        "ক": "Having done the work, I went home.",
+        "খ": "Being done the work, I went home.",
+        "গ": "Because of being done the work, I went home.",
+        "ঘ": "As I had done the work, I went home."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "He confessed his guilt.(Complex)",
+      "options": {
+        "ক": "He confessed when he became guilty.",
+        "খ": "He confessed that he was guilty.",
+        "গ": "He confessed because he was guilty.",
+        "ঘ": "He confessed thought he was not guilty."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Javed is a boy who is good. (Simple)",
+      "options": {
+        "ক": "Javed is being a good boys.",
+        "খ": "Javed is not an ugly boy.",
+        "গ": "Javed has been a good boy.",
+        "ঘ": "Javed is a good boy."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "I wish I were a king. (Exclamatory)",
+      "options": {
+        "ক": "Would that I were a king!",
+        "খ": "Would that I was king!",
+        "গ": "Would that I am a king!",
+        "ঘ": "If I could be a king!"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The accident took place long ago. Here ‘ago’ is a/an",
+      "options": {
+        "ক": "Adjective",
+        "খ": "Adverb",
+        "গ": "Noun",
+        "ঘ": "Pronoun"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Who is the man that came to you? Here ‘that’ is a/an",
+      "options": {
+        "ক": "Indefinite pronoun",
+        "খ": "Demonstrative pronoun",
+        "গ": "Interrogative pronoun",
+        "ঘ": "Relative pronoun"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Which is the adjective form of the word “Heaven”?",
+      "options": {
+        "ক": "Heavenness",
+        "খ": "Heavinity",
+        "গ": "Heavenly",
+        "ঘ": "Heavened"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Which is the noun form of the ‘Pious’?",
+      "options": {
+        "ক": "Piousness",
+        "খ": "Piousity",
+        "গ": "Piety",
+        "ঘ": "Pity"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Fire burns, Here ‘burns’ is a/an - verb.",
+      "options": {
+        "ক": "Causative",
+        "খ": "Intransitive",
+        "গ": "Copulative",
+        "ঘ": "Transitive"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Though he is rich, he is unhappy. Here ‘Though’ is a/an",
+      "options": {
+        "ক": "Preposition",
+        "খ": "Noun",
+        "গ": "Conjunction",
+        "ঘ": "Adverb"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "A paragraph deals with - theme/themes.",
+      "options": {
+        "ক": "one",
+        "খ": "two",
+        "গ": "three",
+        "ঘ": "four"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "এটা কী ধরনের ফুল?",
+      "options": {
+        "ক": "What kind of flower this is?",
+        "খ": "This is what kind of flower?",
+        "গ": "What kind of flower that is?",
+        "ঘ": "What kind of flower is it?"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "ইহা একটি অপূর্ব সুযোগ।",
+      "options": {
+        "ক": "This is a unique opportunity.",
+        "খ": "This is a nice opportunity.",
+        "গ": "This is an unique opportunity.",
+        "ঘ": "This is real opportunity."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "বাংলাদেশ দিনে দিনে উন্নতি করুক।",
+      "options": {
+        "ক": "Bangladesh is prospering day by day.",
+        "খ": "Bangladesh is developing day by day.",
+        "গ": "May Bangladesh succeed day by day.",
+        "ঘ": "May Bangladesh prosper day by day."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "চরিত্র জীবনের মুকুট।",
+      "options": {
+        "ক": "Character is the crown of life.",
+        "খ": "Character is the goal of life.",
+        "গ": "Character is the result of life.",
+        "ঘ": "Character is the motto of life."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "দয়া একটি মহৎ গুণ।",
+      "options": {
+        "ক": "Kindness is a great virtue.",
+        "খ": "Kindness is a real virtue.",
+        "গ": "Kindness is an unique virtue.",
+        "ঘ": "Kindness is a brave virtue."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "বিপদ কখনো একা আসে না।",
+      "options": {
+        "ক": "Sorrow does not come alone.",
+        "খ": "Misfortune never comes alone.",
+        "গ": "Misfortune does not come alone.",
+        "ঘ": "Misfortune do not come alone."
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

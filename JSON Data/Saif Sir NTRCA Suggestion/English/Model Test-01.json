@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-০১",
+  "subject": "English",
+  "model_test": "Model Test-01",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word is both a noun and a verb?",
+      "options": {
+        "ক": "believe",
+        "খ": "water",
+        "গ": "advise",
+        "ঘ": "maker"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Which one is the correct passive form of the sentence ``Buy me a shirt''?",
+      "options": {
+        "ক": "Let a shirt be bought",
+        "খ": "Let a shirt be bought for me",
+        "গ": "Let be a shirt be bought",
+        "ঘ": "Let be bought a shirt"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "ছেলেটি দেখতে তার বাবার মতো। Which of the correct English translation?",
+      "options": {
+        "ক": "The boy takes after his father",
+        "খ": "The boy looks after his father",
+        "গ": "The boy resembles his father",
+        "ঘ": "The boy looks like a father"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "He – home last Monday.",
+      "options": {
+        "ক": "has left",
+        "খ": "had left",
+        "গ": "has leave",
+        "ঘ": "left"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Which one is a collective noun?",
+      "options": {
+        "ক": "friendship",
+        "খ": "gang",
+        "গ": "doctor",
+        "ঘ": "honesty"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "He is temper",
+        "খ": "He is in tempers",
+        "গ": "He is in a temper",
+        "ঘ": "He is in the temper"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "I finish my duty, am n't I?",
+        "খ": "I finish my duty, did I?",
+        "গ": "I finish my duty, didn't I?",
+        "ঘ": "I finish my duty, don't I?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct translation of : There is little milk in the cup.”",
+      "options": {
+        "ক": "পেয়ালায় অল্প দুধ আছে",
+        "খ": "পেয়ালায় দুধ নেই বললেই চলে",
+        "গ": "পেয়ালায় দুধ নেই",
+        "ঘ": "পেয়ালায় একটুখানি দুধ নেই"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "It is high time he (change) his bad habits.",
+      "options": {
+        "ক": "changing",
+        "খ": "has change",
+        "গ": "changed",
+        "ঘ": "has been changing"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "What is the synonym of the word `Redemption'?",
+      "options": {
+        "ক": "forbidden",
+        "খ": "salvation",
+        "গ": "assumption",
+        "ঘ": "award"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "In which form of writing is it needed to mention the date and place of writing?",
+      "options": {
+        "ক": "Paragraph",
+        "খ": "Essay",
+        "গ": "Report",
+        "ঘ": "Novel"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "How many paragraphs are there in a paragraph?",
+      "options": {
+        "ক": "one",
+        "খ": "two",
+        "গ": "three",
+        "ঘ": "four"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Choose the right Bangla translation of ``He came off with flying colours.”",
+      "options": {
+        "ক": "তিনি গৌরবময় সাফল্য অর্জন করেন",
+        "খ": "তিনি উড়ন্ত রং নিয়ে এসেছিলেন",
+        "গ": "তিনি রং ছিটাতে ছিটাতে এসেছিলেন",
+        "ঘ": "বিজয়ের গৌরব নিয়ে তিনি উড়ে এসেছিলেন"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "What is the antonym of the word `punishment’?",
+      "options": {
+        "ক": "prize",
+        "খ": "crime",
+        "গ": "reward",
+        "ঘ": "presentation"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct passive form of the sentence : ``His conduct annoyed.”",
+      "options": {
+        "ক": "I was annoyed at his conduct",
+        "খ": "I was annoyed to his conduct",
+        "গ": "I was annoyed by his conduct",
+        "ঘ": "I was annoyed with his conduct"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "কখনো অপরের নিন্দা করো না।",
+      "options": {
+        "ক": "Never tell bad of others",
+        "খ": "Never tell sick of others",
+        "গ": "Never speak evil of others",
+        "ঘ": "Never speak ill of others"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "I am looking forward to (receive) your latter.",
+      "options": {
+        "ক": "receive",
+        "খ": "receiving",
+        "গ": "for receiving",
+        "ঘ": "received"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "`The Arabian Nights' (be) my favorite book.",
+      "options": {
+        "ক": "is",
+        "খ": "are",
+        "গ": "has",
+        "ঘ": "were"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "The adjective of the word `authority' is :",
+      "options": {
+        "ক": "authorise",
+        "খ": "author",
+        "গ": "authoritatively",
+        "ঘ": "authoritative"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "``I hardly go out after dusk.” The correct Bangla translation is :",
+      "options": {
+        "ক": "আমি সন্ধ্যার পর কদাচিৎ বাইরে যাই",
+        "খ": "আমি সন্ধ্যার পর পরেই বাইরে যাই",
+        "গ": "আমি সন্ধ্যার পর প্রায়ই বাইরে যাই",
+        "ঘ": "আমি সন্ধ্যার পর মোটেই বাইরে যাই না"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Identify the correct sentence from the options :",
+      "options": {
+        "ক": "She prefers dancing more than singing",
+        "খ": "She prefers to dance than to sing",
+        "গ": "She prefers dancing to singing",
+        "ঘ": "She prefers dance to sing"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is the correct indirect form of the given direct speech: ``Who are you and what do you want?” He said to me.",
+      "options": {
+        "ক": "He asked me who was I and what did I want",
+        "খ": "He asked to me who were you and what did you want",
+        "গ": "He asked me who I was and what I wanted",
+        "ঘ": "He told me who you are and what you want"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "He kept on (sign) as he passed.",
+      "options": {
+        "ক": "singing",
+        "খ": "to sing",
+        "গ": "to have sung",
+        "ঘ": "sang"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "`Man' has been used as a verb in :",
+      "options": {
+        "ক": "He shouted at the man",
+        "খ": "The captain has to man the ship carefully",
+        "গ": "No man is infallible",
+        "ঘ": "He has a worthy man"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "The flight will take off – that the weather is good.",
+      "options": {
+        "ক": "if",
+        "খ": "unless",
+        "গ": "until",
+        "ঘ": "provided"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

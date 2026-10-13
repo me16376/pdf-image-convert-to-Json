@@ -1,0 +1,188 @@
+{
+  "title": "ইংলিশ বুলেটিন-৬২",
+  "subject": "English",
+  "model_test": "Model Test-62",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "He said to me, “Which book do you want?” বাক্যের indirect speech হচ্ছে-",
+      "options": {
+        "ক": "He said to me which book I wanted.",
+        "খ": "He asked me which book I wanted.",
+        "গ": "He asked to me which book I wanted.",
+        "ঘ": "He said to me which book I have wanted."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "‘Bitter’ শব্দটির Verb হচ্ছে-",
+      "options": {
+        "ক": "Bitterness",
+        "খ": "Bitter",
+        "গ": "Bitterify",
+        "ঘ": "Embitter"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "‘Destroy’ শব্দটির Noun হচ্ছে-",
+      "options": {
+        "ক": "Destruction",
+        "খ": "Damage",
+        "গ": "Harm",
+        "ঘ": "Affect"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "‘I shall adhere … my plan’ বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে-",
+      "options": {
+        "ক": "to",
+        "খ": "in",
+        "গ": "with",
+        "ঘ": "for"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "‘Your conduct admits … no excuse’ বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে-",
+      "options": {
+        "ক": "for",
+        "খ": "at",
+        "গ": "of",
+        "ঘ": "from"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "‘Beggar description phrase শব্দটির অর্থ হচ্ছে-",
+      "options": {
+        "ক": "Miser",
+        "খ": "Undescribable",
+        "গ": "Very poor",
+        "ঘ": "Inefficient"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Viva-voce’ শব্দটির অর্থ হচ্ছে-",
+      "options": {
+        "ক": "Orally",
+        "খ": "Face to face",
+        "গ": "Interview",
+        "ঘ": "Written"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "‘Natural’ শব্দটির Antonym হচ্ছে-",
+      "options": {
+        "ক": "WrittenInherent",
+        "খ": "Original",
+        "গ": "Kingdom",
+        "ঘ": "Abnormal"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "‘Encounter’ শব্দটির Synonym হচ্ছে-",
+      "options": {
+        "ক": "Concord",
+        "খ": "Battle",
+        "গ": "Harmony",
+        "ঘ": "Part"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "নিচের কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Embarrasment",
+        "খ": "Embarrassment",
+        "গ": "Embarassment",
+        "ঘ": "Embarasment"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "নিচের কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Addultration",
+        "খ": "Adultration",
+        "গ": "Addulteration",
+        "ঘ": "Adulteration"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "“Do away with it” এর Passive form হচ্ছে-",
+      "options": {
+        "ক": "Let it be done away with.",
+        "খ": "Let it has done away with it.",
+        "গ": "Let it is to be done away with.",
+        "ঘ": "Let it has to do away with."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "All his pupils like him’ বাক্যের Passive form হচ্ছে-",
+      "options": {
+        "ক": "He was liked by all his pupils.",
+        "খ": "He is like by all his pupils.",
+        "গ": "He is liked by all his pupils.",
+        "ঘ": "He is being liked by all his pupils."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "নিচের কোনটি শুদ্ধ?",
+      "options": {
+        "ক": "Hasan has choosed the right path.",
+        "খ": "Hasan has chosen the right path.",
+        "গ": "Hasan has chose the right path.",
+        "ঘ": "Hasan has choseing the right path."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "নিচের কোনটি শুদ্ধ বাক্য?",
+      "options": {
+        "ক": "I saw the bird sit down on the roof.",
+        "খ": "I saw the brid sat on the roof.",
+        "গ": "I saw the bird sits on the roof.",
+        "ঘ": "I saw the bird sitting on the roof."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

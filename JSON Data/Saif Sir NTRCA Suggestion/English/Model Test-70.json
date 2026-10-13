@@ -1,0 +1,188 @@
+{
+  "title": "ইংলিশ বুলেটিন-৭০",
+  "subject": "English",
+  "model_test": "Model Test-70",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Noun of the word ‘poor’ is ----",
+      "options": {
+        "ক": "Poority",
+        "খ": "Poverty",
+        "গ": "Poorify",
+        "ঘ": "Poorness"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Verb of the word ‘new’ is ----",
+      "options": {
+        "ক": "Anew",
+        "খ": "Newness",
+        "গ": "Newly",
+        "ঘ": "Renew"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "Achievment",
+        "খ": "Acheivment",
+        "গ": "Achievement",
+        "ঘ": "Acheivement"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "Commission",
+        "খ": "Comision",
+        "গ": "Comission",
+        "ঘ": "Commision"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "He is beating the thief –এর পরিবর্তিত voice form হচ্ছে ----",
+      "options": {
+        "ক": "The thief was being beaten by him.",
+        "খ": "The thief is being beat by him.",
+        "গ": "The thief is beaten by him.",
+        "ঘ": "The thief is being beaten by him."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Who opened the door?- এর পরিবর্তিত voice হচ্ছে ----",
+      "options": {
+        "ক": "By whom was the door be opened?",
+        "খ": "By whom was the door opened?",
+        "গ": "By whom is he door opened?",
+        "ঘ": "By whom has the door opened?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "My father said to me, “We are going there tomorrow.” বাক্যের Indirect speech হচ্ছে ---",
+      "options": {
+        "ক": "My father told me that they would be going there the next day.",
+        "খ": "My father said to me that they are going there the next day.",
+        "গ": "My father told me that they were going there the next day.",
+        "ঘ": "My father told me that they are going there the next day."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "He said, “What a pity!” বাক্যের Indirect speech হচ্ছে ---",
+      "options": {
+        "ক": "He said that it was a great pity.",
+        "খ": "He exclaimed that it is a great pity.",
+        "গ": "He exclaimed that it was a great pity.",
+        "ঘ": "He said that it is a great pity."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "“The disgruntled man grumbled ----his fate.” বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে ---",
+      "options": {
+        "ক": "on",
+        "খ": "to",
+        "গ": "against",
+        "ঘ": "at"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "“You are not amenable -----reason.” বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে ---",
+      "options": {
+        "ক": "from",
+        "খ": "to",
+        "গ": "of",
+        "ঘ": "into"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "‘Bag and baggage’ idiom এর অর্থ হচ্ছে----",
+      "options": {
+        "ক": "Properly",
+        "খ": "Heavy things",
+        "গ": "Leaving nothing behind",
+        "ঘ": "Costly things"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "‘Loaves and fishes’ idiom টির অর্থ হচ্ছে----",
+      "options": {
+        "ক": "Personal gains",
+        "খ": "Beautiful bread",
+        "গ": "Tasty fishes",
+        "ঘ": "None"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "কোনটি শুদ্ধ বাক্য?",
+      "options": {
+        "ক": "I suffered from fever for a week.",
+        "খ": "She found the boy crying.",
+        "গ": "Let you and he be the witness.",
+        "ঘ": "Rahim play everyday."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "কোনটি শুদ্ধ বাক্য?",
+      "options": {
+        "ক": "Matin is good than his brother.",
+        "খ": "Why you have done this?",
+        "গ": "He was too clever to miss the point.",
+        "ঘ": "Your conduct admits at no excuses."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "‘Abolish’ শব্দের Synonym হচ্ছে –",
+      "options": {
+        "ক": "Perform",
+        "খ": "Create",
+        "গ": "Cancel",
+        "ঘ": "Generate"
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-১১",
+  "subject": "English",
+  "model_test": "Model Test-11",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "It is health – is wealth?",
+      "options": {
+        "ক": "which",
+        "খ": "what",
+        "গ": "whatever",
+        "ঘ": "what ever"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "The boy is – answer the question.",
+      "options": {
+        "ক": "to dull too",
+        "খ": "too dull to",
+        "গ": "to dull to",
+        "ঘ": "to very dull"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "I carried an umbrella incase–",
+      "options": {
+        "ক": "it was raining",
+        "খ": "it rained",
+        "গ": "it rain",
+        "ঘ": "its raining"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "If I had seen him –",
+      "options": {
+        "ক": "I would tell him the matter",
+        "খ": "I might tell him the matter",
+        "গ": "I will have told him the matter",
+        "ঘ": "I might have told him the matter"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "হায়! তার মা আজ জীবিত নেই।",
+      "options": {
+        "ক": "Alas! His mother is no more today.",
+        "খ": "Ah! His mother is dead.",
+        "গ": "Alas! His mother has died",
+        "ঘ": "Alas! His mother has lost her life."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "মেয়েটি চা অপেক্ষা দুধ বেশি পছন্দ করে।",
+      "options": {
+        "ক": "The girl likes milk more than tea.",
+        "খ": "The girl prefers milk to tea.",
+        "গ": "The girl prefers milk then tea.",
+        "ঘ": "The girl prefers tea to milk."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "সকাল থেকে মুষলধারে বৃষ্টি হচ্ছে।",
+      "options": {
+        "ক": "It has been raining cats and dogs from morning",
+        "খ": "It has been raining cats and dogs since morning",
+        "গ": "It is raining cats and dogs since morning",
+        "ঘ": "Rain has started cats and dogs from morning"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "আমার মানিকগঞ্জ যাবার কথা ছিল?",
+      "options": {
+        "ক": "I was to go to Manikganj",
+        "খ": "I am to go to Manikganj",
+        "গ": "I have to go to Manikganj",
+        "ঘ": "I need to go to Manikganj"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "আমি তাকে পড়তে শুনলাম।",
+      "options": {
+        "ক": "I heard him to read",
+        "খ": "I heard him reading",
+        "গ": "I have heard him reading",
+        "ঘ": "I saw him reading"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Would that I – to college.",
+      "options": {
+        "ক": "can go",
+        "খ": "shall go",
+        "গ": "could go",
+        "ঘ": "might have gone"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "I wish I – a sweet song.",
+      "options": {
+        "ক": "sang",
+        "খ": "shall sing",
+        "গ": "can sing",
+        "ঘ": "will sing"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "He spoke as though he – everything.",
+      "options": {
+        "ক": "Knew",
+        "খ": "has known",
+        "গ": "had known",
+        "ঘ": "knows"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The colour of her eyes – blue.",
+      "options": {
+        "ক": "are",
+        "খ": "is",
+        "গ": "were",
+        "ঘ": "none of the above"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "‘Ten to one’ means –",
+      "options": {
+        "ক": "very uncertain",
+        "খ": "very likely",
+        "গ": "almost impossible",
+        "ঘ": "not possible at all"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "He insisted – there.",
+      "options": {
+        "ক": "over going",
+        "খ": "on my going",
+        "গ": "to go",
+        "ঘ": "is to go"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Jim and Della were as wise as the Magi (Negative).",
+      "options": {
+        "ক": "Jim and Della were not as wise as the Magi",
+        "খ": "Jim and Della were not less wise than the Magi",
+        "গ": "Jim and Della were not to wise as the Magi",
+        "ঘ": "Jim and Della were not unwise than the Magi"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Every man must die (Interrogative).",
+      "options": {
+        "ক": "Is there any man who must die?",
+        "খ": "Doesn`t any man die?",
+        "গ": "Is there any man who will not die?",
+        "ঘ": "Is there any man who does not die?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "He worked very hard so that he could succeed in life. (Compound)",
+      "options": {
+        "ক": "He worked very hard but he could not succeed in life",
+        "খ": "He worked very hard and he succeed in life",
+        "গ": "He worked very hard in order to succeed in life",
+        "ঘ": "He wanted to succeed in life and so he worked very hard"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Find out the correct synonym of ‘occupy’.",
+      "options": {
+        "ক": "grab",
+        "খ": "gain",
+        "গ": "receive",
+        "ঘ": "reserve"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Find out the correct synonym of ‘defence’.",
+      "options": {
+        "ক": "assault",
+        "খ": "resistance",
+        "গ": "attack",
+        "ঘ": "raid"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Find out the antonym of ‘assist’.",
+      "options": {
+        "ক": "hinder",
+        "খ": "aid",
+        "গ": "support",
+        "ঘ": "Co-operate"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Bad habits should be nipped in the bud. Here the underlined phrase means",
+      "options": {
+        "ক": "crop up",
+        "খ": "to be cultivated",
+        "গ": "to shun",
+        "ঘ": "to be stopped in the beginning"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "What is the noun form of the word 'successful'?",
+      "options": {
+        "ক": "Successfully",
+        "খ": "Succeed",
+        "গ": "Success",
+        "ঘ": "Successive"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Verb of the word` apology is –",
+      "options": {
+        "ক": "apological",
+        "খ": "apologise",
+        "গ": "apologify",
+        "ঘ": "enapology"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "He is proud of his –",
+      "options": {
+        "ক": "bad blood",
+        "খ": "blue blood",
+        "গ": "block head",
+        "ঘ": "broken reed"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

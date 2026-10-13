@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-১০",
+  "subject": "English",
+  "model_test": "Model Test-10",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Educating all people – a mammoth task.",
+      "options": {
+        "ক": "are",
+        "খ": "is",
+        "গ": "be",
+        "ঘ": "have"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Man has no escape – death.",
+      "options": {
+        "ক": "before",
+        "খ": "from",
+        "গ": "by",
+        "ঘ": "in"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Today the world is passing though – Juncture.",
+      "options": {
+        "ক": "minimum",
+        "খ": "a lot of",
+        "গ": "limited",
+        "ঘ": "Critical"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "The old man cannot help – a cup of tea.",
+      "options": {
+        "ক": "take",
+        "খ": "drink",
+        "গ": "to drink",
+        "ঘ": "having"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "There is – milk in the bottle.",
+      "options": {
+        "ক": "very few",
+        "খ": "any",
+        "গ": "very little",
+        "ঘ": "many"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "কলমটি তার।",
+      "options": {
+        "ক": "The pen is mine.",
+        "খ": "The pen is his.",
+        "গ": "He is the owner of the pen.",
+        "ঘ": "He belongs to the pen."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "বিনয় মহত্ত্বের ভূষণ।",
+      "options": {
+        "ক": "Modesty are embellishment of greatness.",
+        "খ": "Modesty is embellishment on greatness.",
+        "গ": "Modesty is embellishment to greatness.",
+        "ঘ": "Modesty is embellishment of greatness."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "কেতলিতে পানি টগবগ করছে।",
+      "options": {
+        "ক": "The water is simmering in the kettle.",
+        "খ": "The water is boiling in the kettle.",
+        "গ": "The water is rising high in the kettle.",
+        "ঘ": "The kettle is over flowing."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "ট্রেনটি ঢাকা যাবে।",
+      "options": {
+        "ক": "The train is going to Dhaka.",
+        "খ": "The train is bound for Dhaka.",
+        "গ": "The train is leaving for Dhaka.",
+        "ঘ": "The train will go to Dhaka."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "The shirt is –.",
+      "options": {
+        "ক": "after my taste.",
+        "খ": "before my taste.",
+        "গ": "after one’s taste.",
+        "ঘ": "according to my taste."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "What is the meaning of ‘Prior to’ –?",
+      "options": {
+        "ক": "go",
+        "খ": "after",
+        "গ": "before",
+        "ঘ": "beside"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "The suffering of the poor man –.",
+      "options": {
+        "ক": "beyond description",
+        "খ": "beggars description",
+        "গ": "out of description",
+        "ঘ": "beggar description"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "I wish I had seen you before. (Exclamatory)",
+      "options": {
+        "ক": "Wow! I seen you before.",
+        "খ": "Had I seen you before!",
+        "গ": "Oh! I seen you before.",
+        "ঘ": "If I seen you before."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Besides going to the book fair, I bought a number of books. (compound)",
+      "options": {
+        "ক": "I not only went to the book fair but also bought a number of books.",
+        "খ": "I went to the book fair and bought a number of books.",
+        "গ": "Going to the book fair, I bought a number of books.",
+        "ঘ": "I bought a number of books when I went to the book fair."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Do you find your payment too little? (passive)",
+      "options": {
+        "ক": "Is your payment found too little to you?",
+        "খ": "Are your payment found too little to you?",
+        "গ": "Are your payment found too little by you?",
+        "ঘ": "Is your payment found too little by you?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "There is little milk in the glass. (Interrogative)",
+      "options": {
+        "ক": "Is there little milk in the glass?",
+        "খ": "Isn’t there little milk in the glass?",
+        "গ": "Is there any milk in the glass?",
+        "ঘ": "Isn’t there any milk in the glass?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "I know him better than you. (Positive)",
+      "options": {
+        "ক": "You do not know him as good as I.",
+        "খ": "You do not know him as well as I.",
+        "গ": "You do not know him as well as me.",
+        "ঘ": "You do not know him as good as me."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "I am sure he (pass) the examination.",
+      "options": {
+        "ক": "will pass",
+        "খ": "passed",
+        "গ": "will be passed",
+        "ঘ": "pass"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Walk carefully lest –.",
+      "options": {
+        "ক": "you will fall",
+        "খ": "you should stumble",
+        "গ": "you would have fallen",
+        "ঘ": "you might lose the way"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "People (talk) his courage even after his death.",
+      "options": {
+        "ক": "talk of",
+        "খ": "talk",
+        "গ": "will talk",
+        "ঘ": "talks of"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Three-fourth of the work – finished.",
+      "options": {
+        "ক": "have",
+        "খ": "is",
+        "গ": "are",
+        "ঘ": "has been"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "We felt very tired. The word ‘tired’ used in the sentence is –.",
+      "options": {
+        "ক": "adjective",
+        "খ": "noun",
+        "গ": "verb",
+        "ঘ": "none"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "The verb of the word ‘beautiful’ –.",
+      "options": {
+        "ক": "beauty",
+        "খ": "beautify",
+        "গ": "beautification",
+        "ঘ": "beautifully"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "The synonym of the word ‘huge’ is –.",
+      "options": {
+        "ক": "sanctified",
+        "খ": "tiny",
+        "গ": "colossal",
+        "ঘ": "momentary"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "The antonym of the word ‘unique’ is –.",
+      "options": {
+        "ক": "popular",
+        "খ": "common",
+        "গ": "distinctive",
+        "ঘ": "deciduous"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

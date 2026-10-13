@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-২৭",
+  "subject": "English",
+  "model_test": "Model Test-27",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the plural of 'Magus'?",
+      "options": {
+        "ক": "Magus",
+        "খ": "Magusex",
+        "গ": "magux",
+        "ঘ": "Magi"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "What is the verb form of 'power'?",
+      "options": {
+        "ক": "powerful",
+        "খ": "powerfuly",
+        "গ": "Enpower",
+        "ঘ": "Empower"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Find out the correct sentence____",
+      "options": {
+        "ক": "He insisted on my going to cinema.",
+        "খ": "He insisted me to go to cinema.",
+        "গ": "He insisted in my going to cinema.",
+        "ঘ": "He insisted for my going to cinema."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Which one is the correct passive form of the sentence: He satisfied everybody?",
+      "options": {
+        "ক": "Everybody has been satisfied by him.",
+        "খ": "Every body was satisfied by him.",
+        "গ": "Everybody was satisfied with him.",
+        "ঘ": "Everybody would be satisfied at him."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "What is the synonym of the word “Repress”?",
+      "options": {
+        "ক": "Control",
+        "খ": "Represent",
+        "গ": "Republish",
+        "ঘ": "Repute"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "He talks as though-",
+      "options": {
+        "ক": "he was a child",
+        "খ": "he is a child",
+        "গ": "he has been a child",
+        "ঘ": "he were a child"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "What is the antonym of the word ‘ Compulsory’?",
+      "options": {
+        "ক": "Mandatory",
+        "খ": "Obligatory",
+        "গ": "Voluntory",
+        "ঘ": "Complementary"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "what is the noun of the word ‘Confess’?",
+      "options": {
+        "ক": "Confession",
+        "খ": "Confess",
+        "গ": "Confussion",
+        "ঘ": "Confessionaly"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "‘সকাল থেকে গুঁড়ি গুঁড়ি বৃষ্টি হচ্ছে’ the correct translation of this sentence is-",
+      "options": {
+        "ক": "It is raining since morning.",
+        "খ": "It has been being raining since morning.",
+        "গ": "It has been raining for morning.",
+        "ঘ": "It has been raining since morning."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "‘Black and blue’ means-",
+      "options": {
+        "ক": "mercifully",
+        "খ": "mercilessly",
+        "গ": "sympathetically",
+        "ঘ": "hopefully"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "‘He acted on my advice’-complex form of this sentence is-",
+      "options": {
+        "ক": "I advised him and he acted.",
+        "খ": "I advised him that he acted.",
+        "গ": "He acted according to my advice.",
+        "ঘ": "He acted as I advised him."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "The word ‘Lunar’ is related to-",
+      "options": {
+        "ক": "Moon",
+        "খ": "sun",
+        "গ": "Earth",
+        "ঘ": "Mars"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "‘Maiden speech’ means",
+      "options": {
+        "ক": "a speech by a women",
+        "খ": "the main speech",
+        "গ": "the first speech",
+        "ঘ": "the last speech"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "The girl was reclining___ the couch.",
+      "options": {
+        "ক": "on",
+        "খ": "by",
+        "গ": "in",
+        "ঘ": "to"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "If works hard, he succeeds.",
+        "খ": "If he works hard, he will succeed.",
+        "গ": "If would work hard, he succeeded.",
+        "ঘ": "If he worked hard, he succeeded."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "He went bed after-",
+      "options": {
+        "ক": "he will learn his lessons.",
+        "খ": "he would learn his lessons.",
+        "গ": "he had learn this lessons.",
+        "ঘ": "he learns his lessons."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "‘A bolt from the blue’ mean-",
+      "options": {
+        "ক": "An unexpected reward",
+        "খ": "An unexpected calamity",
+        "গ": "An unexpected blue color",
+        "ঘ": "An expected person of blue wear"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "The antonym of the word ‘ Benign’ is-",
+      "options": {
+        "ক": "Beginning",
+        "খ": "Peaceful",
+        "গ": "Blessed",
+        "ঘ": "Malignant"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘তাকে তিরস্কার করা হয়েছিল’ এর শুদ্ধ ইংরেজি-",
+      "options": {
+        "ক": "He was dishonored.",
+        "খ": "He was brought to brim.",
+        "গ": "He was brought to book.",
+        "ঘ": "He was punished."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "We help him – the work.",
+      "options": {
+        "ক": "to finish",
+        "খ": "finishing",
+        "গ": "in finishing",
+        "ঘ": "finish"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "He fought – to defeat the enemy.",
+      "options": {
+        "ক": "tooth and nail",
+        "খ": "set out",
+        "গ": "to and fro",
+        "ঘ": "to the quick"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Had I been a king, I-",
+      "options": {
+        "ক": "had helped poor.",
+        "খ": "would have helped poor.",
+        "গ": "have helped the poor.",
+        "ঘ": "helped the poor."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct synonym for ‘ Extempore’.",
+      "options": {
+        "ক": "planned",
+        "খ": "Improvise",
+        "গ": "Immediate",
+        "ঘ": "Impromptu"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "When you make a promise, you must not go__ On it.",
+      "options": {
+        "ক": "by",
+        "খ": "around",
+        "গ": "back",
+        "ঘ": "along"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "What type of man is quite opposite type of ‘ Supercilious’?",
+      "options": {
+        "ক": "Affable",
+        "খ": "Haughty",
+        "গ": "Disdainful",
+        "ঘ": "Wicked"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

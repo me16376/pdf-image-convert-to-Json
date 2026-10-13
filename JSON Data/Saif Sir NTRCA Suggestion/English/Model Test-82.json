@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৮২",
+  "subject": "English",
+  "model_test": "Model Test-82",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What kind of noun is “Girl”?",
+      "options": {
+        "ক": "Collective",
+        "খ": "Material",
+        "গ": "Proper",
+        "ঘ": "Common"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Synonym for “Mouth watering”?",
+      "options": {
+        "ক": "Sour",
+        "খ": "Delicious",
+        "গ": "Hot",
+        "ঘ": "Wet"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "কোনটি Collective Noun?",
+      "options": {
+        "ক": "Boy",
+        "খ": "Books",
+        "গ": "Library",
+        "ঘ": "Month"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "Dysentry",
+        "খ": "Decentry",
+        "গ": "Dysentery",
+        "ঘ": "Disentery"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Which of the following sentence is correct?",
+      "options": {
+        "ক": "One of my brother is a doctor .",
+        "খ": "One of my brother’s are a doctor .",
+        "গ": "One of my brothers is a doctor.",
+        "ঘ": "One of my brother’s is doctor."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "The ministers arrived --- a decision last night.",
+      "options": {
+        "ক": "in",
+        "খ": "to",
+        "গ": "on",
+        "ঘ": "at"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "ক": "Mr. Jamal is not in the committee.",
+        "খ": "Mr. Jamal is not in committee.",
+        "গ": "Mr. Jamal is not at the committee.",
+        "ঘ": "Mr. Jamal is not on the committee."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The word ‘ Stagflation ‘ means –",
+      "options": {
+        "ক": "economic slow down",
+        "খ": "a disintegrating government",
+        "গ": "cultural dullness",
+        "ঘ": "controlled prices"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "I wish you --- the problem.",
+      "options": {
+        "ক": "can solve",
+        "খ": "have solved",
+        "গ": "shall solve",
+        "ঘ": "could solve"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "He has done no wrong_. The underlined word is a/an –",
+      "options": {
+        "ক": "Adjective",
+        "খ": "noun",
+        "গ": "pronoun",
+        "ঘ": "adverb"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "CONSTITUTION : PREAMBLE",
+      "options": {
+        "ক": "Legislation : Assembly",
+        "খ": "Book : Preface",
+        "গ": "Prelude : Overture",
+        "ঘ": "Opera : Music"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "Personel",
+        "খ": "Personnel",
+        "গ": "Parsonale",
+        "ঘ": "Parsonnel"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "“Obese ‘ means –",
+      "options": {
+        "ক": "Ugly",
+        "খ": "Tardy",
+        "গ": "Obnoxious",
+        "ঘ": "Very fat"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "I spent – with the patient.",
+      "options": {
+        "ক": "sometimes",
+        "খ": "sometime",
+        "গ": "some time",
+        "ঘ": "some times"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "We need to buy some new-",
+      "options": {
+        "ক": "furnishers",
+        "খ": "furniture",
+        "গ": "furnisher",
+        "ঘ": "furniture’s"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "We were discussing totally about the matter.",
+        "খ": "We were discussing about the matter",
+        "গ": "We were discussing about the whole matter .",
+        "ঘ": "We were discussing the matter."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "What is the plural form of",
+      "options": {
+        "ক": "they",
+        "খ": "these",
+        "গ": "those",
+        "ঘ": "Try your self"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Fifty kg – really a heavy weight to carry.",
+      "options": {
+        "ক": "is",
+        "খ": "were",
+        "গ": "are",
+        "ঘ": "was"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "“The Captain ordered the soldiers to march on “ বাক্যটির direct speech:",
+      "options": {
+        "ক": "The captain asked, “Soldiers, march on “.",
+        "খ": "The Captain said, to the solders, “Please march on “.",
+        "গ": "The Captain said, “Soldiers, I asked you to march on “.",
+        "ঘ": "The Captain said to the soldiers, “March on “."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "I have no pen to write-",
+      "options": {
+        "ক": "in",
+        "খ": "smooth",
+        "গ": "well",
+        "ঘ": "with"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-০৬",
+  "subject": "English",
+  "model_test": "Model Test-06",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "His behaviour surprised me. (passive)?",
+      "options": {
+        "ক": "I surprised at his behavior.",
+        "খ": "I was surprised with his behavior.",
+        "গ": "I had been surprised at his behavior.",
+        "ঘ": "I was surprised at his behavior."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "While living in poverty, the poet had to – a great deal of sufferings.",
+      "options": {
+        "ক": "see through",
+        "খ": "put up with",
+        "গ": "pass by",
+        "ঘ": "fall back"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "The word ‘Camouflage’ means-",
+      "options": {
+        "ক": "disguise",
+        "খ": "difficult",
+        "গ": "heavy",
+        "ঘ": "dangerouse"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "It burns the prettiest of any wood. (positive)",
+      "options": {
+        "ক": "No other wood is as pretty as it burns.",
+        "খ": "No other wood burns is as pretty as it.",
+        "গ": "No other wood burns as pretty as it.",
+        "ঘ": "No other wood burn as pretty as it."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "“Anybody can apply for the post.” Her ‘anybody’ is–",
+      "options": {
+        "ক": "Possessive pronoun",
+        "খ": "Indefinite pronoun",
+        "গ": "Distributive pronoun",
+        "ঘ": "Relative pronoun"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "‘Once in a blue moon.’ Means-",
+      "options": {
+        "ক": "full moon night",
+        "খ": "very rarely",
+        "গ": "very often",
+        "ঘ": "moonlit night"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "I opened the door as soon as I – the bell.",
+      "options": {
+        "ক": "heve heard",
+        "খ": "was hearing",
+        "গ": "heard",
+        "ঘ": "am heard"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "He talking as if -",
+      "options": {
+        "ক": "he was mad",
+        "খ": "he is mad",
+        "গ": "he were mad",
+        "ঘ": "he will be mad"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "He parted – this friends in tears.",
+      "options": {
+        "ক": "with",
+        "খ": "from",
+        "গ": "against",
+        "ঘ": "beside"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct sentence-",
+      "options": {
+        "ক": "It rained last night.",
+        "খ": "It rain last night.",
+        "গ": "It will rain last night",
+        "ঘ": "It rain last night."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "‘Get rid of’ means-",
+      "options": {
+        "ক": "listen",
+        "খ": "express",
+        "গ": "pretend",
+        "ঘ": "to be free from"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "The teacher made the children – the book.",
+      "options": {
+        "ক": "reading",
+        "খ": "to read",
+        "গ": "read",
+        "ঘ": "reads"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The word ‘homogeneous’ means-",
+      "options": {
+        "ক": "dissimilar",
+        "খ": "of the same place",
+        "গ": "of the same density",
+        "ঘ": "of the same kind"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "আমরা বিষয়টি আলোচনা করব।",
+      "options": {
+        "ক": "We shall discuss about the matter.",
+        "খ": "We shall discuss to the matter.",
+        "গ": "We shoud discuss on the matter.",
+        "ঘ": "We shall discuss the matter."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "এমন দেশটি কোথাও খুঁজে পাবে নাকো তুমি। ?",
+      "options": {
+        "ক": "You will find such a country nowhere.",
+        "খ": "Never you will find such a country.",
+        "গ": "Never will you find such a country.",
+        "ঘ": "You will find a country like this never."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Who is calling me? (Passive)",
+      "options": {
+        "ক": "By whom am I called?",
+        "খ": "By whom I am called?",
+        "গ": "By whom I was called?",
+        "ঘ": "By whom am I being called?"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "The roads of Rajshahi are wider-",
+      "options": {
+        "ক": "than those of Dhaka.",
+        "খ": "than Dhaka.",
+        "গ": "that that of Dhaka.",
+        "ঘ": "than Dhaka’s roads."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "‘A speech full of too many word’ is-",
+      "options": {
+        "ক": "A big speech.",
+        "খ": "Maiden speech.",
+        "গ": "An unimportant speech",
+        "ঘ": "A verbose speech."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Credit Tk. 5,000 – my account.?",
+      "options": {
+        "ক": "with",
+        "খ": "to",
+        "গ": "in",
+        "ঘ": "for"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "All love flower. (Interrogative)",
+      "options": {
+        "ক": "Who does not love flower?",
+        "খ": "Who do not love flower?",
+        "গ": "Who did not love flower?",
+        "ঘ": "Do all love flower?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "The adjective form of the word 'Study' is-",
+      "options": {
+        "ক": "study",
+        "খ": "sturdily",
+        "গ": "stupidity",
+        "ঘ": "studious"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "He said, “I went to Tangail.” (Indirect)",
+      "options": {
+        "ক": "He said that had he gone to Tangail.",
+        "খ": "He said that I had gone to Tangail.",
+        "গ": "He said that he had gone to Tangail.",
+        "ঘ": "He said that the went to Tangail."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "The verb of the word ‘economy’ is-",
+      "options": {
+        "ক": "economic",
+        "খ": "economical",
+        "গ": "economically",
+        "ঘ": "economize"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "A person whose head is in the clouds is-",
+      "options": {
+        "ক": "proud",
+        "খ": "a day dreamer",
+        "গ": "an aviator",
+        "ঘ": "useless"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "শব্দটি কেটে দাও-",
+      "options": {
+        "ক": "Pen through the word.",
+        "খ": "Cut the word",
+        "গ": "Cut through the word.",
+        "ঘ": "Cut out the word."
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

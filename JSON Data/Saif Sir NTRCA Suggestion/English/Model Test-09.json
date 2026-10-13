@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-০৯",
+  "subject": "English",
+  "model_test": "Model Test-09",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "তিনি সৎ লোক ছিলেন, তাই না?",
+      "options": {
+        "ক": "He was truthful, was he?",
+        "খ": "He was an honest man, wasn`t he?",
+        "গ": "He was an honest man, did not he?",
+        "ঘ": "He was really an honest man?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "আমি এইমাত্র তোমার চিঠি পেয়েছি।",
+      "options": {
+        "ক": "I received your letter just now.",
+        "খ": "I have just received your letter.",
+        "গ": "“I just have received your letter.",
+        "ঘ": "just I have received your letter."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "গাছে এখনো ফল ধরেনি।",
+      "options": {
+        "ক": "The tree has not yet borne fruit.",
+        "খ": "There is no fruit in the tree.",
+        "গ": "Still the tree is without fruit.",
+        "ঘ": "The tree has not born fruit yet."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "গুজবে কান দেওয়া উচিত নয়।",
+      "options": {
+        "ক": "One should not concentrate on rumor.",
+        "খ": "We should not hear rumor.",
+        "গ": "One should not give ear to rumor.",
+        "ঘ": "We should not give our ear on rumor."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "সে হাঁপাতে হাঁপাতে এখানে আসল।",
+      "options": {
+        "ক": "He has come here exhausted.",
+        "খ": "He had come here running.",
+        "গ": "He came here hurriedly.",
+        "ঘ": "He came here panting."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "কিছু করার আগে ভাল করে ভেবে নাও।",
+      "options": {
+        "ক": "Think before you do anything.",
+        "খ": "Look before you leap.",
+        "গ": "Look before you do.",
+        "ঘ": "Think before you leap."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "The noun form of ‘broad’ is –",
+      "options": {
+        "ক": "broadly",
+        "খ": "breath",
+        "গ": "broaden",
+        "ঘ": "breadth"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The verb form of 'little' is –",
+      "options": {
+        "ক": "belittle",
+        "খ": "enlittle",
+        "গ": "littlen",
+        "ঘ": "littlise"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "What parts of speech is the word ‘manly’?",
+      "options": {
+        "ক": "Noun",
+        "খ": "Verb",
+        "গ": "Adjective",
+        "ঘ": "Adverb"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "The noun form of 'approve' is –",
+      "options": {
+        "ক": "approveness",
+        "খ": "approval",
+        "গ": "Approve",
+        "ঘ": "aproval"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Lima along with her friends – to school everyday.",
+      "options": {
+        "ক": "go",
+        "খ": "goes",
+        "গ": "is going",
+        "ঘ": "are going"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Mr. Ruhin – a crime.",
+      "options": {
+        "ক": "did",
+        "খ": "does",
+        "গ": "comits",
+        "ঘ": "committed"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Your watch has run –",
+      "options": {
+        "ক": "down",
+        "খ": "short",
+        "গ": "good",
+        "ঘ": "up"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "What is the verb form of the word ‘beauty’?",
+      "options": {
+        "ক": "beautiful",
+        "খ": "beautifully",
+        "গ": "beautifying",
+        "ঘ": "beautify"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "The word ‘docile’ refers to –",
+      "options": {
+        "ক": "wild",
+        "খ": "angry",
+        "গ": "disheartened",
+        "ঘ": "tame"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "The antonym of ‘candid’ is –",
+      "options": {
+        "ক": "frank",
+        "খ": "straight forward",
+        "গ": "reserved",
+        "ঘ": "truthful"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "The synonym of ‘decrease’ is –",
+      "options": {
+        "ক": "abate",
+        "খ": "destroy",
+        "গ": "expand",
+        "ঘ": "amplify"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "‘At loss’ means –",
+      "options": {
+        "ক": "puzzled",
+        "খ": "destroyed",
+        "গ": "defeat",
+        "ঘ": "harm"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Now-a-days educative programs are – on different TV channels.",
+      "options": {
+        "ক": "seen",
+        "খ": "telecasting",
+        "গ": "telecast",
+        "ঘ": "telecasted"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Friendship is nothing but a name. (Interrogative)",
+      "options": {
+        "ক": "What is friendship but a name?",
+        "খ": "Is friendship anything but a name?",
+        "গ": "What is nothing but a name?",
+        "ঘ": "Why is friendship a name?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "It is beyond doubt that he is a brave man. (Simple)",
+      "options": {
+        "ক": "It is doubtless that he is a brave man.",
+        "খ": "There is no doubt that he is a brave man.",
+        "গ": "Undoubtedly he is a brave man.",
+        "ঘ": "He is a brave man and there is no doubt about it."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "We should love our country. (Imperative)",
+      "options": {
+        "ক": "Love our country.",
+        "খ": "Let us love our country.",
+        "গ": "We may not hate our country.",
+        "ঘ": "Should love our country."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Water-logging is one of the worst problems is our country. (Positive)",
+      "options": {
+        "ক": "No other problem in our country is as bad as water-logging.",
+        "খ": "Very few problems in our country are as bad as water-logging.",
+        "গ": "Water-logging is a vary worse problem in our country.",
+        "ঘ": "Water logging is worse than any other problem is our."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "As soon as the teacher entered the classroom, the students stood up. (Negative)",
+      "options": {
+        "ক": "No sooner does the teacher enter the classroom than the students stand up.",
+        "খ": "No sooner the teacher enters the classroom than the students stand up.",
+        "গ": "No sooner had the teacher entered the classroom than the students stood up.",
+        "ঘ": "“The students stood up as the teacher entered the classroom."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "What cannot be cured must be endured. (active)",
+      "options": {
+        "ক": "We must be endured what we can not cure.",
+        "খ": "We cannot cure what we must endure.",
+        "গ": "Must be endure can cure.",
+        "ঘ": "We must endure what we cannot cure."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

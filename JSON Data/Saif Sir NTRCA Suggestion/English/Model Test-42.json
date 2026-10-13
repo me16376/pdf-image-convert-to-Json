@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৪২",
+  "subject": "English",
+  "model_test": "Model Test-42",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The police is looking _____ the case. (Fill in the blank)",
+      "options": {
+        "ক": "on",
+        "খ": "on",
+        "গ": "into",
+        "ঘ": "of"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Due to financial crisis, thirty more people _____ last week. (Fill in the blank)",
+      "options": {
+        "ক": "were lie off",
+        "খ": "were laying off",
+        "গ": "were layed off",
+        "ঘ": "were laid off"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "A sixteen year old is not _____ to vote in the national election. (Fill in the blank)",
+      "options": {
+        "ক": "as old enough",
+        "খ": "old enough",
+        "গ": "enough",
+        "ঘ": "enough old as"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Honesty is indispensable _____ success. (Fill in the blank)",
+      "options": {
+        "ক": "about",
+        "খ": "for",
+        "গ": "at",
+        "ঘ": "of"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "I can not _____ what you say. (Fill in the blank)",
+      "options": {
+        "ক": "make over",
+        "খ": "take over",
+        "গ": "make out",
+        "ঘ": "take out"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Everybody should _____ their old parents. (Fill in the blank)",
+      "options": {
+        "ক": "look after",
+        "খ": "look up",
+        "গ": "look of",
+        "ঘ": "look into"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "The teacher is popular _____ his students. (Fill in the blank)",
+      "options": {
+        "ক": "at",
+        "খ": "upon",
+        "গ": "with",
+        "ঘ": "for"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "He has _____ M.A. from a public university. (Fill in the blank)",
+      "options": {
+        "ক": "the",
+        "খ": "a",
+        "গ": "an",
+        "ঘ": "none of these"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "\"Scarcity\" শব্দের সঠিক অর্থ কোনটি?",
+      "options": {
+        "ক": "স্থূল",
+        "খ": "প্রাচুর্য",
+        "গ": "স্বল্পতা",
+        "ঘ": "কর্কশ"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "\"Curtail\" শব্দের সঠিক অর্থ কোনটি?",
+      "options": {
+        "ক": "সংক্ষিপ্ত করা",
+        "খ": "শুরু",
+        "গ": "চোখ বুলানো",
+        "ঘ": "প্রচুর"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "\"Divulge\" শব্দের সঠিক অর্থ কোনটি?",
+      "options": {
+        "ক": "ইঙ্গিত দেয়া",
+        "খ": "ছাড়াইয়া দেয়া",
+        "গ": "অল্প পরিমাণ",
+        "ঘ": "প্রকাশ করা"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "\"Provoke\" শব্দের সঠিক অর্থ কোনটি?",
+      "options": {
+        "ক": "উস্কানি দেয়া",
+        "খ": "নিন্দা করা",
+        "গ": "বিরত রাখা",
+        "ঘ": "ঘৃণা করা"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "\"Transparent\" শব্দের সঠিক অর্থ কোনটি?",
+      "options": {
+        "ক": "উজ্জীবিত",
+        "খ": "প্রাণবন্ত",
+        "গ": "স্বচ্ছ",
+        "ঘ": "ঘোলাটে"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Which of the following spelling is correct?",
+      "options": {
+        "ক": "apprihend",
+        "খ": "apprihand",
+        "গ": "apprehend",
+        "ঘ": "apprehand"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Which of the following spelling is correct?",
+      "options": {
+        "ক": "subtract",
+        "খ": "substract",
+        "গ": "substruct",
+        "ঘ": "subtruct"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Which of the following spelling is correct?",
+      "options": {
+        "ক": "coruption",
+        "খ": "corupsion",
+        "গ": "coraption",
+        "ঘ": "corruption"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Which of the following spelling is correct?",
+      "options": {
+        "ক": "appropiat",
+        "খ": "apropriate",
+        "গ": "appropriate",
+        "ঘ": "apropriet"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Which of the following spelling is correct?",
+      "options": {
+        "ক": "authoratative",
+        "খ": "authoritative",
+        "গ": "autheritative",
+        "ঘ": "athoratative"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Which of the following sentence is correct?",
+      "options": {
+        "ক": "The man was tall who stole my bag.",
+        "খ": "The man stole my bag who was tall.",
+        "গ": "The man stole my bag who is tall.",
+        "ঘ": "The man who stole my bag was tall."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Which of the following sentence is correct?",
+      "options": {
+        "ক": "Do you know where does he lives?",
+        "খ": "Do you know where he lives?",
+        "গ": "Do you know where does he lives?",
+        "ঘ": "Do you know he lives where?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

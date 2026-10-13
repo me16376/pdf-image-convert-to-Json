@@ -265,6 +265,22 @@
 
 ---
 
-## 3. Strict Rules
+## 3. Comprehensive Word-by-Word Quality Audit (Completed: 2026-10-13)
+- **Scope:** Every single JSON file across all 4 subjects (338 files, 7,225 MCQs).
+- **Checks Performed:**
+  - Foreign script / unicode corruption detection (Sinhala `ය`, Devanagari `संभाव्य`, `शब्द`).
+  - Broken conjuncts and missing root letters (e.g. `√মুচ + ্ত` -> `√মৃচ + ক্ত`).
+  - Typographic errors (stacked vowels `োা`, double kars `ৌৌ`, `াা`, `েে`, double hasanta `্্`).
+  - Space/hyphen word splits (e.g. `দক্ষিণ- পূর্ব` -> `দক্ষিণ-পূর্ব`, `ই- কমার্স` -> `ই-কমার্স`, `ভূপৃষ্ঠের`, `এক-চতুর্থাংশের`).
+  - Missing fill-in-the-blank tokens in English (e.g. `While he ___ in the garden`).
+  - Options sanity & cross-validation with original PDF page scans.
+- **Result:** 
+  - 34 corruptions/errors corrected in initial deep scan (Unicode, conjuncts, typography, split words).
+  - 20 question-level word and phrase typos corrected across questions (e.g. `indirect speed` -> `indirect speech`, `from of` -> `form of`, glued punctuation fixed).
+  - All 338 files verified 100% clean, valid, and consistent with the source book!
+
+---
+
+## 4. Strict Rules
 - **NEVER run `git push` automatically.** Only push when the user explicitly instructs.
 

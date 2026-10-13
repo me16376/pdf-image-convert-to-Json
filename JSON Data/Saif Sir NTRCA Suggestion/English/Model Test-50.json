@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-৫০",
+  "subject": "English",
+  "model_test": "Model Test-50",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Use the correct word in the gap : The grass on the other side of the --- always looks greener.",
+      "options": {
+        "ক": "land",
+        "খ": "yard",
+        "গ": "boundary",
+        "ঘ": "fence"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Use the correct word in the gap : A bad workman ----- with his tools",
+      "options": {
+        "ক": "fights",
+        "খ": "quarrels",
+        "গ": "plays",
+        "ঘ": "revolts"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Synonym of \"cross-examine\"",
+      "options": {
+        "ক": "intervene",
+        "খ": "interview",
+        "গ": "interrogate",
+        "ঘ": "interrupt"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is grammatically correct?",
+      "options": {
+        "ক": "I prefer walking to riding",
+        "খ": "I do not know to write.",
+        "গ": "He gave me a pen to write.",
+        "ঘ": "He gave me a lot of informations."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is singular?",
+      "options": {
+        "ক": "data",
+        "খ": "agenda",
+        "গ": "index",
+        "ঘ": "criteria"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "The word \"lunar\" is related to --",
+      "options": {
+        "ক": "sun",
+        "খ": "moon",
+        "গ": "light",
+        "ঘ": "earth"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Passive form of \"Who has done the work?\" is--",
+      "options": {
+        "ক": "Whom has done the work by?",
+        "খ": "Who has been done the work?",
+        "গ": "By whom has been done the work?",
+        "ঘ": "By whom has the work been done?"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "He--- to see us if he had been able to.",
+      "options": {
+        "ক": "would come",
+        "খ": "would have come",
+        "গ": "may have come",
+        "ঘ": "may come"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "Let he and you be witnesses.",
+        "খ": "Let you and he be witness.",
+        "গ": "Let you and he be witnesses.",
+        "ঘ": "Let you and him be witnesses."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "A 'bull market' means that share prices are ---",
+      "options": {
+        "ক": "static",
+        "খ": "moving",
+        "গ": "falling",
+        "ঘ": "rising"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Neither Rumi nor Popy ---- qualified for the job.",
+      "options": {
+        "ক": "had",
+        "খ": "is",
+        "গ": "were",
+        "ঘ": "are"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is grammatically correct?",
+      "options": {
+        "ক": "Do you know where does he live?",
+        "খ": "Do you know where he lives?",
+        "গ": "Do you know where does he lives?",
+        "ঘ": "Do you know he lives where?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "To build castle in the air is ---",
+      "options": {
+        "ক": "to work selflessly",
+        "খ": "to be a dreamer",
+        "গ": "to work hard",
+        "ঘ": "to make a fortune"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Synonym of \"discreet\" is ---",
+      "options": {
+        "ক": "careless",
+        "খ": "tactless",
+        "গ": "indiscreet",
+        "ঘ": "judicious"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct use of article : This is --- better of --- two.",
+      "options": {
+        "ক": "a, an",
+        "খ": "a, a",
+        "গ": "the, the",
+        "ঘ": "x, the"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "In spite of everything life is worth ---",
+      "options": {
+        "ক": "eating",
+        "খ": "singing",
+        "গ": "living",
+        "ঘ": "dancing"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "To read between the lines means ---",
+      "options": {
+        "ক": "to read the lines",
+        "খ": "to read quickly to save time",
+        "গ": "to read some lines only",
+        "ঘ": "to read carefully to find out any hidden meaning"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "You had better ----",
+      "options": {
+        "ক": "stayed",
+        "খ": "stay",
+        "গ": "staying",
+        "ঘ": "to stay"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "The man is blind --- his son's fault.",
+      "options": {
+        "ক": "of",
+        "খ": "to",
+        "গ": "with",
+        "ঘ": "in"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct spelling.",
+      "options": {
+        "ক": "Compitition",
+        "খ": "Competetion",
+        "গ": "Competision",
+        "ঘ": "Competition"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Ill news --- apace.",
+      "options": {
+        "ক": "run",
+        "খ": "runs",
+        "গ": "running",
+        "ঘ": "ran"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Noun form of the word \"signify\" is--",
+      "options": {
+        "ক": "significant",
+        "খ": "significance",
+        "গ": "significantly",
+        "ঘ": "insignificant"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is more informal than the others?",
+      "options": {
+        "ক": "child",
+        "খ": "offspring",
+        "গ": "children",
+        "ঘ": "kid"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "The meaning of the idiom \"at large\" is ----",
+      "options": {
+        "ক": "very big",
+        "খ": "freely",
+        "গ": "very long",
+        "ঘ": "broad"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Kaiser Huq writes in English, --- (Find out Tag question)",
+      "options": {
+        "ক": "don't he?",
+        "খ": "doesn't he?",
+        "গ": "didn't he?",
+        "ঘ": "does he?"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

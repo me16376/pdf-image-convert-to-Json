@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৫৬",
+  "subject": "English",
+  "model_test": "Model Test-56",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the noun form of “Accept”",
+      "options": {
+        "ক": "Acceptable",
+        "খ": "Acceptably",
+        "গ": "Acceptance",
+        "ঘ": "Acceptablying"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "A rolling stone gathers no moss. What “rolling” is?",
+      "options": {
+        "ক": "Gerund",
+        "খ": "Verbal noun",
+        "গ": "Participle",
+        "ঘ": "Adjective"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Report the following in indirect speech : Nafisa said, “I must write a letter.”",
+      "options": {
+        "ক": "Nafisa said that she had to write a letter.",
+        "খ": "Nafisa said that she had been to write a letter.",
+        "গ": "Nafisa said that she has to write a letter.",
+        "ঘ": "None of these"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "“What is wanted by him”? বাক্যের পরিবর্তিত voice হবে-",
+      "options": {
+        "ক": "What do he want?",
+        "খ": "What did he want?",
+        "গ": "What does he want?",
+        "ঘ": "What is he wants?"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Identify the correct passive form of “He is going to open a shop”.",
+      "options": {
+        "ক": "He is being gone to open a shop.",
+        "খ": "A shop is being gone opened by him.",
+        "গ": "A shop will be opened by him.",
+        "ঘ": "A shop is going to be opened by him."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "“The man died ---- over eating” বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে-",
+      "options": {
+        "ক": "by",
+        "খ": "from",
+        "গ": "of",
+        "ঘ": "for"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "“He hankered ---- fame.” বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে----",
+      "options": {
+        "ক": "after",
+        "খ": "upon",
+        "গ": "in",
+        "ঘ": "with"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "‘By all means’ means-",
+      "options": {
+        "ক": "meaningless",
+        "খ": "Meaningful",
+        "গ": "Certainly",
+        "ঘ": "Uncertainly"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Antonym of the word ‘Futile’ is-",
+      "options": {
+        "ক": "Useful",
+        "খ": "Useless",
+        "গ": "Idle",
+        "ঘ": "Comical"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "He gave the examination.",
+        "খ": "He appeared at the examination.",
+        "গ": "He want for examination.",
+        "ঘ": "he passed at the examination."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "Commission",
+        "খ": "Commision",
+        "গ": "Comission",
+        "ঘ": "Comision"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Who wrote ‘Beauty is truth, truth is beauty’?",
+      "options": {
+        "ক": "Shakespeare",
+        "খ": "Wordsworth",
+        "গ": "Keats",
+        "ঘ": "Eliot"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The adjective took place long ago. Here the word ‘ago’ is a/an",
+      "options": {
+        "ক": "Adjective",
+        "খ": "Adverb",
+        "গ": "Noun",
+        "ঘ": "Pronoun"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "“At least one of the students --- full marks every time” বাক্যে শূন্যস্থানে সঠিক শব্দ হবে-",
+      "options": {
+        "ক": "get",
+        "খ": "gets",
+        "গ": "are getting",
+        "ঘ": "have got"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct sentence :",
+      "options": {
+        "ক": "Go to featch some water.",
+        "খ": "Go and fetch some water for me.",
+        "গ": "Fetch and bring some water for me.",
+        "ঘ": "Fetch some water for me."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Which one is the correct sentence?",
+      "options": {
+        "ক": "I injsist on your goint there.",
+        "খ": "I insist you to go there.",
+        "গ": "I insist upon your to go there.",
+        "ঘ": "I insist yourself to go there."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Noun of the word ‘Rely’ is-",
+      "options": {
+        "ক": "Reliment",
+        "খ": "Reliance",
+        "গ": "Rely",
+        "ঘ": "None"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "The synonym of ‘Tedious’ is-",
+      "options": {
+        "ক": "Amusing",
+        "খ": "Quick",
+        "গ": "Dull",
+        "ঘ": "Exciting"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘To keep the wolf away from the door’ means",
+      "options": {
+        "ক": "to keep away from extreme poverty.",
+        "খ": "To keep off an unwanted and undesirable person.",
+        "গ": "to keep alive.",
+        "ঘ": "to keep the difficulties and dangers in check."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "‘Throw cold water on’ Means-",
+      "options": {
+        "ক": "Damp the spirits",
+        "খ": "Throwing of cold water",
+        "গ": "Lee water",
+        "ঘ": "None"
+      },
+      "answer": "ক",
+      "explanation": ""
+    }
+  ]
+}

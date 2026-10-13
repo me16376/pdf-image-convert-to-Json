@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-১৪",
+  "subject": "English",
+  "model_test": "Model Test-14",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The antonym of the word ‘liberty’ is -.",
+      "options": {
+        "ক": "liberal",
+        "খ": "bondage",
+        "গ": "frugal",
+        "ঘ": "diversity"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "The synonym of the ‘call’is-.?",
+      "options": {
+        "ক": "summon",
+        "খ": "exile",
+        "গ": "impede",
+        "ঘ": "recollection"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "It takes two – make a quarrel.",
+      "options": {
+        "ক": "too",
+        "খ": "for",
+        "গ": "to",
+        "ঘ": "in order to"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Death is – to dishonour.",
+      "options": {
+        "ক": "prefer",
+        "খ": "preference",
+        "গ": "preferable",
+        "ঘ": "preferring"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Grasp all –",
+      "options": {
+        "ক": "lost all",
+        "খ": "losting all",
+        "গ": "loses all",
+        "ঘ": "lose all"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "please look above. Here `above’ is –",
+      "options": {
+        "ক": "adjective",
+        "খ": "adverb",
+        "গ": "noun",
+        "ঘ": "conjunction"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Look before you leap. The word ‘before’ used in the sentence is -",
+      "options": {
+        "ক": "preposition",
+        "খ": "conjunction",
+        "গ": "adverb",
+        "ঘ": "noun"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Read to learn, (Complex)",
+      "options": {
+        "ক": "By reading, you will learn.",
+        "খ": "Read and, learn.",
+        "গ": "If you read, you will learn.",
+        "ঘ": "In case of failure, to read, you will not learn."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "He is the best player. (Negative)",
+      "options": {
+        "ক": "No other player is as better as he.",
+        "খ": "No other player is as good as he.",
+        "গ": "No other player is as best as he.",
+        "ঘ": "No other player is considered as best as he."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "He is so dishonest that he cannot speak the truth, (Simple)",
+      "options": {
+        "ক": "He is too dishonest that he cannot speak the truth",
+        "খ": "He is too dishonest to spoken the truth",
+        "গ": "He is too dishonest to speak the truth",
+        "ঘ": "He very dishonest and can not speak the truth."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "I (help) you if I could.?",
+      "options": {
+        "ক": "I would help",
+        "খ": "I would be helped",
+        "গ": "I helped",
+        "ঘ": "I would have helped"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "The synonym of the word ‘scream’ is –",
+      "options": {
+        "ক": "yell",
+        "খ": "sound",
+        "গ": "cry",
+        "ঘ": "loudly"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The passive form of \"Don't do it\" is –",
+      "options": {
+        "ক": "Let not it be done",
+        "খ": "Let it be not done",
+        "গ": "Let it be done",
+        "ঘ": "Let it not be done"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Some interesting facts about your past have just come to light, Here ‘come to light’ means –",
+      "options": {
+        "ক": "go near to light",
+        "খ": "to become known",
+        "গ": "to realize",
+        "ঘ": "to lit a light"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "He came to Dhaka with a view to – a new place.",
+      "options": {
+        "ক": "visit",
+        "খ": "visiting",
+        "গ": "watch",
+        "ঘ": "look"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "জ্ঞানীরা বেশি কথা বলে না।",
+      "options": {
+        "ক": "The wises do not talk much.",
+        "খ": "The wises does not talk much.",
+        "গ": "The wise do not talk much.",
+        "ঘ": "The wise men does not talk much."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "দাঁড়াও, আমি এখনি আসছি।",
+      "options": {
+        "ক": "Stand, I come now.",
+        "খ": "Wait, I am coming now.",
+        "গ": "Keep standing, I am coming now.",
+        "ঘ": "Stand here, I am coming."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "সে এক সপ্তাহ যাবত অসুস্থ।",
+      "options": {
+        "ক": "He has been ill since a week.",
+        "খ": "He has been ill till a week.",
+        "গ": "He has been ill for a week.",
+        "ঘ": "He has been ill during a week."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "এটা যেন বিনা মেঘে বজ্রপাত।",
+      "options": {
+        "ক": "It is as if a thunder from the clouds.",
+        "খ": "It is a bolt from the blue.",
+        "গ": "It is a strong thunder.",
+        "ঘ": "It is bolts from the blues."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "He and I – well.",
+      "options": {
+        "ক": "am",
+        "খ": "is",
+        "গ": "are",
+        "ঘ": "been"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "If we practised speaking English, we –",
+      "options": {
+        "ক": "could",
+        "খ": "could have",
+        "গ": "can",
+        "ঘ": "would have"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "It is health which is –",
+      "options": {
+        "ক": "asset",
+        "খ": "wealth",
+        "গ": "valuable",
+        "ঘ": "precious"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "I have no money – hand",
+      "options": {
+        "ক": "in",
+        "খ": "by",
+        "গ": "at",
+        "ঘ": "on"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Did he see anyone in the room (assertive)?",
+      "options": {
+        "ক": "He saw no one in the room.",
+        "খ": "He did not see someone in the room.",
+        "গ": "he saw anyone in the room.",
+        "ঘ": "He saw someone in the room."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "The fruit is sweet – the taste.",
+      "options": {
+        "ক": "by",
+        "খ": "with",
+        "গ": "for",
+        "ঘ": "to"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

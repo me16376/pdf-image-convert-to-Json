@@ -1,0 +1,248 @@
+{
+  "title": "ইংরেজি বুলেটিন-১৪",
+  "subject": "English",
+  "model_test": "Model Test-46A",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "বাংলা ভাষার অভিধান প্রথমে কে রচনা করেন?",
+      "options": {
+        "ক": "উইলিয়াম কেরি",
+        "খ": "মুহম্মদ শহীদুল্লাহ",
+        "গ": "সুনীতিকুমার চট্টোপাধ্যায়",
+        "ঘ": "ফাদার ম্যানোয়েল"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "the synonym of the word \"endure\" is",
+      "options": {
+        "ক": "tolerate",
+        "খ": "bear",
+        "গ": "close",
+        "ঘ": "last"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "the synonyme of the word\" fecund\" is",
+      "options": {
+        "ক": "fertile",
+        "খ": "fake",
+        "গ": "strong",
+        "ঘ": "fact"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "the antonym of the word \"grit\" is",
+      "options": {
+        "ক": "dust",
+        "খ": "sand",
+        "গ": "pebbles",
+        "ঘ": "timidity"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "the antonym of the word \"hurt\" is",
+      "options": {
+        "ক": "sad",
+        "খ": "stricken",
+        "গ": "cured",
+        "ঘ": "mauled"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "the social environment in which people work or live is called",
+      "options": {
+        "ক": "workplace",
+        "খ": "work setting",
+        "গ": "context",
+        "ঘ": "mauled"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "one million of a second is called",
+      "options": {
+        "ক": "nano-second",
+        "খ": "microsecond",
+        "গ": "minisecond",
+        "ঘ": "mili-second"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "will you come--- me to the store?",
+      "options": {
+        "ক": "with",
+        "খ": "along",
+        "গ": "to",
+        "ঘ": "by"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "if we had a boat , we ---- the river.",
+      "options": {
+        "ক": "will cross",
+        "খ": "would cross",
+        "গ": "shall",
+        "ঘ": "will be crossing"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "adjective of the word \"cricle\" is..",
+      "options": {
+        "ক": "encircle",
+        "খ": "circle like",
+        "গ": "circular",
+        "ঘ": "circuler"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "my friend is _____ african \"origin\" is",
+      "options": {
+        "ক": "to",
+        "খ": "of",
+        "গ": "from",
+        "ঘ": "an"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "a _____ in time saves nine",
+      "options": {
+        "ক": "stick",
+        "খ": "strict",
+        "গ": "stich",
+        "ঘ": "stitch"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "which is the correct spelling?",
+      "options": {
+        "ক": "neumonia",
+        "খ": "pnumonia",
+        "গ": "pneumonia",
+        "ঘ": "pneiumonia"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "a noun referring to things that our five senses can't detect is called",
+      "options": {
+        "ক": "proper noun",
+        "খ": "common noun",
+        "গ": "material noun",
+        "ঘ": "abstract noun"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "the flower ____ sweet",
+      "options": {
+        "ক": "tastes",
+        "খ": "smells",
+        "গ": "looks",
+        "ঘ": "is seen"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "the past form of the word\"tear' is",
+      "options": {
+        "ক": "teared",
+        "খ": "torn",
+        "গ": "tore",
+        "ঘ": "tears"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "the noun form of the word 'do' is",
+      "options": {
+        "ক": "did",
+        "খ": "does",
+        "গ": "deed",
+        "ঘ": "daged"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "the 60th anniversary of an important event is called;",
+      "options": {
+        "ক": "diamond jabilee",
+        "খ": "golden jubilee",
+        "গ": "platinum jubliee",
+        "ঘ": "silver jubliee"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "which word is opposite of docile?",
+      "options": {
+        "ক": "unruly",
+        "খ": "complex",
+        "গ": "optimistic",
+        "ঘ": "sharink"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "my desk is a ____ i should clean it",
+      "options": {
+        "ক": "messy",
+        "খ": "slob",
+        "গ": "mess",
+        "ঘ": "sloppy"
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

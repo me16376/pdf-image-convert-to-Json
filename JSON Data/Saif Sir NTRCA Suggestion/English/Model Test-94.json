@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৯৪",
+  "subject": "English",
+  "model_test": "Model Test-94",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Banquete",
+        "খ": "Bouquet",
+        "গ": "Boquet",
+        "ঘ": "Bouquette"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Foreigner",
+        "খ": "Forienor",
+        "গ": "Foricgnor",
+        "ঘ": "Foreiner"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "‘Laugh’ শব্দটির Noun হচ্ছে-----",
+      "options": {
+        "ক": "Laugh",
+        "খ": "Laughing",
+        "গ": "Laughable",
+        "ঘ": "Laughter"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "‘Full’ শব্দটির Synonym হচ্ছে-----",
+      "options": {
+        "ক": "Filled",
+        "খ": "Fulfilment",
+        "গ": "Fill",
+        "ঘ": "Full"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "‘Abolish’ শব্দটির Synonym হচ্ছে-----",
+      "options": {
+        "ক": "Cancel",
+        "খ": "Perform",
+        "গ": "Create",
+        "ঘ": "Generate"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "‘Effort’ শব্দটির Synonym হচ্ছে-----",
+      "options": {
+        "ক": "Assurance",
+        "খ": "Attempt",
+        "গ": "Erect",
+        "ঘ": "Exclude"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "‘Socrates was accused -----misleading the young section of Athens’. বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে ---",
+      "options": {
+        "ক": "to",
+        "খ": "for",
+        "গ": "of",
+        "ঘ": "on"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "‘He is accessible ----all’. বাক্যের শূন্যস্থানে সঠিক শব্দ বসবে ---",
+      "options": {
+        "ক": "of",
+        "খ": "on",
+        "গ": "into",
+        "ঘ": "to"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "‘Accept’ শব্দটির Noun হচ্ছে-----",
+      "options": {
+        "ক": "Acceptance",
+        "খ": "Accepted",
+        "গ": "Acception",
+        "ঘ": "Acceptable"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "‘Envy’ শব্দটির Adjective হচ্ছে-----",
+      "options": {
+        "ক": "Envity",
+        "খ": "Envious",
+        "গ": "Jealous",
+        "ঘ": "Enviable"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Achievment",
+        "খ": "Acheivment",
+        "গ": "Achievement",
+        "ঘ": "Achevement"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Jewelery",
+        "খ": "Jewellry",
+        "গ": "Jwellry",
+        "ঘ": "Jewellery"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "ক": "I feel hungry",
+        "খ": "I feel myself hungry",
+        "গ": "I am a man of words",
+        "ঘ": "The sheeps are quite healthy"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "ক": "She is a person whom I know is sincere",
+        "খ": "She is a person who I know is sincere",
+        "গ": "Tuhin is my lovely friend",
+        "ঘ": "There is no place in my class"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "‘I know him’ বাক্যটির সঠিক Passive form ----",
+      "options": {
+        "ক": "He is known by me",
+        "খ": "He was known to me",
+        "গ": "He is known to me",
+        "ঘ": "He is being known to me"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "‘He is beating the thief’ বাক্যটির সঠিক Passive form ----",
+      "options": {
+        "ক": "The thief was being beattn by him.",
+        "খ": "The thief is being beat by him.",
+        "গ": "The thief is beaten by him.",
+        "ঘ": "The thief is being beaten by him."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "He said, “tell me, boy, is the miller within? “ বাক্যটির সঠিক Indirect speech ----",
+      "options": {
+        "ক": "Addressing the boy, he asked him (boy) to tell him if the miller was within.",
+        "খ": "Addressing the boy, he said to him (boy) to tell him if the miller was within.",
+        "গ": "Addressing the boy, he asked him (boy) to tell him that the miller was within.",
+        "ঘ": "Addressing the boy, he said him (boy) to tell him if the miller was within."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "I said to him, “Will you follow me?” বাক্যটির সঠিক Indirect speech ----",
+      "options": {
+        "ক": "I said to him if he would follow me.",
+        "খ": "I asked him if he would follow me.",
+        "গ": "I asked to him if he would follow me.",
+        "ঘ": "I said to him if he will follow me."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "The idiom ‘Tooth and nail’ এর অর্থ ----",
+      "options": {
+        "ক": "Beautiful",
+        "খ": "Precise",
+        "গ": "Completely",
+        "ঘ": "Incompletely"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "The idiom ‘Nip in the bud’ এর অর্থ ----",
+      "options": {
+        "ক": "Bed of roses",
+        "খ": "Beginning",
+        "গ": "Rare-up",
+        "ঘ": "Destroy at the very beginning"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৪৪",
+  "subject": "English",
+  "model_test": "Model Test-44",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "He has no appetite _____ food.",
+      "options": {
+        "ক": "to",
+        "খ": "for",
+        "গ": "with",
+        "ঘ": "about"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "His words conform _____ his work.",
+      "options": {
+        "ক": "about",
+        "খ": "into",
+        "গ": "with",
+        "ঘ": "for"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "One of the student _____ failed.",
+      "options": {
+        "ক": "has",
+        "খ": "have",
+        "গ": "would",
+        "ঘ": "will"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "The thief ran away after he _____ the police.",
+      "options": {
+        "ক": "saw",
+        "খ": "seen",
+        "গ": "sees",
+        "ঘ": "had seen"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is plural?",
+      "options": {
+        "ক": "furniture",
+        "খ": "lingusistics",
+        "গ": "geese",
+        "ঘ": "news"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "He got his house _____ last month.",
+      "options": {
+        "ক": "to paint",
+        "খ": "painting",
+        "গ": "paint",
+        "ঘ": "painted"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "He made her daughter _____ homework.",
+      "options": {
+        "ক": "do",
+        "খ": "did",
+        "গ": "to do",
+        "ঘ": "done"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The man got used to _____ a walk every morning.",
+      "options": {
+        "ক": "take",
+        "খ": "taken",
+        "গ": "taking",
+        "ঘ": "took"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "He doesn't like company. So he has _____ friends.",
+      "options": {
+        "ক": "a few",
+        "খ": "few",
+        "গ": "many",
+        "ঘ": "fewer"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "There was _____ water in the jug. She could quench her thirst.",
+      "options": {
+        "ক": "a little",
+        "খ": "little",
+        "গ": "less",
+        "ঘ": "the little"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is singular?",
+      "options": {
+        "ক": "trousers",
+        "খ": "jeans",
+        "গ": "glasses",
+        "ঘ": "athletics"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Truth triumphs _____ falsehood.",
+      "options": {
+        "ক": "on",
+        "খ": "over",
+        "গ": "to",
+        "ঘ": "for"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The jury _____ unanimous is giving verdict.",
+      "options": {
+        "ক": "was",
+        "খ": "were",
+        "গ": "has",
+        "ঘ": "have"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "They were sitting by a swimming pool. Here the underlined word is a _",
+      "options": {
+        "ক": "participle",
+        "খ": "infinitive",
+        "গ": "gerund",
+        "ঘ": "finite verb"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "A stitch is time saves _____",
+      "options": {
+        "ক": "money",
+        "খ": "nine",
+        "গ": "time",
+        "ঘ": "energy"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "The child saw a flying bird. Here the unlined word is a-",
+      "options": {
+        "ক": "participle",
+        "খ": "gerund",
+        "গ": "infinitive",
+        "ঘ": "finite"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "It is necessary that she _____ the meeting.",
+      "options": {
+        "ক": "Joined",
+        "খ": "join",
+        "গ": "joins",
+        "ঘ": "to join"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "If he helped me, I _____ the work.",
+      "options": {
+        "ক": "did",
+        "খ": "do",
+        "গ": "would do",
+        "ঘ": "would have done"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "I introduced my friend _____ my parents.",
+      "options": {
+        "ক": "to",
+        "খ": "with",
+        "গ": "between",
+        "ঘ": "among"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Vice results _____ misery.",
+      "options": {
+        "ক": "to",
+        "খ": "for",
+        "গ": "with",
+        "ঘ": "in"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

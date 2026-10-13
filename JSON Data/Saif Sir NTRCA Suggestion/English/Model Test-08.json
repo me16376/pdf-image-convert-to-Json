@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-০৮",
+  "subject": "English",
+  "model_test": "Model Test-08",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "“ How did you come by your lost watch? ” – Here ‘com by’ means-",
+      "options": {
+        "ক": "quicken",
+        "খ": "get",
+        "গ": "mend",
+        "ঘ": "lose"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "“ The children who play near the garden water the saplings. ” –Here ‘water’ is a -",
+      "options": {
+        "ক": "noun",
+        "খ": "adjective",
+        "গ": "verb",
+        "ঘ": "adverb"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "The word ‘ambiguous’ is the synonym of -",
+      "options": {
+        "ক": "alien",
+        "খ": "certain",
+        "গ": "dubious",
+        "ঘ": "dangerous"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "The antonym of the word ‘dishearten’ is-",
+      "options": {
+        "ক": "discourage",
+        "খ": "encourage",
+        "গ": "develop",
+        "ঘ": "ameliorate"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "What is the synonymous word of ‘augment’?",
+      "options": {
+        "ক": "Beautify",
+        "খ": "Increase",
+        "গ": "Segment",
+        "ঘ": "Calm"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "I saw him going to market. (Compound)",
+      "options": {
+        "ক": "I saw him and he was going to market.",
+        "খ": "I saw him who was going to market.",
+        "গ": "I saw him to go to market.",
+        "ঘ": "I go to market which he was."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "I helped her solve the problem. (Passive)",
+      "options": {
+        "ক": "She was helped solve the problem.",
+        "খ": "The problem was solved by me.",
+        "গ": "Her problem was solved by me.",
+        "ঘ": "She was helped to solve the problem by me."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Jerry was only four years old. (Negative)",
+      "options": {
+        "ক": "Jerry was not four years old.",
+        "খ": "Jerry was not more than four years old.",
+        "গ": "No one but Jerry was four years old.",
+        "ঘ": "None but Jerry was four years old."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Where there is a will, there is -",
+      "options": {
+        "ক": "a path",
+        "খ": "many ways",
+        "গ": "a way",
+        "ঘ": "a well-wisher"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "To carry coal to -.",
+      "options": {
+        "ক": "Narayangonj",
+        "খ": "Newcastle",
+        "গ": "England",
+        "ঘ": "Lahore"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Orthia as well as Obhinibesh (to be) – attending the party.",
+      "options": {
+        "ক": "are",
+        "খ": "is",
+        "গ": "have been",
+        "ঘ": "been"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Alice went to market with a view to (to purchase) – a dress.",
+      "options": {
+        "ক": "purchase",
+        "খ": "purchased",
+        "গ": "purchases",
+        "ঘ": "purchasing"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Rome was not built in a day. (Active)",
+      "options": {
+        "ক": "The Romans did not build Rome in a day.",
+        "খ": "People were not build Rome in a day.",
+        "গ": "The Romans were not build Rome in a day.",
+        "ঘ": "A day was not built by Rome."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Money is sweeter than honey. (Negative)",
+      "options": {
+        "ক": "Honey is not so sweet as money.",
+        "খ": "Money is not as sweet as money.",
+        "গ": "Nothing is as sweet as money and honey.",
+        "ঘ": "Honey is not sweeter then money."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Upoma came here late. –Here ‘late’ is –",
+      "options": {
+        "ক": "adjective",
+        "খ": "adverb",
+        "গ": "verb",
+        "ঘ": "noun"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "He gave me a dress which was expensive. (Simple)",
+      "options": {
+        "ক": "He gave me a dress expensive.",
+        "খ": "He gave me a dress and it was expensive.",
+        "গ": "He gave me a expensive dress.",
+        "ঘ": "He gave me an expensive dress."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "A wearer knows where –.",
+      "options": {
+        "ক": "a man goes",
+        "খ": "he is right",
+        "গ": "the shone pinches",
+        "ঘ": "the pain disturbs"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "তুমি কি জানো সে কোথায় থাকে?",
+      "options": {
+        "ক": "Do you know where does he live?",
+        "খ": "Do you know where he live?",
+        "গ": "Do you know where he is live?",
+        "ঘ": "Do you know where he lives?"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "সে সাঁতরাতে জানে না।",
+      "options": {
+        "ক": "He does not know swim.",
+        "খ": "He does not know to swimming.",
+        "গ": "He does not know how to swim.",
+        "ঘ": "He don`t know swimming."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "তোমার বাবা কী করেন?",
+      "options": {
+        "ক": "What is your father?",
+        "খ": "What is your father doing?",
+        "গ": "What does your father?",
+        "ঘ": "What your father does?"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "How Karim has solved the problem –?",
+      "options": {
+        "ক": "really nice",
+        "খ": "actually wonderful",
+        "গ": "astounds us all",
+        "ঘ": "are really difficult"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "What is the noun form of 'include'?",
+      "options": {
+        "ক": "Includement",
+        "খ": "Inclusion",
+        "গ": "Inclution",
+        "ঘ": "Includenes"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "The synonym of ‘abandon’ is –.",
+      "options": {
+        "ক": "try",
+        "খ": "join",
+        "গ": "keep with",
+        "ঘ": "leave"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "A – in time saves nine.",
+      "options": {
+        "ক": "money",
+        "খ": "penny",
+        "গ": "stitch",
+        "ঘ": "saving"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "A man is known by the – he keeps.",
+      "options": {
+        "ক": "words",
+        "খ": "company",
+        "গ": "contribution",
+        "ঘ": "relatives"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

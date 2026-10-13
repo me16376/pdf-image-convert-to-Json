@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৪৯",
+  "subject": "English",
+  "model_test": "Model Test-49",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "Commission",
+        "খ": "commision",
+        "গ": "comission",
+        "ঘ": "comision"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "people শব্দটির Adjective -",
+      "options": {
+        "ক": "popularity",
+        "খ": "popularly",
+        "গ": "popularise",
+        "ঘ": "populous"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "He is innocent---? the charge.",
+      "options": {
+        "ক": "of",
+        "খ": "with",
+        "গ": "to",
+        "ঘ": "on"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Deny শব্দটির Noun -",
+      "options": {
+        "ক": "Denial",
+        "খ": "Refuse",
+        "গ": "Deni",
+        "ঘ": "Deniable"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "He has no control --? himself.",
+      "options": {
+        "ক": "on",
+        "খ": "in",
+        "গ": "at",
+        "ঘ": "over"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Null and void এর বাংলা কোনটি?",
+      "options": {
+        "ক": "বাতিল",
+        "খ": "সঠিক",
+        "গ": "অবশ্যই",
+        "ঘ": "পরিশেষে"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "কোনটি Material Noun নয়?",
+      "options": {
+        "ক": "Ring",
+        "খ": "None",
+        "গ": "Book",
+        "ঘ": "Paper"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "আধুনিক ইংরেজি সাহিত্যের জনক কে?",
+      "options": {
+        "ক": "Chaucer",
+        "খ": "Johnson",
+        "গ": "Shakespeare",
+        "ঘ": "G.B. Shaaw"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "posesion",
+        "খ": "possession",
+        "গ": "posession",
+        "ঘ": "possesion"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "কোনটি verb?",
+      "options": {
+        "ক": "Cloth",
+        "খ": "Blood",
+        "গ": "Food",
+        "ঘ": "Feed"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "'May Allah Help you\"- what kind of sentence?",
+      "options": {
+        "ক": "Assertive",
+        "খ": "Imperative",
+        "গ": "Optative",
+        "ঘ": "Exclamatory"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Gentle এর বিপরীত কোনটি?",
+      "options": {
+        "ক": "Shrwd",
+        "খ": "Naive",
+        "গ": "Rude",
+        "ঘ": "Harsh"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Homely শব্দটি কোন part of speech?",
+      "options": {
+        "ক": "Noun",
+        "খ": "Adjective",
+        "গ": "verb",
+        "ঘ": "Adverb"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Thief এর plural কোনটি?",
+      "options": {
+        "ক": "Thiefes",
+        "খ": "Thieves",
+        "গ": "Thiefs",
+        "ঘ": "Thives"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Students are concerned --- their result.",
+      "options": {
+        "ক": "for",
+        "খ": "in",
+        "গ": "on",
+        "ঘ": "with"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Climate হলো-",
+      "options": {
+        "ক": "আবহাওয়া",
+        "খ": "পরিবেশ",
+        "গ": "জলবায়ু",
+        "ঘ": "ঋতু"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "কোনটি স্ত্রীবাচক শব্দ?",
+      "options": {
+        "ক": "Moom",
+        "খ": "Queen",
+        "গ": "Boy",
+        "ঘ": "None of these"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Beautiful শব্দটি কোন part of speech?",
+      "options": {
+        "ক": "Noun",
+        "খ": "Adjective",
+        "গ": "verb",
+        "ঘ": "adverb"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "part of speech কয় প্রকার?",
+      "options": {
+        "ক": "৫",
+        "খ": "৬",
+        "গ": "৭",
+        "ঘ": "৮"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Truth শব্দটির adjective হলো-",
+      "options": {
+        "ক": "Truly",
+        "খ": "True",
+        "গ": "Truism",
+        "ঘ": "None of them"
+      },
+      "answer": "খ",
+      "explanation": ""
+    }
+  ]
+}

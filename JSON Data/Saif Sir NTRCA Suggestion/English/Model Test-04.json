@@ -1,0 +1,308 @@
+{
+  "title": "ইংলিশ বুলেটিন-০৪",
+  "subject": "English",
+  "model_test": "Model Test-04",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "He tried his best. (Negative)",
+      "options": {
+        "ক": "He did not try a little.",
+        "খ": "He did not stay unmoved.",
+        "গ": "He left no stone unturned.",
+        "ঘ": "He did not turn all stones."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "She was used to – the poor.",
+      "options": {
+        "ক": "help",
+        "খ": "helped",
+        "গ": "helping",
+        "ঘ": "to help"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "which is the noun of the word `brief`?.",
+      "options": {
+        "ক": "briefly",
+        "খ": "brevity",
+        "গ": "brieve",
+        "ঘ": "but"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "If was high time we – our habits.",
+      "options": {
+        "ক": "changed",
+        "খ": "change",
+        "গ": "had changed",
+        "ঘ": "should change"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Curd is made - milk.",
+      "options": {
+        "ক": "of",
+        "খ": "by",
+        "গ": "in",
+        "ঘ": "from"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "The Headmaster and the President of the school – present in the last meeting.",
+      "options": {
+        "ক": "Was",
+        "খ": "were",
+        "গ": "had been",
+        "ঘ": "have been"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "If he – a human being he would not have done this.",
+      "options": {
+        "ক": "is",
+        "খ": "was",
+        "গ": "had been",
+        "ঘ": "were"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "The antonym of the word `benign` is -.",
+      "options": {
+        "ক": "tenfold",
+        "খ": "peaceful",
+        "গ": "blessed",
+        "ঘ": "malignant"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Do not – what you can do today.",
+      "options": {
+        "ক": "put on",
+        "খ": "put to",
+        "গ": "put off",
+        "ঘ": "put left"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "They tell us a tale about a tail. The word `tale` is -",
+      "options": {
+        "ক": "noun",
+        "খ": "verb",
+        "গ": "adjective",
+        "ঘ": "adverb"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Move or die. (simple)",
+      "options": {
+        "ক": "In case of your failure to move, you will die.",
+        "খ": "You move, you will die.",
+        "গ": "If you move, you will die.",
+        "ঘ": "Move and die."
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Which one is correct?",
+      "options": {
+        "ক": "Omnious",
+        "খ": "Extencion",
+        "গ": "Hesitasion",
+        "ঘ": "Mischievous"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The opposite word of `sluggish` is-",
+      "options": {
+        "ক": "animated",
+        "খ": "dull",
+        "গ": "heavy",
+        "ঘ": "slow"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "I saw him play (Passive).",
+      "options": {
+        "ক": "He was seen by me ply.",
+        "খ": "Play was seen him by me.",
+        "গ": "Play was seen playing by me.",
+        "ঘ": "He was seen to play by me."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "`Boot leg` means to -",
+      "options": {
+        "ক": "distribute",
+        "খ": "export",
+        "গ": "import",
+        "ঘ": "smuggle"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "While I (play) in the field, I saw a dead cow.",
+      "options": {
+        "ক": "Playing",
+        "খ": "was playing",
+        "গ": "played",
+        "ঘ": "were playing"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "But for your help I -.",
+      "options": {
+        "ক": "would have failed",
+        "খ": "would fail",
+        "গ": "will fail",
+        "ঘ": "will have failed"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "He had been hanged for murder.",
+        "খ": "He has been hunged for murder.",
+        "গ": "He was hanged for murder.",
+        "ঘ": "He was hunged for murder."
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "I went there to seek a job. (Compound)",
+      "options": {
+        "ক": "I went there and seeked a job.",
+        "খ": "I went there so that I could seek a job.",
+        "গ": "I went there for seeking a job.",
+        "ঘ": "I went there and sought a job."
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Instead of `confirm` we can say -?",
+      "options": {
+        "ক": "bear out",
+        "খ": "bear on",
+        "গ": "bear to",
+        "ঘ": "bear of"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "What is the antonym of `abduct`?",
+      "options": {
+        "ক": "Take away unlawfully",
+        "খ": "Kidnap",
+        "গ": "Restore",
+        "ঘ": "None of them"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "The father with his seven daughters – left the house.",
+      "options": {
+        "ক": "have",
+        "খ": "are",
+        "গ": "has",
+        "ঘ": "was"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "She has no test – music.",
+      "options": {
+        "ক": "of",
+        "খ": "for",
+        "গ": "to",
+        "ঘ": "in"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "কর্তৃপক্ষ তাকে তিরস্কার করল।",
+      "options": {
+        "ক": "The authority criticised him.",
+        "খ": "The authority took him to task.",
+        "গ": "The authority took him to book.",
+        "ঘ": "The authority gave reins to him."
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "সে নদীর কাছে এক কুটিরে বাস করত।",
+      "options": {
+        "ক": "He lived a hut close with river.",
+        "খ": "He lived in a hut close at the river.",
+        "গ": "He lived in a hut close to the river.",
+        "ঘ": "He lived in a hut close by the river."
+      },
+      "answer": "গ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৪৩",
+  "subject": "English",
+  "model_test": "Model Test-43",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Synonym of \"Encourage\"-",
+      "options": {
+        "ক": "Support",
+        "খ": "Dispirit",
+        "গ": "Oppose",
+        "ঘ": "None of these"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Synonym of \"Try\"-",
+      "options": {
+        "ক": "Turn",
+        "খ": "Help",
+        "গ": "Attempt",
+        "ঘ": "None of these"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Synonym of \"Remark\"-",
+      "options": {
+        "ক": "Underline",
+        "খ": "Comment",
+        "গ": "Scar",
+        "ঘ": "None of these"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Synonym of \"Promise\"-",
+      "options": {
+        "ক": "Situation",
+        "খ": "Vow",
+        "গ": "Comment",
+        "ঘ": "None of these"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Synonym of \"Refuse\"-",
+      "options": {
+        "ক": "Alight",
+        "খ": "Light",
+        "গ": "Confuse",
+        "ঘ": "None of these"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is correct spelling?",
+      "options": {
+        "ক": "Credential",
+        "খ": "Credancial",
+        "গ": "Credantial",
+        "ঘ": "Credencial"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is correct spelling?",
+      "options": {
+        "ক": "Collaborate",
+        "খ": "Colaboret",
+        "গ": "Colaboarate",
+        "ঘ": "Colabrate"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is correct spelling?",
+      "options": {
+        "ক": "Licence",
+        "খ": "Licents",
+        "গ": "Lisence",
+        "ঘ": "Licanse"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is correct spelling?",
+      "options": {
+        "ক": "Extantion",
+        "খ": "Extansion",
+        "গ": "Extension",
+        "ঘ": "Extention"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is correct spelling?",
+      "options": {
+        "ক": "Apropriate",
+        "খ": "Appropriate",
+        "গ": "Aprropriet",
+        "ঘ": "Apropriet"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "The car _____ by the side of the road. (Fill in the blank)",
+      "options": {
+        "ক": "have parked",
+        "খ": "parking",
+        "গ": "was parked",
+        "ঘ": "None of these"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "There was a big celebration after my friend _____. (Fill in the blank)",
+      "options": {
+        "ক": "arrives",
+        "খ": "had arrived",
+        "গ": "arrival",
+        "ঘ": "None of these"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "He lost his phone _____ the cinema hall. (Fill in the blank)",
+      "options": {
+        "ক": "on",
+        "খ": "up",
+        "গ": "over",
+        "ঘ": "None of these"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Are you confident _____ your performance? (Fill in the blank)",
+      "options": {
+        "ক": "of",
+        "খ": "by",
+        "গ": "because",
+        "ঘ": "None of these"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Rahima has not yet come back _____ the bazaar. (Fill in the blank)",
+      "options": {
+        "ক": "of",
+        "খ": "over",
+        "গ": "from",
+        "ঘ": "None of these"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Antonym of \"Greet\"-",
+      "options": {
+        "ক": "Welcome",
+        "খ": "Small",
+        "গ": "Farewell",
+        "ঘ": "None of these"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Antonym of \"Humble\"-",
+      "options": {
+        "ক": "Successful",
+        "খ": "Proud",
+        "গ": "Challenge",
+        "ঘ": "None of these"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Antonym of \"Calm\"-",
+      "options": {
+        "ক": "Agitated",
+        "খ": "Peace",
+        "গ": "Composure",
+        "ঘ": "None of these"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Antonym of \"Lend\"-",
+      "options": {
+        "ক": "Rent",
+        "খ": "Borrow",
+        "গ": "Deny",
+        "ঘ": "None of these"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Antonym of \"Difference\"-",
+      "options": {
+        "ক": "Inference",
+        "খ": "Disagreement",
+        "গ": "Permission",
+        "ঘ": "None of these"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "ইংলিশ বুলেটিন-৭৭",
+  "subject": "English",
+  "model_test": "Model Test-77",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "সকালে পাখিরা কিচিরমিচির করে। ইংরেজিতে-",
+      "options": {
+        "ক": "Birds cry at dawn",
+        "খ": "Birds sing at dawn",
+        "গ": "Birds twitter at dawn",
+        "ঘ": "Birds shout at dawn"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "A state where all religions are respected_____",
+      "options": {
+        "ক": "Good state",
+        "খ": "Secular",
+        "গ": "Holy country",
+        "ঘ": "Reactor"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "The word `Decade’ Means-",
+      "options": {
+        "ক": "rotten object",
+        "খ": "decaying old age",
+        "গ": "a group of ten people",
+        "ঘ": "a period of the ten years"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "‘Syntax’ means-",
+      "options": {
+        "ক": "Supplementary text",
+        "খ": "Synchronizing act",
+        "গ": "Manner of speech",
+        "ঘ": "Sentence building"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "The minister told his official to _____ a press conference.",
+      "options": {
+        "ক": "announce",
+        "খ": "arrange",
+        "গ": "prepare",
+        "ঘ": "speak"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "‘Oncology’ relates to _____ -",
+      "options": {
+        "ক": "law",
+        "খ": "medicine",
+        "গ": "ecology",
+        "ঘ": "environment"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "A remedy for all diseases _____.",
+      "options": {
+        "ক": "all cure",
+        "খ": "panorama",
+        "গ": "polyglot",
+        "ঘ": "panacea"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "“Brain Child” means-",
+      "options": {
+        "ক": "special child",
+        "খ": "intelligent person",
+        "গ": "a person’s Idea",
+        "ঘ": "autistic child"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "A stage of short sightedness_____",
+      "options": {
+        "ক": "Myopia",
+        "খ": "Autopsy",
+        "গ": "Maternity",
+        "ঘ": "Abortion"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is in plural form?",
+      "options": {
+        "ক": "analysis",
+        "খ": "media",
+        "গ": "datum",
+        "ঘ": "radius"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "I need to install an _____ fan in the kitchen.",
+      "options": {
+        "ক": "exhaust",
+        "খ": "exsost",
+        "গ": "egzost",
+        "ঘ": "adjuct"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Man did not know that the earth moves round the sun until was _____.",
+      "options": {
+        "ক": "demonstrated",
+        "খ": "discovered",
+        "গ": "experimented",
+        "ঘ": "Invented"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "What does CV stand for?",
+      "options": {
+        "ক": "Curriculam Vitae",
+        "খ": "Curriculum Vitea",
+        "গ": "Curriculum Vitae",
+        "ঘ": "Current Value"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Can you tell me where _____?",
+      "options": {
+        "ক": "lives Rahim",
+        "খ": "does Rahim live",
+        "গ": "Rahim lives",
+        "ঘ": "Rahim does live"
+      },
+      "answer": "গ",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "To everyone’s surprise he got _____ the examination.",
+      "options": {
+        "ক": "through",
+        "খ": "failed",
+        "গ": "over",
+        "ঘ": "passed"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "He was brought to the police station for _____.",
+      "options": {
+        "ক": "judgement",
+        "খ": "questioning",
+        "গ": "confinement",
+        "ঘ": "punishment"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "What is the meaning of the word ‘ Vice Versa”?",
+      "options": {
+        "ক": "For example",
+        "খ": "Face to face",
+        "গ": "Namely",
+        "ঘ": "The terms being exchanged"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "A lot of news in those papers_____ unreliable .",
+      "options": {
+        "ক": "is",
+        "খ": "were",
+        "গ": "being",
+        "ঘ": "are"
+      },
+      "answer": "ক",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "‘To read between the lines’ means_____.",
+      "options": {
+        "ক": "To read quickly to save time",
+        "খ": "To read carefully to find any hidden meaning",
+        "গ": "To read carefully",
+        "ঘ": "To read only some lines"
+      },
+      "answer": "খ",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "A sentence is a group of words that expresses a complete _____.",
+      "options": {
+        "ক": "paragraph",
+        "খ": "predicate",
+        "গ": "Fragment",
+        "ঘ": "thought"
+      },
+      "answer": "ঘ",
+      "explanation": ""
+    }
+  ]
+}
