@@ -1,6 +1,6 @@
 # Workspace Conversion Progress Tracker
 
-**Last Updated:** 2026-10-14  
+**Last Updated:** 2026-10-15  
 **Project Root:** `c:\Users\bdCalling\Downloads\Mosabber\pdf-image-convert-to-Json`
 
 ---
@@ -9,19 +9,19 @@
 
 | Project | Source | Bangla | English | GK | Math | Total Files | Total MCQs | Status |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **BUET Pattern** | Images (`p3`–`p250`) | 1,135 (16) | 1,023 (17) | — | — | **33** | **2,158** | **Bangla & English 100% Done** |
+| **BUET Pattern** | Images (`p3`–`p750`) | 1,135 (16) | 1,023 (17) | 1,257 (2) | — | **35** | **3,415** | **GK In Progress (1,257 MCQs, Pages 457–643)** |
 | **Saif Sir NTRCA Suggestion** | PDF (`p1`–`p340`) | 2,231 (111) | 2,034 (98) | 2,211 (99) | 749 (30) | **338** | **7,225** | **100% Completed & Verified** |
 | **Ampibian Suggestion** | PDF / Scans | 1,662 (14) | 1,574 (17) | 2,276 (28) | 645 (25) | **84** | **6,157** | **Archived / Complete** |
 | **Biddabari-NTRCA** | Question Bank | 2,495 (14) | 1,890 (16) | 3,688 (18) | 1,901 (19) | **67** | **9,974** | **Archived / Complete** |
-| **Repository Grand Total** | | **7,523** | **6,521** | **8,175** | **3,295** | **522 files** | **25,514 MCQs** | |
+| **Repository Grand Total** | | **7,523** | **6,521** | **9,432** | **3,295** | **524 files** | **26,771 MCQs** | |
 
 ---
 
 ## 🎯 BUET Pattern (Non Dept.) - Conversion Progress
 
-- **Source Images:** `Images/BUET Patern/` (`p3.jpg` to `p250.jpg`, Total 246 page images)
+- **Source Images:** `Images/BUET Patern/` (`p3.jpg` to `p250.jpg`, Total 246 page images; `p457.jpg` to `p750.jpg`, Total 275 GK images)
 - **Target Output Directory:** `JSON Data/BUET Patern/`
-- **Total Converted to Date:** **33 JSON files, 2,158 MCQs**
+- **Total Converted to Date:** **35 JSON files, 3,415 MCQs**
 
 ### 1. Bangla (বাংলা) — 100% COMPLETED
 - **Source Range:** `p3.jpg` to `p134.jpg` (Pages 3 to 134)
@@ -68,9 +68,20 @@
   16. `Idioms & Phrases.json` — 45 MCQs (Pages 244)
   17. `English Literature.json` — 57 MCQs (Pages 244–250)
 
+### 3. General Knowledge (সাধারণ জ্ঞান) — IN PROGRESS
+- **Source Range:** `p457.jpg` to `p750.jpg` (275 page images rotated upright and placed in `Images/BUET Patern/`)
+- **Structure:** Page-by-page Python generation in `scripts/buet_gk_pages/` compiled into 5 Topic JSONs under `JSON Data/BUET Patern/GK/`.
+- **Identified Topic Partitions:**
+  1. `বাংলাদেশ বিষয়াবলি` (Pages 457–566) — **100% COMPLETED (653 MCQs)**
+  2. `আন্তর্জাতিক বিষয়াবলি` (Pages 566–643) — **100% COMPLETED (604 MCQs)**
+  3. `সাধারণ বিজ্ঞান` (Pages 643–677) — *In Progress / Next* (Page 643 Q1 extracted)
+  4. `কম্পিউটার ও তথ্য প্রযুক্তি` (Pages 678–696) — *Pending*
+  5. `পাওয়ার সেক্টর ও গ্যাস সেক্টর` (Pages 697–750) — *Pending*
+- **Completed So Far:** **187 pages mapped, 169 page scripts created (`page_457.py` to `page_643.py`), 1,257 MCQs in completed topics + 1 in General Science**
+
 ---
 
-### 3. Math & GK (গণিত ও সাধারণ জ্ঞান)
+### 4. Math (গণিত)
 - **Status:** Pending (Awaiting images/source material from user).
 
 ---
