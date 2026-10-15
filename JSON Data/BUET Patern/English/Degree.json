@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "question": "1. Superlative degree- [BCRECL-CE,ME,EEE-25]",
+    "options": [
+      "(a) Least",
+      "(b) worse",
+      "(c) Better",
+      "(d) Further"
+    ],
+    "answer": "(a) Least",
+    "explanation": "প্রদত্ত Option এ worse, Better. Further হলো Comparative degree. Option (ক) least হলো superlative degree."
+  },
+  {
+    "id": 2,
+    "question": "2. Taskin’s bowling is ____ than accurate. [CPGCBL-EEE/ME/CE-25]",
+    "options": [
+      "(a) fast",
+      "(b) faster",
+      "(c) more fast",
+      "(d) more faster"
+    ],
+    "answer": "(b) faster",
+    "explanation": "Comparative sentence এর নিয়ম অনুযায়ী faster হবে সঠিক উত্তর। ‘more faster’ clause টি Redundancy জনিত ভুল।"
+  },
+  {
+    "id": 3,
+    "question": "3. Which one is superlative degree? [DPDC-ET-24]",
+    "options": [
+      "(a) Better",
+      "(b) Further",
+      "(c) Best",
+      "(d) Less"
+    ],
+    "answer": "(c) Best",
+    "explanation": "less, Better, further হলো comparative degree তবে Best হলো Superlative degree."
+  },
+  {
+    "id": 4,
+    "question": "4. She is ____ than you. [EGCB-EEE/ME/CE-24]",
+    "options": [
+      "(a) more happy",
+      "(b) happier",
+      "(c) most happy",
+      "(d) Happiest"
+    ],
+    "answer": "(b) happier",
+    "explanation": "Comparative degree এর structure — Sub + Verb + Adjective এর comparative form + than + you. For Example, Rana is smarter than Rakib. She is happier than you."
+  },
+  {
+    "id": 5,
+    "question": "5. Write the superlative degree of ‘good’ --- [CPGCBL-ET/MT/CT-23]",
+    "options": [
+      "(a) better",
+      "(b) worst",
+      "(c) best",
+      "(d) immune"
+    ],
+    "answer": "(c) best",
+    "explanation": "Good এর comparative degree-Better এবং Superlative degree-Best."
+  },
+  {
+    "id": 6,
+    "question": "6. She is beautiful but she is _____ her mother. [ERLB-MT/ET/CT-22]",
+    "options": [
+      "(a) as beautiful",
+      "(b) most beautiful",
+      "(c) less beautiful",
+      "(d) not so beautiful as"
+    ],
+    "answer": "(d) not so beautiful as",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "question": "7. Which one is superlative degree? [BWDB-18, DWASA-ET-19, CPGCBL-ET/MT-23]",
+    "options": [
+      "(a) Worst",
+      "(b) Better",
+      "(c) Farther",
+      "(d) Less"
+    ],
+    "answer": "(a) Worst",
+    "explanation": "Worst অর্থ সবচেয়ে খারাপ; Positive: Bad -> Comparative: Worse -> Superlative: Worst; Positive: Good -> Comparative: Better -> Superlative: best"
+  },
+  {
+    "id": 8,
+    "question": "8. Summon was one -- [PGCB, BRPL-ME-19]",
+    "options": [
+      "(a) of the happiest children in the class.",
+      "(b) of the happy children in the class.",
+      "(c) of the happiest child in the class.",
+      "(d) of the happy chills of his class."
+    ],
+    "answer": "(a) of the happiest children in the class.",
+    "explanation": "মনে রাখুন, sentence-এ one of the থাকলে পরবর্তী noun এর plural form হয়। Child এর plural form হলো Children।"
+  }
+]

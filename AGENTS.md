@@ -7,25 +7,23 @@
 
 ---
 
-## Active Task: Saif Sir NTRCA Suggestion JSON Conversion
+## Active Task 1: BUET Pattern (Non Dept.) JSON Conversion
+- **Source Images:** `Images/BUET Patern/` (`p3.jpg` to `p250.jpg`, 246 page images)
+- **Output Folders:** `JSON Data/BUET Patern/`
+- **Bangla Status:** **100% COMPLETED** (16 files, 1,135 MCQs, Pages 3–134)
+- **English Status:** **100% COMPLETED** (17 files, 1,023 MCQs, Pages 137–250)
+- **Math & GK Status:** Pending (Waiting for images from user)
+- **Total BUET Pattern Completed:** **33 JSON files, 2,158 MCQs**
 
-### Current State:
+---
+
+## Completed Task: Saif Sir NTRCA Suggestion JSON Conversion
 - **PDF Source:** `PDF/Saif Sir NTRCA Suggestion/saif-sir-ntrca-suggestion.pdf`
-- **Output Folders:**
-  - `JSON Data/Saif Sir NTRCA Suggestion/Bangla/` (100% Completed: Model Test-01 to Model Test-111, 2,231 MCQs)
-  - `JSON Data/Saif Sir NTRCA Suggestion/GK/` (100% Completed: Model Test-01 to Model Test-99, 2,211 MCQs)
-  - `JSON Data/Saif Sir NTRCA Suggestion/English/` (100% Completed: Model Test-01 to Model Test-97 + Model Test-46A, 2,034 MCQs)
-  - `JSON Data/Saif Sir NTRCA Suggestion/Math/` (100% Completed: Model Test-01 to Model Test-27, 749 MCQs across 30 JSON files, covering all model tests up to PDF Page 340)
-- **Bangla Status:**
-  - **COMPLETED:** **Model Test-01 through Model Test-111** (All 111 Model Tests, 2,231 MCQs verified & saved).
-- **GK Status:**
-  - **COMPLETED:** **Model Test-01 through Model Test-99** (All 99 Model Tests, 2,211 MCQs verified & saved).
-- **English Status:**
-  - **COMPLETED:** **Model Test-01 through Model Test-97 + Model Test-46A** (All 98 JSON files, 2,034 MCQs verified & saved).
-- **Math Status:**
-  - **COMPLETED:** **Model Test-01 to Model Test-27** (All 30 JSON files, 749 MCQs verified & saved up to PDF Page 340).
-- **ALL 4 SUBJECTS (Bangla, GK, English, Math) ARE 100% CONVERTED & VERIFIED!**
-  - **Total:** 338 JSON files, 7,225 MCQs.
-- Refer to `PROGRESS.md` for complete progress tracking.
+- **Output Folders:** `JSON Data/Saif Sir NTRCA Suggestion/`
+- **Bangla Status:** **100% COMPLETED** (111 files, 2,231 MCQs)
+- **GK Status:** **100% COMPLETED** (99 files, 2,211 MCQs)
+- **English Status:** **100% COMPLETED** (98 files, 2,034 MCQs)
+- **Math Status:** **100% COMPLETED** (30 files, 749 MCQs up to Page 340)
+- **Total Saif Sir Completed:** **338 JSON files, 7,225 MCQs**
 
-
+Refer to `PROGRESS.md` for complete progress tracking.

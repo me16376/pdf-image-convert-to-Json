@@ -1,0 +1,753 @@
+[
+  {
+    "id": 1,
+    "question": "1. The word 'homogenous' means [DESCO-SSA-25]",
+    "options": [
+      "(a) Of the same place",
+      "(b) Of the same density",
+      "(c) Of the same race",
+      "(d) Of the same kind"
+    ],
+    "answer": "(d) Of the same kind",
+    "explanation": "ব্যাখ্যাঃ Homogenous- সমজাতীয়।\nMeaning: Of the same kind.\nSynonyms: Same, Similar, Parallel, Resembling.\nAntonyms: Distict, Various, Distinguishable."
+  },
+  {
+    "id": 2,
+    "question": "2. ভোর এর ইংরেজী কোনটি? [BCIC- ET/MT/CT/Chemistry-25]",
+    "options": [
+      "(a) Dawn",
+      "(b) Morning",
+      "(c) Day",
+      "(d) Evening"
+    ],
+    "answer": "(a) Dawn",
+    "explanation": "ব্যাখ্যাঃ দিন = Day, ভোর = Dawn, সকাল = Morning, দুপুর = Noon, বিকেল = Afternoon, সন্ধ্যা = Evening ।"
+  },
+  {
+    "id": 3,
+    "question": "3. A pioneer of a reform movement: [MPL-ME-25]",
+    "options": [
+      "(a) Apostle",
+      "(b) Apothecary",
+      "(c) Apotheosis",
+      "(d) Renegade"
+    ],
+    "answer": "(a) Apostle",
+    "explanation": "ব্যাখ্যাঃ A pioneer of a reform movement is called Apostle.\nApostle means: Who spreads or promotes a new idea."
+  },
+  {
+    "id": 4,
+    "question": "4. What is the meaning of Paradox? [BSCPLC-CSE/EEE-24]",
+    "options": [
+      "(a) mystification",
+      "(b) a person or thing that combines contradictory features or qualities",
+      "(c) puzzlement",
+      "(d) antinomy"
+    ],
+    "answer": "(b) a person or thing that combines contradictory features or qualities",
+    "explanation": "ব্যাখ্যাঃ Paradox- হলো একটি বিবৃতি যা আপাতদৃষ্টিতে পরস্পরবিরোধী হলেও সত্য।"
+  },
+  {
+    "id": 5,
+    "question": "5. One Who eat all types of food? [BSCPLC-CSE/EEE-24]",
+    "options": [
+      "(a) Omnipresent",
+      "(b) Omniscient",
+      "(c) Omnipotent",
+      "(d) Omnivore"
+    ],
+    "answer": "(d) Omnivore",
+    "explanation": "ব্যাখ্যাঃ ইংরেজিতে সর্ব অর্থ জ্ঞাপনে Omni prefix টি ব্যবহৃত হয়। Omnipotent অর্থ- সর্বশক্তিমান, Omnivore - সর্বভুক, Omnipresent অর্থ- সর্বত্রবিরাজমান, Omniscient অর্থ- সর্বজ্ঞ।"
+  },
+  {
+    "id": 6,
+    "question": "6. A hater of knowledge and learning is called: [POCL-ME/EEE-24]",
+    "options": [
+      "(a) Misogynist",
+      "(b) Philologist",
+      "(c) Misologist",
+      "(d) Bibliophile"
+    ],
+    "answer": "(c) Misologist",
+    "explanation": "ব্যাখ্যাঃ Misologist: A hater of knowledge and learning.\nBibliophile: A person who collects or has a great love for books.\nPhilologist: Learner of language or linguist.\nMisogynist: A person who hates women."
+  },
+  {
+    "id": 7,
+    "question": "7. What is the closest meaning of salvation? [NWPGCL-ME/EEE-24]",
+    "options": [
+      "(a) destruction",
+      "(b) harm",
+      "(c) redemption",
+      "(d) endangerment"
+    ],
+    "answer": "(c) redemption",
+    "explanation": "ব্যাখ্যাঃ Salvation শব্দটির অর্থ পরিত্রাণ, মুক্তি, উদ্ধার এবং Redemption অর্থ মুক্তি, খালাস যা পরস্পরের সমার্থক।"
+  },
+  {
+    "id": 8,
+    "question": "8. The word 'Benevolent' means- [APSCL-ME/EEE-24]",
+    "options": [
+      "(a) cruel and rude",
+      "(b) generous and kind",
+      "(c) Jealous",
+      "(d) indifferent"
+    ],
+    "answer": "(b) generous and kind",
+    "explanation": "ব্যাখ্যাঃ Benevolent অর্থ- দয়ালু বা সদাশয়, যার সমার্থক generous and kind। অন্য শব্দগুলোর অর্থ- Cruel and rude = নিষ্ঠুর ও অভদ্র, Jealous- ঈর্ষান্বিত, Indifferent- উদাসীন।"
+  },
+  {
+    "id": 9,
+    "question": "9. Faithful meaning কি? [BOGMC-ET/CT-24]",
+    "options": [
+      "(a) বিশ্বস্ত",
+      "(b) সত্যবাদী",
+      "(c) দয়ালু",
+      "(d) মিথ্যাবাদী"
+    ],
+    "answer": "(a) বিশ্বস্ত",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "10. Which one has a different meaning- [BOGMC-ME/CE/CSE-24]",
+    "options": [
+      "(a) Forgive",
+      "(b) Prohibit",
+      "(c) Take out",
+      "(d) Proscribe"
+    ],
+    "answer": "(a) Forgive",
+    "explanation": "ব্যাখ্যাঃ অর্থগত দিক দিয়ে Prohibit (নিষিদ্ধ করা), take out (নিষ্কাশিত করা), এবং Proscribe (নির্বাসিত করা), শব্দ তিনটির মিল রয়েছে, যা forgive (ক্ষমা করা) শব্দটি হতে ভিন্নার্থক।"
+  },
+  {
+    "id": 11,
+    "question": "11. A person who is unable to sleep is called ______? [BOGMC-ME/CE/CSE-24]",
+    "options": [
+      "(a) Insomniac",
+      "(b) Idle",
+      "(c) Lozy",
+      "(d) Sleepy"
+    ],
+    "answer": "(a) Insomniac",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "question": "12. Which of these words is closest in meaning to the word 'Gracious'? [BOGMC-EEE/IPE-24]",
+    "options": [
+      "(a) Pretty",
+      "(b) Clever",
+      "(c) Pleasant",
+      "(d) Present"
+    ],
+    "answer": "(a) Pretty",
+    "explanation": "ব্যাখ্যাঃ Gracious অর্থ-করুণাময়, দয়ালু, প্রশংসনীয়। এর closest meaningঃ Pretty, Hospitable, kind ইত্যাদি।"
+  },
+  {
+    "id": 13,
+    "question": "13. Which of the following options is closest in meaning to 'Naive'? [BOGMC-EEE/IPE-24]",
+    "options": [
+      "(a) Lake of inteligence",
+      "(b) Lack of wisdom and experience",
+      "(c) Lack of skill",
+      "(d) Lack of interest"
+    ],
+    "answer": "(b) Lack of wisdom and experience",
+    "explanation": "ব্যাখ্যাঃ Naive অর্থ সরল, সাদাসিধা। যার similar meaning হলো: Innocent, Inexperienced. প্রদত্ত option-এ Lack of wisdom and experience হবে সঠিক।"
+  },
+  {
+    "id": 14,
+    "question": "14. Hasan and kabir both resembles their father, both in character and work. Which option is close to the meaning of underlined word? [TGTDCL-EEE/ME/CE/CSE-24]",
+    "options": [
+      "(a) look after",
+      "(b) take after",
+      "(c) same as",
+      "(d) None"
+    ],
+    "answer": "(b) take after",
+    "explanation": "ব্যাখ্যাঃ Resemble এবং take after একই অর্থ জ্ঞাপন করে যাদের অর্থ সাদৃশ্যযুক্ত হওয়া।"
+  },
+  {
+    "id": 15,
+    "question": "15. Giving undue favors to one's own kith and kin is called- [BPDB-CSE/EEE/CE/ME-24]",
+    "options": [
+      "(a) Nepotism",
+      "(b) Favouritism",
+      "(c) Corruption",
+      "(d) Worldliness"
+    ],
+    "answer": "(a) Nepotism",
+    "explanation": "ব্যাখ্যাঃ Kith and kin অর্থ আত্মীয়-স্বজন। নিজ আত্মীয়-স্বজনদের অনৈতিক সুবিধা প্রদান করাই হলো স্বজনপ্রীতি বা Nepotism।"
+  },
+  {
+    "id": 16,
+    "question": "16. Which word is spelt correctly? [BPDB-CSE/EEE/CE/ME-24]",
+    "options": [
+      "(a) Swelte",
+      "(b) flippant",
+      "(c) Psuesile",
+      "(d) Psudeo"
+    ],
+    "answer": "(b) flippant",
+    "explanation": "ব্যাখ্যাঃ Flippant meaning not showing a serious attitude."
+  },
+  {
+    "id": 17,
+    "question": "17. What is the meaning of Rampant? [BPDB-CSE/EEE/CE/ME-24]",
+    "options": [
+      "(a) Profusely widespread",
+      "(b) To concise",
+      "(c) short and clear",
+      "(d) Clear and concise"
+    ],
+    "answer": "(a) Profusely widespread",
+    "explanation": "ব্যাখ্যাঃ Rampant শব্দের অর্থ- প্রচন্ড, বৃদ্ধির্শীল; যা profusely widespread (বহুল পরিমাণে বিস্তৃত) এর সমার্থক।"
+  },
+  {
+    "id": 18,
+    "question": "18. 'Bottom line' means- [PGCB-CT/MT/ET/ENT/PT/CST-24]",
+    "options": [
+      "(a) The final step",
+      "(b) The last line",
+      "(c) The essential point",
+      "(d) End of the road"
+    ],
+    "answer": "(c) The essential point",
+    "explanation": "ব্যাখ্যাঃ 'Bottom line' একটি phrase যার অর্থ-গুরুত্বপূর্ণ বিষয়, বা Essential point, the most important fact in a situation."
+  },
+  {
+    "id": 19,
+    "question": "19. 'To get along with' means- [PGCB-CT/MT/ET/ENT/PT/CST-24]",
+    "options": [
+      "(a) to adjust",
+      "(b) to accompany",
+      "(c) to interest",
+      "(d) to walk"
+    ],
+    "answer": "(a) to adjust",
+    "explanation": "ব্যাখ্যাঃ 'to get along with' phrasal verb যার অর্থ হলো কারো সাথে সুসম্পর্কে থাকা (good relation with someone), বা খাপ খাওয়ানো (to adjust), বা টিকে থাকা (Survive)।"
+  },
+  {
+    "id": 20,
+    "question": "20. 'Proclaim' means- [PGCB-CT/MT/ET/ENT/PT/CST-24]",
+    "options": [
+      "(a) Pronounce",
+      "(b) declare",
+      "(c) recall",
+      "(d) circulate"
+    ],
+    "answer": "(b) declare",
+    "explanation": "ব্যাখ্যাঃ 'Proclaim' অর্থ-প্রচার করা, উচ্চকণ্ঠে জাহির করা, ঘোষণা (Declare)"
+  },
+  {
+    "id": 21,
+    "question": "21. 'Birds eye view' means- [PGCB-CT/MT/ET/ENT/PT/CST-24]",
+    "options": [
+      "(a) A rough idea",
+      "(b) eyes of birds",
+      "(c) a view of the sky",
+      "(d) see exhaustively"
+    ],
+    "answer": "(a) A rough idea",
+    "explanation": "ব্যাখ্যাঃ 'Birds eye view' idiom টির অর্থ-মোটামুটি ধারণা (A rough idea)."
+  },
+  {
+    "id": 22,
+    "question": "22. 'Cut and dry' means. [PGCB-CE/EEE/ME/CSE-24]",
+    "options": [
+      "(a) Humorous",
+      "(b) Fixed",
+      "(c) Brief",
+      "(d) Secret"
+    ],
+    "answer": "(b) Fixed",
+    "explanation": "ব্যাখ্যাঃ Cut and dry phrase টির অর্থ পূর্বনির্ধারিত, অপরিবর্তনযোগ্য যা অপশনের Fixed শব্দটির সাথে সামঞ্জস্যপূর্ণ।"
+  },
+  {
+    "id": 23,
+    "question": "23. 'Come to light' means? [PGCB-CE/EEE/ME/CSE-24]",
+    "options": [
+      "(a) lighting",
+      "(b) To shine",
+      "(c) To flourish",
+      "(d) To publish"
+    ],
+    "answer": "(d) To publish",
+    "explanation": "ব্যাখ্যাঃ Come to light' phrase টির বাংলা হলো প্রকাশিত হওয়া (To Publish)।"
+  },
+  {
+    "id": 24,
+    "question": "24. The word 'precedence' means? [PGCB-CE/EEE/ME/CSE-24]",
+    "options": [
+      "(a) example",
+      "(b) priority",
+      "(c) importance",
+      "(d) none"
+    ],
+    "answer": "(b) priority",
+    "explanation": "ব্যাখ্যাঃ Precedence এর বাংলা হলো- অগ্রাধিকার বা প্রাধান্য যার সমার্থক- Priority."
+  },
+  {
+    "id": 25,
+    "question": "25. A person is said to be capricious--- [BWDB-CE-24]",
+    "options": [
+      "(a) it he is unpredictable",
+      "(b) If his attitude change suddenly & unpredictably",
+      "(c) If he is optimistic",
+      "(d) if he is pessimistic"
+    ],
+    "answer": "(b) If his attitude change suddenly & unpredictably",
+    "explanation": "ব্যাখ্যাঃ Capricious-শব্দটির অর্থ-খামখেয়ালী। যার ব্যবহার কিংবা গতিবিধির হঠাৎ পরিবর্তন ঘটে তাকে Capricious বলে।"
+  },
+  {
+    "id": 26,
+    "question": "26. 'jurisdiction' meaning in English- [BCPCL-EEE/ME-23]",
+    "options": [
+      "(a) rule",
+      "(b) Surrender",
+      "(c) powerlessness",
+      "(d) incapacity"
+    ],
+    "answer": "(a) rule",
+    "explanation": "ব্যাখ্যাঃ Jurisdiction অর্থ-আইনগত অধিকার (rule, sovereignty)."
+  },
+  {
+    "id": 27,
+    "question": "27. “back to square one” means:- to ........ [BCPCL-EEE/ME-23]",
+    "options": [
+      "(a) back to the beginning",
+      "(b) Start",
+      "(c) Come to and end",
+      "(d) Success"
+    ],
+    "answer": "(a) back to the beginning",
+    "explanation": "ব্যাখ্যাঃ Back to square means; to go back to the beginning, after a dead end or failure.\nExample: His idea didn't work, so he had to go back to square one."
+  },
+  {
+    "id": 28,
+    "question": "28. “Break a leg” meaning? [SGFL-EEE/CSE-23]",
+    "options": [
+      "(a) Broke leg",
+      "(b) good luck",
+      "(c) pull back",
+      "(d) Weakening"
+    ],
+    "answer": "(b) good luck",
+    "explanation": "ব্যাখ্যাঃ 'Break a leg' is a typical English idiom uses in the context of theatre or other performing arts to wish a performer 'good luck'."
+  },
+  {
+    "id": 29,
+    "question": "29. Maiden speech- [DESCO-ET-23]",
+    "options": [
+      "(a) First Speech",
+      "(b) Last speech",
+      "(c) Early speech",
+      "(d) Madam's speech"
+    ],
+    "answer": "(a) First Speech",
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "question": "30. Opposite word of 'sluggish' [RAJUK-ET/CT/MT/AIDT-23]",
+    "options": [
+      "(a) animated",
+      "(b) dull",
+      "(c) Heavy",
+      "(d) slow"
+    ],
+    "answer": "(a) animated",
+    "explanation": "ব্যাখ্যাঃ Sluggish: Refers to Some one who is lazy and slow. তাই Opposite word হবে animated যার অর্থ প্রাণবন্ত।"
+  },
+  {
+    "id": 31,
+    "question": "31. In the word omnipotent the prefix, Omni, refers to- [BPDB-ME/CE/CSE-23]",
+    "options": [
+      "(a) all",
+      "(b) Opposite",
+      "(c) single",
+      "(d) none"
+    ],
+    "answer": "(a) all",
+    "explanation": "ব্যাখ্যাঃ এখানে omnipotent অর্থ সর্বশক্তিমান। এর prefix omni অর্থ all (সর্ব)।"
+  },
+  {
+    "id": 32,
+    "question": "32. 'Acrophobia' is termed as- [DPDC-ME/EEE/CE-22]",
+    "options": [
+      "(a) Fear of death",
+      "(b) Fear of height",
+      "(c) Fear of Length",
+      "(d) Fear of water"
+    ],
+    "answer": "(b) Fear of height",
+    "explanation": "ব্যাখ্যাঃ \"Acrophobia\" means a morbid fear of high place or height. The word\" cynophobia \"means overwhelming fear of dogs."
+  },
+  {
+    "id": 33,
+    "question": "33. By the rule of thumb [DPDC-ME/EEE/CE-22]",
+    "options": [
+      "(a) By the uses of force",
+      "(b) By the use of trickery",
+      "(c) By cheating and deception",
+      "(d) By practical experience which is rather rough"
+    ],
+    "answer": "(d) By practical experience which is rather rough",
+    "explanation": "ব্যাখ্যাঃ By the rule of thumb means the condition that is taken by practical experience which is rather rough."
+  },
+  {
+    "id": 34,
+    "question": "34. The word 'officials' means- [BIWTA-EEE/ME/CE-2022]",
+    "options": [
+      "(a) Plural number of official",
+      "(b) language used in offices",
+      "(c) Plural number of office",
+      "(d) Vague expression"
+    ],
+    "answer": "(a) Plural number of official",
+    "explanation": "ব্যাখ্যাঃ officials means plural number of official. কর্মকর্তার বহুবচন।"
+  },
+  {
+    "id": 35,
+    "question": "35. Cloud :: Rain; Vapour :: ? [EGCB-EEE-22]",
+    "options": [
+      "(a) Moisture",
+      "(b) Cold",
+      "(c) Heat",
+      "(d) Wet"
+    ],
+    "answer": "(a) Moisture",
+    "explanation": "ব্যাখ্যাঃ Colud = মেঘ এর সাথে যেমন বৃষ্টির (Rain) সম্পর্ক তেমনি, Vapour = বাষ্প বা কুয়াশার সাথে Moisture = জলীয় বাষ্পের সম্পর্ক।"
+  },
+  {
+    "id": 36,
+    "question": "36. Plagiarism means [EGCB-EEE-22]",
+    "options": [
+      "(a) Theft of ideas",
+      "(b) Wet",
+      "(c) None",
+      "(d) Break"
+    ],
+    "answer": "(a) Theft of ideas",
+    "explanation": "ব্যাখ্যাঃ Plagiarism অর্থ- আইডিয়া চুরি করা।"
+  },
+  {
+    "id": 37,
+    "question": "37. “Proportion” means- [NPCBL-ET/CMT/ENT-22, BCIC-EEE/ME-22]",
+    "options": [
+      "(a) aggregate",
+      "(b) ensemble",
+      "(c) bulk",
+      "(d) ratio"
+    ],
+    "answer": "(d) ratio",
+    "explanation": "ব্যাখ্যাঃ Proportion – অনুপাত/সমান অংশ, aggregate – একত্রিত করা, Ensemble – অনেকগুলো জিনিসের সমাহার, bulk – বিশাল আয়তন, Ratio – অনুপাত, Proportion ও ratio দুটির অর্থই অনুপাত। Proportion ও ratio দুটিই noun."
+  },
+  {
+    "id": 38,
+    "question": "38. The meeting has been ... due to the demise of the Minister. [BTCL-ET/MT/ENT/PT-22]",
+    "options": [
+      "(a) called for",
+      "(b) called off",
+      "(c) called out",
+      "(d) called on"
+    ],
+    "answer": "(b) called off",
+    "explanation": "ব্যাখ্যাঃ উপরোক্ত অপশনগুলোর মধ্যে (খ) সঠিক উত্তর। কারণ Call off দ্বারা কোনো কিছু স্থগিত রাখা বুঝায়। বাকিগুলোর অর্থ হলো - Call for (ডেকে পাঠানো) Call out (চিৎকার করা), Call on (কারো সাথে দেখা করা)।"
+  },
+  {
+    "id": 39,
+    "question": "39. As ... of the students can afford this high tuition fee, ... will need scholarships. [BTCL-ET/MT/ENT/PT-22]",
+    "options": [
+      "(a) few/most",
+      "(b) none/nobody",
+      "(c) some/they",
+      "(d) few/none"
+    ],
+    "answer": "(a) few/most",
+    "explanation": "ব্যাখ্যাঃ অল্প সংখ্যক পরিমাণ বুঝানোর জন্য Few ব্যবহৃত হয়। কোনো জিনিসের অধিকাংশ পরিমাণ বুঝাতে Most ব্যবহৃত হয়।"
+  },
+  {
+    "id": 40,
+    "question": "40. 'Ophthalmology' is the study of medical conditions relating to the- [MGMCL: EEE/ME-22]",
+    "options": [
+      "(a) birds",
+      "(b) eye",
+      "(c) skin",
+      "(d) nerve"
+    ],
+    "answer": "(b) eye",
+    "explanation": "ব্যাখ্যাঃ Ophthalmology শব্দটি চোখের সাথে সম্পর্কযুক্ত।"
+  },
+  {
+    "id": 41,
+    "question": "41. 'Panacea' Means - [MGMCL: EEE/ME-22]",
+    "options": [
+      "(a) gland",
+      "(b) widespread disease",
+      "(c) fresh",
+      "(d) cure all"
+    ],
+    "answer": "(d) cure all",
+    "explanation": "ব্যাখ্যাঃ 'Panacea' অর্থ সর্বব্যাধির ঔষধ, সর্বরোগনিবারক ঔষধ। আর Cure all শব্দের অর্থ সর্বব্যাধির ঔষধ।"
+  },
+  {
+    "id": 42,
+    "question": "42. He visits his mother off and on. Here “off and on” means [BCIC-EEE/ME-22]",
+    "options": [
+      "(a) Regularly",
+      "(b) hourly",
+      "(c) occasionally",
+      "(d) consistently"
+    ],
+    "answer": "(c) occasionally",
+    "explanation": "ব্যাখ্যাঃ 'Off and on' means মাঝে মধ্যে, সময়সময়, অনিয়মিতভাবে।"
+  },
+  {
+    "id": 43,
+    "question": "43. Karim carry ........ memorizing. [BCIC-EEE/ME-22]",
+    "options": [
+      "(a) on",
+      "(b) out",
+      "(c) off",
+      "(d) for"
+    ],
+    "answer": "(a) on",
+    "explanation": "ব্যাখ্যাঃ Carry on অর্থ-চালিয়ে যাওয়া। এর synonym হলো continue. Carry out অর্থ-সম্পন্ন করা; Carry off-বলপূর্বক লইয়া যাওয়া, অপহরণ করা।"
+  },
+  {
+    "id": 44,
+    "question": "44. What is the meaning of 'ambition' [BGDCL-EEE/ME/CE/CSE-21]",
+    "options": [
+      "(a) Plan",
+      "(b) Proclamation",
+      "(c) Desire",
+      "(d) Decision"
+    ],
+    "answer": "(c) Desire",
+    "explanation": "ব্যাখ্যাঃ Ambition অর্থ-উচ্চাকাঙ্ক্ষা, লক্ষ্য, প্রয়াস, উদ্দেশ্য। Desire অর্থ-আকাঙ্ক্ষা, কামনা, ইচ্ছা, উদ্দেশ্য। Plan অর্থ-পরিকল্পনা, Proclamation অর্থ-ঘোষণা, প্রচার, ইস্তাহার, Decision অর্থ-রায়, সিদ্ধান্ত ইত্যাদি।"
+  },
+  {
+    "id": 45,
+    "question": "45. Health is too important to be_____ [BGDCL-EEE/ME/CE/CSE-21]",
+    "options": [
+      "(a) discarded",
+      "(b) despised",
+      "(c) detested",
+      "(d) neglected"
+    ],
+    "answer": "(d) neglected",
+    "explanation": "ব্যাখ্যাঃ Neglect অর্থ-কোনো কিছুর অবহেলা করা। অর্থ: স্বাস্থ্যকে কখনই অবহেলা করা উচিত নয়।"
+  },
+  {
+    "id": 46,
+    "question": "46. Salt has been used for centuries as a method of preserving foods. [BPDB-EEE/CE/CSE-21]",
+    "options": [
+      "(a) displaying",
+      "(b) cooking",
+      "(c) conserving",
+      "(d) seasoning"
+    ],
+    "answer": "(c) conserving",
+    "explanation": "ব্যাখ্যাঃ Conserving অর্থ-সংরক্ষণ করা।"
+  },
+  {
+    "id": 47,
+    "question": "47. He can't ______ the noise in the class. [BPDB-EEE/CE/CSE-21]",
+    "options": [
+      "(a) put up",
+      "(b) put with",
+      "(c) put up with",
+      "(d) put ip in"
+    ],
+    "answer": "(c) put up with",
+    "explanation": "ব্যাখ্যাঃ Put up with - ধৈর্য্যসহকারে সহ্য করা, এর কিছু সমার্থক শব্দ হলো tolerate, take, swallow, suffer ইত্যাদি। Put up with বসালে বাক্যটির অর্থ হল, সে ক্লাসে কোলাহল সহ্য করতে পারে না।"
+  },
+  {
+    "id": 48,
+    "question": "48. Al Biruni was fond ______ astronomy. [BPDB-EEE/CE/CSE-21]",
+    "options": [
+      "(a) of",
+      "(b) an",
+      "(c) with",
+      "(d) for"
+    ],
+    "answer": "(a) of",
+    "explanation": "ব্যাখ্যাঃ Fond of - অনুরাগী, আসক্ত,। বাক্যটির অর্থ-আল বিরুনী জ্যোতির্বিদ্যার প্রতি অনুরাগী ছিলেন।"
+  },
+  {
+    "id": 49,
+    "question": "49. Picture : See :: Book : = ? [GTCL-ME-22]",
+    "options": [
+      "(a) Buy",
+      "(b) Read",
+      "(c) Listen",
+      "(d) Librahry"
+    ],
+    "answer": "(b) Read",
+    "explanation": "ব্যাখ্যাঃ Picture : see; book: read"
+  },
+  {
+    "id": 50,
+    "question": "50. Fill in the blank with the right word: He is no match - me. [BPDB-CT-21]",
+    "options": [
+      "(a) for",
+      "(b) to",
+      "(c) into",
+      "(d) with"
+    ],
+    "answer": "(a) for",
+    "explanation": "ব্যাখ্যাঃ Match for somebody কোনো ব্যক্তির সাথে কারো মিল হওয়া।"
+  },
+  {
+    "id": 51,
+    "question": "51. Choose the correctly spelt word - [BPDB-CT-21]",
+    "options": [
+      "(a) annul",
+      "(b) annual",
+      "(c) anual",
+      "(d) anuall"
+    ],
+    "answer": "(b) annual",
+    "explanation": "ব্যাখ্যাঃ annual বানানটি সঠিক, যার অর্থ বার্ষিক।"
+  },
+  {
+    "id": 52,
+    "question": "52. Find out the correct word: The man - my house was a cheater. [JGTDSL-MT-21]",
+    "options": [
+      "(a) to whom I sold",
+      "(b) whom I sell",
+      "(c) whom I was selling",
+      "(d) to whom I was selling"
+    ],
+    "answer": "(a) to whom I sold",
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "question": "53. One who believes in his fate is called - [JGTDSL-MT-21]",
+    "options": [
+      "(a) fatalist",
+      "(b) henpecked",
+      "(c) stoic",
+      "(d) omniscient"
+    ],
+    "answer": "(a) fatalist",
+    "explanation": "ব্যাখ্যাঃ Fatalist অর্থ-অদৃষ্টবাদী।"
+  },
+  {
+    "id": 54,
+    "question": "54. He applied for and was - legal aid by the labour ministry. [DWASA-CT-21]",
+    "options": [
+      "(a) offered",
+      "(b) granted",
+      "(c) allowed",
+      "(d) awarded"
+    ],
+    "answer": "(b) granted",
+    "explanation": "ব্যাখ্যাঃ শূন্যস্থানে granted বসবে যার অর্থ-মঞ্জুর করা। granted বসালে শব্দটির অর্থ- তিনি আবেদন করেছিলেন এবং শ্রম মন্ত্রণালয় কর্তৃক আইনি সহায়তা মঞ্জুর করা হয়েছিল।"
+  },
+  {
+    "id": 55,
+    "question": "55. 'Writter' is related to 'Reader' in the same way as 'Producer' is related to - [DWASA-CT-21]",
+    "options": [
+      "(a) seller",
+      "(b) consumer",
+      "(c) creator",
+      "(d) contractor"
+    ],
+    "answer": "(b) consumer",
+    "explanation": "ব্যাখ্যাঃ A writter writes for the reader. Similarly, a producer produce's articles for the consumer."
+  },
+  {
+    "id": 56,
+    "question": "56. (ক) স্থাপত্য, (খ) নিরসন [PGCB-CMT-ET-18]",
+    "options": [],
+    "answer": "(ক) স্থাপত্য = Architecture\n(খ) নিরসন = Mitigation",
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "question": "57. সঠিক উত্তরটিতে টিক চিহ্ন দিন: Press, Television, Radio means ...... [BSEC-ET-18]",
+    "options": [
+      "(a) Entertainment",
+      "(b) Mass Media",
+      "(c) Worldwide news",
+      "(d) Public undertaking"
+    ],
+    "answer": "(b) Mass Media",
+    "explanation": "ব্যাখ্যাঃ গণমাধ্যম - জনসাধারণের নিকট পৌঁছানোর মাধ্যম - Mass media."
+  },
+  {
+    "id": 58,
+    "question": "58. 'Prior to' means ...... [NESCO-CE-18]",
+    "options": [
+      "(a) After",
+      "(b) before",
+      "(c) immediately",
+      "(d) during the period of"
+    ],
+    "answer": "(b) before",
+    "explanation": "ব্যাখ্যাঃ Prior to means before, previously, formerly, earlier, ইত্যাদি। বাংলা প্রতিশব্দ: পূর্বে।"
+  },
+  {
+    "id": 59,
+    "question": "59. The word 'Magnificent' means - [PGCB, BR-Power-ME-19]",
+    "options": [
+      "(a) Splendid",
+      "(b) resourceful",
+      "(c) Thoughtful",
+      "(d) graceful"
+    ],
+    "answer": "(a) Splendid",
+    "explanation": "ব্যাখ্যাঃ Magnificent অর্থ চমৎকার, মহৎ। Synonyms: splendid, great, generous, lofty, large, big ইত্যাদি।"
+  },
+  {
+    "id": 60,
+    "question": "60. Find out the meaning of the following phrase: 'By and large' [46th BCS]",
+    "options": [
+      "(a) very large",
+      "(b) on the whole",
+      "(c) the largest one",
+      "(d) far away"
+    ],
+    "answer": "(b) on the whole",
+    "explanation": "ব্যাখ্যাঃ 'By and large' অর্থ-মোটের উপর, যা 'on the whole' (অর্থ-সামগ্রিকভাবে) phrase টির অর্থ জ্ঞাপন করে।"
+  },
+  {
+    "id": 61,
+    "question": "61. Choose the best alternative for the underlined. He went back on his promise of voting for me. [46th BCS]",
+    "options": [
+      "(a) withdrew",
+      "(b) forgot",
+      "(c) reinforced",
+      "(d) support"
+    ],
+    "answer": "(a) withdrew",
+    "explanation": "ব্যাখ্যাঃ 'Go back on' phrase টির অর্থ প্রতিশ্রুতি বা অঙ্গিকার পালন না করা; আবার withdrow শব্দের অর্থও প্রত্যাহার করা বা ফিরিয়ে নেওয়া যা পরস্পরের সমার্থক।"
+  },
+  {
+    "id": 62,
+    "question": "62. 'Let the cat out of the bag' means- [46th BCS]",
+    "options": [
+      "(a) bring out a cat from a bag",
+      "(b) let a cat move at large",
+      "(c) reveal a secret carelessly",
+      "(d) take a pre-caucious steps"
+    ],
+    "answer": "(c) reveal a secret carelessly",
+    "explanation": "ব্যাখ্যাঃ 'Let the cat out of the bag' means to reveal facts previously hidden. অর্থাৎ পূর্বে লুকানো তথ্য প্রকাশ করা। প্রদত্ত option-এ reveal a secret carelessly."
+  },
+  {
+    "id": 63,
+    "question": "63. 'Plagiarism' means- [46th BCS]",
+    "options": [
+      "(a) The act of using someones else's idea as one's own.",
+      "(b) The act of planning everything beforehand.",
+      "(c) The act of playing a musical instrument.",
+      "(d) The art of dealing with forgery"
+    ],
+    "answer": "(a) The act of using someones else's idea as one's own.",
+    "explanation": "ব্যাখ্যাঃ Plagiarism অর্থ: চৌর্যবৃত্তি, কুস্তিলকবৃত্তি; অর্থাৎ কারো Idea নিজের বলে চালিয়ে দেওয়া।"
+  }
+]
