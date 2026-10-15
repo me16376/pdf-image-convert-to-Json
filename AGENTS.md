@@ -8,13 +8,13 @@
 ---
 
 ## Active Task 1: BUET Pattern (Non Dept.) JSON Conversion
-- **Source Images:** `Images/BUET Patern/` (`p3.jpg` to `p250.jpg` for Bangla/English; `p457.jpg` to `p750.jpg` for GK, 521 total page images)
+- **Source Images:** `Images/BUET Patern/` (`p3.jpg` to `p250.jpg` for Bangla/English; `p457.jpg` to `p750.jpg` for GK, 540 total page images, 100% complete without missing pages)
 - **Output Folders:** `JSON Data/BUET Patern/`
 - **Bangla Status:** **100% COMPLETED** (16 files, 1,135 MCQs, Pages 3–134)
 - **English Status:** **100% COMPLETED** (17 files, 1,023 MCQs, Pages 137–250)
-- **GK Status:** **IN PROGRESS** (Pages 457–643 completed: বাংলাদেশ বিষয়াবলি 653 MCQs & আন্তর্জাতিক বিষয়াবলি 604 MCQs compiled; Next: সাধারণ বিজ্ঞান Pages 643–677)
+- **GK Status:** **IN PROGRESS** (All 294 GK images `p457`–`p750` in place; 4 topics 100% complete: বাংলাদেশ বিষয়াবলি 799 MCQs, আন্তর্জাতিক বিষয়াবলি 604 MCQs, সাধারণ বিজ্ঞান 273 MCQs, কম্পিউটার ও তথ্য প্রযুক্তি 134 MCQs; Topic 5 পাওয়ার সেক্টর ও গ্যাস সেক্টর in progress: Pages 697–700 completed with 15 MCQs; **Next Checkpoint upon continue:** Page 701 `Images/BUET Patern/p701.jpg`, Q16 onwards up to Page 750)
 - **Math Status:** Pending (Waiting for images from user)
-- **Total BUET Pattern Completed So Far:** **35 JSON files, 3,415 MCQs (GK: 1,257 MCQs across 2 topics)**
+- **Total BUET Pattern Completed So Far:** **37 JSON files, 3,983 MCQs (GK: 1,825 MCQs compiled across 5 topic JSONs)**
 
 ---
 
