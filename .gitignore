@@ -72,8 +72,6 @@ temp/
 *_test.png
 .tempmediaStorage/
 
-# Large PDF Files & Sources (>50MB+)
-PDF/1+ Petro Bangla/
-PDF/Eminent Petro Bangla/
-PDF/Saif Sir NTRCA Suggestion/
-PDF/Ampibian Suggestion/
+# Media & Raw Source Assets (Images & PDFs)
+Images/
+PDF/
