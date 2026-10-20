@@ -3,10 +3,10 @@
     "id": 1,
     "question": "1. Which sentence is correct? [47th BCS]",
     "options": [
-      "(a) One of my sisters are a nurse",
-      "(b) One of my sister is a nurse",
-      "(c) One of my sisters is a nurse",
-      "(d) One of my sister's are a nurse"
+      "One of my sisters are a nurse",
+      "One of my sister is a nurse",
+      "One of my sisters is a nurse",
+      "One of my sister's are a nurse"
     ],
     "answer": "(c) One of my sisters is a nurse",
     "explanation": "গঠনঃ One of + plural noun + singular verb so the correct answer: One of my sisters is a nurse."
@@ -15,10 +15,10 @@
     "id": 2,
     "question": "2. Choose the correct sentence- [DPDC-ME,EEE-25]",
     "options": [
-      "(a) I saw a owl",
-      "(b) I saw an owl",
-      "(c) I saw the owl",
-      "(d) I seen an owl"
+      "I saw a owl",
+      "I saw an owl",
+      "I saw the owl",
+      "I seen an owl"
     ],
     "answer": "(b) I saw an owl",
     "explanation": "সঠিক উত্তর: (খ) I saw an owl। “Owl” শব্দটি ‘o’ দিয়ে শুরু যা একটি Vowel sound, তাই এর আগে “an” ব্যবহার করতে হয়।"
@@ -27,10 +27,10 @@
     "id": 3,
     "question": "3. Choose the correct sentence- [DPDC-ME,EEE-25]",
     "options": [
-      "(a) She drived careful",
-      "(b) She drives carefully",
-      "(c) She driving carefully",
-      "(d) She drive carefully"
+      "She drived careful",
+      "She drives carefully",
+      "She driving carefully",
+      "She drive carefully"
     ],
     "answer": "(b) She drives carefully",
     "explanation": "সঠিক উত্তর: She drives carefully। “She” একটি third person singular number হওয়ায় verb হবে drives."
@@ -39,10 +39,10 @@
     "id": 4,
     "question": "4. Which is correct! [BCRECL-CE,ME,EEE-25]",
     "options": [
-      "(a) Why have you done this?",
-      "(b) Why you have done this?",
-      "(c) Why did you have done this?",
-      "(d) Why do you have done this?"
+      "Why have you done this?",
+      "Why you have done this?",
+      "Why did you have done this?",
+      "Why do you have done this?"
     ],
     "answer": "(a) Why have you done this?",
     "explanation": "Option (খ) তে Sub-Verb agreement rule follow করে নাই, Option (গ) tense incorrect, Option (ঘ) grammatically wrong. তাই Option (ক) সঠিক।"
@@ -51,10 +51,10 @@
     "id": 5,
     "question": "5. Correct spelling কোনটি? [BCIC- CT, MT, ET, CST-25]",
     "options": [
-      "(a) Essential",
-      "(b) Essenial",
-      "(c) Esential",
-      "(d) Essantial"
+      "Essential",
+      "Essenial",
+      "Esential",
+      "Essantial"
     ],
     "answer": "(a) Essential",
     "explanation": "Correct spelling ‘Essential’- অপরিহার্য।"
@@ -63,10 +63,10 @@
     "id": 6,
     "question": "6. Which word is misspelled? [DPDC-CST-25]",
     "options": [
-      "(a) chandeller",
-      "(b) quintessential",
-      "(c) Alsatian",
-      "(d) ethereal"
+      "chandeller",
+      "quintessential",
+      "Alsatian",
+      "ethereal"
     ],
     "answer": "(a) chandeller",
     "explanation": ""
@@ -75,10 +75,10 @@
     "id": 7,
     "question": "7. Choose the correct sentence: [DPDC-CST-25]",
     "options": [
-      "(a) The car swerve to avoid knocking the boy down",
-      "(b) The car swerved to avoid knocking the boy down",
-      "(c) The car swerved to avoid knock the boy down",
-      "(d) The car swerved to avoid knock the boy down"
+      "The car swerve to avoid knocking the boy down",
+      "The car swerved to avoid knocking the boy down",
+      "The car swerved to avoid knock the boy down",
+      "The car swerved to avoid knock the boy down"
     ],
     "answer": "(b) The car swerved to avoid knocking the boy down",
     "explanation": "এই বাক্যটি মূলত অতীত সময়ের একটি কাজ বোঝাচ্ছে। “গাড়িটি একটি ছেলেকে ধাক্কা দেওয়া এড়াতে ঘুরে গিয়েছিল।” তাই swerve- এর Past form swerved হবে।"
@@ -87,10 +87,10 @@
     "id": 8,
     "question": "8. Correct spelling কোনটি? [BCIC-ET/MT/CT/Chemistry-25]",
     "options": [
-      "(a) Essential",
-      "(b) Essenial",
-      "(c) Esential",
-      "(d) Essantial"
+      "Essential",
+      "Essenial",
+      "Esential",
+      "Essantial"
     ],
     "answer": "(a) Essential",
     "explanation": "Correct spelling ‘Essential’ যার অর্থ- অপরিহার্য।"
@@ -106,10 +106,10 @@
     "id": 10,
     "question": "10. Find the correct spelling- [POCL-ME/EEE-24]",
     "options": [
-      "(a) Abayance",
-      "(b) Abeyence",
-      "(c) Abeyance",
-      "(d) Abayence"
+      "Abayance",
+      "Abeyence",
+      "Abeyance",
+      "Abayence"
     ],
     "answer": "(c) Abeyance",
     "explanation": "Some commonly misspelled words- Acquit – খালাস দেওয়া; Abeyance – স্থগিত। Hierarchy – যাজকতন্ত্র; Vacuum – শূন্যস্থান; Pronunciation – উচ্চারণ; Conscious – সচেতন।"
@@ -125,10 +125,10 @@
     "id": 12,
     "question": "12. You, I and He are present- the correct sentence is [CPGCBL-ET/MT/CT-23, BOGMC-ET/CT-24]",
     "options": [
-      "(a) You, I and he are present",
-      "(b) You, he and I are present",
-      "(c) I, you and he are present",
-      "(d) None of these"
+      "You, I and he are present",
+      "You, he and I are present",
+      "I, you and he are present",
+      "None of these"
     ],
     "answer": "(b) You, he and I are present",
     "explanation": "যেকোন Statement এর ক্ষেত্রে Person এর Sequence হয় 231,কিন্তু দোষ স্বীকার করা অর্থে 123 অনুযায়ী বসে। যেমন- You, he and I are present, কিন্তু I, you and he are guilty."
@@ -137,10 +137,10 @@
     "id": 13,
     "question": "13. Find out correct sentence. [BOGMC-ET/CT-24]",
     "options": [
-      "(a) I need furnitures",
-      "(b) I do not need furniture",
-      "(c) I need some furniture",
-      "(d) I do not need some furnitures"
+      "I need furnitures",
+      "I do not need furniture",
+      "I need some furniture",
+      "I do not need some furnitures"
     ],
     "answer": "(c) I need some furniture",
     "explanation": "Furniture শব্দটি uncountable noun হওয়ায় এর সাথে s/es বসে না। আবার, uncountable noun এর পূর্বে determiner হিসেবে some ব্যবহৃত হয়।"
@@ -149,10 +149,10 @@
     "id": 14,
     "question": "14. Which one is correct- [BOGMC-ET/CT-24]",
     "options": [
-      "(a) She is more beautiful than you",
-      "(b) She is most beautiful than you",
-      "(c) She is beautiful then you",
-      "(d) She is more beautiful then you"
+      "She is more beautiful than you",
+      "She is most beautiful than you",
+      "She is beautiful then you",
+      "She is more beautiful then you"
     ],
     "answer": "(a) She is more beautiful than you",
     "explanation": "Comparative degree বিশিষ্ট বাক্য গঠনে adjective এর comparative form হয় এবং এরপর than বসে। বাক্যে Beautiful-এর comparative form হলো- more beautiful।"
@@ -161,10 +161,10 @@
     "id": 15,
     "question": "15. What is the correct sentence---? [BOGMC-CMT/MT-24]",
     "options": [
-      "(a) If I were your",
-      "(b) if I was you",
-      "(c) if I am you",
-      "(d) If I will you"
+      "If I were your",
+      "if I was you",
+      "if I am you",
+      "If I will you"
     ],
     "answer": "(a) If I were your",
     "explanation": "অবাস্তব ইচ্ছা বা কল্পনা বুঝাতে Subject এর পরে were বসে, যেমনঃ if I were you, I would have done this."
@@ -173,10 +173,10 @@
     "id": 16,
     "question": "16. Which one is correctly spelt– [BCIC-ME-19, BGDCL-CE/EEE/ME/CSE-24, BOGMC-ME/CE/CSE-24]",
     "options": [
-      "(a) Guarantee",
-      "(b) Garentee",
-      "(c) Gaurantee",
-      "(d) Gurante"
+      "Guarantee",
+      "Garentee",
+      "Gaurantee",
+      "Gurante"
     ],
     "answer": "(a) Guarantee",
     "explanation": "Guarantee অর্থ - জামিন, জামানৎ, মুচলেকা।"
@@ -185,10 +185,10 @@
     "id": 17,
     "question": "17. The correct spelling is- [TGTDCL-ET/MT/CT/CMT-24]",
     "options": [
-      "(a) Aggrandice",
-      "(b) Aggrandis",
-      "(c) Agrandize",
-      "(d) Aggrandize"
+      "Aggrandice",
+      "Aggrandis",
+      "Agrandize",
+      "Aggrandize"
     ],
     "answer": "(d) Aggrandize",
     "explanation": "Aggrandize অর্থ-সম্মান, সম্পদ কিংবা পদমর্যাদা বৃদ্ধি করা।"
@@ -211,10 +211,10 @@
     "id": 20,
     "question": "20. Correct word is--- [BPDB-ENT&PT-21, BTCL-CMT/MT-24]",
     "options": [
-      "(a) affidienit",
-      "(b) affedevit",
-      "(c) afidevit",
-      "(d) affidavit"
+      "affidienit",
+      "affedevit",
+      "afidevit",
+      "affidavit"
     ],
     "answer": "(d) affidavit",
     "explanation": "Affidavit অর্থ হলফনামা। এর কিছু similar word: declaration, confirmation, legal instrument."
@@ -223,10 +223,10 @@
     "id": 21,
     "question": "21. Which one is correctly spelt? [PGCB-CT/MT/ET/ENT/PT/CST-24]",
     "options": [
-      "(a) Incumbent",
-      "(b) Incumvent",
-      "(c) Incambant",
-      "(d) Incumnvent"
+      "Incumbent",
+      "Incumvent",
+      "Incambant",
+      "Incumnvent"
     ],
     "answer": "(a) Incumbent",
     "explanation": "Incumbent অর্থ আরোপিত, আপতিত।"
@@ -235,10 +235,10 @@
     "id": 22,
     "question": "22. Millennium এর সঠিক spelling কোনটি? [BRPL-ME/PT/ET-24]",
     "options": [
-      "(a) Milenium",
-      "(b) Millenium",
-      "(c) Millennium",
-      "(d) millennium"
+      "Milenium",
+      "Millenium",
+      "Millennium",
+      "millennium"
     ],
     "answer": "(c) Millennium",
     "explanation": "Millennium এর অর্থ সহস্রাব্দ।"
@@ -247,10 +247,10 @@
     "id": 23,
     "question": "23. Which one is correct? [PGCB-CE/EEE/ME/CSE-24]",
     "options": [
-      "(a) Messile",
-      "(b) Misile",
-      "(c) Missile",
-      "(d) Messilee"
+      "Messile",
+      "Misile",
+      "Missile",
+      "Messilee"
     ],
     "answer": "(c) Missile",
     "explanation": ""
@@ -259,10 +259,10 @@
     "id": 24,
     "question": "24. Find the correct sentence- [BGDCL-CE/EEE/ME/CSE-24]",
     "options": [
-      "(a) I wish I have some wing.",
-      "(b) I wish I went to be there.",
-      "(c) I wish I were in your shoes.",
-      "(d) I wish I was you."
+      "I wish I have some wing.",
+      "I wish I went to be there.",
+      "I wish I were in your shoes.",
+      "I wish I was you."
     ],
     "answer": "(c) I wish I were in your shoes.",
     "explanation": ""
@@ -271,10 +271,10 @@
     "id": 25,
     "question": "25. A clause must have. [PGCB-CE/EEE/ME/CSE-24]",
     "options": [
-      "(a) A subject",
-      "(b) A verb",
-      "(c) Subject & predicate",
-      "(d) Subject & verb"
+      "A subject",
+      "A verb",
+      "Subject & predicate",
+      "Subject & verb"
     ],
     "answer": "(d) Subject & verb",
     "explanation": "English clause এ অবশ্যই Subject এবং verb থাকতে হবে। যেমন: If the sun rises in the west, the Hour will begin."
@@ -283,10 +283,10 @@
     "id": 26,
     "question": "26. Which one is correct? [DPDC-ET-24]",
     "options": [
-      "(a) One of my friends are journalist.",
-      "(b) One of my friends is a journalist.",
-      "(c) One of my friend is journalist.",
-      "(d) One of my friends are journalist."
+      "One of my friends are journalist.",
+      "One of my friends is a journalist.",
+      "One of my friend is journalist.",
+      "One of my friends are journalist."
     ],
     "answer": "(b) One of my friends is a journalist.",
     "explanation": "One of এর subject plural হলেও verb singular হয়, তাই is ব্যবহার হবে।"
@@ -295,10 +295,10 @@
     "id": 27,
     "question": "27. Which one is correct? [CPGCBL-EEE/ME/CE-23]",
     "options": [
-      "(a) One of my cousins are a doctor",
-      "(b) One of my cousin is a doctor",
-      "(c) One of my cousins is a doctor",
-      "(d) One of my cousin are a doctor"
+      "One of my cousins are a doctor",
+      "One of my cousin is a doctor",
+      "One of my cousins is a doctor",
+      "One of my cousin are a doctor"
     ],
     "answer": "(c) One of my cousins is a doctor",
     "explanation": "কোন Sentence-এ one of থাকলে এর পরবর্তী noun- টির plural হয় কিন্তু verb singular থাকে।"
@@ -307,10 +307,10 @@
     "id": 28,
     "question": "28. Select the correct spelling. [BPDB-CT-23]",
     "options": [
-      "(a) Refrigeration and Air conditioning",
-      "(b) Refrigaration and Air conditioning",
-      "(c) Refrigaretion and Air conditioning",
-      "(d) Refrigeretion and Air conditioning"
+      "Refrigeration and Air conditioning",
+      "Refrigaration and Air conditioning",
+      "Refrigaretion and Air conditioning",
+      "Refrigeretion and Air conditioning"
     ],
     "answer": "(a) Refrigeration and Air conditioning",
     "explanation": ""
@@ -319,10 +319,10 @@
     "id": 29,
     "question": "29. Select the correct spelling: [BPDB-MT-23]",
     "options": [
-      "(a) Automative Mechanics",
-      "(b) Automotive Mechanics",
-      "(c) Automotive Machanics",
-      "(d) Automative mechaniks"
+      "Automative Mechanics",
+      "Automotive Mechanics",
+      "Automotive Machanics",
+      "Automative mechaniks"
     ],
     "answer": "(b) Automotive Mechanics",
     "explanation": ""
@@ -338,10 +338,10 @@
     "id": 31,
     "question": "31. She’d pass her exams ……… she studied harder. [BPDB-ENT/ET-23]",
     "options": [
-      "(a) for",
-      "(b) if",
-      "(c) to",
-      "(d) of"
+      "for",
+      "if",
+      "to",
+      "of"
     ],
     "answer": "(b) if",
     "explanation": ""
@@ -350,10 +350,10 @@
     "id": 32,
     "question": "32. Power plant has been built ……… demand? [BCPCL-EEE/ME-23]",
     "options": [
-      "(a) due to",
-      "(b) increase",
-      "(c) Decrease",
-      "(d) In accordance with"
+      "due to",
+      "increase",
+      "Decrease",
+      "In accordance with"
     ],
     "answer": "(d) In accordance with",
     "explanation": "Power plant has been built in accordance with demand এখানে accordance with অর্থ অনুসারে।"
@@ -362,10 +362,10 @@
     "id": 33,
     "question": "33. Which sentence is correct? [BTCL-EEE-23]",
     "options": [
-      "(a) The cat run after rat",
-      "(b) The cat run before rat",
-      "(c) The cat run over rat",
-      "(d) The cat run on rat"
+      "The cat run after rat",
+      "The cat run before rat",
+      "The cat run over rat",
+      "The cat run on rat"
     ],
     "answer": "(a) The cat run after rat",
     "explanation": "Run after শব্দটির অর্থ হল ধাওয়া করা। সে হিসেবে প্রথম Sentence টি সঠিক যার অর্থ হল, বিড়ালটি ইঁদুরটিকে ধাওয়া করল।"
@@ -374,10 +374,10 @@
     "id": 34,
     "question": "34. Choose the correctly spelt word- [NPCBL-ET/MT-23]",
     "options": [
-      "(a) Commisionor",
-      "(b) Commisioner",
-      "(c) Commissioner",
-      "(d) Comissioner"
+      "Commisionor",
+      "Commisioner",
+      "Commissioner",
+      "Comissioner"
     ],
     "answer": "(c) Commissioner",
     "explanation": ""
@@ -400,10 +400,10 @@
     "id": 37,
     "question": "37. Chose the correct spelling? [BPDB-ME/CE/CSE-23]",
     "options": [
-      "(a) Extraterrestria",
-      "(b) Extraterrastrial",
-      "(c) Extreterrestrial",
-      "(d) Extraterrestrial"
+      "Extraterrestria",
+      "Extraterrastrial",
+      "Extreterrestrial",
+      "Extraterrestrial"
     ],
     "answer": "(d) Extraterrestrial",
     "explanation": "Extraterrestrial এর বাংলা অর্থ যা পৃথিবীর বাহির হতে আগত।"
@@ -412,10 +412,10 @@
     "id": 38,
     "question": "38. ‘such claim needs to be tested empirically’ suggests that. [BPDB-EEE-23]",
     "options": [
-      "(a) The lest should be based on assumption",
-      "(b) The test should be based on idea",
-      "(c) The test should be based on experience",
-      "(d) The test should be based on calculation"
+      "The lest should be based on assumption",
+      "The test should be based on idea",
+      "The test should be based on experience",
+      "The test should be based on calculation"
     ],
     "answer": "(c) The test should be based on experience",
     "explanation": ""
@@ -424,10 +424,10 @@
     "id": 39,
     "question": "39. Which one is correct? [EGCB-ET/MT/CT-23]",
     "options": [
-      "(a) Paper is made of wood.",
-      "(b) Paper is made from wood",
-      "(c) Paper is made with wood",
-      "(d) Paper is made by wood."
+      "Paper is made of wood.",
+      "Paper is made from wood",
+      "Paper is made with wood",
+      "Paper is made by wood."
     ],
     "answer": "(b) Paper is made from wood",
     "explanation": "কোন কাঁচামাল দিয়ে জিনিস তৈরি হলে যদি কাঁচামালের অস্তিত্ব না থাকে তাহলে made from হবে, আর অস্তিত্ব থাকলে made of বসে। যেমন : paper is made from wood, chair is made of wood।"
@@ -436,10 +436,10 @@
     "id": 40,
     "question": "40. Which sentence is correct? [RNPL-MT/ET-22]",
     "options": [
-      "(a) This is an unique case",
-      "(b) This is a unique case",
-      "(c) This is a very unique case",
-      "(d) This is the most unique case"
+      "This is an unique case",
+      "This is a unique case",
+      "This is a very unique case",
+      "This is the most unique case"
     ],
     "answer": "(b) This is a unique case",
     "explanation": "Vowel থাকা সত্ত্বেও “ইউ” অথবা “ওয়া” - এর মত উচ্চারণ হলে তার পূর্বে ‘a’ বসে।"
@@ -455,10 +455,10 @@
     "id": 42,
     "question": "42. Which of the following spelling is correct? [ERLB-MT/ET/CT-22; PGCB-CE-21]",
     "options": [
-      "(a) aboriginous",
-      "(b) aborigined",
-      "(c) aborigine",
-      "(d) aborigineous"
+      "aboriginous",
+      "aborigined",
+      "aborigine",
+      "aborigineous"
     ],
     "answer": "(c) aborigine",
     "explanation": "The spelling of the word \"aborigine\" is correct that is defined as a person, animal or plant that has been in a country or region from earliest times. (আদিম আদিবাসী)"
@@ -467,10 +467,10 @@
     "id": 43,
     "question": "43. Identify the correct sentence- [PGCL-CE-21, BIWTA-EEE/ME/CE-22]",
     "options": [
-      "(a) She had faith in and hopes for the future.",
-      "(b) She had faith and hopes for the future.",
-      "(c) She had faith and hopes in the future.",
-      "(d) She had faith and hopes in future."
+      "She had faith in and hopes for the future.",
+      "She had faith and hopes for the future.",
+      "She had faith and hopes in the future.",
+      "She had faith and hopes in future."
     ],
     "answer": "(a) She had faith in and hopes for the future.",
     "explanation": "Sentence গুলোতে preposition এর ব্যবহারই মূলবিষয়। faith in অর্থ হল কোন কিছুতে বিশ্বাস রাখা অন্যদিকে hope for অর্থ হলো কোন বিষয়ে আশা প্রকাশ করা।"
@@ -479,10 +479,10 @@
     "id": 44,
     "question": "44. A man is _____ free and everywhere he is in chains. [DPDC-EEE-22]",
     "options": [
-      "(a) born",
-      "(b) live",
-      "(c) safe",
-      "(d) making"
+      "born",
+      "live",
+      "safe",
+      "making"
     ],
     "answer": "(a) born",
     "explanation": "Man is born free and every where he is in chains –Rousseau. কোটেশনটির অর্থ- মানুষ স্বাধীন হয়ে জন্মগ্রহণ করে, কিন্তু সর্বত্র সে শৃঙ্খলিত।"
@@ -491,10 +491,10 @@
     "id": 45,
     "question": "45. Which one is correct? [DPDC-EEE-22]",
     "options": [
-      "(a) She was married with a rich man",
-      "(b) Handsome is as handsome does",
-      "(c) The patient died from cholera.",
-      "(d) He says me a fool"
+      "She was married with a rich man",
+      "Handsome is as handsome does",
+      "The patient died from cholera.",
+      "He says me a fool"
     ],
     "answer": "(b) Handsome is as handsome does",
     "explanation": "Handsome is as handsome does অর্থ হলো- How one acts is more Important than how one looks. অর্থাৎ সুন্দর সেই, যে সুন্দর কাজ করে।"
@@ -503,10 +503,10 @@
     "id": 46,
     "question": "46. Find the correctly spelt word. [NPCBL-ET/CMT/ENT-22]",
     "options": [
-      "(a) Refrigerator",
-      "(b) Refridetater",
-      "(c) Refridgerator",
-      "(d) Referigerator"
+      "Refrigerator",
+      "Refridetater",
+      "Refridgerator",
+      "Referigerator"
     ],
     "answer": "(a) Refrigerator",
     "explanation": ""
@@ -515,10 +515,10 @@
     "id": 47,
     "question": "47. Which one is the correct sentence? [CPGCBL-ET/MT-22]",
     "options": [
-      "(a) I prefer read to write",
-      "(b) I prefer reading than writing",
-      "(c) I prefer more reading than writing",
-      "(d) I prefer reading to writing"
+      "I prefer read to write",
+      "I prefer reading than writing",
+      "I prefer more reading than writing",
+      "I prefer reading to writing"
     ],
     "answer": "(d) I prefer reading to writing",
     "explanation": "Correct Sentence হলো I prefer reading to writing- আমি লেখার চেয়ে পড়তে বেশি পছন্দ করি। Prefer এরপর দুটি noun বা pronoun এর মাঝে to বসে।"
@@ -527,10 +527,10 @@
     "id": 48,
     "question": "48. Identify the correct spelling: [CPGCBL-EEE/ME/CE-22]",
     "options": [
-      "(a) questionnaire",
-      "(b) questionaire",
-      "(c) questionnare",
-      "(d) questioneire"
+      "questionnaire",
+      "questionaire",
+      "questionnare",
+      "questioneire"
     ],
     "answer": "(a) questionnaire",
     "explanation": "Correct Spelling হলো questionnaire, Questionnaire শব্দের অর্থ প্রশ্নাবলী।"
@@ -539,10 +539,10 @@
     "id": 49,
     "question": "49. Synonym of “Reverently” is– [BCIC-EEE/ME-22]",
     "options": [
-      "(a) adversely",
-      "(b) negatively",
-      "(c) disapprovingly",
-      "(d) Respectfully"
+      "adversely",
+      "negatively",
+      "disapprovingly",
+      "Respectfully"
     ],
     "answer": "(d) Respectfully",
     "explanation": "Reverently অর্থ- ভক্তির সাথে, সশ্রদ্ধ চিত্তে, বিনয়ের সাথে এর Synonym হলো Respectfully যার অর্থ শ্রদ্ধাসহকারে।"
@@ -551,10 +551,10 @@
     "id": 50,
     "question": "50. Which one is correctly spelt? [BCIC-EEE/ME-22]",
     "options": [
-      "(a) Encyclopedia Britannica",
-      "(b) Encyclopidia Britannica",
-      "(c) Enciclopadia Britannica",
-      "(d) Enciclopedia Britannica"
+      "Encyclopedia Britannica",
+      "Encyclopidia Britannica",
+      "Enciclopadia Britannica",
+      "Enciclopedia Britannica"
     ],
     "answer": "(a) Encyclopedia Britannica",
     "explanation": "Correct word Encyclopedia Britannica, যার অর্থ-বিশ্বকোষ; জ্ঞানকোষ।"
@@ -563,10 +563,10 @@
     "id": 51,
     "question": "51. No spelling mistake occurs in- [BGFCL-ME/CE-21]",
     "options": [
-      "(a) hedious",
-      "(b) hideous",
-      "(c) hidious",
-      "(d) hedeous"
+      "hedious",
+      "hideous",
+      "hidious",
+      "hedeous"
     ],
     "answer": "(b) hideous",
     "explanation": "অপশনগুলোর মধ্যে সঠিক বানানটি হল Hideous. যার অর্থ অসহ্য, জঘন্য, ভয়ংকর, বীভৎস ইত্যাদি।"
@@ -575,10 +575,10 @@
     "id": 52,
     "question": "52. Which is the incorrect sentence? [BGFCL-ME/CE-21]",
     "options": [
-      "(a) She is married to a rich man.",
-      "(b) She is married with a rich man.",
-      "(c) Rahim are almost the whole fish.",
-      "(d) I wish I were in your shoes."
+      "She is married to a rich man.",
+      "She is married with a rich man.",
+      "Rahim are almost the whole fish.",
+      "I wish I were in your shoes."
     ],
     "answer": "(b) She is married with a rich man.",
     "explanation": "এখানে অপশন (খ) সঠিক বাক্য নয়। এই বাক্যে with এর জায়গায় to বসালে বাক্যটি শুদ্ধ হতো। যা অপশন (ক) তে রয়েছে। one person এবং another person এর মধ্যে সম্পর্ক বোঝাতে to ব্যবহৃত হয়।"
@@ -587,10 +587,10 @@
     "id": 53,
     "question": "53. Choose the correct spelling. [DESCO-ME-19, BPDB-EEE/CE/CSE-21]",
     "options": [
-      "(a) miscellaneous",
-      "(b) miscellanous",
-      "(c) miscellaneius",
-      "(d) miscelanieous"
+      "miscellaneous",
+      "miscellanous",
+      "miscellaneius",
+      "miscelanieous"
     ],
     "answer": "(a) miscellaneous",
     "explanation": "Miscellaneous এর অর্থ-বিবিধ।"
@@ -599,10 +599,10 @@
     "id": 54,
     "question": "54. Choose the correct spelling. [TGTDCL-ME-21]",
     "options": [
-      "(a) denunciation",
-      "(b) denuncetation",
-      "(c) denencitation",
-      "(d) denuncitiation"
+      "denunciation",
+      "denuncetation",
+      "denencitation",
+      "denuncitiation"
     ],
     "answer": "(a) denunciation",
     "explanation": "Denunciation এর অর্থ নিন্দা, অভিশাপ।"
@@ -611,10 +611,10 @@
     "id": 55,
     "question": "55. Choose the correct sentence: [BPDB-ET-21]",
     "options": [
-      "(a) The more you eat, the more you want",
-      "(b) The more you read, the more you learn",
-      "(c) The more you read, the loss you understand",
-      "(d) The more you learn, the more you forget"
+      "The more you eat, the more you want",
+      "The more you read, the more you learn",
+      "The more you read, the loss you understand",
+      "The more you learn, the more you forget"
     ],
     "answer": "(b) The more you read, the more you learn",
     "explanation": ""
@@ -623,10 +623,10 @@
     "id": 56,
     "question": "56. The cat on the mat is fat. The underlined word is – [PGCB-CT-21]",
     "options": [
-      "(a) Noun phrase",
-      "(b) Vebral phrase",
-      "(c) Adjective phrase",
-      "(d) Prepositional phrase"
+      "Noun phrase",
+      "Vebral phrase",
+      "Adjective phrase",
+      "Prepositional phrase"
     ],
     "answer": "(a) Noun phrase",
     "explanation": "Noun phrase হলো একটি শব্দ বা শব্দসমষ্টি যাতে একটি Noun বিদ্যমান থাকে এবং বাক্যে subject, object অথবা Prepositional object হিসাবে কাজ করে।"
@@ -635,10 +635,10 @@
     "id": 57,
     "question": "57. Which one is the correct spelling? [PGCB-CT-21]",
     "options": [
-      "(a) Renessance",
-      "(b) Reneisance",
-      "(c) Renaissance",
-      "(d) Renaisance"
+      "Renessance",
+      "Reneisance",
+      "Renaissance",
+      "Renaisance"
     ],
     "answer": "(c) Renaissance",
     "explanation": "উপরোক্ত অপশনের মধ্যে সঠিক উত্তর (c)। ‘Renaissance’ শব্দটি সঠিকভাবে বানান করা হয়েছে। অর্থ নবজাগরণ।"
@@ -647,10 +647,10 @@
     "id": 58,
     "question": "58. Which of the following sentence is correct? [KGDCL-MT-21]",
     "options": [
-      "(a) Each of the boys is present in the class.",
-      "(b) Each of the boy is present in the class.",
-      "(c) Each of the boys are present in the class.",
-      "(d) Each of the boy were present in the class."
+      "Each of the boys is present in the class.",
+      "Each of the boy is present in the class.",
+      "Each of the boys are present in the class.",
+      "Each of the boy were present in the class."
     ],
     "answer": "(a) Each of the boys is present in the class.",
     "explanation": "subject-verb agreemnt অনুসারে “each of the + plural subject + singular verb ব্যবহৃত হয়। সুতরাং (a) option সঠিক উত্তর।"
@@ -659,10 +659,10 @@
     "id": 59,
     "question": "59. Which of the following sentence is not correct? [KGDCL-MT-21]",
     "options": [
-      "(a) He is one of the tall boy in the class.",
-      "(b) He is taller than me.",
-      "(c) He is one of the tallest boys in the class.",
-      "(d) He is a tall boy."
+      "He is one of the tall boy in the class.",
+      "He is taller than me.",
+      "He is one of the tallest boys in the class.",
+      "He is a tall boy."
     ],
     "answer": "(a) He is one of the tall boy in the class.",
     "explanation": "“one of the” এর পরে superlative degree হয়। কিন্তু option (a)-তে “one of the” এর পরে positive degree ব্যবহৃত হওয়ায় sentence-টি সঠিক নয়।"
@@ -671,10 +671,10 @@
     "id": 60,
     "question": "60. Which one of the following sentences is correct? [APSCL-EEE-21]",
     "options": [
-      "(a) Why have you done this?",
-      "(b) Why had you done this?",
-      "(c) Why you have done this?",
-      "(d) Why did you done this?"
+      "Why have you done this?",
+      "Why had you done this?",
+      "Why you have done this?",
+      "Why did you done this?"
     ],
     "answer": "(a) Why have you done this?",
     "explanation": "WH word দিয়ে প্রশ্ন করার নিয়ম WH + auxililary verb + subject + main verb. যেমনঃ Why did he go there? অথবা Why have you done this? তাই নিয়মানুযায়ী (a) সঠিক উত্তর।"
@@ -683,10 +683,10 @@
     "id": 61,
     "question": "61. Find the correct sentence: [PGCB-ET-21]",
     "options": [
-      "(a) I had known him for a long time",
-      "(b) I have known him for a long time",
-      "(c) I know him for a long time",
-      "(d) I knew him for a long time"
+      "I had known him for a long time",
+      "I have known him for a long time",
+      "I know him for a long time",
+      "I knew him for a long time"
     ],
     "answer": "(b) I have known him for a long time",
     "explanation": "Present perfect tense এ কর্তার পর have/has ও verb এর past participle হয়। বাক্যের গঠন অনুসারে “I have known him for a long time” বাক্যটি সঠিক।"
@@ -695,10 +695,10 @@
     "id": 62,
     "question": "62. Find out the correct spelling: [JGTDSL-MT-21]",
     "options": [
-      "(a) comitment",
-      "(b) commietment",
-      "(c) commitment",
-      "(d) commitement"
+      "comitment",
+      "commietment",
+      "commitment",
+      "commitement"
     ],
     "answer": "(c) commitment",
     "explanation": "উপরোক্ত অপশনগুলোর মধ্যে সঠিক উত্তর হল commitment. শব্দটির অর্থ অঙ্গীকার। যেমন - He made a significant commitment to his community by promising to send every college."
@@ -707,10 +707,10 @@
     "id": 63,
     "question": "63. Choose the correct sentence. [RPCL-MT-21]",
     "options": [
-      "(a) He has come home yesterday.",
-      "(b) He comes homes yesterday.",
-      "(c) He will come yesterday.",
-      "(d) He came home yesterday."
+      "He has come home yesterday.",
+      "He comes homes yesterday.",
+      "He will come yesterday.",
+      "He came home yesterday."
     ],
     "answer": "(d) He came home yesterday.",
     "explanation": "Yesterday থাকলে past Indefinite tense হয়। সুতরাং, He came home yesterday."
@@ -719,10 +719,10 @@
     "id": 64,
     "question": "64. What is the right spelling? [BPDB-MT-21]",
     "options": [
-      "(a) Paralleled",
-      "(b) Bourocr acy",
-      "(c) Relatition",
-      "(d) Paralley"
+      "Paralleled",
+      "Bourocr acy",
+      "Relatition",
+      "Paralley"
     ],
     "answer": "(a) Paralleled",
     "explanation": ""
@@ -731,10 +731,10 @@
     "id": 65,
     "question": "65. Correct the sentence; [BPDB-MT-21]",
     "options": [
-      "(a) See the instructions as following",
-      "(b) See the instructions is following",
-      "(c) See the instructions following",
-      "(d) See the instructions are following"
+      "See the instructions as following",
+      "See the instructions is following",
+      "See the instructions following",
+      "See the instructions are following"
     ],
     "answer": "(a) See the instructions as following",
     "explanation": "See the instructions as following অর্থঃ- নিম্নলিখিত নির্দেশাবলী দেখুন।"
@@ -743,10 +743,10 @@
     "id": 66,
     "question": "66. Stockings are ..... socks. [BADC-MT-20]",
     "options": [
-      "(a) long",
-      "(b) big",
-      "(c) e-mail",
-      "(d) short"
+      "long",
+      "big",
+      "e-mail",
+      "short"
     ],
     "answer": "(a) long",
     "explanation": "সাধারণত লম্বা মোজাকে বলা হয় stocking।"
@@ -755,10 +755,10 @@
     "id": 67,
     "question": "67. Choose the correct sentence ........ [BADC-MT-20]",
     "options": [
-      "(a) A few of the three boys got a prize.",
-      "(b) Each of the three boys got a prize.",
-      "(c) Every of the three boys got a prize.",
-      "(d) All of the three boys got a prize."
+      "A few of the three boys got a prize.",
+      "Each of the three boys got a prize.",
+      "Every of the three boys got a prize.",
+      "All of the three boys got a prize."
     ],
     "answer": "(b) Each of the three boys got a prize.",
     "explanation": "Each of এর পর noun এর plural form হয় কিন্তু verb singular থাকে।"
@@ -774,10 +774,10 @@
     "id": 69,
     "question": "69. Choose the correct sentence ..... (d) [BCMCL-MT-20]",
     "options": [
-      "(a) He had been hunged for murder.",
-      "(b) He was hanged for murder.",
-      "(c) He was hunged of murder.",
-      "(d) He has been hunged for murder."
+      "He had been hunged for murder.",
+      "He was hanged for murder.",
+      "He was hunged of murder.",
+      "He has been hunged for murder."
     ],
     "answer": "(b) He was hanged for murder.",
     "explanation": "Hang (ফাঁসি দেওয়া) -> V2 Hanged, V3 Hanged. Hang (বস্তু ঝুলানো) -> V2 Hung, V3 Hung. He was hanged for murder. বাক্যটিতে ফাঁসিতে ঝুলানো অর্থে hanged ব্যবহৃত হয়েছে। অন্যদিকে, ছবিটি ঝুলিয়ে রাখা হয়েছিল এর ইংরেজি translation-The picture was hung."
@@ -800,10 +800,10 @@
     "id": 72,
     "question": "72. Choose the correct answer. [PGCBL-MT-20]",
     "options": [
-      "(a) Do Gary live in Dhaka now?",
-      "(b) Does Gary live in Dhaka now?",
-      "(c) Is living in Dhaka, now?",
-      "(d) Does now Gary live in Dhaka?"
+      "Do Gary live in Dhaka now?",
+      "Does Gary live in Dhaka now?",
+      "Is living in Dhaka, now?",
+      "Does now Gary live in Dhaka?"
     ],
     "answer": "(b) Does Gary live in Dhaka now?",
     "explanation": "Gary হল 3rd person singular number. সুতরাং, auxiliary verb-does হবে। Interrogative বাক্য হওয়ায় Does বাক্যের শুরুতে বসবে।"
@@ -812,10 +812,10 @@
     "id": 73,
     "question": "73. Which one is correct: [EGCB-ET-20]",
     "options": [
-      "(a) Labouratory",
-      "(b) Laboratry",
-      "(c) Laboratory",
-      "(d) Laboratry"
+      "Labouratory",
+      "Laboratry",
+      "Laboratory",
+      "Laboratry"
     ],
     "answer": "(c) Laboratory",
     "explanation": ""
@@ -824,10 +824,10 @@
     "id": 74,
     "question": "74. Which of the following spelling is correct? [EGCB-ME-20]",
     "options": [
-      "(a) Recommandation",
-      "(b) Recomandation",
-      "(c) Recommendation",
-      "(d) Recomendation"
+      "Recommandation",
+      "Recomandation",
+      "Recommendation",
+      "Recomendation"
     ],
     "answer": "(c) Recommendation",
     "explanation": "Recommendation অর্থ সুপারিশ; Guidance, Direction, submission, advocacy, Proposal ইত্যাদি।"
@@ -836,10 +836,10 @@
     "id": 75,
     "question": "75. Find out the word, the spelling of which is wrong. [BCMCL-ME-20]",
     "options": [
-      "(a) Illegal",
-      "(b) Illitrare",
-      "(c) Illegitimate",
-      "(d) Illegible"
+      "Illegal",
+      "Illitrare",
+      "Illegitimate",
+      "Illegible"
     ],
     "answer": "(b) Illitrare",
     "explanation": "Illitrare শব্দটি ভুল এর সঠিক হল: Illiterate অর্থ নিরক্ষর। Illegitimate – অবৈধ; illegal-অবৈধ, illegible- অস্পষ্ট।"
@@ -855,10 +855,10 @@
     "id": 77,
     "question": "77. The correct spelling is ....... [DWASA-ET-19]",
     "options": [
-      "(a) Humourous",
-      "(b) Humorous",
-      "(c) Humourious",
-      "(d) Humorious"
+      "Humourous",
+      "Humorous",
+      "Humourious",
+      "Humorious"
     ],
     "answer": "(b) Humorous",
     "explanation": "Humorous অর্থ রসাত্মক। Synonyms: humorous, witty, sappy, freaky, quaint, waggish, playful, etc. Antonyms: Serious, boring, tragic, gloomy, dramatic, morose, etc."
@@ -867,10 +867,10 @@
     "id": 78,
     "question": "78. Choose the correct sentence: [DESCO-ME-19]",
     "options": [
-      "(a) Rita was deadly wounded.",
-      "(b) Rita was farally wounded.",
-      "(c) Rita was madly wounded.",
-      "(d) Rita was vitally wounded."
+      "Rita was deadly wounded.",
+      "Rita was farally wounded.",
+      "Rita was madly wounded.",
+      "Rita was vitally wounded."
     ],
     "answer": "(a) Rita was deadly wounded.",
     "explanation": "Rita was deadly wounded. অর্থঃ রিতা গুরুতর আহত হয়েছিল। গুরুতর আহত বোঝাতে ‘deadly’ word টি ব্যবহৃত হয়।"
@@ -879,10 +879,10 @@
     "id": 79,
     "question": "79. Find out the correct sentence: [PGCB, BR Power-ME-19]",
     "options": [
-      "(a) Guard the children against bad company.",
-      "(b) The train is running in time.",
-      "(c) He is suffering from fever for a week.",
-      "(d) He succeed to get a job."
+      "Guard the children against bad company.",
+      "The train is running in time.",
+      "He is suffering from fever for a week.",
+      "He succeed to get a job."
     ],
     "answer": "(a) Guard the children against bad company.",
     "explanation": "অন্য অপশনগুলোর সঠিক রূপ হলো-The train is running on time, He has been suffering from fever for a weak, He succeeded in getting a job."
@@ -891,10 +891,10 @@
     "id": 80,
     "question": "80. Find out the correct word [BPDB-18, DPDC-ME-19]",
     "options": [
-      "(a) Occasion",
-      "(b) diligent",
-      "(c) catablogue",
-      "(d) previlege"
+      "Occasion",
+      "diligent",
+      "catablogue",
+      "previlege"
     ],
     "answer": "(a) Occasion, (b) diligent",
     "explanation": "Occasion অর্থ উপলক্ষ; Diligent অর্থ পরিশ্রমী; Catalogue; Privilege- অধিকার ইত্যাদি।"
@@ -903,10 +903,10 @@
     "id": 81,
     "question": "81. Choose the correct sentence: [DPDC-ME-19]",
     "options": [
-      "(a) He has been suffering from fever for two days.",
-      "(b) He is suffering from fever for two days.",
-      "(c) He has been suffering on fever for two days.",
-      "(d) He has been suffering on fever for two days."
+      "He has been suffering from fever for two days.",
+      "He is suffering from fever for two days.",
+      "He has been suffering on fever for two days.",
+      "He has been suffering on fever for two days."
     ],
     "answer": "(a) He has been suffering from fever for two days.",
     "explanation": ""
@@ -915,10 +915,10 @@
     "id": 82,
     "question": "82. Choose the correct sentence: [PGCB-ME-19]",
     "options": [
-      "(a) The old man died of over-eating.",
-      "(b) The old man died from over-eating.",
-      "(c) The old man died by over-eating.",
-      "(d) The old man died with over-eating."
+      "The old man died of over-eating.",
+      "The old man died from over-eating.",
+      "The old man died by over-eating.",
+      "The old man died with over-eating."
     ],
     "answer": "(b) The old man died from over-eating.",
     "explanation": "রোগে মারা গেলে- Died of (direct cause); দূর্ঘটনায় মারা গেলে - Died by; অতিরিক্ত কিছুর জন্য মারা গেলে- Died from (over-eating); দেশের জন্য মারা গেলে - Died for।"
@@ -927,10 +927,10 @@
     "id": 83,
     "question": "83. Which the correct spelling? [B R-Power-ME-19]",
     "options": [
-      "(a) Acknowledgement",
-      "(b) Acknowledgment",
-      "(c) Acknolgement",
-      "(d) Acknoldgenent"
+      "Acknowledgement",
+      "Acknowledgment",
+      "Acknolgement",
+      "Acknoldgenent"
     ],
     "answer": "(a) Acknowledgement",
     "explanation": "Acknowledgement – অর্থ স্বীকৃতি। Synonyms: admission, confession, cognizance ইত্যাদি।"
@@ -939,10 +939,10 @@
     "id": 84,
     "question": "84. Find the correctly spelt word from the following. [BCIC-ME-19]",
     "options": [
-      "(a) Decision",
-      "(b) Dicision",
-      "(c) Decicion",
-      "(d) Decission"
+      "Decision",
+      "Dicision",
+      "Decicion",
+      "Decission"
     ],
     "answer": "(a) Decision",
     "explanation": "Decision অর্থ সিদ্ধান্ত; Synonyms: judgment, decision, reasoning, argument, conclusion ইত্যাদি।"
@@ -951,10 +951,10 @@
     "id": 85,
     "question": "85. Identify the English word with correct spelling. [DESCO-ME-19]",
     "options": [
-      "(a) Disease",
-      "(b) Deseage",
-      "(c) Deasige",
-      "(d) Deasease"
+      "Disease",
+      "Deseage",
+      "Deasige",
+      "Deasease"
     ],
     "answer": "(a) Disease",
     "explanation": "Disease অর্থ রোগ; disease, illness, affliction ইত্যাদি।"
@@ -963,10 +963,10 @@
     "id": 86,
     "question": "86. Identify the English word with correct spelling. [DESCO-ME-19]",
     "options": [
-      "(a) maintainance",
-      "(b) maintenance",
-      "(c) maintenence",
-      "(d) maintenance"
+      "maintainance",
+      "maintenance",
+      "maintenence",
+      "maintenance"
     ],
     "answer": "(b) maintenance",
     "explanation": "Maintenance অর্থ-রক্ষণাবেক্ষণ। Synonyms: Preservation, keeping up, perpetuation ইত্যাদি"
@@ -975,10 +975,10 @@
     "id": 87,
     "question": "87. For each question, identify the correct spelling. [BGDF-CT-17]",
     "options": [
-      "(a) Faverite",
-      "(b) Favorite",
-      "(c) Fevarite",
-      "(d) Favarit"
+      "Faverite",
+      "Favorite",
+      "Fevarite",
+      "Favarit"
     ],
     "answer": "(b) Favorite",
     "explanation": ""
@@ -987,10 +987,10 @@
     "id": 88,
     "question": "88. Identify the correct spelling. [BGDF-CT-17]",
     "options": [
-      "(a) Judgment",
-      "(b) Judgement",
-      "(c) Jugement",
-      "(d) Judgmant"
+      "Judgment",
+      "Judgement",
+      "Jugement",
+      "Judgmant"
     ],
     "answer": "(b) Judgement",
     "explanation": "Judgement অর্থ রায়। এর Synonyms: decision, reasoning, conclusion, adjudgement etc. Antonyms: accusation, stupidity, fact, actuality, substance, unsoundness, deadlock, stalemate etc."
@@ -999,10 +999,10 @@
     "id": 89,
     "question": "89. Identify the correct spelling. [BGDF-CT-17]",
     "options": [
-      "(a) Amalgumate",
-      "(b) Amalgamate",
-      "(c) Amalgamet",
-      "(d) Amelgamate"
+      "Amalgumate",
+      "Amalgamate",
+      "Amalgamet",
+      "Amelgamate"
     ],
     "answer": "(b) Amalgamate",
     "explanation": "Amalgamate অর্থ সম্মিলিত করা। Synonyms: combine, unite, merge, mix, intermix, unify etc. Antonyms: Separate, Division, parting etc."
@@ -1011,10 +1011,10 @@
     "id": 90,
     "question": "90. Identify the correct spelling. [BGDF-CT-17]",
     "options": [
-      "(a) Edecetion",
-      "(b) Educasion",
-      "(c) Education",
-      "(d) Education"
+      "Edecetion",
+      "Educasion",
+      "Education",
+      "Education"
     ],
     "answer": "(c) Education",
     "explanation": "Education অর্থ শিক্ষা। Synonyms: teaching, enlightenment, guidance, accomplishments, etc. Antonyms: Ignorance, destruction, neglect etc."
@@ -1023,10 +1023,10 @@
     "id": 91,
     "question": "91. Identify the correct spelling. [BGDF-CT-17]",
     "options": [
-      "(a) Delineate",
-      "(b) Deliniate",
-      "(c) Daliniate",
-      "(d) Delineat"
+      "Delineate",
+      "Deliniate",
+      "Daliniate",
+      "Delineat"
     ],
     "answer": "(a) Delineate",
     "explanation": "Delineate অর্থ বর্ণিত করা। Synonyms: describe depicture, depict, portray, Antonyms: misdescribe, twist, confuse, pervert, falsity, undeliberated etc."
@@ -1035,10 +1035,10 @@
     "id": 92,
     "question": "92. Identify the correct spelling. [BADC-CT-18]",
     "options": [
-      "(a) ramblying",
-      "(b) rembling",
-      "(c) rambling",
-      "(d) rammbling"
+      "ramblying",
+      "rembling",
+      "rambling",
+      "rammbling"
     ],
     "answer": "(c) rambling",
     "explanation": "Rambling অর্থ ঝাঁকুনি, অসংলগ্ন; Synonyms: garrulous, wordy, diffuse, disjointed, discursive, circuitous, oblique etc. Antonyms: Concise, pithy, dwindling, fading, ceasing etc."
@@ -1047,10 +1047,10 @@
     "id": 93,
     "question": "93. Identify the correct spelling. [BADC-CT-18]",
     "options": [
-      "(a) supplimentary",
-      "(b) suplimentary",
-      "(c) supplimantary",
-      "(d) supplementary"
+      "supplimentary",
+      "suplimentary",
+      "supplimantary",
+      "supplementary"
     ],
     "answer": "(d) supplementary",
     "explanation": "Supplementary অর্থ পরিপূরক। Synonyms: additional, increased, accessory, complementary, supportive, adjunct etc. Antonyms: Prime, non-reciprocal, vital, essential, fundamental, integral, needed, necessary etc."
@@ -1059,10 +1059,10 @@
     "id": 94,
     "question": "94. Identify the correct spelling. [BADC-CT-18]",
     "options": [
-      "(a) ceneuse",
-      "(b) cincture",
-      "(c) censure",
-      "(d) censur"
+      "ceneuse",
+      "cincture",
+      "censure",
+      "censur"
     ],
     "answer": "(c) censure",
     "explanation": "Censure অর্থ তিরস্কার, নিন্দা ইত্যাদি। Synonyms: Condemn, criticize, castigate, pillory, reproach, blame, vilify, slam, rubbish, rollick, ream, out etc. Antonyms: Praise, commend, approval etc."
@@ -1071,10 +1071,10 @@
     "id": 95,
     "question": "95. Identify the correct spelling. [BADC-CT-18]",
     "options": [
-      "(a) consensus",
-      "(b) concensus",
-      "(c) consencus",
-      "(d) concenssus"
+      "consensus",
+      "concensus",
+      "consencus",
+      "concenssus"
     ],
     "answer": "(a) consensus",
     "explanation": "Consensus অর্থ ঐক্যমত্য হওয়া। Synonyms: agreement, harmony, concord, consent, accord, unison, concert, etc. Antonyms: disagreement, disparity, resistance, distavor, discord, denial, conflict, opposition etc."
@@ -1083,10 +1083,10 @@
     "id": 96,
     "question": "96. Identify the correct spelling. [BADC-CT-18]",
     "options": [
-      "(a) dissatissfyed",
-      "(b) disatisfyed",
-      "(c) disatisfied",
-      "(d) dissatisfied"
+      "dissatissfyed",
+      "disatisfyed",
+      "disatisfied",
+      "dissatisfied"
     ],
     "answer": "(d) dissatisfied",
     "explanation": "Dissatisfied অর্থ অসন্তুষ্ট। Synonyms: discontented, malcontent, unsatisfied, vexed, aggrieved, angry, fed up, resentful, arrayed etc."
@@ -1095,10 +1095,10 @@
     "id": 97,
     "question": "97. ইংরেজি শুদ্ধ বানান – [BADC-MT-16]",
     "options": [
-      "(a) License",
-      "(b) Licence",
-      "(c) Licene",
-      "(d) Lisene"
+      "License",
+      "Licence",
+      "Licene",
+      "Lisene"
     ],
     "answer": "(a) License, (b) Licence",
     "explanation": "License, Licence দুটি সঠিক। লাইসেন্স বা অনুমতিপত্র। Synonyms: Permit, certificate, document, warrant, voucher, papers, authorization etc. Antonyms: bar, forbid, refuse, rule out, reject, veto etc."
@@ -1107,10 +1107,10 @@
     "id": 98,
     "question": "98. ইংরেজি শুদ্ধ বানান- [BADC-MT-16]",
     "options": [
-      "(a) Sugestion",
-      "(b) Suggesion",
-      "(c) Suggestion",
-      "(d) Sussetion"
+      "Sugestion",
+      "Suggesion",
+      "Suggestion",
+      "Sussetion"
     ],
     "answer": "(c) Suggestion",
     "explanation": "Suggestion অর্থ পরামর্শ। Synonyms: Proposed, proposition, motion, hint, tip, clue, idea, exhortation etc. Antonyms: Condemnation, question, declaration, demand, order, telling etc."
@@ -1119,10 +1119,10 @@
     "id": 99,
     "question": "99. ইংরেজি শুদ্ধ বানান- [BADC-MT-16]",
     "options": [
-      "(a) Collateral",
-      "(b) Colater",
-      "(c) Caloteralo",
-      "(d) Colatorl"
+      "Collateral",
+      "Colater",
+      "Caloteralo",
+      "Colatorl"
     ],
     "answer": "(a) Collateral",
     "explanation": "Collateral অর্থ সমান্তরাল। Synonyms: security, surety, guaranty, bond, insurance, indemnity, bail etc. Antonyms: direct, lineal, primary, unsupportive etc."
@@ -1131,10 +1131,10 @@
     "id": 100,
     "question": "100. ইংরেজি শুদ্ধ বানান- [BADC-MT-16]",
     "options": [
-      "(a) Resturent",
-      "(b) Restaurant",
-      "(c) Resturant",
-      "(d) Resturunt"
+      "Resturent",
+      "Restaurant",
+      "Resturant",
+      "Resturunt"
     ],
     "answer": "(b) Restaurant",
     "explanation": "Restaurant অর্থ রেঁস্তোরা। Synonyms: eating place, eating house, etc. Antonyms: disassembly."
@@ -1150,10 +1150,10 @@
     "id": 102,
     "question": "102. It is allowed to bring some------ your own instrument in the examinations hall. [DPDC-ET-16]",
     "options": [
-      "(a) to",
-      "(b) of",
-      "(c) is",
-      "(d) the"
+      "to",
+      "of",
+      "is",
+      "the"
     ],
     "answer": "(b) of",
     "explanation": ""
@@ -1162,10 +1162,10 @@
     "id": 103,
     "question": "103. There are not many choices when the budget ---- low. [DPDC-ET-16]",
     "options": [
-      "(a) when",
-      "(b) is",
-      "(c) there",
-      "(d) the"
+      "when",
+      "is",
+      "there",
+      "the"
     ],
     "answer": "(b) is",
     "explanation": ""
@@ -1174,10 +1174,10 @@
     "id": 104,
     "question": "104. Public service workers ........ benefits such as increased job security ...... comparison to private sector. [DPDC-ET-16]",
     "options": [
-      "(a) to, in",
-      "(b) has, to",
-      "(c) as, in",
-      "(d) have, in"
+      "to, in",
+      "has, to",
+      "as, in",
+      "have, in"
     ],
     "answer": "(d) have, in",
     "explanation": "অর্থ পাবলিক সার্ভিস কর্মীদের সুবিধা সমূহে রয়েছে নিশ্চিত চাকুরী সুরক্ষা যা বেসরকারী খাতের সাথে তুলনা করার মত। প্রশ্নে কোন শূন্যস্থান নেই।"
@@ -1186,10 +1186,10 @@
     "id": 105,
     "question": "105. All workers are entitled to work in an environment where risks ...... their safety are controlled. [DPDC-ET-16]",
     "options": [
-      "(a) upon",
-      "(b) to",
-      "(c) their",
-      "(d) are"
+      "upon",
+      "to",
+      "their",
+      "are"
     ],
     "answer": "(b) to",
     "explanation": "Risk to অর্থ ঝুঁকি। বাক্যটির অর্থঃ- সমস্ত কর্মী নিজস্ব পরিবেশে কাজ করার উপযোগী, যেখানে তাদের সুরক্ষার ঝুঁকি নিয়ন্ত্রণ করা হয়।"
@@ -1198,10 +1198,10 @@
     "id": 106,
     "question": "106. Select the correct spelling. [DPDC-ET-16]",
     "options": [
-      "(a) gravene",
-      "(b) engrave",
-      "(c) unentie",
-      "(d) all"
+      "gravene",
+      "engrave",
+      "unentie",
+      "all"
     ],
     "answer": "(b) engrave",
     "explanation": "Engrave অর্থ খোদাই করা। Synonyms: carve, inscribe, cut (in) incise, score, imprint, impress, print, mark, etc. Antonyms: obliterate, erase, levitate etc."
@@ -1210,10 +1210,10 @@
     "id": 107,
     "question": "107. Select the correct spelling. [DPDC-ET-16]",
     "options": [
-      "(a) unity",
-      "(b) entie",
-      "(c) unentie",
-      "(d) none"
+      "unity",
+      "entie",
+      "unentie",
+      "none"
     ],
     "answer": "(a) unity",
     "explanation": "Unity অর্থ ঐক্য, একতা, একত্ব ইত্যাদি। Synonyms: tune, consistency, union, consensus, consonance etc. Antonyms: division, disunity, discord, strife etc."
@@ -1222,10 +1222,10 @@
     "id": 108,
     "question": "108. Select the incorrect spelling. [DPDC-ET-16]",
     "options": [
-      "(a) foreclose",
-      "(b) enclose",
-      "(c) recluse",
-      "(d) sucluse"
+      "foreclose",
+      "enclose",
+      "recluse",
+      "sucluse"
     ],
     "answer": "(d) sucluse",
     "explanation": "foreclose অর্থ পূর্ববর্তী, enclose অর্থ ঘিরে রাখা, recluse অর্থ নির্জন। Sucluse সঠিক word নয়। তাই উত্তর হবে sucluse."
@@ -1234,10 +1234,10 @@
     "id": 109,
     "question": "109. Select the correct spelling. [BUET Pattern]",
     "options": [
-      "(a) deasalt",
-      "(b) disalt",
-      "(c) None of these",
-      "(d) dysalt"
+      "deasalt",
+      "disalt",
+      "None of these",
+      "dysalt"
     ],
     "answer": "(c) None of these",
     "explanation": "diesel- ডিজেল, অপশনে প্রত্যেকটি ভুল।"
@@ -1253,10 +1253,10 @@
     "id": 111,
     "question": "111. Identify the correct sentence: [NESCO-CE-18]",
     "options": [
-      "(a) Yesterday, he was gone home",
-      "(b) Yesterday, he went home",
-      "(c) Yesterday, he went to home",
-      "(d) Yesterday, he will gone home"
+      "Yesterday, he was gone home",
+      "Yesterday, he went home",
+      "Yesterday, he went to home",
+      "Yesterday, he will gone home"
     ],
     "answer": "(b) Yesterday, he went home",
     "explanation": "Yesterday, last year, last month, ago, lost, last night etc. উল্লেখ থাকলে Past Indefinite tense হয়। যেমনঃ yesterday, he went home. আবার, indirect object থাকলে “went to” হয় যেমন-yesterday he went to mary’s home."
@@ -1265,10 +1265,10 @@
     "id": 112,
     "question": "112. Which one is correct? [NESCO-CE-18]",
     "options": [
-      "(a) Did you finish the work yet?",
-      "(b) Did you finished the work yet?",
-      "(c) Have you been finished the work yet?",
-      "(d) Have you finished the work yet?"
+      "Did you finish the work yet?",
+      "Did you finished the work yet?",
+      "Have you been finished the work yet?",
+      "Have you finished the work yet?"
     ],
     "answer": "(d) Have you finished the work yet?",
     "explanation": "yet, already, just, just now, immediately, latterly etc. main verb টি Present perfect tense এ হয়। যেমনঃ (assertive) -> you have finished the work yet. (introgative) -> Have you finished the work yet?"
@@ -1277,10 +1277,10 @@
     "id": 113,
     "question": "113. Choose the correct spelling ...... [NESCO-CE-18]",
     "options": [
-      "(a) Bureaucracy",
-      "(b) Bourocracy",
-      "(c) Burocracy",
-      "(d) Bureocracy"
+      "Bureaucracy",
+      "Bourocracy",
+      "Burocracy",
+      "Bureocracy"
     ],
     "answer": "(a) Bureaucracy",
     "explanation": "Bureaucracy -> মনে রাখার জন্য: Burea (u) cracy এর অর্থ-আমলাতন্ত্র। অনুরূপভাবে, assassination – গুপ্তহত্যা, (ass ass I nation), Alienation – হস্তান্তরকরণ, (ali (e) nation), Lieutenant- লেফটেন্যান্ট; (lie u ten ant) মিথ্যা তুমি দশ পিপড়া (মনে রাখার উপায়)"
@@ -1289,10 +1289,10 @@
     "id": 114,
     "question": "114. Choose the correct sentence: [APSCL-CE-18]",
     "options": [
-      "(a) Can you tell me what he is named for?",
-      "(b) Can you tell me what his name?",
-      "(c) Can you tell me what name is his?",
-      "(d) Can you tell me what his name is?"
+      "Can you tell me what he is named for?",
+      "Can you tell me what his name?",
+      "Can you tell me what name is his?",
+      "Can you tell me what his name is?"
     ],
     "answer": "(d) Can you tell me what his name is?",
     "explanation": "WH-Question থাকলে Integrative Sentence লেখার নিয়মঃ- wh- question + auxiliary verb +subject + main verb; সুতরাং, can you tell me what his name is ?"
@@ -1301,10 +1301,10 @@
     "id": 115,
     "question": "115. Choose the correct sentence: [BCIC-ME-16]",
     "options": [
-      "(a) Everybody hate the liar.",
-      "(b) Everybody hates a liar.",
-      "(c) Everybody do hate a liar.",
-      "(d) Everybody do not hate a liar."
+      "Everybody hate the liar.",
+      "Everybody hates a liar.",
+      "Everybody do hate a liar.",
+      "Everybody do not hate a liar."
     ],
     "answer": "(b) Everybody hates a liar.",
     "explanation": "Everybody থাকলে verb এর singular form হয়।"
@@ -1313,10 +1313,10 @@
     "id": 116,
     "question": "116. Which one is correct? [BCIC-ME-16]",
     "options": [
-      "(a) A sinking man catches the straw.",
-      "(b) A drowning man catches at a straw.",
-      "(c) A sinking man catch the straw.",
-      "(d) A drowning man catch a straw."
+      "A sinking man catches the straw.",
+      "A drowning man catches at a straw.",
+      "A sinking man catch the straw.",
+      "A drowning man catch a straw."
     ],
     "answer": "(b) A drowning man catches at a straw.",
     "explanation": "A drawning man cathes at a straw এটি একটি ইংরেজি প্রবাদ যার অর্থ-যতক্ষণ শ্বাস ততক্ষণ আশ।"
@@ -1325,10 +1325,10 @@
     "id": 117,
     "question": "117. Which is the right spelling? [BCIC-ME-16]",
     "options": [
-      "(a) Quosient",
-      "(b) Quiescent",
-      "(c) Quiesecent",
-      "(d) Question"
+      "Quosient",
+      "Quiescent",
+      "Quiesecent",
+      "Question"
     ],
     "answer": "(b) Quiescent",
     "explanation": "Quiescent অর্থ নিরিবিলি; Synonyms: calm, peaceful, cool, quiet etc."
@@ -1351,10 +1351,10 @@
     "id": 120,
     "question": "120. Find the correctly spelt word from the following. [BPDB-ME-16]",
     "options": [
-      "(a) Consensus",
-      "(b) Concensus",
-      "(c) Conscensus",
-      "(d) Consincious"
+      "Consensus",
+      "Concensus",
+      "Conscensus",
+      "Consincious"
     ],
     "answer": "(a) Consensus",
     "explanation": "Consensus অর্থ ঐক্যমত্য। Synonyms: unity, consistency, union ইত্যাদি।"
@@ -1363,10 +1363,10 @@
     "id": 121,
     "question": "121. Identify the English word with correct spelling. [BPDB-ME-16]",
     "options": [
-      "(a) Diversifiable",
-      "(b) Deseage",
-      "(c) Diversifyable",
-      "(d) Divercifiable"
+      "Diversifiable",
+      "Deseage",
+      "Diversifyable",
+      "Divercifiable"
     ],
     "answer": "(a) Diversifiable",
     "explanation": "Diversifiable অর্থ বিবিধ; Diversifiable risk অর্থ বিবিধ ঝুঁকি; Diverfication–বৈচিত্রতা ইত্যাদি।"
@@ -1375,10 +1375,10 @@
     "id": 122,
     "question": "122. Which of the following spelling is correct? [BPDB-ME-16]",
     "options": [
-      "(a) Perserverance",
-      "(b) Persaverence",
-      "(c) Perserverence",
-      "(d) Perseverance"
+      "Perserverance",
+      "Persaverence",
+      "Perserverence",
+      "Perseverance"
     ],
     "answer": "(d) Perseverance",
     "explanation": "Perseverance অর্থ অধ্যবসায়; Synonyms: diligence, industry, persistency ইত্যাদি।"

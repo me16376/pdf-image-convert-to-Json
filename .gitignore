@@ -69,9 +69,21 @@ yarn-error.log*
 .cache/
 tmp/
 temp/
+scratch/
 *_test.png
 .tempmediaStorage/
 
-# Media & Raw Source Assets (Images & PDFs)
+# Media & Raw Source Assets (Images & PDFs) - NEVER commit to git
+[iI]mages/
+[pP][dD][fF]/
 Images/
 PDF/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.tiff
+*.pdf
+*.traineddata

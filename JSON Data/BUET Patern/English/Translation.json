@@ -31,10 +31,10 @@
     "id": 5,
     "question": "5. 'চোরে চোরে মাসতুতো ভাই' এর সঠিক Translation: [CPGCBL-ET/MT-24]",
     "options": [
-      "(a) Two thieves are cousins.",
-      "(b) Birds of the same feather flock together",
-      "(c) Morning shows the day",
-      "(d) Bird of the same group fly together"
+      "Two thieves are cousins.",
+      "Birds of the same feather flock together",
+      "Morning shows the day",
+      "Bird of the same group fly together"
     ],
     "answer": "(b) Birds of the same feather flock together",
     "explanation": ""
@@ -50,10 +50,10 @@
     "id": 7,
     "question": "7. 'সে কী রে?' এর ইংরেজী অনুবাদ হলো- [EGCB-ICT-24]",
     "options": [
-      "(a) What doing he do",
-      "(b) What does he doing?",
-      "(c) what do he do?",
-      "(d) What does he do?"
+      "What doing he do",
+      "What does he doing?",
+      "what do he do?",
+      "What does he do?"
     ],
     "answer": "(d) What does he do?",
     "explanation": ""
@@ -62,10 +62,10 @@
     "id": 8,
     "question": "8. 'তোমার ধূমপান বন্ধ করা উচিত'- এর ইংরেজী অনুবাদ হলো- [EGCB-ICT-24]",
     "options": [
-      "(a) You should stop smoke",
-      "(b) You shall stop smoking",
-      "(c) You should stop smoking",
-      "(d) None of the above"
+      "You should stop smoke",
+      "You shall stop smoking",
+      "You should stop smoking",
+      "None of the above"
     ],
     "answer": "(c) You should stop smoking",
     "explanation": ""
@@ -88,10 +88,10 @@
     "id": 11,
     "question": "11. “আমাদের দুইজনের মধ্যে কেউই উপস্থিত ছিলো না” [BCPCL-EEE/ME-23]",
     "options": [
-      "(a) Neither of us was present",
-      "(b) we were not absent",
-      "(c) I was not there",
-      "(d) None"
+      "Neither of us was present",
+      "we were not absent",
+      "I was not there",
+      "None"
     ],
     "answer": "(a) Neither of us was present",
     "explanation": ""
@@ -114,10 +114,10 @@
     "id": 14,
     "question": "14. তুমি আসলে আমি যাব। [RNPL-MT/ET-22]",
     "options": [
-      "(a) if you come, I go.",
-      "(b) if you will come, I will go.",
-      "(c) If you come, I will go",
-      "(d) If you come, I would go"
+      "if you come, I go.",
+      "if you will come, I will go.",
+      "If you come, I will go",
+      "If you come, I would go"
     ],
     "answer": "(c) If you come, I will go",
     "explanation": ""
@@ -140,10 +140,10 @@
     "id": 17,
     "question": "17. Identify the correct English translation for the Bangla sentence: পরিষ্কার পরিচ্ছন্নতাই মানুষকে দেবত করে। [DESCO-ET-19]",
     "options": [
-      "(a) Neat and clean are part of faith.",
-      "(b) Cleanliness is next to Godliness.",
-      "(c) Clean and tidy are part of religion.",
-      "(d) Both (a) and (c)"
+      "Neat and clean are part of faith.",
+      "Cleanliness is next to Godliness.",
+      "Clean and tidy are part of religion.",
+      "Both (a) and (c)"
     ],
     "answer": "(b) Cleanliness is next to Godliness.",
     "explanation": "আরও কিছু গুরুত্বপূর্ণ Translation: Tit for tat – ইটটি মারলে পাটকেলটি খেতে হয়। Good wire needs no bush - চেনা বামুনের পৈতার দরকার হয় না।"
@@ -173,10 +173,10 @@
     "id": 21,
     "question": "21. 'গরু ঘাস খাইয়া বাঁচে' বাক্যটির অনুবাদ ......... [PGCB, BR-Power-ME-19]",
     "options": [
-      "(a) The cow eats grass",
-      "(b) Cow lives eating grass",
-      "(c) Cow eat grass",
-      "(d) the cow lives on grass."
+      "The cow eats grass",
+      "Cow lives eating grass",
+      "Cow eat grass",
+      "the cow lives on grass."
     ],
     "answer": "(d) the cow lives on grass.",
     "explanation": "Lives on - বেঁচে থাকা।"
@@ -199,10 +199,10 @@
     "id": 24,
     "question": "24. Translation: প্রকৌশলীরা জাতির মূল চালিকা শক্তি। [BIFPCL-ME-19]",
     "options": [
-      "(a) Engineers are the main driving force of the nation.",
-      "(b) Engineers are the force of the nation.",
-      "(c) Engineers are the backbone of the nation.",
-      "(d) None"
+      "Engineers are the main driving force of the nation.",
+      "Engineers are the force of the nation.",
+      "Engineers are the backbone of the nation.",
+      "None"
     ],
     "answer": "(a) Engineers are the main driving force of the nation.",
     "explanation": ""
@@ -211,10 +211,10 @@
     "id": 25,
     "question": "25. Translation: পরিষ্কার পরিচ্ছন্নতা ঈমানের অঙ্গ। [DESCO-ME-19]",
     "options": [
-      "(a) Neatness and cleanness are part of faith",
-      "(b) Cleanliness is Godliness",
-      "(c) Clean and tidy are part of religion.",
-      "(d) None"
+      "Neatness and cleanness are part of faith",
+      "Cleanliness is Godliness",
+      "Clean and tidy are part of religion.",
+      "None"
     ],
     "answer": "(a) Neatness and cleanness are part of faith",
     "explanation": ""
@@ -223,10 +223,10 @@
     "id": 26,
     "question": "26. He lives from hand to mouth ....... [BADC-MT-16]",
     "options": [
-      "(a) সে হাত দিয়ে খায়।",
-      "(b) সে হাত দিয়ে পাঠিয়ে দিল।",
-      "(c) সে সবসময় আহার করছে।",
-      "(d) সে দিন আনে দিন খায়।"
+      "সে হাত দিয়ে খায়।",
+      "সে হাত দিয়ে পাঠিয়ে দিল।",
+      "সে সবসময় আহার করছে।",
+      "সে দিন আনে দিন খায়।"
     ],
     "answer": "(d) সে দিন আনে দিন খায়।",
     "explanation": "Hand to mouth এটি হল Idiom & phrases যার অর্থ দিনে আনে দিনে খায়। Hand in glove – ঘনিষ্ঠ।"
@@ -235,10 +235,10 @@
     "id": 27,
     "question": "27. To err is human. [BADC-MT-16]",
     "options": [
-      "(a) মানুষ মরণশীল।",
-      "(b) মানবজাতি প্রতিশোধপরায়ণ।",
-      "(c) মানুষ মাত্রই ভুল",
-      "(d) মানুষ ইতস্তত করে।"
+      "মানুষ মরণশীল।",
+      "মানবজাতি প্রতিশোধপরায়ণ।",
+      "মানুষ মাত্রই ভুল",
+      "মানুষ ইতস্তত করে।"
     ],
     "answer": "(c) মানুষ মাত্রই ভুল",
     "explanation": ""
@@ -247,10 +247,10 @@
     "id": 28,
     "question": "28. Have a patience in danger. [BADC-MT-16]",
     "options": [
-      "(a) বিপদ একা আসে না।",
-      "(b) বিপদে ধৈর্য ধারণ কর।",
-      "(c) ধীরে ভেবে কাজ করলে বিপদ হয় না।",
-      "(d) বিপদ আসে ধীরে।"
+      "বিপদ একা আসে না।",
+      "বিপদে ধৈর্য ধারণ কর।",
+      "ধীরে ভেবে কাজ করলে বিপদ হয় না।",
+      "বিপদ আসে ধীরে।"
     ],
     "answer": "(b) বিপদে ধৈর্য ধারণ কর।",
     "explanation": "বিপদ একা আসে না - Misfortune never comes alone. বিপদে ধৈর্য ধারণ করে - Have a patience in danger."

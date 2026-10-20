@@ -3,10 +3,10 @@
     "id": 1,
     "question": "1. Select the synonym for 'inclement': [47th BCS]",
     "options": [
-      "(a) affable",
-      "(b) mild",
-      "(c) rough",
-      "(d) genial"
+      "affable",
+      "mild",
+      "rough",
+      "genial"
     ],
     "answer": "(c) rough",
     "explanation": "ব্যাখ্যাঃ Inclement (আবহাওয়া সংক্রান্ত) নিষ্ঠুর, কঠোর, নির্দয়। Affable-ভদ্র, অমায়িক; Mild-শান্ত, মৃদু; Rough-রুক্ষ, কঠোর; Genial-হাসিখুশি, সদয়।"
@@ -15,10 +15,10 @@
     "id": 2,
     "question": "2. Choose the antonym of controversy: [47th BCS]",
     "options": [
-      "(a) contention",
-      "(b) bickering",
-      "(c) unanimity",
-      "(d) dispute"
+      "contention",
+      "bickering",
+      "unanimity",
+      "dispute"
     ],
     "answer": "(c) unanimity",
     "explanation": "ব্যাখ্যাঃ Controversy-বিতর্ক। Contention-বিবাদ, বিতর্ক; Bickering-কলহ; Unanimity-ঐক্যমত; Dispute-তর্কবিতর্ক।"
@@ -27,10 +27,10 @@
     "id": 3,
     "question": "3. Antonyms of \"Cunning\" [BCRECL-CE,ME,EEE-25]",
     "options": [
-      "(a) deceitful",
-      "(b) sly",
-      "(c) ingenuous",
-      "(d) shifty"
+      "deceitful",
+      "sly",
+      "ingenuous",
+      "shifty"
     ],
     "answer": "(c) ingenuous",
     "explanation": "ব্যাখ্যাঃ Cunning অর্থ ধূর্ত, শঠ, চালাক; deceitful অর্থ প্রবঞ্চক; sly অর্থ কপট, ধূর্ত; ingenuous অর্থ অকপট, সরল; shifty অর্থ পরিবর্তনশীল। সুতরাং cunning এর Antonym হলো ingenuous."
@@ -39,10 +39,10 @@
     "id": 4,
     "question": "4. Synonym of benevolent is- [DESCO-CT, MT, ET-25]",
     "options": [
-      "(a) kind",
-      "(b) hostile",
-      "(c) cruel",
-      "(d) mean"
+      "kind",
+      "hostile",
+      "cruel",
+      "mean"
     ],
     "answer": "(a) kind",
     "explanation": "ব্যাখ্যাঃ Benevolent-দয়ালু, হিতৈষী, পরোপকারী; Kind-সদয়, দয়ালু; Hostile-শত্রুভাবাপন্ন; Cruel-নিষ্ঠুর; Mean-হীন, নীচ।"
@@ -51,10 +51,10 @@
     "id": 5,
     "question": "5. Antonym of shallow is- [DESCO-CT, MT, ET-25]",
     "options": [
-      "(a) Deep",
-      "(b) Narrow",
-      "(c) Light",
-      "(d) Thick"
+      "Deep",
+      "Narrow",
+      "Light",
+      "Thick"
     ],
     "answer": "(a) Deep",
     "explanation": "ব্যাখ্যাঃ Shallow-অগভীর; Deep-গভীর; Narrow-সংকীর্ণ; Light-হালকা; Thick-পুরু, ঘন।"
@@ -63,10 +63,10 @@
     "id": 6,
     "question": "6. Antonym of obsolete is- [DESCO-CT, MT, ET-25]",
     "options": [
-      "(a) outdated",
-      "(b) modern",
-      "(c) old",
-      "(d) Ancient"
+      "outdated",
+      "modern",
+      "old",
+      "Ancient"
     ],
     "answer": "(b) modern",
     "explanation": "ব্যাখ্যাঃ Obsolete-অপ্রচলিত, সেকেলে; Modern-আধুনিক; Outdated-সেকেলে; Old-পুরাতন; Ancient-প্রাচীন।"
@@ -75,10 +75,10 @@
     "id": 7,
     "question": "7. Synonym of Authentic is- [DESCO-CT, MT, ET-25]",
     "options": [
-      "(a) Genuine",
-      "(b) Fake",
-      "(c) False",
-      "(d) Artificial"
+      "Genuine",
+      "Fake",
+      "False",
+      "Artificial"
     ],
     "answer": "(a) Genuine",
     "explanation": "ব্যাখ্যাঃ Authentic-খাঁটি, নির্ভরযোগ্য; Genuine-খাঁটি, আসল; Fake-নকল; False-মিথ্যা; Artificial-কৃত্রিম।"
@@ -87,10 +87,10 @@
     "id": 8,
     "question": "8. ‘Obstinate’ synonyms- [BIFPCL-ME, EEE-25]",
     "options": [
-      "(a) agreeable",
-      "(b) stubborn",
-      "(c) flexible",
-      "(d) compliant"
+      "agreeable",
+      "stubborn",
+      "flexible",
+      "compliant"
     ],
     "answer": "(b) stubborn",
     "explanation": "ব্যাখ্যাঃ Obstinate-একগুঁয়ে, জেদি; Stubborn-একগুঁয়ে; Agreeable-সম্মত; Flexible-নমনীয়; Compliant-বাধ্য।"
@@ -99,10 +99,10 @@
     "id": 9,
     "question": "9. Antonym of Meticulous [RNPL-ME,EEE-25]",
     "options": [
-      "(a) negligent",
-      "(b) through",
-      "(c) diligent",
-      "(d) sharp"
+      "negligent",
+      "through",
+      "diligent",
+      "sharp"
     ],
     "answer": "(a) negligent",
     "explanation": "ব্যাখ্যাঃ Meticulous-অতিসতর্ক, খুঁতখুঁতে; Negligent-অবহেলিত, অমনোযোগী; Thorough-পুঙ্খানুপুঙ্খ; Diligent-পরিশ্রমী; Sharp-তীক্ষ্ণ।"
@@ -111,10 +111,10 @@
     "id": 10,
     "question": "10. Synonym of ‘Erode’ is- [BCIC- CE, ME, EEE, CSE-25]",
     "options": [
-      "(a) Fix",
-      "(b) Disintegrate",
-      "(c) Positioning",
-      "(d) Build"
+      "Fix",
+      "Disintegrate",
+      "Positioning",
+      "Build"
     ],
     "answer": "(b) Disintegrate",
     "explanation": "ব্যাখ্যাঃ Erode-ক্ষয় করা/হওয়া; Disintegrate-ক্ষয়প্রাপ্ত হওয়া, ভেঙে ফেলা; Fix-স্থির করা; Positioning-অবস্থান নির্ধারণ; Build-নির্মাণ করা।"
@@ -123,10 +123,10 @@
     "id": 11,
     "question": "11. The synonym of ‘genesis’ is ___ [DESCO-SSA-25]",
     "options": [
-      "(a) Foreword",
-      "(b) Beginning",
-      "(c) Preface",
-      "(d) Introduction"
+      "Foreword",
+      "Beginning",
+      "Preface",
+      "Introduction"
     ],
     "answer": "(b) Beginning",
     "explanation": "ব্যাখ্যাঃ Genesis-সূচনা, সৃষ্টি, প্রারম্ভ; Beginning-শুরু, প্রারম্ভ; Foreword-ভূমিকা; Preface-প্রস্তাবনা; Introduction-পরিচিতি।"
@@ -135,10 +135,10 @@
     "id": 12,
     "question": "12. The antonym of ‘famous’ is ___ [DESCO-SSA-25]",
     "options": [
-      "(a) Opaque",
-      "(b) Obscure",
-      "(c) Illiterate",
-      "(d) Immature"
+      "Opaque",
+      "Obscure",
+      "Illiterate",
+      "Immature"
     ],
     "answer": "(b) Obscure",
     "explanation": "ব্যাখ্যাঃ Famous-বিখ্যাত; Obscure-অখ্যাত, অস্পষ্ট; Opaque-অস্বচ্ছ; Illiterate-অশিক্ষিত; Immature-অপরিণত।"
@@ -147,10 +147,10 @@
     "id": 13,
     "question": "13. Select the antonym of the given word “VANITY”? [LPGL-ME-25]",
     "options": [
-      "(a) Humility",
-      "(b) Timidity",
-      "(c) Dignity",
-      "(d) Pride"
+      "Humility",
+      "Timidity",
+      "Dignity",
+      "Pride"
     ],
     "answer": "(a) Humility",
     "explanation": "ব্যাখ্যাঃ Vanity-অহংকার, অহমিকা; Humility-বিনম্রতা, নম্রতা; Timidity-ভীরুতা; Dignity-মর্যাদা; Pride-অহংকার।"
@@ -159,10 +159,10 @@
     "id": 14,
     "question": "14. What is the antonym of ‘blunt’? [DPDC-CST-25]",
     "options": [
-      "(a) Sharp",
-      "(b) Ugly",
-      "(c) Honest",
-      "(d) Shallow"
+      "Sharp",
+      "Ugly",
+      "Honest",
+      "Shallow"
     ],
     "answer": "(a) Sharp",
     "explanation": "ব্যাখ্যাঃ Blunt-ভোঁতা; Sharp-ধারালো; Ugly-কুৎসিত; Honest-সৎ; Shallow-অগভীর।"
@@ -171,10 +171,10 @@
     "id": 15,
     "question": "15. Synonym of ‘Erode’ is- [BCIC-CE/ME/EEE/CSE-25]",
     "options": [
-      "(a) Fix",
-      "(b) Disintegrate",
-      "(c) Positioning",
-      "(d) Build"
+      "Fix",
+      "Disintegrate",
+      "Positioning",
+      "Build"
     ],
     "answer": "(b) Disintegrate",
     "explanation": "ব্যাখ্যাঃ Erode-ক্ষয় করা; Disintegrate-ভেঙে যাওয়া, ক্ষয়প্রাপ্ত হওয়া।"
@@ -183,10 +183,10 @@
     "id": 16,
     "question": "16. Synonym of NEBULOUS [MPL-EEE/ME/Chemistry-25]",
     "options": [
-      "(a) Tiny",
-      "(b) Vague",
-      "(c) Insignificant",
-      "(d) uncivil"
+      "Tiny",
+      "Vague",
+      "Insignificant",
+      "uncivil"
     ],
     "answer": "(b) Vague",
     "explanation": "ব্যাখ্যাঃ Nebulous-অস্পষ্ট, মেঘাচ্ছন্ন; Vague-অস্পষ্ট; Tiny-ক্ষুদ্র; Insignificant-তাৎপর্যহীন; Uncivil-অসভ্য।"
@@ -195,10 +195,10 @@
     "id": 17,
     "question": "17. Antonym of ‘Hostile’ is [MPL-EEE/ME/Chemistry-25]",
     "options": [
-      "(a) Hostel",
-      "(b) Hospital",
-      "(c) Friendly",
-      "(d) Frank"
+      "Hostel",
+      "Hospital",
+      "Friendly",
+      "Frank"
     ],
     "answer": "(c) Friendly",
     "explanation": "ব্যাখ্যাঃ Hostile-শত্রুভাবাপন্ন; Friendly-বন্ধুত্বপূর্ণ; Frank-খোলামেলা।"
@@ -207,10 +207,10 @@
     "id": 18,
     "question": "18. Synonym লিখুন, Amicable- [MPL-CMT/ET/ENT-25]",
     "options": [
-      "(a) Harmonious",
-      "(b) rude",
-      "(c) unsociable",
-      "(d) uncivil"
+      "Harmonious",
+      "rude",
+      "unsociable",
+      "uncivil"
     ],
     "answer": "(a) Harmonious",
     "explanation": "ব্যাখ্যাঃ Amicable-সৌহার্দ্যপূর্ণ, বন্ধুত্বপূর্ণ; Harmonious-শান্তিপূর্ণ, সৌহার্দ্যপূর্ণ; Rude-অভদ্র; Unsociable-অসামাজিক; Uncivil-অশিষ্ট।"
@@ -219,10 +219,10 @@
     "id": 19,
     "question": "19. What is the synonym of “Efface”? [BSCPLC-CSE/EEE-24]",
     "options": [
-      "(a) Rub out",
-      "(b) Preserve",
-      "(c) Protect",
-      "(d) Conserve"
+      "Rub out",
+      "Preserve",
+      "Protect",
+      "Conserve"
     ],
     "answer": "(a) Rub out",
     "explanation": "ব্যাখ্যাঃ Efface-মুছে ফেলা; Rub out-মুছে ফেলা; Preserve-সংরক্ষণ করা; Protect-রক্ষা করা; Conserve-সংরক্ষণ করা।"
@@ -231,10 +231,10 @@
     "id": 20,
     "question": "20. Antonym of 'Scurrilous': [POCL-ME/EEE-24]",
     "options": [
-      "(a) Polite",
-      "(b) Dirty",
-      "(c) Vulgar",
-      "(d) Obscene"
+      "Polite",
+      "Dirty",
+      "Vulgar",
+      "Obscene"
     ],
     "answer": "(a) Polite",
     "explanation": "ব্যাখ্যাঃ Scurrilous-অশ্লীল, গালিগালাজপূর্ণ; Polite-ভদ্র, মার্জিত; Dirty-নোংরা; Vulgar-অভদ্র; Obscene-অশ্লীল।"
@@ -243,10 +243,10 @@
     "id": 21,
     "question": "21. What is the opposite word of ‘Ability’? [BOGMC-ET/CT-24]",
     "options": [
-      "(a) Inability",
-      "(b) unability",
-      "(c) capability",
-      "(d) disability"
+      "Inability",
+      "unability",
+      "capability",
+      "disability"
     ],
     "answer": "(a) Inability",
     "explanation": "ব্যাখ্যাঃ Ability-সক্ষমতা; Inability-অক্ষমতা; Disability-প্রতিবন্ধকতা, পঙ্গুত্ব।"
@@ -255,10 +255,10 @@
     "id": 22,
     "question": "22. What is the antonym of 'workaholic' [BOGMC-CMT/MT-24]",
     "options": [
-      "(a) worker",
-      "(b) laborer",
-      "(c) producer",
-      "(d) do-nothing"
+      "worker",
+      "laborer",
+      "producer",
+      "do-nothing"
     ],
     "answer": "(d) do-nothing",
     "explanation": "ব্যাখ্যাঃ Workaholic-কাজপাগল ব্যক্তি; Do-nothing-অলস, নিষ্ক্রিয় ব্যক্তি।"
@@ -267,10 +267,10 @@
     "id": 23,
     "question": "23. What is the synonym of 'lunatic'? [BOGMC-CMT/MT-24]",
     "options": [
-      "(a) reassemble",
-      "(b) rational",
-      "(c) same",
-      "(d) crazy"
+      "reassemble",
+      "rational",
+      "same",
+      "crazy"
     ],
     "answer": "(d) crazy",
     "explanation": "ব্যাখ্যাঃ Lunatic-পাগল, উন্মাদ; Crazy-পাগল; Rational-যৌক্তিক।"
@@ -293,10 +293,10 @@
     "id": 26,
     "question": "26. Antonym of ‘fiasco’ is ___ [BPDB-CSE/EEE/CE/ME-24]",
     "options": [
-      "(a) failure",
-      "(b) Triumph",
-      "(c) disaster",
-      "(d) loser"
+      "failure",
+      "Triumph",
+      "disaster",
+      "loser"
     ],
     "answer": "(b) Triumph",
     "explanation": "ব্যাখ্যাঃ Fiasco-সম্পূর্ণ ব্যর্থতা; Triumph-বিজয়, মহাসাফল্য; Failure-ব্যর্থতা; Disaster-বিপর্যয়।"
@@ -305,10 +305,10 @@
     "id": 27,
     "question": "27. What is the antonym of nebulous? [BTCL-CMT/MT-24]",
     "options": [
-      "(a) Clear",
-      "(b) Cloudy",
-      "(c) Obscure",
-      "(d) Vague"
+      "Clear",
+      "Cloudy",
+      "Obscure",
+      "Vague"
     ],
     "answer": "(a) Clear",
     "explanation": "ব্যাখ্যাঃ Nebulous-অস্পষ্ট, মেঘলা; Clear-পরিষ্কার, স্পষ্ট; Cloudy-মেঘলা; Obscure-অস্পষ্ট; Vague-অস্পষ্ট। (বইয়ে উত্তর b চিহ্নিত হলেও ব্যাখ্যা অনুযায়ী বিপরীত শব্দ Clear)।"
@@ -317,10 +317,10 @@
     "id": 28,
     "question": "28. Antonym of \"famous\"? [PGCB-CT/MT/ET/ENT/PT/CST-24]",
     "options": [
-      "(a) Opaque",
-      "(b) Illiterate",
-      "(c) Obscure",
-      "(d) Immature"
+      "Opaque",
+      "Illiterate",
+      "Obscure",
+      "Immature"
     ],
     "answer": "(c) Obscure",
     "explanation": "ব্যাখ্যাঃ Famous-বিখ্যাত; Obscure-অখ্যাত, অচেনা; Opaque-অস্বচ্ছ; Illiterate-নিরক্ষর; Immature-অপরিণত।"
@@ -329,10 +329,10 @@
     "id": 29,
     "question": "29. Synonym of 'compassion'? [PGCB-CT/MT/ET/ENT/PT/CST-24]",
     "options": [
-      "(a) Compression",
-      "(b) contraction",
-      "(c) like",
-      "(d) sympathy"
+      "Compression",
+      "contraction",
+      "like",
+      "sympathy"
     ],
     "answer": "(d) sympathy",
     "explanation": "ব্যাখ্যাঃ Compassion-সহানুভূতি, দয়া; Sympathy-সহানুভূতি; Compression-সংকোচন; Contraction-সংকোচন।"
@@ -341,10 +341,10 @@
     "id": 30,
     "question": "30. What is the antonym of ‘famous’ [PGCB-CE/EEE/ME/CSE-24]",
     "options": [
-      "(a) Opeque",
-      "(b) Illiterate",
-      "(c) Obscure",
-      "(d) Immature"
+      "Opeque",
+      "Illiterate",
+      "Obscure",
+      "Immature"
     ],
     "answer": "(c) Obscure",
     "explanation": "ব্যাখ্যাঃ Famous-বিখ্যাত; Obscure-অখ্যাত।"
@@ -353,10 +353,10 @@
     "id": 31,
     "question": "31. What is the synonym of ‘bona fide’ [PGCB-CE/EEE/ME/CSE-24]",
     "options": [
-      "(a) Cheat",
-      "(b) Authentic",
-      "(c) Contaminate",
-      "(d) Adulterate"
+      "Cheat",
+      "Authentic",
+      "Contaminate",
+      "Adulterate"
     ],
     "answer": "(b) Authentic",
     "explanation": "ব্যাখ্যাঃ Bona fide-খাঁটি, আসল, অকপট; Authentic-খাঁটি; Cheat-প্রতারণা করা; Contaminate-দূষিত করা; Adulterate-ভেজাল মেশানো।"
@@ -365,11 +365,11 @@
     "id": 32,
     "question": "32. What is a similar word to “altitude”? [NESCO-EEE/ME-24]",
     "options": [
-      "(a) elevation",
-      "(b) Bottom",
-      "(c) depth",
-      "(d) base",
-      "(e) None of these"
+      "elevation",
+      "Bottom",
+      "depth",
+      "base",
+      "None of these"
     ],
     "answer": "(a) elevation",
     "explanation": "ব্যাখ্যাঃ Altitude-উচ্চতা; Elevation-উচ্চতা; Bottom-তলদেশ; Depth-গভীরতা; Base-ভিত্তি।"
@@ -378,11 +378,11 @@
     "id": 33,
     "question": "33. What is the Synonym ‘Ins and out’ is- [NESCO-EEE/ME-24]",
     "options": [
-      "(a) details",
-      "(b) concise",
-      "(c) compress",
-      "(d) reduce",
-      "(e) None of these"
+      "details",
+      "concise",
+      "compress",
+      "reduce",
+      "None of these"
     ],
     "answer": "(a) details",
     "explanation": "ব্যাখ্যাঃ Ins and outs-খুঁটিনাটি সব বিবরণ; Details-বিস্তারিত তথ্য; Concise-সংক্ষিপ্ত।"
@@ -391,10 +391,10 @@
     "id": 34,
     "question": "34. Which one is the opposite word of \"Confess\"- [BGDCL-CE/EEE/ME/CSE-24]",
     "options": [
-      "(a) Deny",
-      "(b) Reject",
-      "(c) content",
-      "(d) contend"
+      "Deny",
+      "Reject",
+      "content",
+      "contend"
     ],
     "answer": "(a) Deny",
     "explanation": "ব্যাখ্যাঃ Confess-স্বীকার করা; Deny-অস্বীকার করা; Reject-প্রত্যাখ্যান করা; Content-সন্তুষ্ট।"
@@ -403,10 +403,10 @@
     "id": 35,
     "question": "35. Which one is the most appropriate synonym of the given word, \"Ample\"- [BGDCL-CT/ET/MT/CMT-24]",
     "options": [
-      "(a) Meager",
-      "(b) Sufficient",
-      "(c) Narrow",
-      "(d) Short"
+      "Meager",
+      "Sufficient",
+      "Narrow",
+      "Short"
     ],
     "answer": "(b) Sufficient",
     "explanation": "ব্যাখ্যাঃ Ample-প্রচুর, পর্যাপ্ত; Sufficient-পর্যাপ্ত; Meager-অল্প, অপ্রতুল; Narrow-সংকীর্ণ; Short-খাটো।"
@@ -415,10 +415,10 @@
     "id": 36,
     "question": "36. Choose the alternative of \"amalgamate\"- [BGDCL-CT/ET/MT/CMT-24]",
     "options": [
-      "(a) Merge",
-      "(b) Split",
-      "(c) Separate",
-      "(d) Detached"
+      "Merge",
+      "Split",
+      "Separate",
+      "Detached"
     ],
     "answer": "(a) Merge",
     "explanation": "ব্যাখ্যাঃ Amalgamate-মিশ্রিত করা, একত্রিত করা; Merge-একত্রিত করা; Split-বিভক্ত করা; Separate-পৃথক করা; Detached-বিচ্ছিন্ন।"
@@ -427,10 +427,10 @@
     "id": 37,
     "question": "37. The opposite of 'plagiarism' is---- [NWPGCL-ICT/CSE-24]",
     "options": [
-      "(a) Opportunity",
-      "(b) acknowledgement",
-      "(c) theft",
-      "(d) displacement"
+      "Opportunity",
+      "acknowledgement",
+      "theft",
+      "displacement"
     ],
     "answer": "(b) acknowledgement",
     "explanation": "ব্যাখ্যাঃ Plagiarism-কুম্ভীলকবৃত্তি, চৌর্যবৃত্তি; Acknowledgement-স্বীকৃতি প্রদান; Theft-চুরি।"
@@ -439,10 +439,10 @@
     "id": 38,
     "question": "38. Synonym of 'excited'? [NWPGCL-ICT/CSE-24]",
     "options": [
-      "(a) Apathetic",
-      "(b) unexcited",
-      "(c) calm",
-      "(d) passionate"
+      "Apathetic",
+      "unexcited",
+      "calm",
+      "passionate"
     ],
     "answer": "(d) passionate",
     "explanation": "ব্যাখ্যাঃ Excited-উত্তেজিত, উচ্ছ্বসিত; Passionate-আবেগপ্রবণ, উত্তেজিত; Apathetic-উদাসীন; Calm-শান্ত।"
@@ -451,10 +451,10 @@
     "id": 39,
     "question": "39. Synonym of 'fictitious' is- [BCPCL-EEE-24]",
     "options": [
-      "(a) Factual",
-      "(b) Imaginary",
-      "(c) accredited",
-      "(d) genuine"
+      "Factual",
+      "Imaginary",
+      "accredited",
+      "genuine"
     ],
     "answer": "(b) Imaginary",
     "explanation": "ব্যাখ্যাঃ Fictitious-কাল্পনিক; Imaginary-কাল্পনিক; Factual-বাস্তবসম্মত; Genuine-আসল।"
@@ -463,10 +463,10 @@
     "id": 40,
     "question": "40. Synonym of ‘precedence’..... [BCPCL-EEE-24]",
     "options": [
-      "(a) Uprise",
-      "(b) Insignificance",
-      "(c) Present",
-      "(d) priority"
+      "Uprise",
+      "Insignificance",
+      "Present",
+      "priority"
     ],
     "answer": "(d) priority",
     "explanation": "ব্যাখ্যাঃ Precedence-অগ্রগণ্যতা, অগ্রাধিকার; Priority-অগ্রাধিকার; Insignificance-তাৎপর্যহীনতা।"
@@ -475,10 +475,10 @@
     "id": 41,
     "question": "41. 'Inception' Synonym- [BCPCL-EEE-24]",
     "options": [
-      "(a) Ending",
-      "(b) period",
-      "(c) commencement",
-      "(d) Completion"
+      "Ending",
+      "period",
+      "commencement",
+      "Completion"
     ],
     "answer": "(c) commencement",
     "explanation": "ব্যাখ্যাঃ Inception-আরম্ভ, প্রারম্ভ; Commencement-শুরু, আরম্ভ; Ending-সমাপ্তি; Completion-সমাপ্তি।"
@@ -487,10 +487,10 @@
     "id": 42,
     "question": "42. What is the synonym of the word ‘embezzle’- [CPGCBL-EEE/ME/CE-23]",
     "options": [
-      "(a) misappropriate",
-      "(b) Compensate",
-      "(c) reimburse",
-      "(d) return"
+      "misappropriate",
+      "Compensate",
+      "reimburse",
+      "return"
     ],
     "answer": "(a) misappropriate",
     "explanation": "ব্যাখ্যাঃ Embezzle-আত্মসাৎ করা; Misappropriate-অন্যায়ভাবে আত্মসাৎ করা; Compensate-ক্ষতিপূরণ দেওয়া; Reimburse-ফেরত দেওয়া।"
@@ -499,10 +499,10 @@
     "id": 43,
     "question": "43. The opposite meaning of a word is called- [BPDB-ENT/ET-23]",
     "options": [
-      "(a) Antonym",
-      "(b) synonym",
-      "(c) oppose",
-      "(d) same"
+      "Antonym",
+      "synonym",
+      "oppose",
+      "same"
     ],
     "answer": "(a) Antonym",
     "explanation": "ব্যাখ্যাঃ শব্দের বিপরীত অর্থকে বলা হয় Antonym; সমার্থক অর্থকে বলা হয় Synonym।"
@@ -511,10 +511,10 @@
     "id": 44,
     "question": "44. What is the synonym of ‘Incredible’? [BAERA-ET/MT-23]",
     "options": [
-      "(a) Unlikely",
-      "(b) Unbelievable",
-      "(c) Unthinkable",
-      "(d) Unthinking"
+      "Unlikely",
+      "Unbelievable",
+      "Unthinkable",
+      "Unthinking"
     ],
     "answer": "(b) Unbelievable",
     "explanation": "ব্যাখ্যাঃ Incredible-অবিশ্বাস্য; Unbelievable-অবিশ্বাস্য; Unlikely-অসম্ভাব্য; Unthinkable-অভাবনীয়।"
@@ -523,10 +523,10 @@
     "id": 45,
     "question": "45. What is the antonym of ‘Procrastination’? [BAERA-ET/MT-23]",
     "options": [
-      "(a) Delay",
-      "(b) Uncertainty",
-      "(c) waiting",
-      "(d) advance"
+      "Delay",
+      "Uncertainty",
+      "waiting",
+      "advance"
     ],
     "answer": "(d) advance",
     "explanation": "ব্যাখ্যাঃ Procrastination-দীর্ঘসূত্রতা, গড়িমসি; Advance-অগ্রসর হওয়া, এগিয়ে যাওয়া; Delay-দেরি।"
@@ -535,10 +535,10 @@
     "id": 46,
     "question": "46. Antonym of contraband? [BCPCL-EEE/ME-23]",
     "options": [
-      "(a) illegal",
-      "(b) Improper",
-      "(c) contradict",
-      "(d) legal"
+      "illegal",
+      "Improper",
+      "contradict",
+      "legal"
     ],
     "answer": "(d) legal",
     "explanation": "ব্যাখ্যাঃ Contraband-চোরাচালানি, নিষিদ্ধ পণ্য; Legal-আইনসম্মত, বৈধ; Illegal-অবৈধ।"
@@ -554,10 +554,10 @@
     "id": 48,
     "question": "48. The word 'nuptial' is related to - [WZPDCL-MT-23]",
     "options": [
-      "(a) night",
-      "(b) Marriage",
-      "(c) Sleep",
-      "(d) love"
+      "night",
+      "Marriage",
+      "Sleep",
+      "love"
     ],
     "answer": "(b) Marriage",
     "explanation": "ব্যাখ্যাঃ Nuptial অর্থ বিবাহসংক্রান্ত (related to marriage/wedding)।"
@@ -566,10 +566,10 @@
     "id": 49,
     "question": "49. Antonym of ‘transitory’? [DESCO-ET-23]",
     "options": [
-      "(a) Permanent",
-      "(b) Temporary",
-      "(c) Transparent",
-      "(d) Short lived"
+      "Permanent",
+      "Temporary",
+      "Transparent",
+      "Short lived"
     ],
     "answer": "(a) Permanent",
     "explanation": "ব্যাখ্যাঃ Transitory-ক্ষণস্থায়ী; Permanent-স্থায়ী; Temporary-অস্থায়ী; Short-lived-স্বল্পস্থায়ী।"
@@ -578,10 +578,10 @@
     "id": 50,
     "question": "50. Antonym of 'stiff' is [BPDB-ME/CE/CSE-23]",
     "options": [
-      "(a) rigid",
-      "(b) flexible",
-      "(c) strong",
-      "(d) concrete"
+      "rigid",
+      "flexible",
+      "strong",
+      "concrete"
     ],
     "answer": "(b) flexible",
     "explanation": "ব্যাখ্যাঃ Stiff-কঠিন, শক্ত, অনমনীয়; Flexible-নমনীয়; Rigid-দৃঢ়, অনমনীয়।"
@@ -590,10 +590,10 @@
     "id": 51,
     "question": "51. what is the synonym of ‘illuminating’? [BPDB-EEE-23]",
     "options": [
-      "(a) Impractical",
-      "(b) enlightening",
-      "(c) useless",
-      "(d) unusable"
+      "Impractical",
+      "enlightening",
+      "useless",
+      "unusable"
     ],
     "answer": "(b) enlightening",
     "explanation": "ব্যাখ্যাঃ Illuminating-আলোকপ্রদায়ী, জ্ঞানবর্ধক; Enlightening-তথ্যবহুল, জ্ঞানদায়ক।"
@@ -602,10 +602,10 @@
     "id": 52,
     "question": "52. Synonym of ‘preserve’ is [BPDB-EEE-23]",
     "options": [
-      "(a) Conserve",
-      "(b) Ignore",
-      "(c) destroy",
-      "(d) neglect"
+      "Conserve",
+      "Ignore",
+      "destroy",
+      "neglect"
     ],
     "answer": "(a) Conserve",
     "explanation": "ব্যাখ্যাঃ Preserve-সংরক্ষণ করা; Conserve-সংরক্ষণ করা; Destroy-ধ্বংস করা; Ignore-উপেক্ষা করা।"
@@ -614,10 +614,10 @@
     "id": 53,
     "question": "53. What is the antonym of ‘Initiative’? [BIWTA-EEE/CSE-23]",
     "options": [
-      "(a) inactivity",
-      "(b) originality",
-      "(c) motivation",
-      "(d) capability"
+      "inactivity",
+      "originality",
+      "motivation",
+      "capability"
     ],
     "answer": "(a) inactivity",
     "explanation": "ব্যাখ্যাঃ Initiative-উদ্যোগ, তৎপরতা; Inactivity-নিষ্ক্রিয়তা, আলস্য; Originality-মৌলিকতা; Motivation-প্রেরণা।"
@@ -626,10 +626,10 @@
     "id": 54,
     "question": "54. Synonym of ‘Solitary’ is ---- [BIWTA-EEE/CSE-23]",
     "options": [
-      "(a) Very fast",
-      "(b) very slow",
-      "(c) lonely",
-      "(d) at once"
+      "Very fast",
+      "very slow",
+      "lonely",
+      "at once"
     ],
     "answer": "(c) lonely",
     "explanation": "ব্যাখ্যাঃ Solitary-নিঃসঙ্গ, একাকী; Lonely-একাকী; At once-অবিলম্বে।"
@@ -638,10 +638,10 @@
     "id": 55,
     "question": "55. What is the synonym of ‘Colossal’? [BIWTA-EEE/CSE-23]",
     "options": [
-      "(a) Small",
-      "(b) massive",
-      "(c) little",
-      "(d) tiny"
+      "Small",
+      "massive",
+      "little",
+      "tiny"
     ],
     "answer": "(b) massive",
     "explanation": "ব্যাখ্যাঃ Colossal-প্রকাণ্ড, বিশাল; Massive-বিশাল; Small/Little/Tiny-ক্ষুদ্র।"
@@ -650,10 +650,10 @@
     "id": 56,
     "question": "56. Antonym of the ‘amicable’ is [BAPEX-MT/CT/CMT/ENT/ET/PT-23]",
     "options": [
-      "(a) Friendly",
-      "(b) intimate",
-      "(c) hostile",
-      "(d) close"
+      "Friendly",
+      "intimate",
+      "hostile",
+      "close"
     ],
     "answer": "(c) hostile",
     "explanation": "ব্যাখ্যাঃ Amicable-সৌহার্দ্যপূর্ণ, বন্ধুত্বপূর্ণ; Hostile-শত্রুভাবাপন্ন; Friendly-বন্ধুভাবাপন্ন।"
@@ -662,10 +662,10 @@
     "id": 57,
     "question": "57. What is the synonym of ‘panic’ [BAPEX-MT/CT/CMT/ENT/ET/PT-23]",
     "options": [
-      "(a) anxiety",
-      "(b) clarity",
-      "(c) Sadness",
-      "(d) Joy"
+      "anxiety",
+      "clarity",
+      "Sadness",
+      "Joy"
     ],
     "answer": "(a) anxiety",
     "explanation": "ব্যাখ্যাঃ Panic-আতঙ্ক, তীব্র ভয়; Anxiety-উদ্বেগ, উৎকণ্ঠা; Clarity-স্পষ্টতা; Joy-আনন্দ।"
@@ -674,10 +674,10 @@
     "id": 58,
     "question": "58. Synonym of the ‘amicable’ is [BAPEX-MT/CT/CMT/ENT/ET/PT-23]",
     "options": [
-      "(a) Friendly",
-      "(b) Loving",
-      "(c) Affectionate",
-      "(d) Interesting"
+      "Friendly",
+      "Loving",
+      "Affectionate",
+      "Interesting"
     ],
     "answer": "(a) Friendly",
     "explanation": "ব্যাখ্যাঃ Amicable-সৌহার্দ্যপূর্ণ, বন্ধুত্বপূর্ণ; Friendly-বন্ধুভাবাপন্ন।"
@@ -686,10 +686,10 @@
     "id": 59,
     "question": "59. Select the antonym of the given word. ASSEMBLE [EGCB-ET/MT/CT-23]",
     "options": [
-      "(a) disperse",
-      "(b) gather",
-      "(c) resemble",
-      "(d) create"
+      "disperse",
+      "gather",
+      "resemble",
+      "create"
     ],
     "answer": "(a) disperse",
     "explanation": "ব্যাখ্যাঃ Assemble-একত্রিত হওয়া; Disperse-ছত্রভঙ্গ হওয়া/করা; Gather-একত্র করা; Resemble-সদৃশ হওয়া।"
@@ -698,10 +698,10 @@
     "id": 60,
     "question": "60. Synonym of ‘Embellish’ is - [ERLB-EEE/ME/Che-22]",
     "options": [
-      "(a) Honor",
-      "(b) Adorn",
-      "(c) Dearth",
-      "(d) Bleak"
+      "Honor",
+      "Adorn",
+      "Dearth",
+      "Bleak"
     ],
     "answer": "(b) Adorn",
     "explanation": "ব্যাখ্যাঃ Embellish-সজ্জিত করা, অলঙ্কৃত করা; Adorn-সজ্জিত করা; Dearth-অনটন; Bleak-মলিন, বিষণ্ণ।"
@@ -717,10 +717,10 @@
     "id": 62,
     "question": "62. Antonym of the word ‘urbane’ [ERLB-MT/ET/CT-22]",
     "options": [
-      "(a) rural",
-      "(b) suave",
-      "(c) sophisticated",
-      "(d) uncouth"
+      "rural",
+      "suave",
+      "sophisticated",
+      "uncouth"
     ],
     "answer": "(d) uncouth",
     "explanation": "ব্যাখ্যাঃ Urbane-ভদ্র, মার্জিত; Uncouth-বর্বর, অমার্জিত; Rural-গ্রামীণ; Suave-ভদ্র; Sophisticated-পরিশীলিত।"
@@ -729,10 +729,10 @@
     "id": 63,
     "question": "63. Opposite word of ‘sluggish’ [BIWTA-EEE/ME/CE-22]",
     "options": [
-      "(a) Animated",
-      "(b) Dull",
-      "(c) Heavy",
-      "(d) Slow"
+      "Animated",
+      "Dull",
+      "Heavy",
+      "Slow"
     ],
     "answer": "(a) Animated",
     "explanation": "ব্যাখ্যাঃ Sluggish-মন্থর, অলস; Animated-প্রাণবন্ত, সজীব; Dull-নিস্তেজ; Slow-ধীর।"
@@ -741,10 +741,10 @@
     "id": 64,
     "question": "64. Words different in meaning but similar in sound. [BIWTA-EEE/ME/CE-22]",
     "options": [
-      "(a) Homonym",
-      "(b) Synonym",
-      "(c) Acronym",
-      "(d) Antonym"
+      "Homonym",
+      "Synonym",
+      "Acronym",
+      "Antonym"
     ],
     "answer": "(a) Homonym",
     "explanation": "ব্যাখ্যাঃ Homonym হলো এমন শব্দ যা উচ্চারণে এক কিন্তু অর্থে ভিন্ন। Synonym-সমার্থক শব্দ, Antonym-বিপরীতার্থক শব্দ।"
@@ -753,10 +753,10 @@
     "id": 65,
     "question": "65. A synonym for ‘resentment’ is- [BIWTA-EEE/ME/CE-22]",
     "options": [
-      "(a) fear",
-      "(b) anger",
-      "(c) indignation",
-      "(d) panic"
+      "fear",
+      "anger",
+      "indignation",
+      "panic"
     ],
     "answer": "(c) indignation",
     "explanation": "ব্যাখ্যাঃ Resentment-ক্ষোভ, রাগ; Indignation-অন্যায় কাজের প্রতি ক্রোধ, ক্ষোভ; Fear-ভয়; Anger-রাগ।"
@@ -765,10 +765,10 @@
     "id": 66,
     "question": "66. Closest meaning of ‘Salvation’ [DPDC-EEE-22]",
     "options": [
-      "(a) Engagement",
-      "(b) Freedom",
-      "(c) Waste",
-      "(d) Destruction"
+      "Engagement",
+      "Freedom",
+      "Waste",
+      "Destruction"
     ],
     "answer": "(b) Freedom",
     "explanation": "ব্যাখ্যাঃ Salvation-পরিত্রাণ, মুক্তি; Freedom-মুক্তি, স্বাধীনতা; Destruction-ধ্বংস।"
@@ -777,10 +777,10 @@
     "id": 67,
     "question": "67. Antonym of ‘GLOOMY’ [CPGCBL-ET/MT-22]",
     "options": [
-      "(a) Discouraging",
-      "(b) Disguising",
-      "(c) Bright",
-      "(d) Tragic"
+      "Discouraging",
+      "Disguising",
+      "Bright",
+      "Tragic"
     ],
     "answer": "(c) Bright",
     "explanation": "ব্যাখ্যাঃ Gloomy-অন্ধকারাচ্ছন্ন, বিষণ্ণ; Bright-উজ্জ্বল, প্রফুল্ল; Discouraging-হতাশাজনক।"
@@ -789,10 +789,10 @@
     "id": 68,
     "question": "68. Select the pair which has the same relationship. ORTHOPEDIC: BONE. [BTCL-ET/MT/ENT/PT-22]",
     "options": [
-      "(a) Psychiatry: Mind",
-      "(b) Skin: Allergy",
-      "(c) Antibiotics: Fever",
-      "(d) Fracture: Plaster"
+      "Psychiatry: Mind",
+      "Skin: Allergy",
+      "Antibiotics: Fever",
+      "Fracture: Plaster"
     ],
     "answer": "(a) Psychiatry: Mind",
     "explanation": "ব্যাখ্যাঃ Orthopedic হাড়ের চিকিৎসার সাথে সম্পর্কিত, তেমনি Psychiatry মনের চিকিৎসার সাথে সম্পর্কিত।"
@@ -801,10 +801,10 @@
     "id": 69,
     "question": "69. Choose the word which is most opposite in meaning to the word EMBRACE. [BTCL-ET/MT/ENT/PT-22]",
     "options": [
-      "(a) Disobey",
-      "(b) Contradict",
-      "(c) Reject",
-      "(d) Obscure"
+      "Disobey",
+      "Contradict",
+      "Reject",
+      "Obscure"
     ],
     "answer": "(c) Reject",
     "explanation": "ব্যাখ্যাঃ Embrace-গ্রহণ করা, আলিঙ্গন করা; Reject-প্রত্যাখ্যান করা, বর্জন করা।"
@@ -813,10 +813,10 @@
     "id": 70,
     "question": "70. The suitable synonym of the word honest is- [BTCL-ET/MT/ENT/PT-22]",
     "options": [
-      "(a) Kind",
-      "(b) ample",
-      "(c) magnificent",
-      "(d) candid"
+      "Kind",
+      "ample",
+      "magnificent",
+      "candid"
     ],
     "answer": "(d) candid",
     "explanation": "ব্যাখ্যাঃ Honest-সৎ, অকপট; Candid-অকপট, সরল; Magnificent-জমকালো।"
@@ -825,10 +825,10 @@
     "id": 71,
     "question": "71. The suitable antonym of the word feasible is- [BTCL-ET/MT/ENT/PT-22]",
     "options": [
-      "(a) weak",
-      "(b) bad",
-      "(c) small",
-      "(d) unattainable"
+      "weak",
+      "bad",
+      "small",
+      "unattainable"
     ],
     "answer": "(d) unattainable",
     "explanation": "ব্যাখ্যাঃ Feasible-বাস্তবায়নযোগ্য, সম্ভব; Unattainable-অপ্রাপ্য, অসম্ভব।"
@@ -844,10 +844,10 @@
     "id": 73,
     "question": "73. Unequivocal means [BGFCL-ME/CE-21]",
     "options": [
-      "(a) ambiguous",
-      "(b) clear",
-      "(c) doubt",
-      "(d) mistakable"
+      "ambiguous",
+      "clear",
+      "doubt",
+      "mistakable"
     ],
     "answer": "(b) clear",
     "explanation": "ব্যাখ্যাঃ Unequivocal-সুস্পষ্ট, নিঃসন্দিগ্ধ; Clear-স্পষ্ট; Ambiguous-দ্ব্যর্থবোধক, অস্পষ্ট।"
@@ -856,10 +856,10 @@
     "id": 74,
     "question": "74. She was overstrung before the performance. (Antonyms) [BPDB-EEE/CE/CSE-21]",
     "options": [
-      "(a) excited",
-      "(b) calm",
-      "(c) enthusiastic",
-      "(d) cheerful"
+      "excited",
+      "calm",
+      "enthusiastic",
+      "cheerful"
     ],
     "answer": "(b) calm",
     "explanation": "ব্যাখ্যাঃ Overstrung-অতিরিক্ত উত্তেজিত বা স্নায়ুচাপগ্রস্ত; Calm-শান্ত।"
@@ -868,10 +868,10 @@
     "id": 75,
     "question": "75. Synonym of ‘high handed’. [BPDB-EEE/CE/CSE-21]",
     "options": [
-      "(a) oppressive",
-      "(b) demure",
-      "(c) diffident",
-      "(d) cringing"
+      "oppressive",
+      "demure",
+      "diffident",
+      "cringing"
     ],
     "answer": "(a) oppressive",
     "explanation": "ব্যাখ্যাঃ High-handed-স্বৈরাচারী, উদ্ধত; Oppressive-নিপীড়নমূলক, অত্যাচারী; Demure-লাজুক; Diffident-সংকোচী।"
@@ -880,10 +880,10 @@
     "id": 76,
     "question": "76. What is the antonym of ‘grumpy’ [BPDB-EEE/CE/CSE-21]",
     "options": [
-      "(a) surly",
-      "(b) cross",
-      "(c) good-humourd",
-      "(d) crabby"
+      "surly",
+      "cross",
+      "good-humourd",
+      "crabby"
     ],
     "answer": "(c) good-humourd",
     "explanation": "ব্যাখ্যাঃ Grumpy-বদমেজাজি, খিটখিটে; Good-humoured-হাসিখুশি, সদাহাস্যময়; Surly/Cross/Crabby-খিটখিটে।"
@@ -892,10 +892,10 @@
     "id": 77,
     "question": "77. Antonym of PAUCITY. [KGDCL-EEE/ME/CE-21]",
     "options": [
-      "(a) Surplus",
-      "(b) Scarcity",
-      "(c) Presence",
-      "(d) richness"
+      "Surplus",
+      "Scarcity",
+      "Presence",
+      "richness"
     ],
     "answer": "(a) Surplus",
     "explanation": "ব্যাখ্যাঃ Paucity-স্বল্পতা, ঘাটতি; Surplus-উদ্বৃত্ত, আধিক্য; Scarcity-ঘাটতি।"
@@ -904,10 +904,10 @@
     "id": 78,
     "question": "78. Antonym of CRASS. [TGTDCL-ME-21]",
     "options": [
-      "(a) gross",
-      "(b) refined",
-      "(c) coarse",
-      "(d) dense"
+      "gross",
+      "refined",
+      "coarse",
+      "dense"
     ],
     "answer": "(b) refined",
     "explanation": "ব্যাখ্যাঃ Crass-স্থূল, অমার্জিত; Refined-মার্জিত, পরিশীলিত; Gross/Coarse-স্থূল।"
@@ -916,10 +916,10 @@
     "id": 79,
     "question": "79. The antonym of ‘TEDIOUS’ is – [PGCB-ET-21]",
     "options": [
-      "(a) pleasant",
-      "(b) lovely",
-      "(c) lively",
-      "(d) gay"
+      "pleasant",
+      "lovely",
+      "lively",
+      "gay"
     ],
     "answer": "(c) lively",
     "explanation": "ব্যাখ্যাঃ Tedious-ক্লান্তিকর, বিরক্তিকর; Lively-প্রাণবন্ত, উদ্দীপনাপূর্ণ।"
@@ -928,10 +928,10 @@
     "id": 80,
     "question": "80. Choose the correct synonym for the word “Tedious”? [BPDB-ET-21]",
     "options": [
-      "(a) Amusing",
-      "(b) Dull",
-      "(c) Exciting",
-      "(d) Quick"
+      "Amusing",
+      "Dull",
+      "Exciting",
+      "Quick"
     ],
     "answer": "(b) Dull",
     "explanation": "ব্যাখ্যাঃ Tedious-একঘেয়ে, ক্লান্তিকর; Dull-একঘেয়ে, নিরানন্দ; Amusing-কৌতুকপূর্ণ; Exciting-উত্তেজনাপূর্ণ।"
@@ -940,10 +940,10 @@
     "id": 81,
     "question": "81. What is the synonym of the word “Brittle”? [BPDB-CT-21]",
     "options": [
-      "(a) Fragile",
-      "(b) Flexible",
-      "(c) Resilient",
-      "(d) Soft"
+      "Fragile",
+      "Flexible",
+      "Resilient",
+      "Soft"
     ],
     "answer": "(a) Fragile",
     "explanation": "ব্যাখ্যাঃ Brittle-ভঙ্গুর; Fragile-ভঙ্গুর, সহজে ভেঙে যায় এমন; Flexible-নমনীয়; Resilient-স্থিতিস্থাপক।"
@@ -952,10 +952,10 @@
     "id": 82,
     "question": "82. What is the antonym of the word “respect” is – . [JGTDSL-MT-21]",
     "options": [
-      "(a) safeguard",
-      "(b) ignore",
-      "(c) overlook",
-      "(d) forget"
+      "safeguard",
+      "ignore",
+      "overlook",
+      "forget"
     ],
     "answer": "(b) ignore",
     "explanation": "ব্যাখ্যাঃ Respect-শ্রদ্ধা করা, মান্য করা; Ignore-উপেক্ষা করা; Overlook-উপেক্ষা করা।"
@@ -964,10 +964,10 @@
     "id": 83,
     "question": "83. Which of the following is not the synonym of the word ‘Hazard’? [KGDCL-MT-21]",
     "options": [
-      "(a) Peril",
-      "(b) Safety",
-      "(c) Risk",
-      "(d) Threat"
+      "Peril",
+      "Safety",
+      "Risk",
+      "Threat"
     ],
     "answer": "(b) Safety",
     "explanation": "ব্যাখ্যাঃ Hazard-বিপদ, ঝুঁকি; Peril, Risk, Threat হলো সমার্থক শব্দ। Safety (নিরাপত্তা) সমার্থক নয়।"
@@ -976,10 +976,10 @@
     "id": 84,
     "question": "84. What is the antonym of ‘Ambivalent’? [APSCL-ET-21]",
     "options": [
-      "(a) Decisive",
-      "(b) Submissive",
-      "(c) Suspect",
-      "(d) Misleading"
+      "Decisive",
+      "Submissive",
+      "Suspect",
+      "Misleading"
     ],
     "answer": "(a) Decisive",
     "explanation": "ব্যাখ্যাঃ Ambivalent-দ্বিমুখী মনোভাবসম্পন্ন, সিদ্ধান্তহীন; Decisive-চূড়ান্ত, সিদ্ধান্তপূর্ণ।"
@@ -988,10 +988,10 @@
     "id": 85,
     "question": "85. What is the Antonym of ‘Ambiguous’? [APSCL-EEE-21]",
     "options": [
-      "(a) Secular",
-      "(b) Obscure",
-      "(c) Explicit",
-      "(d) Equivocate"
+      "Secular",
+      "Obscure",
+      "Explicit",
+      "Equivocate"
     ],
     "answer": "(c) Explicit",
     "explanation": "ব্যাখ্যাঃ Ambiguous-দ্ব্যর্থবোধক, অস্পষ্ট; Explicit-সুস্পষ্ট, ব্যক্ত; Obscure-অস্পষ্ট।"
@@ -1014,10 +1014,10 @@
     "id": 88,
     "question": "88. Select the pair which has the same relationship- FILTER: WATER [BPDB-ENT&PT-21]",
     "options": [
-      "(a) Curtail: activity",
-      "(b) expunge: book",
-      "(c) edit: text",
-      "(d) censor: play"
+      "Curtail: activity",
+      "expunge: book",
+      "edit: text",
+      "censor: play"
     ],
     "answer": "(d) censor: play",
     "explanation": "ব্যাখ্যাঃ Water ফিল্টার করার মাধ্যমে অশুদ্ধতা বাদ দেওয়া হয়, তেমনি নাটকে সেন্সর করার মাধ্যমে অনাকাঙ্ক্ষিত অংশ বাদ দেওয়া হয়।"
@@ -1026,10 +1026,10 @@
     "id": 89,
     "question": "89. Choose the correct antonym of ‘Cogent’? [PGCB-CT-21]",
     "options": [
-      "(a) imminent",
-      "(b) bold",
-      "(c) Unconvincing",
-      "(d) forcible"
+      "imminent",
+      "bold",
+      "Unconvincing",
+      "forcible"
     ],
     "answer": "(c) Unconvincing",
     "explanation": "ব্যাখ্যাঃ Cogent-অকাট্য, প্রত্যয়জনক; Unconvincing-অবিশ্বাস্য, অপ্রত্যয়জনক।"
@@ -1038,10 +1038,10 @@
     "id": 90,
     "question": "90. What is the antonyms of Bitter? [BPDB-MT-21]",
     "options": [
-      "(a) Sharp",
-      "(b) Sweet",
-      "(c) Sour",
-      "(d) Pungent"
+      "Sharp",
+      "Sweet",
+      "Sour",
+      "Pungent"
     ],
     "answer": "(b) Sweet",
     "explanation": "ব্যাখ্যাঃ Bitter-তিক্ত, তেতো; Sweet-মিষ্টি; Sour-টক; Pungent-ঝাঁঝালো।"
@@ -1050,10 +1050,10 @@
     "id": 91,
     "question": "91. Find the synonym of the underline word. Floods often devastate the rice crop, the area's principal export, resulting in a year of great torture for the inhabitants. [PGCB-MT-20]",
     "options": [
-      "(a) fracture",
-      "(b) scatter",
-      "(c) destroy",
-      "(d) put across"
+      "fracture",
+      "scatter",
+      "destroy",
+      "put across"
     ],
     "answer": "(c) destroy",
     "explanation": "ব্যাখ্যাঃ Devastate-বিধ্বস্ত করা, ধ্বংস করা; Destroy-ধ্বংস করা; Scatter-ছড়িয়ে দেওয়া।"
@@ -1062,10 +1062,10 @@
     "id": 92,
     "question": "92. Transparent-এর বিপরীত শব্দ কী?[BRPL-19, BCMCL-ME-20, CPGCBL-ME/EEE-23]",
     "options": [
-      "(a) clear",
-      "(b) pure",
-      "(c) opaque",
-      "(d) burglar"
+      "clear",
+      "pure",
+      "opaque",
+      "burglar"
     ],
     "answer": "(c) opaque",
     "explanation": "ব্যাখ্যাঃ Transparent-স্বচ্ছ; Opaque-অস্বচ্ছ; Clear-পরিষ্কার; Pure-বিশুদ্ধ।"
@@ -1074,10 +1074,10 @@
     "id": 93,
     "question": "93. Synonym of stringent? [BCMCL-ME-20]",
     "options": [
-      "(a) very strict",
-      "(b) strong",
-      "(c) strength",
-      "(d) elastic"
+      "very strict",
+      "strong",
+      "strength",
+      "elastic"
     ],
     "answer": "(a) very strict",
     "explanation": "ব্যাখ্যাঃ Stringent-কঠোর, কড়াকড়ি; Very strict-খুব কঠোর; Elastic-স্থিতিস্থাপক।"
@@ -1086,10 +1086,10 @@
     "id": 94,
     "question": "94. Synonym of ‘petrified’ is [DMTCL-ME-19, BMTCL-20]",
     "options": [
-      "(a) Terrified",
-      "(b) struggled",
-      "(c) Revolted",
-      "(d) stringent"
+      "Terrified",
+      "struggled",
+      "Revolted",
+      "stringent"
     ],
     "answer": "(a) Terrified",
     "explanation": "ব্যাখ্যাঃ Petrified-আতঙ্কগ্রস্ত, স্তম্ভিত; Terrified-ভীতসন্ত্রস্ত।"
@@ -1098,10 +1098,10 @@
     "id": 95,
     "question": "95. Which word is the opposite of CONCISE? [DWASA-ET-19]",
     "options": [
-      "(a) Lengthy",
-      "(b) Generous",
-      "(c) Loose",
-      "(d) Brief"
+      "Lengthy",
+      "Generous",
+      "Loose",
+      "Brief"
     ],
     "answer": "(a) Lengthy",
     "explanation": "ব্যাখ্যাঃ Concise-সংক্ষিপ্ত; Lengthy-দীর্ঘায়িত; Brief-সংক্ষিপ্ত; Generous-উদার।"
@@ -1110,10 +1110,10 @@
     "id": 96,
     "question": "96. Which word means the same as ABSOLUTE? [DWASA-ET-19]",
     "options": [
-      "(a) Complete",
-      "(b) Division",
-      "(c) Small",
-      "(d) Half"
+      "Complete",
+      "Division",
+      "Small",
+      "Half"
     ],
     "answer": "(a) Complete",
     "explanation": "ব্যাখ্যাঃ Absolute-পরম, পূর্ণাঙ্গ; Complete-সম্পূর্ণ, পূর্ণাঙ্গ; Division-বিভাগ।"
@@ -1122,10 +1122,10 @@
     "id": 97,
     "question": "97. Which word means the same as CORDIAL? [DWASA-ET-19]",
     "options": [
-      "(a) Smooth",
-      "(b) Friendly",
-      "(c) Sophisticated",
-      "(d) Reserved"
+      "Smooth",
+      "Friendly",
+      "Sophisticated",
+      "Reserved"
     ],
     "answer": "(b) Friendly",
     "explanation": "ব্যাখ্যাঃ Cordial-আন্তরিক, সৌহার্দ্যপূর্ণ; Friendly-বন্ধুভাবাপন্ন; Reserved-সংযত।"
@@ -1134,10 +1134,10 @@
     "id": 98,
     "question": "98. The synonym of the word ‘immediately’ is [PGCB-ET-19]",
     "options": [
-      "(a) hastily",
-      "(b) at once",
-      "(c) belatedly",
-      "(d) slowly"
+      "hastily",
+      "at once",
+      "belatedly",
+      "slowly"
     ],
     "answer": "(b) at once",
     "explanation": "ব্যাখ্যাঃ Immediately-অবিলম্বে, তৎক্ষণাৎ; At once-তৎক্ষণাৎ; Belatedly-দেরিতে; Slowly-ধীরে।"
@@ -1146,10 +1146,10 @@
     "id": 99,
     "question": "99. Sky is to bird as ‘water’ is to ...... [PGCB-ET-19]",
     "options": [
-      "(a) feather",
-      "(b) boat",
-      "(c) fish",
-      "(d) lotus"
+      "feather",
+      "boat",
+      "fish",
+      "lotus"
     ],
     "answer": "(c) fish",
     "explanation": "ব্যাখ্যাঃ পাখি আকাশে উড়ে/বসবাস করে, তেমনি মাছ পানিতে থাকে।"
@@ -1158,10 +1158,10 @@
     "id": 100,
     "question": "100. Antonym of ‘protect’----- [DMTCL-ME-19]",
     "options": [
-      "(a) save",
-      "(b) expose",
-      "(c) attack",
-      "(d) none"
+      "save",
+      "expose",
+      "attack",
+      "none"
     ],
     "answer": "(c) attack",
     "explanation": "ব্যাখ্যাঃ Protect-রক্ষা করা; Attack-আক্রমণ করা; Save-বাঁচানো; Expose-উন্মোচন করা।"
@@ -1170,10 +1170,10 @@
     "id": 101,
     "question": "101. Synonyms of ‘imbibe’ ------ [BIWTA-ME-19]",
     "options": [
-      "(a) talk",
-      "(b) drink",
-      "(c) dream",
-      "(d) walk"
+      "talk",
+      "drink",
+      "dream",
+      "walk"
     ],
     "answer": "(b) drink",
     "explanation": "ব্যাখ্যাঃ Imbibe-পান করা, শোষণ করা; Drink-পান করা।"
@@ -1182,10 +1182,10 @@
     "id": 102,
     "question": "102. Synonyms of ‘plebiscite’----- [BIWTA-ME-19]",
     "options": [
-      "(a) vote",
-      "(b) pray",
-      "(c) collect",
-      "(d) show"
+      "vote",
+      "pray",
+      "collect",
+      "show"
     ],
     "answer": "(a) vote",
     "explanation": "ব্যাখ্যাঃ Plebiscite-গণভোট; Vote-ভোট প্রদান।"
@@ -1194,10 +1194,10 @@
     "id": 103,
     "question": "103. Antonyms of “supercilious” [BIWTA-ME-19]",
     "options": [
-      "(a) simple",
-      "(b) hostile",
-      "(c) humble",
-      "(d) rude"
+      "simple",
+      "hostile",
+      "humble",
+      "rude"
     ],
     "answer": "(c) humble",
     "explanation": "ব্যাখ্যাঃ Supercilious-উদ্ধত, অহংকারী; Humble-নম্র, বিনয়ী; Rude-অভদ্র।"
@@ -1206,10 +1206,10 @@
     "id": 104,
     "question": "104. An ‘erratic’ person is one who is ....... [DESCO-ME-19]",
     "options": [
-      "(a) pleasant",
-      "(b) honest",
-      "(c) unreliable",
-      "(d) ration"
+      "pleasant",
+      "honest",
+      "unreliable",
+      "ration"
     ],
     "answer": "(c) unreliable",
     "explanation": "ব্যাখ্যাঃ Erratic-অস্থিরচিত্ত, খামখেয়ালী, অনির্ভরযোগ্য; Unreliable-অনির্ভরযোগ্য।"
@@ -1218,10 +1218,10 @@
     "id": 105,
     "question": "105. Antonyms of “elegance” is --------- [DPDC-ME-19]",
     "options": [
-      "(a) dominance",
-      "(b) nonsense",
-      "(c) charming",
-      "(d) ugliness"
+      "dominance",
+      "nonsense",
+      "charming",
+      "ugliness"
     ],
     "answer": "(d) ugliness",
     "explanation": "ব্যাখ্যাঃ Elegance-মার্জিত রূপ, সৌন্দর্য; Ugliness-কুৎসিত রূপ, কদর্যতা।"
@@ -1230,10 +1230,10 @@
     "id": 106,
     "question": "106. Synonym of “Corruptions stalk every sphere of national life” [DPDC-ME-19]",
     "options": [
-      "(a) pervades",
-      "(b) penetrates",
-      "(c) pollutes",
-      "(d) poisons"
+      "pervades",
+      "penetrates",
+      "pollutes",
+      "poisons"
     ],
     "answer": "(a) pervades",
     "explanation": "ব্যাখ্যাঃ Stalk (এখানে ছড়িয়ে থাকা/ব্যাপ্ত থাকা অর্থে); Pervades-সর্বত্র ছড়িয়ে থাকা, পরিব্যাপ্ত হওয়া।"
@@ -1242,10 +1242,10 @@
     "id": 107,
     "question": "107. Antonym of “Hearten” [DPDC-ME-19]",
     "options": [
-      "(a) keep cool",
-      "(b) speak softly",
-      "(c) slow down",
-      "(d) discourage"
+      "keep cool",
+      "speak softly",
+      "slow down",
+      "discourage"
     ],
     "answer": "(d) discourage",
     "explanation": "ব্যাখ্যাঃ Hearten-উৎসাহিত করা; Discourage-নিরুৎসাহিত করা।"
@@ -1254,10 +1254,10 @@
     "id": 108,
     "question": "108. Anonyms of ‘Soothe’. [BCIC, DESCO, DPDC-ME-19]",
     "options": [
-      "(a) Irritate",
-      "(b) Acknowledge",
-      "(c) Tolerate",
-      "(d) Charm"
+      "Irritate",
+      "Acknowledge",
+      "Tolerate",
+      "Charm"
     ],
     "answer": "(a) Irritate",
     "explanation": "ব্যাখ্যাঃ Soothe-শান্ত করা, উপশম করা; Irritate-উত্ত্যক্ত করা, বিরক্ত করা।"
@@ -1266,10 +1266,10 @@
     "id": 109,
     "question": "109. The Antonym of ‘Recalcitrant’ – [APSCL, FRPL, PGCB-ME-19]",
     "options": [
-      "(a) Compliant",
-      "(b) Passive",
-      "(c) Indifferent",
-      "(d) Careful"
+      "Compliant",
+      "Passive",
+      "Indifferent",
+      "Careful"
     ],
     "answer": "(a) Compliant",
     "explanation": "ব্যাখ্যাঃ Recalcitrant-অবাধ্য, একগুঁয়ে; Compliant-বাধ্য, অনুগত।"
@@ -1278,10 +1278,10 @@
     "id": 110,
     "question": "110. Marvellous: ......... Wonderful: terrible [DESCO-ME-19]",
     "options": [
-      "(a) Dire",
-      "(b) Wonderful",
-      "(c) Terrible",
-      "(d) Awful"
+      "Dire",
+      "Wonderful",
+      "Terrible",
+      "Awful"
     ],
     "answer": "(a) Dire",
     "explanation": "ব্যাখ্যাঃ Wonderful এর বিপরীত terrible, তেমনি Marvellous এর বিপরীত dire (ভয়াবহ/মারাত্মক)।"
@@ -1290,10 +1290,10 @@
     "id": 111,
     "question": "111. Lion: pride: Wolf: ----? [B R-Power-ME-19]",
     "options": [
-      "(a) Herd",
-      "(b) Flock",
-      "(c) pack",
-      "(d) Gaggle"
+      "Herd",
+      "Flock",
+      "pack",
+      "Gaggle"
     ],
     "answer": "(c) pack",
     "explanation": "ব্যাখ্যাঃ সিংহের দলকে বলা হয় pride, নেকড়ের দলকে বলা হয় pack।"
@@ -1302,10 +1302,10 @@
     "id": 112,
     "question": "112. Enzymes are? [BCIC-ME-19]",
     "options": [
-      "(a) Proteins",
-      "(b) carbohydrates",
-      "(c) Fats",
-      "(d) None of the above"
+      "Proteins",
+      "carbohydrates",
+      "Fats",
+      "None of the above"
     ],
     "answer": "(a) Proteins",
     "explanation": "ব্যাখ্যাঃ সকল এনজাইমই মূলত প্রোটিন (Proteins)।"
@@ -1314,10 +1314,10 @@
     "id": 113,
     "question": "113. The word ‘lucrative’ means [BCIC-ME-19]",
     "options": [
-      "(a) Profitable",
-      "(b) oil",
-      "(c) Professional",
-      "(d) good"
+      "Profitable",
+      "oil",
+      "Professional",
+      "good"
     ],
     "answer": "(a) Profitable",
     "explanation": "ব্যাখ্যাঃ Lucrative-লাভজনক; Profitable-লাভজনক।"
@@ -1326,10 +1326,10 @@
     "id": 114,
     "question": "114. What is the synonym of “Trust”? [DPDC-ME-19]",
     "options": [
-      "(a) Proof",
-      "(b) Belief",
-      "(c) Repose",
-      "(d) Faith"
+      "Proof",
+      "Belief",
+      "Repose",
+      "Faith"
     ],
     "answer": "(d) Faith",
     "explanation": "ব্যাখ্যাঃ Trust-বিশ্বাস; Faith-বিশ্বাস; Belief-বিশ্বাস।"
@@ -1338,10 +1338,10 @@
     "id": 115,
     "question": "115. What is the antonym of “Absurd”? [DPDC-ME-19]",
     "options": [
-      "(a) Fiction",
-      "(b) Rational",
-      "(c) Proportional",
-      "(d) Useless"
+      "Fiction",
+      "Rational",
+      "Proportional",
+      "Useless"
     ],
     "answer": "(b) Rational",
     "explanation": "ব্যাখ্যাঃ Absurd-অযৌক্তিক, হাস্যকর; Rational-যৌক্তিক, বুদ্ধিদীপ্ত।"
@@ -1350,10 +1350,10 @@
     "id": 116,
     "question": "116. What is the antonym of “Common’ is [BCIC-ME-19]",
     "options": [
-      "(a) Rare",
-      "(b) Small",
-      "(c) Petty",
-      "(d) Poor"
+      "Rare",
+      "Small",
+      "Petty",
+      "Poor"
     ],
     "answer": "(a) Rare",
     "explanation": "ব্যাখ্যাঃ Common-সাধারণ; Rare-বিরল, দুর্লভ।"
@@ -1362,10 +1362,10 @@
     "id": 117,
     "question": "117. Tournament: Trophy: [DESCO-ME-19]",
     "options": [
-      "(a) School: Teacher",
-      "(b) Rain: River",
-      "(c) Water: Fish",
-      "(d) Study: Certificate"
+      "School: Teacher",
+      "Rain: River",
+      "Water: Fish",
+      "Study: Certificate"
     ],
     "answer": "(d) Study: Certificate",
     "explanation": "ব্যাখ্যাঃ Tournament সম্পন্ন হলে Trophy অর্জন করা যায়, তেমনি Study শেষ করলে Certificate পাওয়া যায়।"
@@ -1381,10 +1381,10 @@
     "id": 119,
     "question": "119. The opposite of ‘hate’ is ...... [BSEC-ET-18]",
     "options": [
-      "(a) Enemy",
-      "(b) Fear",
-      "(c) Love",
-      "(d) Friendship"
+      "Enemy",
+      "Fear",
+      "Love",
+      "Friendship"
     ],
     "answer": "(c) Love",
     "explanation": "ব্যাখ্যাঃ Hate-ঘৃণা করা; Love-ভালোবাসা।"
@@ -1442,10 +1442,10 @@
     "id": 127,
     "question": "127. Antonym of ‘elegance’ is ………… [MES-CE-16]",
     "options": [
-      "(a) wrong",
-      "(b) Charm",
-      "(c) Grace",
-      "(d) Cleanness"
+      "wrong",
+      "Charm",
+      "Grace",
+      "Cleanness"
     ],
     "answer": "(a) wrong",
     "explanation": "ব্যাখ্যাঃ elegance অর্থ-কমনীয়তা, লালিত্য; Antonyms: graceless, wrong, ungracious, unpolished, homely, awkward, gauche ইত্যাদি।"
@@ -1454,10 +1454,10 @@
     "id": 128,
     "question": "128. Electricity: wire [NESCO-CE-18]",
     "options": [
-      "(a) car : highway",
-      "(b) fluid : pipe",
-      "(c) river : bank",
-      "(d) light : bulb"
+      "car : highway",
+      "fluid : pipe",
+      "river : bank",
+      "light : bulb"
     ],
     "answer": "(b) fluid : pipe",
     "explanation": "ব্যাখ্যাঃ Electricity যেমন wire বা তারের মধ্যদিয়ে প্রবাহিত হয়, fluid তেমনি pipe এর মধ্য দিয়ে প্রবাহিত হয়।"
@@ -1466,10 +1466,10 @@
     "id": 129,
     "question": "129. What is the antonym of ‘impervious’? [NESCO-CE-18]",
     "options": [
-      "(a) tolerable",
-      "(b) convince",
-      "(c) penetrable",
-      "(d) hidden"
+      "tolerable",
+      "convince",
+      "penetrable",
+      "hidden"
     ],
     "answer": "(c) penetrable",
     "explanation": "ব্যাখ্যাঃ impervious অর্থ-অসংবেদনশীল, অভেদ্য। Antonyms: penetrable, porous, spongy, absorbent ইত্যাদি।"
@@ -1478,10 +1478,10 @@
     "id": 130,
     "question": "130. What is the synonym of ‘Meager’? [BADC-ME-16]",
     "options": [
-      "(a) scanty",
-      "(b) offensive",
-      "(c) tasty",
-      "(d) darkness"
+      "scanty",
+      "offensive",
+      "tasty",
+      "darkness"
     ],
     "answer": "(a) scanty",
     "explanation": "ব্যাখ্যাঃ Meager অর্থ অপ্রাপ্ত, অপ্রচুর ইত্যাদি। Synonyms: scanty, scant, paltry, limited, restricted, sparse, skimpy, slight, pathetic etc."
@@ -1490,10 +1490,10 @@
     "id": 131,
     "question": "131. What is the synonym of ‘Aggravate’? [BADC-ME-16]",
     "options": [
-      "(a) accommodate",
-      "(b) acquire",
-      "(c) worsen",
-      "(d) harmony"
+      "accommodate",
+      "acquire",
+      "worsen",
+      "harmony"
     ],
     "answer": "(c) worsen",
     "explanation": "ব্যাখ্যাঃ Aggravate অর্থ বাড়াবাড়ি, উত্ত্যক্ত করা ইত্যাদি। Synonyms: worsen, annoy, anger, put out, provoke, rile, ruffle, needle ইত্যাদি।"
@@ -1502,10 +1502,10 @@
     "id": 132,
     "question": "132. What is the synonym of ‘Malice’? [BADC-ME-16]",
     "options": [
-      "(a) cruelty",
-      "(b) beauty",
-      "(c) compromise",
-      "(d) massive"
+      "cruelty",
+      "beauty",
+      "compromise",
+      "massive"
     ],
     "answer": "(a) cruelty",
     "explanation": "ব্যাখ্যাঃ Malice অর্থ বিদ্বেষ; Synonyms: spite, hatred, revenge, devilry, cruelty, backbiting, envy ইত্যাদি।"
@@ -1514,10 +1514,10 @@
     "id": 133,
     "question": "133. What is the synonym of ‘Futile’? [BADC-ME-16]",
     "options": [
-      "(a) hard",
-      "(b) useless",
-      "(c) pervert",
-      "(d) furbish"
+      "hard",
+      "useless",
+      "pervert",
+      "furbish"
     ],
     "answer": "(b) useless",
     "explanation": "ব্যাখ্যাঃ Futile অর্থ নিরর্থক। Synonyms: useless, nonsense, hopeless, vain, unsuccessful, luckless, foiled ইত্যাদি।"
@@ -1526,10 +1526,10 @@
     "id": 134,
     "question": "134. What is the nearest meaning of “commemoration”? [BCIC-ME-16, 18]",
     "options": [
-      "(a) Cooperation",
-      "(b) Celebration",
-      "(c) Relation",
-      "(d) Collision"
+      "Cooperation",
+      "Celebration",
+      "Relation",
+      "Collision"
     ],
     "answer": "(b) Celebration",
     "explanation": "ব্যাখ্যাঃ Commemoration অর্থ স্মরণ, স্মৃতি রক্ষা ইত্যাদি। Co-operation – সহযোগিতা, Relation – সম্পর্ক, Collision – সংঘর্ষ, Celebration – উদযাপন। সুতরাং, Commemoration এর নিকটতম শব্দ Celebration।"
@@ -1580,10 +1580,10 @@
     "id": 141,
     "question": "141. Ominous antonym is-----? [GTCL-ME-16]",
     "options": [
-      "(a) Auspicious",
-      "(b) Evil",
-      "(c) Sinister",
-      "(d) Demoric"
+      "Auspicious",
+      "Evil",
+      "Sinister",
+      "Demoric"
     ],
     "answer": "(a) Auspicious",
     "explanation": "ব্যাখ্যাঃ Ominous অর্থ অশুভ। Antonyms: Promising, auspicious, propitious ইত্যাদি। Auspicious অর্থ মঙ্গলজনক, Evil-অশুভ, মন্দ, Sinister-অশুভ।"
@@ -1592,10 +1592,10 @@
     "id": 142,
     "question": "142. What is the synonym of ‘Abhorrence’? [KGDCL-EEE-16]",
     "options": [
-      "(a) Asmira",
-      "(b) Concern",
-      "(c) Hate",
-      "(d) Kindness"
+      "Asmira",
+      "Concern",
+      "Hate",
+      "Kindness"
     ],
     "answer": "(c) Hate",
     "explanation": "ব্যাখ্যাঃ Abhorrence শব্দের অর্থ ঘৃণা। Synonyms: hatred, loathing, disgust, hate, dislike, animosity ইত্যাদি।"
@@ -1604,10 +1604,10 @@
     "id": 143,
     "question": "143. What is the antonyms of ‘Adolescence’? [ERL-ME-17]",
     "options": [
-      "(a) Adult",
-      "(b) Contamination",
-      "(c) Pure",
-      "(d) Colorful"
+      "Adult",
+      "Contamination",
+      "Pure",
+      "Colorful"
     ],
     "answer": "(a) Adult",
     "explanation": "ব্যাখ্যাঃ Adolescence অর্থ কৈশোর। Synonyms: teen, young, youthful, pubescent ইত্যাদি।"
@@ -1616,10 +1616,10 @@
     "id": 144,
     "question": "144. What is the meaning of ‘coma’ [BCIC-ME-16]",
     "options": [
-      "(a) Sleep lightly",
-      "(b) habitual sleeplessness",
-      "(c) A state of deep unconsciousness",
-      "(d) a punctuation"
+      "Sleep lightly",
+      "habitual sleeplessness",
+      "A state of deep unconsciousness",
+      "a punctuation"
     ],
     "answer": "(c) A state of deep unconsciousness",
     "explanation": "ব্যাখ্যাঃ গভীর অচেতন অবস্থাকে বলা হয় ‘coma’। যতি চিহ্নে যে কমা ব্যবহৃত হয় তার বানান ‘comma’।"
@@ -1628,10 +1628,10 @@
     "id": 145,
     "question": "145. Eulogy means [DWASA-ME-17]",
     "options": [
-      "(a) Tribute",
-      "(b) Criticism",
-      "(c) Hate",
-      "(d) Disapproval"
+      "Tribute",
+      "Criticism",
+      "Hate",
+      "Disapproval"
     ],
     "answer": "(a) Tribute",
     "explanation": "ব্যাখ্যাঃ Eulogy অর্থ-প্রশংসা; প্রতিশব্দ : Tribute, accolade, panegyric, encomium, praise, acclaim, homage ইত্যাদি। Criticism অর্থ-সমালোচনা, Hate অর্থ-ঘৃণা, Disapproval অর্থ অসমর্থন।"
@@ -1640,10 +1640,10 @@
     "id": 146,
     "question": "146. Examination strategy is a [DPDC-ME-16]",
     "options": [
-      "(a) syllabus for examination",
-      "(b) skill for examination",
-      "(c) Test of memory",
-      "(d) preparation for examination"
+      "syllabus for examination",
+      "skill for examination",
+      "Test of memory",
+      "preparation for examination"
     ],
     "answer": "(b) skill for examination",
     "explanation": "ব্যাখ্যাঃ Examination strategy হল পরীক্ষার কৌশল - Skill for examination."
@@ -1652,10 +1652,10 @@
     "id": 147,
     "question": "147. What is the synonym of ‘Felicitation’? [DESCO-ME-16]",
     "options": [
-      "(a) Congratulation",
-      "(b) Facilitation",
-      "(c) Fiction",
-      "(d) Discourage"
+      "Congratulation",
+      "Facilitation",
+      "Fiction",
+      "Discourage"
     ],
     "answer": "(a) Congratulation",
     "explanation": "ব্যাখ্যাঃ Felicitation শব্দের অর্থ-অভিনন্দন। Synonyms: Congratulation, good wishes, ovation, cheers, eulogy, approval, praise ইত্যাদি।"
@@ -1664,10 +1664,10 @@
     "id": 148,
     "question": "148. The resignation of Md. Jobber from his job is intriguing. Here what is the closest meaning of ‘intriguing’? [KGDCL-EEE-16]",
     "options": [
-      "(a) Curious",
-      "(b) Tempting",
-      "(c) Secret",
-      "(d) Diplomatic"
+      "Curious",
+      "Tempting",
+      "Secret",
+      "Diplomatic"
     ],
     "answer": "(a) Curious",
     "explanation": "ব্যাখ্যাঃ Intriguing অর্থ-উদ্ভট। Synonyms: Intriguing, jealous, malicious, spiteful ইত্যাদি।"
@@ -1676,10 +1676,10 @@
     "id": 149,
     "question": "149. The origin of the word ‘Lunar’ is [BCIC-ME-16]",
     "options": [
-      "(a) Sun",
-      "(b) Planet",
-      "(c) Moon",
-      "(d) Air"
+      "Sun",
+      "Planet",
+      "Moon",
+      "Air"
     ],
     "answer": "(c) Moon",
     "explanation": "ব্যাখ্যাঃ Moon এর ল্যাটিন adjective হল Lunar যার অর্থ-চন্দ্রসংক্রান্ত।"
@@ -1688,10 +1688,10 @@
     "id": 150,
     "question": "150. What is the synonym of ‘meticulous’? [DESCO-ME-16]",
     "options": [
-      "(a) Careless",
-      "(b) Ordinary",
-      "(c) Careful",
-      "(d) Meritorious"
+      "Careless",
+      "Ordinary",
+      "Careful",
+      "Meritorious"
     ],
     "answer": "(c) Careful",
     "explanation": "ব্যাখ্যাঃ Meticulous শব্দের অর্থ-সাবধানী। প্রতিশব্দঃ- Careful, conscientious, diligent, exacting, accurate, correct, thorough ইত্যাদি।"
@@ -1700,10 +1700,10 @@
     "id": 151,
     "question": "151. What is the synonym of ‘Ominous’? [DWASA-ME-17]",
     "options": [
-      "(a) Poisonous",
-      "(b) Foregone",
-      "(c) Foreboding",
-      "(d) Bad"
+      "Poisonous",
+      "Foregone",
+      "Foreboding",
+      "Bad"
     ],
     "answer": "(c) Foreboding",
     "explanation": "ব্যাখ্যাঃ Ominous শব্দের অর্থ-অশুভ। প্রতিশব্দঃ-Foreboding, menacing, baleful, sinister, doomy, black, dark, gloomy, ugly ইত্যাদি।"
@@ -1712,10 +1712,10 @@
     "id": 152,
     "question": "152. What is the synonym of ‘pious’? [DESCO-ME-16]",
     "options": [
-      "(a) Religious",
-      "(b) Sympathetic",
-      "(c) Afraid",
-      "(d) Faithful"
+      "Religious",
+      "Sympathetic",
+      "Afraid",
+      "Faithful"
     ],
     "answer": "(a) Religious",
     "explanation": "ব্যাখ্যাঃ Pious শব্দের অর্থ ধার্মিক। Synonyms: Religious, godly, just, devout, righteous, scared, holy ইত্যাদি।"
@@ -1724,10 +1724,10 @@
     "id": 153,
     "question": "153. Jobber has grown in placid surrounding. Here what is the meaning of ‘placid surrounding’? [BCIC-ME-16]",
     "options": [
-      "(a) Serene environment",
-      "(b) storming environment",
-      "(c) Adverse Environment",
-      "(d) none of these"
+      "Serene environment",
+      "storming environment",
+      "Adverse Environment",
+      "none of these"
     ],
     "answer": "(a) Serene environment",
     "explanation": "ব্যাখ্যাঃ Placid শব্দের অর্থ-প্রশান্ত; যা serene এর সমার্থক।"
@@ -1736,10 +1736,10 @@
     "id": 154,
     "question": "154. What does the expression ‘primitive societies’ mean? [DPDC-ME-16]",
     "options": [
-      "(a) Primary stage of societies",
-      "(b) prominent societies",
-      "(c) Ancient Societies",
-      "(d) promising societies"
+      "Primary stage of societies",
+      "prominent societies",
+      "Ancient Societies",
+      "promising societies"
     ],
     "answer": "(c) Ancient Societies",
     "explanation": "ব্যাখ্যাঃ Primitive societies অর্থ-আদিম সমাজ। আবার, Ancient societies অর্থ-প্রাচীন সমাজ।"
@@ -1748,10 +1748,10 @@
     "id": 155,
     "question": "155. What is the synonym of “Push”? [ERL-ME-17]",
     "options": [
-      "(a) Interpret",
-      "(b) Shout",
-      "(c) Restrain",
-      "(d) Barge"
+      "Interpret",
+      "Shout",
+      "Restrain",
+      "Barge"
     ],
     "answer": "(d) Barge",
     "explanation": "ব্যাখ্যাঃ Push অর্থ ধাক্কা। প্রতিশব্দঃ Impel, send, press, bump, knock, strike barge ইত্যাদি।"
@@ -1760,10 +1760,10 @@
     "id": 156,
     "question": "156. What is the synonym of “Respect”? [DPDC-ME-19]",
     "options": [
-      "(a) Kowtow",
-      "(b) Illuminate",
-      "(c) Practise",
-      "(d) Blockhead"
+      "Kowtow",
+      "Illuminate",
+      "Practise",
+      "Blockhead"
     ],
     "answer": "(a) Kowtow",
     "explanation": "ব্যাখ্যাঃ Respect অর্থ-সম্মান। Synonyms: respect, fovaur, dignity, rank, respect, kowtow, reverence ইত্যাদি।"
@@ -1772,10 +1772,10 @@
     "id": 157,
     "question": "157. What is the synonym of “reverence”? [PGCB & KGDCL-EEE-16]",
     "options": [
-      "(a) Respect",
-      "(b) Dishonor",
-      "(c) Affront",
-      "(d) Revoke"
+      "Respect",
+      "Dishonor",
+      "Affront",
+      "Revoke"
     ],
     "answer": "(a) Respect",
     "explanation": "ব্যাখ্যাঃ Reverence অর্থ-শ্রদ্ধা। Synonyms: devotion, faith, trust, attachment, respect, devoutness ইত্যাদি।"
@@ -1784,10 +1784,10 @@
     "id": 158,
     "question": "158. What is the synonym of “Thrust”? [ERL-ME-17]",
     "options": [
-      "(a) Drag",
-      "(b) Kindle",
-      "(c) Back",
-      "(d) Shove"
+      "Drag",
+      "Kindle",
+      "Back",
+      "Shove"
     ],
     "answer": "(d) Shove",
     "explanation": "ব্যাখ্যাঃ Thrust শব্দের অর্থ-জোর দেওয়া, ধাক্কা ইত্যাদি। প্রতিশব্দঃ- Shove, push, propel, impel, hit, force."
@@ -1796,10 +1796,10 @@
     "id": 159,
     "question": "159. The antonym of ‘boisterous’ is- [46th BCS]",
     "options": [
-      "(a) noisy",
-      "(b) quit",
-      "(c) unruly",
-      "(d) cheerful"
+      "noisy",
+      "quit",
+      "unruly",
+      "cheerful"
     ],
     "answer": "উত্তর: *",
     "explanation": "ব্যাখ্যাঃ Boisterous-হইচইপূর্ণ, প্রচন্ড, ফুর্তিবাজ। Unruly-অশান্ত, দুরন্ত। Noisy-কোলাহল মুখর। Cheerful-প্রফুল্ল। Quit- অব্যাহতিপ্রাপ্ত, মুক্ত। Note: সঠিক উত্তরে হবে quiet । যার অর্থ শান্ত স্থির।"
