@@ -17,7 +17,8 @@
 | **Class 9-10 Computer GK** | Textbook & General GK | — | — | 1,164 (10) | — | **10** | **1,164** | [`class 9-10-Computer-GK.html`](class%209-10-Computer-GK.html) | **100% Complete** |
 | **ICT Wizard NTRCA** | Codes 313 & 325 | — | — | 594 (7) | — | **7** | **594** | [`Ict-wizard-NTRCA-313-and-325.html`](Ict-wizard-NTRCA-313-and-325.html) | **100% Complete** |
 | **BPSC Non-Tech Digest** | Images (`p30`–`p1130`) | 1,248 (83 pages) | 1,558 (97 pages) | 1,855 (139 pages: BD 613, Intl 540, Science 545, ICT 157) | 1,003 (129 pages) | **448** | **5,664** | [`BPSC-Non-Tech.html`](BPSC-Non-Tech.html) | **100% Completed Across All 7 Subjects** |
-| **Repository Grand Total** | **8 Projects** | **8,832** | **7,978** | **13,546** | **5,882** | **1,054 modules** | **38,160 MCQs** | [`index.html`](index.html) | **100% Completed & Verified** |
+| **BPSC ICT Wizard** | PDF (`PDF/BPSC ICT Wizard/`) | — | — | 567 (11) | — | **11** | **567** | — | **100% Completed & Verified (Only MCQs)** |
+| **Repository Grand Total** | **9 Projects** | **8,832** | **7,978** | **14,113** | **5,882** | **1,065 modules** | **38,727 MCQs** | [`index.html`](index.html) | **100% Completed & Verified** |
 
 ## 🎯 BUET Pattern (Non Dept.) - Conversion Progress
 
@@ -220,6 +221,36 @@
   - Bengali and English typography switches (Hind Siliguri, Anek Bangla, Noto Sans Bengali, Inter).
   - Print & PDF export view.
 - **Central Portal Integration:** Integrated into [`index.html`](index.html) as Card 2, top navigation bar button, and updated grand totals (38,160 MCQs across 8 banks and 1,054 modules).
+
+---
+
+## 🎯 BPSC ICT Wizard - Conversion Progress
+- **Source PDFs:** `PDF/BPSC ICT Wizard/` (11 PDF files)
+- **Target Output Directory:** `JSON Data/BPSC ICT Wizard/`
+- **Rule Followed:** MCQ questions (`id`, `question`, `options`, `answer`, `explanation`), precise technical explanations added, filenames matching source PDFs.
+- **Status:** **100% COMPLETED, AUDITED & EXPLANATIONS ADDED (11 Files, 567 MCQs, 567 Explanations, 0 errors, 0 gaps)**
+- **File Breakdown:**
+  1. [`1. Compter Fundamental.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/1.%20Compter%20Fundamental.json) — **71 MCQs** (71 Explanations)
+  2. [`2. Computer Programming.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/2.%20Computer%20Programming.json) — **60 MCQs** (60 Explanations)
+  3. [`3. Data Communication and Networking.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/3.%20Data%20Communication%20and%20Networking.json) — **53 MCQs** (53 Explanations)
+  4. [`4. Digital Electronics.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/4.%20Digital%20Electronics.json) — **23 MCQs** (23 Explanations)
+  5. [`5. Software Enginnering.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/5.%20Software%20Enginnering.json) — **35 MCQs** (35 Explanations)
+  6. [`6.Database Management System.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/6.Database%20Management%20System.json) — **50 MCQs** (50 Explanations)
+  7. [`7. Data Structure and Algorithm.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/7.%20Data%20Structure%20and%20Algorithm.json) — **32 MCQs** (32 Explanations)
+  8. [`8. Computer Organization and Architecture.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/8.%20Computer%20Organization%20and%20Architecture.json) — **17 MCQs** (17 Explanations)
+  9. [`9. Operating System.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/9.%20Operating%20System.json) — **55 MCQs** (55 Explanations)
+  10. [`10. Recent IT Advancement.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/10.%20Recent%20IT%20Advancement.json) — **14 MCQs** (14 Explanations)
+  11. [`BCS Computer পার্ট.json`](file:///c:/Users/bdCalling/Downloads/Mosabber/pdf-image-convert-to-Json/JSON%20Data/BPSC%20ICT%20Wizard/BCS%20Computer%20পার্ট.json) — **157 MCQs** (157 Explanations)
+
+**Word-by-Word Quality Audit & Verification Status:**
+- **Status:** **100% COMPLETED (567 MCQs & Explanations across all 11 files)**
+- **Audit & Correction Highlights:**
+  - Added authoritative, precise, and concise explanations (`explanation`) for all 567 questions across all 11 modules.
+  - Standardized all detached punctuation (` ?`, ` :`, ` ,`) and multiple spaces across all 11 JSON files.
+  - Corrected technical English typos from book scans (e.g. `Kasparasky` -> `Kaspersky`, `Phising` -> `Phishing`, `Andrid` -> `Android`, `Netware` -> `Network`, `Clould` -> `Cloud`, `laas`/`Paas` -> `IaaS`/`PaaS`, `sheduling` -> `scheduling`, `Ecplorer` -> `Explorer`, `lip-lop` -> `flip-flop`, `Registors` -> `Registers`, `Interconection` -> `Interconnection`, `ekanei.com` -> `ekhanei.com`, `Bill Gatea` -> `Bill Gates`, `Buble sort` -> `Bubble sort`, `Mutiple` -> `Multiple`, `SMPT` -> `SMTP`).
+  - Corrected Bengali grammar & orthographic clarity (e.g. `অন্যালগ` -> `অ্যানালগ`, `মেমোরীটি` -> `মেমোরিটি`, `আদান প্রদানে` -> `আদান-প্রদানে`, `আছি` -> `আছে`, `কি?` -> `কী?`, missing math token in OS question `Burst Time ms হয়` -> `Burst Time 12 ms হয়`).
+  - Confirmed 0 foreign Devanagari corruptions, 0 detached vowel marks (kars), 0 broken words.
+  - Verified JSON schema consistency, non-empty fields, and valid answer mappings across all 567 questions.
 
 ---
 
